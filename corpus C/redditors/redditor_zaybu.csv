@@ -1,0 +1,19 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvvsppd,0,t1_cvsob3v,zaybu,"Your reading skills need to sharpen up. Read this a hundred times until it sinks in:
+
+**a function that outputs a scalar**",1,0,1444572537,1444728484
+cvsg5vj,0,t1_cvrrkt9,zaybu,"So what? Does it depend on a vector or on a scalar? If it depends on a vector then it is a vector function. If it depends on a scalar, then it is a scalar function. And in case you haven't figured it out, l**r**l is a scalar.",0,0,1444311620,1444728484
+cvsfu76,0,t1_cvrstnb,zaybu,"What you have mentioned are scalars. BTW, the vector norm is a scalar. So any function depending on the norm will be by definition a scalar function.",1,0,1444311003,1444728484
+cvsfj9r,0,t1_cvrth9m,zaybu,"A function of a vector is a vector function. A function of a scalar is a scalar function. It doesn't get more basic than that. If **r** is a vector, then V(**r**) is also a vector function. The only exception would be that V is a function of l**r**l, which is a scalar by definition. And it doesn't matter if you agree or not, that won't change basic definition.",0,0,1444310406,1444728484
+cvrr2c0,0,t1_cvrkjnr,zaybu,"Which part of ""unless you mean V(l**r**l)"" don't you understand?",-6,0,1444252844,1444728484
+cvrr13m,0,t1_cvrju0b,zaybu,"In both of these cases, V is a function of V(l**r**l).",-7,0,1444252792,1444728484
+cvrge6v,1,t3_3nuzmh,zaybu,"If **r** is a vector, then V(**r**) is not a scalar function, unless you mean V(l**r**l)",-7,0,1444237413,1444728484
+cvi07vj,1,t3_3msuux,zaybu,"a=v^2 /r.
+
+If v is nonzero, so is a.",1,0,1443530920,1444728484
+cvf9f6f,0,t1_cvf8crl,zaybu,"Ok, but I don't see how your reply is related to my initial post.",0,0,1443309247,1444728484
+cvf8aus,0,t1_cvf6ujl,zaybu,"> organically created economic activity
+
+???
+
+I'm sure you don't mean creating organic food, so I have no idea was you mean here.",1,0,1443307067,1444728484

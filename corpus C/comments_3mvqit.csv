@@ -1,0 +1,142 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvil3o6,1,t3_3mvqit,linkns86,It was granted [orphan drug status](https://en.wikipedia.org/wiki/Orphan_Drug_Act_of_1983) by the government and therefore has a legal monopoly on the market.  ,2,0,1443562913,1444721954
+cvilf13,0,t1_cvil3o6,zigmeister22,"Interesting.  Yeah, if they're going to grant a monopoly on drug whose patents have expired, they probably need to limit price gouging somehow.  Just set the drug's price to no more than the average of current drugs on the market, or something like that.
+
+This Act seems valuable, as it incentives the manufacture of drugs that otherwise would not be cost-effective for the private sector to manufacture, but they need to amend it to put in some gouging safeguards.
+",1,0,1443563402,1444721954
+cvili6c,0,t1_cvilf13,linkns86,"Gouging safeguards reduce the profitability of the niche drug market.  The point of the act is that at normal market prices no one would bother to produce it, so we give them a monopoly with higher prices.  They could cap it high, I guess, and they might.  I read something about the FDA looking into it.   
+
+Just remember, this is the government's baby. ",1,0,1443563541,1444721954
+cviljmz,0,t1_cvili6c,zigmeister22,"Agreed: I agree with all of this, including that they could just cap it at a high price.  
+
+Problem solved!",1,0,1443563606,1444721954
+cvitjuu,0,t1_cvil3o6,adebium,"Can you provide a source for your claim that is was granted orphan drug status? I can't find and it doesn't make sense to me since it was developed in 1953 but orphan drugs weren't even a thing until the 80's.
+",2,0,1443577488,1444721954
+cvitpsa,0,t1_cvitjuu,linkns86,"It was under patent till the 70s.  Patent expired and it gained orphan drug status later on.  
+
+http://dailycaller.com/2015/09/28/when-big-business-and-healthcare-collide-behind-the-daraprim-controversy/
+
+http://www.latimes.com/business/hiltzik/la-fi-mh-a-huge-spike-in-the-cost-of-an-old-drug-20150921-column.html",1,0,1443577779,1444721954
+cvj6qwb,0,t1_cvitpsa,adebium,"The sources you site do not indicate when it was given orphan drug status. 
+> http://dailycaller.com/2015/09/28/when-big-business-and-healthcare-collide-behind-the-daraprim-controversy/
+
+Claims its an orphan drug due to its limited demand. That's not really how it works.
+
+> http://www.latimes.com/business/hiltzik/la-fi-mh-a-huge-spike-in-the-cost-of-an-old-drug-20150921-column.html
+
+Says it is quintessentially an orphan drug, not that it is, but it works like one due to low demand. Again, not really how it works. 
+
+Now, this [FDA website](http://www.accessdata.fda.gov/scripts/opdlisting/oopd/OOPD_Results_2.cfm?Index_Number=232206) shows that it  pyrimethamine does not have orphan drug status. Pyrimethamine is the active in Daraprim (daraprim did not give any results in search). 
+
+Orphan drug status confers on the developer certain tax advantages in order to promote the development of a drug to treat certain rare diseases. This drug was already developed prior to the orphan drug act and any tax advantages allowed it by having orphan drug status is nil, at this time. 
+",1,0,1443615480,1444721954
+cvjajsh,0,t1_cvj6qwb,linkns86,">Says it is quintessentially an orphan drug, not that it is, but it works like one due to low demand. Again, not really how it works.
+
+No.  It says it is a quintessential orphan drug.  Quintessential means,
+
+>representing the most perfect or typical example of a quality or class.
+
+So both sources say it is an orphan drug.  You are also under misconceptions about the act in question. It gives the fda power to confer orphan status on any drug meeting the criteria.  It doesn't matter when that drug was created.
+
+",1,0,1443623177,1444721954
+cvjnyn3,0,t1_cvjajsh,adebium,"""Quintessential"" does not bestow orphan drug status. The FDA grants the status and they have not. Due to Turing's severely limited distribution network, it is quintessentially an orphan drug but it is not an orphan drug per the FDA. ",1,0,1443642511,1444721954
+cvjr8l6,0,t1_cvjnyn3,linkns86,"Here.  You look up pyrimethamine and it *does* have orphan status.  
+
+http://www.accessdata.fda.gov/scripts/opdlisting/oopd/OOPD_Results_2.cfm?Index_Number=232206
+
+>Orphan Designation Status:	 Designated",1,0,1443647170,1444721954
+cvjs3lf,0,t1_cvjr8l6,adebium,"and from same link (the one I originally shared)
+
+> FDA Orphan Approval Status:	Not FDA Approved for Orphan Indication
+
+Orphan Designation Status simply means that the developer has requested Orphan drug designation from the FDA. It does not mean it has been approved, it just means the company has requested it. The approval in indicated in the FDA Orphan Approval Status.
+
+
+
+Also, do a search for pyrimethamine on [here](http://www.accessdata.fda.gov/scripts/opdlisting/oopd/index.cfm) (same site, query page) and limit to approved products and [zero results](http://www.accessdata.fda.gov/scripts/opdlisting/oopd/OOPD_Results_2.cfm) are returned. 
+",2,0,1443648465,1444721954
+cvjt40f,0,t1_cvjs3lf,linkns86,">Orphan Designation Status simply means that the developer has requested Orphan drug designation from the FDA.
+
+Where are you getting that?  The difference seems to be something else,
+
+>A sponsor may request orphan drug designation of a previously unapproved drug, or of a new orphan indication for an already marketed drug.
+
+http://www.fda.gov/ForIndustry/DevelopingProductsforRareDiseasesConditions/HowtoapplyforOrphanProductDesignation/ucm135122.htm
+
+This also suggests that it does in fact have orphan status. 
+
+>Orphan indication sponsor
+ExSAR Corporation; 11 Deer Park Drive; Monmouth Junction, NJ 08852
+
+http://reference.medscape.com/drug/daraprim-pyrimethamine-342668",0,0,1443650039,1444721954
+cvk1bux,0,t1_cvjt40f,adebium,"You don't give up, do you? 
+
+Daraprim is manufactured by Turing. ExSAR Corp (link sends to Zywie Bio site). 
+
+Zywie Bio used daraprim in a clinical trial as a pharmacological chaperone, in combination with its proprietary drug in a single clinical trial. Zywie does not manufacture or sell Daraprim on its own. Part of applying for a clinical trial is filing an IND with the FDA. Part of that IND is applying for Orphan Drug Status for the product (it sets up the eventual orphan drug designation at time of commercialization). Again, the link you provided is for a clinical trial, not a commercial product. Big difference.
+
+For the sake of argument, if daraprim is an orphan drug, as you suggest, what does Turing get out of it's orphan drug designation? 
+",2,0,1443663831,1444721954
+cvk1vmz,0,t1_cvk1bux,linkns86,">You don't give up, do you?
+
+Well, I'm actually trying to understand this because it has been reported as an orphan drug by most major new agencies.  
+
+>Again, the link you provided is for a clinical trial, not a commercial product. Big difference.
+
+Where are you getting the distinction between an Orphan Designation Status and an FDA Orphan Approval Status?  I really don't think it means that it is under review, since it wouldn't have the designation yet in that case.  
+
+>For the sake of argument, if daraprim is an orphan drug, as you suggest, what does Turing get out of it's orphan drug designation?
+
+Market exclusivity through,
+
+>Tax incentives.  Enhanced patent protection and marketing rights.
+Clinical research subsidies. Creating a government-run enterprise to engage in research and development.  
+
+https://en.wikipedia.org/wiki/Orphan_Drug_Act_of_1983#Regulatory_harmonization",0,0,1443664778,1444721954
+cvkxxfv,0,t1_cvk1vmz,adebium,"I am having a really difficult time convincing you that Daraprim is NOT an orphan drug. How can I convince you when you write that it has 
+> Market exclusivity through, Tax incentives. Enhanced patent protection and marketing rights. Clinical research subsidies. Creating a government-run enterprise to engage in research and development.
+
+and this statement is false. It has market exclusivity through distribution chain restriction. It has no enhanced patent protection since it is no longer under patent. You say it above that it was under patent until the 70's. If a generic wanted to market daraprim in the US all it has to do is file an application and await FDA approval. No company has done that in the past because the market for it is so small that the return on investment would not make it financially viable to apply in US. 
+
+> https://en.wikipedia.org/wiki/Orphan_Drug_Act_of_1983#Regulatory_harmonization
+
+This has nothing to do with the current topic. All it is saying is that US and EU (largest markets for drugs) will use the same application formats. It even says that approval is still separate between US and EU, therefore any orphan status designated in EU may not be applicable to US and vice versa. 
+
+Finally [Orphan Designation Status](http://www.fda.gov/ForIndustry/DevelopingProductsforRareDiseasesConditions/HowtoapplyforOrphanProductDesignation/ucm364750.htm) is for the FDA to designate a drug treats a specific rare disease. This is done before a submission is made for approval. It sets in place the process for assigning orphan drug status BUT does NOT infer orphan status. The drug must still be approved by FDA. This is the difference between designation and approval status. So for the last time (I hope) [Daraprim](http://www.accessdata.fda.gov/scripts/opdlisting/oopd/OOPD_Results_2.cfm?Index_Number=232206) is NOT an Orphan drug as its orphan approval status is 
+> Not FDA Approved
+
+Clear as mud, right?
+
+
+",2,0,1443732626,1444721954
+cvkyn5s,0,t1_cvkxxfv,linkns86,"At this point you are just repeating yourself instead of adding to the conversation.  The fda site lists it as a designated orphan drug, though not approved in some other category.  Why you are interpreting 'designated' to mean 'pending designation' is beyond me.  You also need to read the rest of the wiki, which I assumed you would.  The purpose of orphan drug status is to grant market exclusivity.",0,0,1443733653,1444721954
+cvl3too,0,t1_cvkyn5s,adebium,"It is designated to treat or be investigated to treat an orphan disease. It is NOT considered an orphan drug (and the market exclusivity) until the company files an NDA and receives approval for the drug. Market exclusivity is granted in part by a guaranteed 7 year patent post approval. At the end of 7 years is it an orphan drug anymore? NO, it is designated to treat an orphan disease but is not an approved orphan drug. Other companies can now file with the FDA to manufacture generics of that drug. 
+
+I repeat myself so maybe some of it seeps in. I tried giving you the benefit of the doubt but you can't even appreciate the FDA website lists it as NOT orphan drug approved. I have corrected every erroneous assertion you have made with verifiable links yet you still seem to not want to listen.
+",2,0,1443742320,1444721954
+cvj8uyi,0,t1_cvj6qwb,zigmeister22,"You are correct and linkns86 is wrong:
+
+>FDA Orphan Approval Status:	Not FDA Approved for Orphan Indication
+
+
+http://www.accessdata.fda.gov/scripts/opdlisting/oopd/OOPD_Results_2.cfm?Index_Number=232206",2,0,1443620211,1444721954
+cvjnvyf,0,t1_cvj8uyi,adebium,"i know....
+",1,0,1443642410,1444721954
+cvijds5,1,t3_3mvqit,intravenus_de_milo,"For whatever reason, it's become a *poster child* for a [more pervasive problem.](https://youtu.be/w13c__DTWOo)",1,0,1443560365,1444721954
+cviji35,1,t3_3mvqit,looklistencreate,The FDA has only approved two drugs with this chemical structure and Diaprim is one of them. ,1,0,1443560535,1444721954
+cvijnot,0,t1_cviji35,zigmeister22,"The patent has long since expired, so any company can manufacture a generic version (very easily, I might add- it's a simple drug).",0,0,1443560760,1444721954
+cvijpol,0,t1_cvijnot,looklistencreate,"That's not what this is. Any generic still needs FDA approval, and none have it yet.",2,0,1443560839,1444721954
+cvirhz0,1,t3_3mvqit,mathurin1911,"I just spent waaaaaay too much time learning about this for another comment.
+
+tl;dr, the FDA doesnt take your word for it that your drug is the same as that other guys, and the other guy actively closes access to samples to prove yours is the same.
+
+
+Basically, each drug put on the market has to be FDA approved, even a generic, so a company buys up the rights to sell or market the currently approved drug version, getting another version approved is possible, but its not cheap or fast, the result is a temporary **government created** monopoly on a drug.
+
+Any company can get another version of the drug approved for sale, they just have to prove that their drug is pretty much the same (I think the word is ""biocompatible"" but I have closed the tab). To prevent that the usurious company restricts access to the old drug, usually by claiming it is dangerous (it sometimes is) making it impossible for a company to get a sample legally to take to the FDA in order to prove their drug is just a similar version.
+
+
+So, the real issue is a company using government regulation to grant itself a monopoly, its an example of the ills of regulation, not the need for it.",1,0,1443573865,1444721954
+cvitkk7,0,t1_cvirhz0,adebium,"The word you are trying for is bioequivalence. 
+
+",1,0,1443577523,1444721954

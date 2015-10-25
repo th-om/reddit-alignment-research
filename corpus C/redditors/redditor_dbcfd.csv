@@ -1,0 +1,54 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvhmf1q,0,t1_cvhbff2,dbcfd,"Unlike Kansas, who cut income taxes for businesses and the wealthy (e.g. LLCs to shelter income), North Carolina cut taxes for the poor and middle class.
+
+```This change was part of the changes made to individual income tax to reform and simplify the State’s tax law. Previously, there were three individual income tax rates of 6%, 7%, and 7.75%, based on filing status and income levels.```
+
+http://www.dor.state.nc.us/taxes/individual/taxrate15.html",0,0,1443491650,1444722695
+cvc1trh,0,t1_cvc0kqi,dbcfd,"Everything you bring up is correct, but it isn't an extra impact from income inequality, because it is likely to occur in any socio-economic class.
+
+It's what the ""trolls"" on twitter are trying to say, but the writer of this article seems to miss. Just because Bernie Sanders doesn't say ""people suffer from income inequality, but black people suffer from income inequality and racism"" doesn't mean he doesn't understand black people, or income inequality's effect on black people. He just thinks that they're two separate but important issues.",2,0,1443056378,1444722695
+cvc07t8,0,t1_cvbuiyo,dbcfd,"However, if a black person and a white person have the same level of low income/wealth, is there anything additional that the black person endures?
+
+A black person is more likely to be on the low end of inequality, but addressing income inequality will address this, and actually benefit black people more, since they are more likely to be suffering the inequality.",3,0,1443053532,1444722695
+cvbkuc6,1,t3_3m2dh1,dbcfd,"Are black people somehow affected differently than white people by income inequality? I downvoted because this author says that Bernie should specifically talk about how income inequality affects black people, without saying how income inequality affects black people differently.
+
+Since I don't see how they're affected differently, this just comes across as a special snowflake whine.",3,0,1443030206,1444722695
+cuwcwzn,1,t3_3kadj1,dbcfd,"jmh or it doesn't count?
+
+The results are highly variable due to jvm warmup time, as well as contention on any of the cores (or if the execution ends up placing the threads on the same core).
+
+Even beyond that, the async code has its start inside the await block, eliminating that overhead. It'd be like putting the start after the creation of the future in the other examples.
+
+Scala async may very well provide benefits but this benchmark is a long way from showing those benefits.",1,0,1441852855,1444722695
+cutiwdr,0,t1_cuths2l,dbcfd,"That sample was what I was looking for. Was looking for how to incorporate some data stream (akka io, kafka, etc.), do processing on it, then feed that data out (akka io, kafka, etc.) so that it becomes the incoming stream for another node.
+
+Seems fairly straightforward now, given
+https://github.com/monifu/monifu-sample/blob/master/server/app/engine/BackPressuredWebSocketActor.scala#L34
+and
+https://github.com/monifu/monifu-sample/blob/master/client/src/main/scala/client/BackPressuredWebSocketClient.scala#L18
+
+Figured it was using custom observers but the example code helped flesh out the gaps I had. 
+
+Thanks!",1,0,1441641670,1444722695
+cuth0cc,0,t1_cutfrj7,dbcfd,"> I also cannot see how Akka Stream's design can lead to better parallelism, especially because working with Akka Streams is actually more explicit.
+
+It's less about one node, and more about multi-node. Part of akka is that if you can define it on one node, you can define it on multiple nodes with little code change. Although akka streams doesn't do this, it's fairly easy to inject the appropriate sources and sinks in akka streams to split the streams across nodes. 
+
+It looks like I might be able to do this in Monifu, but that's why I ask. I need to connect two of the Monifu streams via an intermediate stream that handles the distribution of data, and most likely that intermediate stream would involve Channel, so you can get data from the transport system.",1,0,1441637866,1444722695
+cutgqyh,0,t1_cutfv44,dbcfd,"> Spark is essentially implementing a local database, and so micro optimisations can and do matter.
+
+Perhaps the performance optimization is not to implement a local database? And it's not a local database, it's actually a replicated database, with that replication leading to some of their performance issues. 
+
+> (as in, do you know that in fact their usage of loops offer trivial gains, or are you just making that point to try and make an argument?)
+
+Yes. We are one of those companies with our in house spark alternative because of these issues that I specifically call out. If there weren't these performance issues, then you wouldn't have companies implementing their own alternatives, and blog posts from twitter talking about their alternatives.  ",-1,0,1441637266,1444722695
+cutf4id,1,t3_3jymvw,dbcfd,"Roland comments on this on your blog post, but I'll ask it as well. How  easy is it to expose portions of this stream across nodes for distributed computing? Also, it looks like channel might allow actors to push to streams, but it says they don't have to follow the back pressure contract. Will they then drop events according to overflow? Do they block the push?
+
+Looks interesting so far.",1,0,1441633343,1444722695
+cuteqdc,0,t1_cuszeyh,dbcfd,"> However, I currently work at a small startup and we aren't really working with the kinds of scaling problems that Spark has to deal with.
+
+So what would make you think I'm not working working at that scale? Just because a corvette is faster than a pinto doesn't mean that the corvette may not have performance issues. The corvette could fail to optimize collection operations instead defaulting to views, which for almost all cases are slow. The corvette could focus on jmh gains of 5% for code paths that are hit 10% of the time. The corvette could decide to ship unneeded data to all of the nodes. Or the corvette could be getting all of its performance gains because it used the new engine from Typesafe. 
+
+Spark has a great design for usability, but it does have a number of performance issues in its implementation. That is why it is the best **open source** solution, but also forces companies like twitter to implement their own solutions. 
+
+A focus on a micro (non) optimization like while loops just indicates how far Spark still has to go in terms of understanding performance improvements. You can still maintain the elegance of scala while achieving equivalent or better performance of while loops. You use while loops because it's the easiest path to decent performance.",0,0,1441632252,1444722695

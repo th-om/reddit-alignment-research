@@ -1,0 +1,59 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvxn3q0,1,t3_3oeirs,TheGhostofWoodyAllen,I'm jealous of what you.,1,0,1444699563,1444726764
+cvwdsul,0,t1_cvv8hz3,TheGhostofWoodyAllen,"Personally, in both cases I see
+
+""<Right 1>, <clarification>, <Right 2>, shall not be infringed.""
+
+based upon how the other Bill of Rights amendments are phrased.",1,0,1444608613,1444726764
+cvv56tn,0,t1_cvv3uy7,TheGhostofWoodyAllen,"""A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.""
+
+One way to read this is that individuals have no right to weaponry, but that the state itself has a right to defend itself.
+
+However it's to be interpreted, your slippery slope is fallacious as all get out.",7,0,1444511950,1444726764
+cvv3zj3,0,t1_cvuy3jf,TheGhostofWoodyAllen,Alternative interpretation: all 3/4 with one bar containing two triplets.,1,0,1444509720,1444726764
+cvv0noi,0,t1_cvv0k9s,TheGhostofWoodyAllen,Beef and cheese comes free on a Big Mac.,1,0,1444503601,1444726764
+cvuemn3,0,t1_cvseq03,TheGhostofWoodyAllen,We get it back *eventually*. It's not like cows pee into reservoirs that then get filtered and returned to the cows for more water. Farm water runoff is an entirely other issue that needs addressing.,1,0,1444442123,1444726764
+cvuei4s,0,t1_cvs9gic,TheGhostofWoodyAllen,">A link to my comment detailing that it takes approximately 8 gallons of water to create a pound of beef. My water consumption numbers come from the Government of Alberta, and account for the life of the animal. Further details for the arrival at this number here.
+
+That doesn't count the water used to make the feed, which is where most of the ""x amount of gallons of water per pound of meat"" arguments come from. It's true that cows don't drink a lot, but it takes water to grow the food they eat. In fact, if you actually read my math, you'd see I calculated a lower water consumption rate at ~5 gallons per pound of beef. Again though, that's small potatoes compared to the water that grows the food they consume.
+
+>As I've mentioned elsewhere in this thread, you cannot accurately generalize cattle feed, and cattle are CERTAINLY not fed a primarily corn-fed diet in the vast majority of cases until they are finished for a few weeks before slaughter.
+
+I counted 90 days of feeding because that was at the low end of the sources I read, all of which were linked in my post, and all from government and university sources. I picked one feed type because I am not researching this topic for any reason other than general interest. Some feed on lots that produce their own food sources, which likely means less water is needed. Many feed corn, which is what I used in my math. Some feed alfalfa, which takes three to four times as much water to grow as corn. Some feed other grains, some other legumes, but I picked what was cited to be the most common.
+
+>And ""pregnant and lactating cows eat twice as much""? Of CORN? Sweet lord, do you not know what you are talking about.
+
+This was another thing that was stated multiple times across all the sources I read and, again, which were linked in my post. Whatever they may be eating, they tend to eat twice as much while pregnant or lactating.
+
+>Please, visit a ranch sometime, and learn about the industry from the source. I doubt I'll be able to change your mind, but you'd be surprised what you'd learn if you talk and listen to folks in the industry. 
+
+I did some math based upon government and university sources (most of which were geared towards cattle ranchers), and it matched pretty well with the commonly cited ""600 gallons of water per pound of beef."" I was actually kind of surprised. What you linked me doesn't consider the water needed to feed cattle, and that seems to be the real crux of the issue.
+
+Visiting a beef farm near me would involve going to a concentrated animal feeding operation (CAFO) because that's the majority of beef cattle producers in my state. This would do your side of the argument no favors.",1,0,1444441864,1444726764
+cvs94px,0,t1_cvs7d8d,TheGhostofWoodyAllen,"The average beef steer weighs 1,200 pounds. [You end up with 490 pounds of meat](http://igrow.org/livestock/beef/how-much-meat-can-you-expect-from-a-fed-steer/) when it's all said and done. [It takes 1-2 gallons of water per 100 pounds of animal](http://beef.unl.edu/amountwatercowsdrink) to keep a beef cow alive for a day. A beef cow has a 1-2 year lifespan. Beef calves are 70-90 pounds at birth.
+
+If we assume linear weight gain from birth to day of slaughter (from 70 to 1,200 pounds), a cow would gain 3.09 pounds each day. A cow's weight could be represented as y = 3.09x + 70. The water needed each day is the current weight divided by 100 (1 gallon per 100 pounds of weight). This is z = y/100.
+
+Our final equation can then be written as y = (3.09x + 70)/100. If we integrate this from 0 to 365, we get a total of 2,313.83 gallons of water consumed in an average beef cow's lifetime.
+
+2,313.83 gallons of water divided by 490 pounds of beef is 4.72 gallons of water per pound of beef.
+
+But cows also eat. [It takes 146 gallons of water to produce 1 pound of corn](http://www.gracelinks.org/1361/the-water-footprint-of-food), which is the most common feed. [A cow takes 6 pounds of feed per pound of gain and eat for 90-300 days of their lives](http://www.ers.usda.gov/topics/animal-products/cattle-beef/background.aspx). 6 pounds of feed times 3.09 pounds of gain times 90 days of feeding is 1,668.6 pounds of corn fed to a beef cow. At 146 gallons per pound of corn, that's 243,615.6 gallons of water to grow the corn a beef cow eats in its lifetime.
+
+243,615.6 gallons of water divided by 490 pounds of beef is 497.17 gallons per pound of beef.
+
+All of the values I picked are, I think, forgiving to the beef industry, and I arrived at about 500 gallons of water to make one pound of beef.
+
+This also doesn't consider that pregnant and lactating cows eat twice as much, and every cow has a mother. That could easily add one or several hundred more gallons per pound of beef. It also doesn't consider other feeds, some of which take considerably more water to produce.
+
+TL;DR: 600 pounds of water per pound of meat is definitely possible, probable, and maybe even forgiving.",2,0,1444287891,1444726764
+cvs4592,0,t1_cvs32u0,TheGhostofWoodyAllen,"A new contender
+
+Has entered your fighting ring.
+
+JKLOL",0,0,1444274552,1444726764
+cvs3xur,0,t1_cvs2tyy,TheGhostofWoodyAllen,"You excel at putting words in mouths.
+
+People were making it sound like he started as a reality show host before moving into journalism, but that isn't true. He was a journalist before a reality show host.
+
+The quality of his journalism is an entirely different topic.",2,0,1444274168,1444726764

@@ -1,0 +1,19 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvxqkm1,1,t3_3ojbuv,SyncRoSwim,Scumbag,2,0,1444704984,1444727375
+cvwl6cu,0,t1_cvwjzgf,SyncRoSwim,I can't help but believe that Utley's lawyers / representatives / whatever will push for a postponement in order to prepare his case for the appeal.,1,0,1444622015,1444727375
+cvw87kb,0,t1_cvw2tvp,SyncRoSwim,MLB did the same to a Mets twtter user who used to post a lot of GIFs earlier this year.  It really does not make a lot of sense.,21,0,1444598844,1444727375
+cvte1y1,0,t1_cvsu5k2,SyncRoSwim,"That's my main complaint about the chart - I can recognize many of the records by sight, but the cover art is too damn small.",2,0,1444365851,1444727375
+cvrtmlo,0,t1_cvrdqgj,SyncRoSwim,"I was there that night too, and thought it was about 30% Mets fans in the crowd.  The sections behind the Mets' dugout were packed with Mets fans and they were LOUD, but for most of the game the Phils fans were shouting their chants down.  It wasn't until it got hopeless towards the end that there were mostly Met fans left in the park.",1,0,1444256933,1444727375
+cvqzzvk,1,t3_3nsa9g,SyncRoSwim,"Great album, great time at the game.  Your wife got a really nice picture of my SO & her sister whooping it up.
+
+Thank her for me!",3,0,1444195716,1444727375
+cvmpd5z,0,t1_cvmousw,SyncRoSwim,That's pretty much it.,1,0,1443878812,1444727375
+cvmpanz,0,t1_cvmoays,SyncRoSwim,"Well, there is typically a difference between what the RIAA would get and the full CALEA treatment law enforcement would get.  The RIAA would not get raw packets - those are not stored.  The RIAA would only get the metadata I described above.  Only a law enforcement agency could ultimately intercept a raw packet stream.",1,0,1443878611,1444727375
+cvmkxt6,0,t1_cvmkqqq,SyncRoSwim,"> ...the ISP would need to keep a log of each inbound and outbound request?
+
+That is the long and the short of it.  The private IP presented internally + the public IP presented externally + source & destination port (from both sides of the NAT) + timestamp are all associated with a specific account and logged.",3,0,1443858766,1444727375
+cvmkqs8,0,t1_cvmg8kb,SyncRoSwim,"Large cell networks don't use DHCP because it does not scale to the number of simultaneous sessions supported in those networks.  It may appear like DHCP is being used as cellular modems often utilize a mini-DHCP server that communicates with the host that it is plugged into, but the modem translates back and forth between DHCP (when communicating with the local host) and the protocols like those /u/smorga describes (when communicating with the cellular network).
+
+Basically, the expectation is that anything that you can attach a cellular modem to will support DHCP, but probably won't support the various protocols used by different types of cell networks.  So the cellular device or it's driver does the work of translating from one protocol to the other.
+
+The meaning of ""gateway"" is somewhat different in a cellular network than in a wired IP network.  Examples of some of the gateways that assign handsets and modems IP addresses are a PDN-GW (4G/3GPP), a Home Agent (MIP 3G/3GPP2), or a GGSN (3G/GPRS).",2,0,1443857894,1444727375

@@ -1,0 +1,23 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvsryzc,0,t1_cvsrtc5,mr_machine,"Remember, though, that evolutionary processes specifically aren't directed. Malice doesn't have to improve fitness to get incorporated; it just can't make the organism *less* fit... or it could have a null effect on fitness, but accompany a fitness-enhancing trait.",1,0,1444329580,1444725507
+cvsrk0a,0,t1_cvsqtkf,mr_machine,"Genetic algorithms have been implemented in software to allow evolutionary development of, for example, AI. It doesn't seem too far-fetched to me that we might evolve an ""evil"" one in such a fashion.",0,0,1444328969,1444725507
+cvrqbsi,0,t1_cvrmtl6,mr_machine,"There are a variety of *desoldering* irons on the market, as well. I've tried several styles, recently settling on [this kind](http://www.amazon.com/Tenma-21-8240-Vacuum-Desoldering-Iron/dp/B008DJRYIG%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduckduckgo-ffnt-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB008DJRYIG) as the best.
+
+One of my hackerspace friends recently showed me how to heat heatshrink above a hot iron, which I'd never tried before. Like you, I almost invariably use a lighter.",1,0,1444251722,1444725507
+cvre3ga,1,t3_3nulx0,mr_machine,"Most beginners start with cheapo soldering irons that are harder to work with than they need to be. I know I did. If you solder with any regularity, it's *totally worth it* to invest about $100 in a good temperature-controlled soldering station -- a Hakko or a Weller, say. It's a totally different experience. I literally solder for fun.
+
+As far as ""re-designing"" the soldering iron goes, I respectfully snicker. There are incredibly many variations on the soldering iron on the market already, covering every conceivable use case. It would be awesome if you came up with something mind-meltingly better, of course, but it seems... unlikely? Best of luck.",6,0,1444234056,1444725507
+cvp2xy1,0,t1_cvotgn2,mr_machine,"... so if your brakes are out, you see no point in steering?",1,0,1444064929,1444725507
+cvp2sy3,0,t1_cvotsu0,mr_machine,You're ignoring the level of control you forfeit if you allow Google Play Services on your phone.,2,0,1444064721,1444725507
+cvp2qz8,0,t1_cvotv13,mr_machine,"> And SMSsecure is not an alternative, since TELCOs are a part of surveillance state
+
+If your transport is Google, your phone is way less secure due to Google having so much control over it. Your metadata is on a Textsecure server, apparently.
+
+If your transport is SMS, your phone is no more or less secure than it was previously. Your metadata is held by the carrier.
+
+How is the former situation preferable? Please explain more fully.",4,0,1444064640,1444725507
+cvm21s7,1,t3_3n90x2,mr_machine,PostgreSQL is far more stable and reliable than MySQL.,1,0,1443816070,1444725507
+cvljow9,1,t3_3n6r5j,mr_machine,[or...](https://en.wikipedia.org/wiki/Harpo_Marx),1,0,1443784752,1444725507
+cvkpts1,1,t3_3n4du9,mr_machine,"Sounds legit to me.
+
+I'd not want you doing that with *my* code, but then, that's why I don't release code under a BSD license.",2,0,1443721068,1444725507

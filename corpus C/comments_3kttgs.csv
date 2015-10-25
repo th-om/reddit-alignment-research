@@ -1,0 +1,53 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cv0h20v,1,t3_3kttgs,Impune,"Did you look at the same poll as I did?
+
+It says 55% would consider Trump and 53% would consider Bush. 35% said they would never consider Trump, and 36% said they'd never consider Bush.
+
+You're talking about a difference of 1% in a poll where the margin of error for the Republican subsample is +/- 5.3 percentage points and asking whether Jeb Bush can still be considered competitive. Really?",5,0,1442180983,1444729332
+cv0h3ou,0,t1_cv0h20v,CQME,"Yes, but Trump is widely considered by many to be unelectable due to his unfavorability ratings.  For Bush to have ***even higher*** unfavorability ratings...well, lol",-1,0,1442181059,1444729336
+cv0i6yj,0,t1_cv0h3ou,Daedalus1907,"Bush doesn't have higher unfavorability according to your poll.
+
+Also, polls do not matter this far out. ",5,0,1442182863,1444729336
+cv0ibdf,0,t1_cv0i6yj,CQME,"35% for Trump, 36% for Bush.",-2,0,1442183069,1444729336
+cv0iisw,0,t1_cv0ibdf,Daedalus1907,"That's not how polls work. It's within the margin of error so the real numbers are Trump: 30-40% and Bush 31-41%. You have no idea what the real numbers are within that range so bush might be higher, lower, or the same as Trump.",7,0,1442183422,1444729336
+cv0im9z,0,t1_cv0iisw,CQME,"It is how polls work, and there's a margin of error for most statistical samples of anything.  Still does not refute the number they posted in the poll.",-6,0,1442183584,1444729336
+cv0j7b2,0,t1_cv0im9z,lollersauce914,"> margin of error for most statistical samples of anything. Still does not refute the number they posted in the poll.
+
+That's...precisely what it does (refute that it connotes a meaningful difference). Given the margins, you cannot say with confidence that there is a meaningful difference. You can make the point that their ""would/would not support"" numbers are similar, but that's about it. ",7,0,1442184554,1444729336
+cv0szdg,0,t1_cv0j7b2,CQME,"lol, nonsense.  Going by your logic, median income also becomes meaningless, because you can't figure out how much someone ""really"" makes by looking at it and have to take SDs into consideration.  
+
+That's not the point of median income, nor is it the point of the number given in a poll.  The point is to give you a meaningful benchmark from which to ascertain relative standing.  Median income and polls do that well enough.",-4,0,1442202351,1444729336
+cv0tiif,0,t1_cv0szdg,Impune,"/u/lollersauce914 isn't saying the poll doesn't give a meaningful *benchmark*, he's saying that the numbers are within the margin of error, and thus there's no meaningful *difference* between the two. The poll shows what is known as a ""statistical tie.""
+
+Trump and Bush obviously have different numbers, but since those two numbers are within the margin of error of one another, the result isn't statistically significant. Generally, in order for a poll to say with confidence that X will be the outcome, the number will need to be twice the margin of error.
+
+You can use the poll and say pretty confidently that roughly the same number of people dislike Trump and Bush (benchmark). You cannot say with confidence that more people dislike Bush than Trump (difference), because the difference is within the margin of error.",1,0,1442203415,1444729336
+cv0to52,0,t1_cv0tiif,CQME,"> You can use the poll and say pretty confidently that roughly the same number of people dislike Trump and Bush (benchmark).
+
+Going by your logic, you CANNOT say this, because it's ""within the margin of error"" and for all you know Bush may be 7 points off Trump.
+
+>  You cannot say with confidence that more people dislike Bush than Trump (difference), because the difference is within the margin of error.
+
+You can say with confidence the results of the poll, which is exactly what I stated.",-2,0,1442203747,1444729336
+cv0vf48,0,t1_cv0to52,Impune,"I suppose I worded that poorly. At any rate, in case you're still unclear about the question in your OP:
+
+Yes, Bush is still competitive. This poll isn't definitive. No single poll ever is, but a poll where the results are within the margin of error is even less so.
+",1,0,1442207992,1444729336
+cv0yltk,0,t1_cv0szdg,loghorninja,"Spend a few minutes understanding what people are telling you before responding.
+
+Margin of error matters.  If the median income is $5 +/- $2 then the value lies between $3-$7 with a very high probability.
+
+So when you quote these very tight polls that have a margin of error larger than the difference that means the poll isn't saying what you think it's saying. ",3,0,1442219381,1444729336
+cv11h5v,0,t1_cv0yltk,CQME,"> Margin of error matters.
+
+Of course it matters.  So does the stated number.  Does the stated number give you a rock-solid result?  Of course not, that's not how statistics work in any field.  However, it does give you a number, and that number conveys meaning.
+
+If the elections occurred today, and if the elections were determined by favorability ratings, then by going off this stated number, you get an idea who has a higher probability of winning or losing.  It's all probabilistic, even outside the margin of error.",-1,0,1442231547,1444729336
+cv1hrzs,0,t1_cv0iisw,ThisisClambake,"Bush is more likely to be higher than Trump.  Pick a random number between 30 and 40 and a random number between 31 and 41, odds are the second number is higher. That's noteworthy.",2,0,1442260138,1444729336
+cv1hrzt,0,t1_cv0i6yj,ThisisClambake,"Polls matter any time. They are not conclusive, but they are genearally accurate about how people feel, if done properly (this one probably was). So, ""this far out"" this is how people feel. And it matters. What doesn't matter, is you.",2,0,1442260138,1444729336
+cv1j1n1,0,t1_cv1hrzt,Daedalus1907,"If you think the polls are indicative of the election at this point, you're naive. It's a statistic that people with little experience or understanding trot out to make political points. They're going to change drastically before the actual primaries and candidates know this and use this. Also the point you made in the other post is  meaningless. The only significant conclusion you can draw from the poll is that Bush and trump have roughly the same numbers. ",0,0,1442262056,1444729336
+cv0ijvk,1,t3_3kttgs,lollersauce914,"Man, it feels like r/politicaldiscussion is keeping the polling industry alive...",0,0,1442183473,1444729336
+cv13ntp,0,t1_cv0ijvk,CQME,"You're placing far too much import on reddit and this sub.
+
+What you should say, if anything, is that ""the polling industry is keeping this sub alive"".",1,0,1442237236,1444729336
+cv13xy3,0,t1_cv13ntp,lollersauce914,"Just a hyperbolic joke: ""man there are so many threads naval gazing on polls its like we're keeping the pollsters afloat"" kind of thing. Didnt mean it seriously.",1,0,1442237835,1444729336

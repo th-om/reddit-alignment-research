@@ -1,0 +1,153 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cv6zxnt,1,t3_3lkaal,tamminus,"I've seen figures that suggest as much as 25% of American health care costs goes to the question of who pays for what. So we can save that with single payer. Then we have the insurance issue: insurance (risk reduction, variation reduction) is cheaper the larger the pool you have. If you have the largest possible pool you will have the lowest possible variation. That gets another couple of %.
+
+",6,0,1442678978,1444726524
+cv71xeu,0,t1_cv6zxnt,balorina,"[Medicare covers 49 million people](http://kff.org/medicare/state-indicator/total-medicare-beneficiaries/) at a cost [of $10k per enrollment residence](http://kff.org/medicare/state-indicator/per-enrollee-spending-by-residence/)
+
+[Medicaid covers 79 million people](http://kff.org/health-reform/state-indicator/total-monthly-medicaid-and-chip-enrollment/) at [a much higher rate](http://kff.org/medicaid/state-indicator/medicaid-spending-per-enrollee/)",-2,0,1442682715,1444726528
+cv7dl27,0,t1_cv71xeu,tamminus,"You just compared 2 different years. Did you actually think that you were just comparing population sizes? Yes, when health care costs go up so does Medicare/Medicaid costs. Nor do Medicare and Medicaid handle the same sub populations. Your comparison tells you nothing.
+
+It is simply math that shows that insurance is cheaper with the larger population. Of course if there are big differences between populations then the cost of *one of the populations* would be lower than the average. But the average of 10 sub populations is going to have a higher^1 variance than treating it as one population.
+
+I can try to show you the math or point you to it. But this is simply math, not ideology. Insurance exists to minimize variation. For a give population the variation will be lower for the whole population than for the sum of the variation of the sub populations. 
+
+
+^1 Technically it could be the same if the population is uniform. Since it is not we can ignore the edge case.
+",6,0,1442704925,1444726528
+cv7eqqx,0,t1_cv7dl27,balorina,"And I'm sure you could source this data.  The issue a lot of people have is the ""think"" something should be that way when it is not.",0,0,1442707266,1444726528
+cv7ki6u,0,t1_cv7eqqx,tamminus,"Source what data? Again, it is plain math and it is the backbone of the insurance industry. Actuarials do this stuff. I can try to show you the math if you want to follow? This is done in a good stats course and in a finance course.
+",3,0,1442719211,1444726528
+cv7i6j9,1,t3_3lkaal,TheGreatWolfy,They won't but between stronger bargaining power and a much simpler system it will save quite a bit at least to begin with.,2,0,1442714354,1444726528
+cv7r9w1,1,t3_3lkaal,brinz1,"about 60% of what americans pay for medical costs goes towards insurance underwriters, costs of negotiation, and basically office work that has nothing to do with medicine or the doctors and everything to do with the way insurance companies operate. 
+
+No other country in the world has to deal with this. Those costs Americans pay for Bureaucracy are greater than the costs the canadian government spends per capita for its citizens healthcare. 
+
+In fact, the US already spends more on healthcare per capita than most western countries with socialist medicine. 
+
+By having a single paying body, and removing the profit motive, the government can save considerable costs that  private insurers pass onto consumers.",2,0,1442740355,1444726528
+cv6y1gn,1,t3_3lkaal,limbodog,"I'm a Bernie supporter, and I acknowledge that it won't magically cut healthcare costs in half.",2,0,1442675138,1444726528
+cv6yvdm,0,t1_cv6y1gn,MustacheBattle,Do you believe the predictions and estimates that Sanders himself has made?,-1,0,1442676865,1444726528
+cv6z2m3,0,t1_cv6yvdm,limbodog,"I think monkeys throwing darts at boards are as good at predicting the future economy as the experts are.  But I do believe that single payer would reduce costs overall, if for no other reason than it'd allow collective bargaining at the highest level.  I work in health insurance, and I see what the prices are for various services and procedures, and I know that it runs the gamut.  The main reason for the pricing structures is just to keep facilities in the black, and doesn't tend to tie much to the expended costs involved.  So with collective bargaining, we could settle upon reasonable rates, eliminate overcharge for uninsured as it is today, and allow hospitals to continue to operate.
+
+My hope is that it would leave room for supplemental insurance for additional coverage, so I won't be out of a job.",5,0,1442677271,1444726528
+cv6y3ul,1,t3_3lkaal,jellicle,"Why do Bernie's enemies suppose the United States can't do as well as Canada, which spends half as much as the U.S. on healthcare while achieving better healthcare outcomes by all measures?
+
+You're not benefiting from being charged $30 for a single tablet of aspirin.  The advantage of single-payer is that the single payer can just say: ""we're reimbursing 5 cents for aspirin, and that's it.""
+
+http://lmgtfy.com/?q=hospital+charge+for+aspirin
+",3,0,1442675276,1444726528
+cv6yimz,0,t1_cv6y3ul,MustacheBattle,"I'm not saying there aren't efficiencies that could be encouraged.  I'm saying regardless of what the US does, there won't be 50% savings.  More like 10 or 15.",-1,0,1442676132,1444726528
+cv6yw59,0,t1_cv6yimz,jellicle,"Why?  Is there some inherent incompetence in the U.S., where people demand to overpay for healthcare?  Do you think Canadian healthcare people are just smarter and better at their job?  What's the reason that you think the U.S. would be unable to achieve results similar to any other first-world nation?
+
+",-3,0,1442676906,1444726528
+cv6z0ww,0,t1_cv6yw59,MustacheBattle,20% of healthcare expenditures are overhead and insurance companies' profit margins are about 3%.  Completely eliminate both and see where you get.  Anything further would require cuts to provider salaries.,0,0,1442677175,1444726528
+cv72f1r,0,t1_cv6z0ww,FlyingFistsOfFury,">20% of healthcare expenditures are overhead
+
+So after posting this fucking insulting topic, straight up admit to the logic behind why single payer would reduce costs?
+
+Thank you for admitting you were wrong.",-3,0,1442683601,1444726528
+cv7adu9,0,t1_cv72f1r,MustacheBattle,"How am I wrong?  20%, while substantial, is much less than 50%.  No need to act childish and insulting.",2,0,1442698721,1444726528
+cv78ea2,0,t1_cv72f1r,looklistencreate,He wasn't wrong. He always said half.,2,0,1442694846,1444726528
+cv6z42y,0,t1_cv6z0ww,iul,"How about insurance companies' advertising budgets, rent for all of those offices, etc...",1,0,1442677353,1444726528
+cv747fg,0,t1_cv6z42y,hck1206a9102,That's overhead homie,3,0,1442686923,1444726528
+cv6z9qq,0,t1_cv6z0ww,jellicle,"Yes, Canadian doctors are paid somewhat less overall than U.S. ones.  There's still plenty of people wanting to be doctors, so obviously it's still seen as a desirable profession.  And Canadians don't pay $30 for a tablet of aspirin.
+",2,0,1442677664,1444726528
+cv748x6,0,t1_cv6z9qq,hck1206a9102,"Neither do Americans. Americans are charged that, but nobody actually pays that.  There's a huge difference between billed amounts, paid amounts and allowed amounts.",1,0,1442687001,1444726528
+cv79wma,0,t1_cv6yw59,ClockOfTheLongNow,">  Is there some inherent incompetence in the U.S., where people demand to overpay for healthcare?
+
+Why is the assumption that we're overpaying, as opposed to the probability that they're not paying enough?",1,0,1442697778,1444726528
+cv74chr,0,t1_cv6yimz,set616,Isn't 10% - 15% still a literal fuck ton of money though? Even if 50% is hyperbole the initial point is still valid isn't it?,1,0,1442687187,1444726528
+cv7aej6,0,t1_cv74chr,MustacheBattle,"Yep, it's a bunch of money.  Saying it's 50% is a complete lie and continues to be repeated by Sanders supporters.",1,0,1442698759,1444726532
+cv7432h,0,t1_cv6y3ul,hck1206a9102,Charged =\= paid,0,0,1442686699,1444726532
+cv6yln5,0,t1_cv6y3ul,chitwin,Canada has just over 35 million people. The USA has over 318 million people. That's the biggest difference and the reason why comparing the 2 is useless ,0,0,1442676307,1444726532
+cv6yz30,0,t1_cv6yln5,jellicle,"Why do you think that makes any difference?  Everything we know about economy of scale suggests that purchasing goods for a large group at once is more efficient (better prices) than if you purchase them individually, which should work to the U.S.'s advantage.
+
+Finish this sentence: ""The U.S. having more people forces the healthcare costs per person to be higher because....""
+
+",0,0,1442677071,1444726532
+cv75fv1,0,t1_cv6yz30,garstasio,"Of course U.S.A. healthcare is going to cost alot more than Canadas. WE HAVE A LOT MORE PEOPLE IN THE U.S.A., GENIUS! Less people means they're's costs less: I seriously don't understand why this is hard to get for you liberal knuckleheads with all your facts!",0,0,1442689225,1444726532
+cv6z7s2,0,t1_cv6yz30,chitwin,You say Canada spends half of what we do on health care. But they have a little more than 1/10th of our population. That doesn't sound like a  great deal to me. ,-1,0,1442677555,1444726532
+cv72gac,0,t1_cv6z7s2,FlyingFistsOfFury,"*headdesk*
+
+",1,0,1442683666,1444726532
+cv75v88,0,t1_cv72gac,garstasio,"things are hard on r/politicaldiscussion, I know, I know. Per Capita!, that means *per person.* What, that doesn't sound right, please fetch me some data from the interwebs to confirm, that's suspissious, I tell ya. Where's my pants, I'm going to Wal-mart, before Bernie come 'n shut it down and make me wait in line for one commie brand of toilet paper and vodka.",-1,0,1442690043,1444726532
+cv6zc0w,0,t1_cv6z7s2,jellicle,I mean half as much per person.  It would be silly to compare total expenditures for different sized groups.,2,0,1442677787,1444726532
+cv6zgav,0,t1_cv6zc0w,chitwin,Then say per capita. Also I really ddoubt that figure anything to back it up?,-1,0,1442678021,1444726532
+cv6zbh9,0,t1_cv6z7s2,SapCPark,Half per capita.  ,2,0,1442677758,1444726532
+cv6zgmy,0,t1_cv6zbh9,chitwin,The he should have said that. ,1,0,1442678039,1444726532
+cv79vpi,0,t1_cv6yz30,ClockOfTheLongNow,"> Everything we know about economy of scale suggests that purchasing goods for a large group at once is more efficient (better prices) than if you purchase them individually, which should work to the U.S.'s advantage.
+
+So why doesn't it for large insurers?
+
+> Finish this sentence: ""The U.S. having more people forces the healthcare costs per person to be higher because....""
+
+It increases usage of a scarce resource.
+",1,0,1442697728,1444726532
+cv6z5f1,0,t1_cv6yln5,EpicFlyingCat,"Europe has over the population of the US that have access to free government-offered healthcare.
+
+I know it's obviously not a single country but why would it make a difference?",1,0,1442677428,1444726532
+cv70d6i,0,t1_cv6z5f1,ZenerDiod,Most European countries do not have single payer.,0,0,1442679820,1444726536
+cv6zaby,0,t1_cv6z5f1,chitwin,And all of those countries run their health care. So it's comparing apples to oranges. ,0,0,1442677697,1444726536
+cv7079g,0,t1_cv6y3ul,ZenerDiod,If by better healthcare outcomes you mean waiting 52 days for an MRI versus around 1 then go ahead buddy.,-2,0,1442679500,1444726536
+cv70dc1,0,t1_cv7079g,jellicle,"> If by better healthcare outcomes you mean waiting 52 days for an MRI versus around 1 then go ahead buddy.
+
+You seem confused about the definition of the word ""outcome"".
+
+There's no wait at all for anything important.  Waiting times in Canada are for essentially frivolous procedures only; things like ""I have a vague pain in my back"".  If you have an urgent injury that needs any medical procedure or diagnostic, it will happen immediately.  If you have a vague pain in your back, it will happen when they can fit you in, which may be weeks later.  Medical resources are prioritized by need.
+
+And for a large percentage of the U.S. population who are uninsured or who can't afford procedures even with insurance, wait times are infinite, even for urgent, necessary procedures.  If you can't pay for it, you aren't getting an MRI, no matter how necessary it is.  This isn't true in Canada as no one is uninsured.
+",4,0,1442679828,1444726536
+cv70lcl,0,t1_cv70dc1,ZenerDiod,Outcomes is incredibly hard to compare across to different countries. Different lifestyles and ethnic compositions being a huge reason why. American hostpials are the best in the world once you are sick. ,1,0,1442680243,1444726536
+cv72ctg,0,t1_cv70lcl,FlyingFistsOfFury,"Sure fucking wish I could afford to go to one then.  But like a shitload of Americans, I can't even begin to think about that.  Fuck us poor people for being poor, right?",-1,0,1442683488,1444726536
+cv74bez,0,t1_cv72ctg,Captainobvvious,You're deflecting ,2,0,1442687131,1444726536
+cv772x5,0,t1_cv74bez,jellicle,"It's not deflecting at all to point out that a shit-ton of Americans get no, or very little, care, due to cost considerations.
+
+When you have people lining up for days in advance for a free medical clinic - in the United States of America, not some third-world country - it should be a pretty good indication that the system is broken.",2,0,1442692361,1444726536
+cv77pwx,0,t1_cv772x5,Captainobvvious,"It isn't relevant to what he said. He said we have the best hospitals in the world and outcomes are hard to predict. 
+
+What you said ignores what he said and changes the subject. 
+
+It is deflecting. ",-1,0,1442693564,1444726536
+cv7dquf,0,t1_cv70dc1,gonzoforpresident,"No.  You are confused as always.  According to the OECD the US's *results* are better than Canada in almost every category.  Canada performs better than the US in exactly one metric measured by the OECD.
+
+Canada better:
+
+* [Hemorrhagic stroke survival](http://www.oecd.org/els/health-systems/Case-fatality-within-30-days-after-admission-for-hemorrhagic-stroke.xls) 
+
+US better:
+
+* [Breast cancer](http://www.oecd.org/els/health-systems/Breast-cancer-five-year-relative-survival.xls)
+
+* [Heart attack survival](http://www.oecd.org/els/health-systems/Case-fatality-within-30-days-after-admission-for-AMI.xls)
+
+* [Colorectal cancer survival](http://www.oecd.org/els/health-systems/Colorectal-cancer-five-year-relative-survival.xls)
+
+* [Post-op sepsis rates](http://www.oecd.org/health/health-systems/Postoperative-sepsis.xls)
+
+* [Foreign objects left in after surgery](http://www.oecd.org/els/health-systems/Foreign-body-left-in-during-procedure.xls)",1,0,1442705245,1444726536
+cv6yo08,0,t1_cv6y3ul,irondeepbicycle,"Largely because Canada has extremely weak IP protections, enabling them to pass the development cost for pharmaceuticals to the US.  We can't emulate them or we'd run the risk of hindering pharmaceutical development.",1,0,1442676443,1444726536
+cv6z1mx,0,t1_cv6yo08,jellicle,"Totally untrue, but thanks for playing.
+",-3,0,1442677215,1444726536
+cv6zjm1,0,t1_cv6z1mx,irondeepbicycle,"[Here's](http://thehill.com/policy/finance/199090-pharmaceutical-companies-express-concerns-about-canada-revoking) an article that goes over a situation like I described, patents in Canada have to meet an extremely high threshold for usefulness, higher than the US requires, which basically allows generic manufacturers to come in before 20-year exclusivity periods end.",2,0,1442678204,1444726536
+cv7rab1,0,t1_cv6yo08,brinz1,so you are totally fine with subsidizing the pharmaceutical industry for the benefit of the rest of the world ,1,0,1442740407,1444726536
+cv6ygj5,0,t1_cv6y3ul,ABSOLUTELY__BASED,"Fun fact: There are more MRI machines in Pittsburgh than there are in Canada.
+
+Different people, different health problems, different infrastructures.
+
+Politics and policies aren't switches you can flip to make better or worse, particularly when we're talking about the seizure of 1/6th of the world's largest economy.",3,0,1442676013,1444726536
+cv73v17,0,t1_cv6ygj5,AHSfav,That's not a good thing. American healthcare is ridiculously inefficient which is a large reason it costs so much.,1,0,1442686281,1444726536
+cv6ysj8,0,t1_cv6ygj5,jellicle,"> Fun fact: There are more MRI machines in Pittsburgh than there are in Canada.
+
+Fun fact: right-wing talking points about Canadian healthcare are not, in general, true.  And this is one of those not-true ones.
+
+Overall, the U.S. orders roughly twice as many MRI scans as Canadian doctors, for zero improvement in healthcare outcomes.  U.S. doctors order them to cover their ass or to improve profits at their facility.  Canadian doctors order them when medically warranted.
+
+http://lmgtfy.com/?q=us+orders+too+many+mris",2,0,1442676707,1444726536
+cv6z4c4,0,t1_cv6ygj5,EpicFlyingCat,">""There are more MRI machines in Pittsburgh than there are in Canada.
+Different people, different health problems, different infrastructures.""
+
+Even if that is true that just demonstrates how inefficient private healthcare is. There's no doubt in my mind that the 300,000 people of Pittsburgh require as many MRI machines than over 30 million people in Canada.",3,0,1442677368,1444726536
+cv7o4yr,0,t1_cv6z4c4,snacksinhats,"How does that demonstrate inefficiency from privatized healthcare? If anything it proves just the opposite, that privatized healthcare with market forces respond *better* to peoples' needs.",1,0,1442727777,1444726536
+cv80ulv,0,t1_cv7o4yr,Drexelhand,"> How does that demonstrate inefficiency from privatized healthcare? If anything it proves just the opposite, that privatized healthcare with market forces respond better to peoples' needs.
+
+No. That would be true if it was demonstrated Pittsburgh requires more MRI machines than all of Canada. Canada has one of the lowest MRI machines per capita worldwide though. In addition to that, some experts think Pittsburgh overuses MRI, primarily for financial reasons. There are factors at both ends that don't make this a slam dunk stat.",1,0,1442768941,1444726536

@@ -1,0 +1,280 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvdguej,1,t3_3ma8e6,ConservativeMarxist,"There's a market distortion.
+
+No one is actually in the market to buy health care. They're in the market to buy health insurance, and their providers are in the market to sell to insurers. People don't ask the price of services, medicines, or surgeries they receive. They don't shop around multiple doctors to see who can provide something the cheapest. And they're generally shopping with their insurer's money, since they're only paying a fraction out of pocket compared to the actual cost of health care.",15,0,1443158189,1444724305
+cvddavn,1,t3_3ma8e6,TheNaBr,"Healthcare is expensive primarily because typical healthcare customers in the US disjointed from actual costs.  By paying private doctors through mechanisms that hide the price from the customers (insurance and Medicare) it allows for various types of actions on the service end that increase costs.  
+
+This is seen mostly through hospital paymaster systems, where a patient comes in to get a treatment, maybe pays a standard co-pay, and then the hospital inflates the costs of every service to get *maximum* profit from the service from the insurer.  This is the reason uninsured people often get bills for tens of thousands of dollars.  The paymaster system, not knowing which procedure will be reimbursed by the insurer, sends a standard inflated bill to the insurer, which is then corrected by the insurer and returned to the hospital which discounts several thousand dollars.  They do this because Medicare might reimburse for pneumonia, but not for a hospital admission...where another insurer will reimburse for the hospital admission, but not for the specific treatment.
+
+We also have high regulatory  costs for entering the field.  A doctor nowadays has to go in the hole hundreds of thousands of dollars before they can practice.  There is a strong incentive to make up that debt when working to pay off those loans.  So to do that, doctors need to get paid a lot.  You see this in the General Practitioner field drying up in favor of specialists.  
+
+So there are various reasons, but those are two main ones I'd pinpoint.",8,0,1443150403,1444724305
+cvddluj,0,t1_cvddavn,Gintoh,"Could you ELI5. I'm not sure I really understand.
+
+Would that be included in the study on unnecessary healthcare spending I linked?
+
+I was also wondering why the insurance companies don't just refuse to cover these inflated costs? Wouldn't it be in their self interest to bargain down the price as low as possible so they don't have to spend as much money.",1,0,1443150963,1444724305
+cvde9th,0,t1_cvddluj,TheNaBr,"ELI5:  Costs are hidden from healthcare customers.  All the business is handled between large corporations exchanging money with each other.  The individual customers aren't a factor in price allocation, it's all handled on the back end by accounts payable departments.  This set up allows for corporations to maximize their profits against public desires.
+
+>Would that be included in the study on unnecessary healthcare spending I linked?
+
+I don't believe so, I'm not sure, but this seems to fall outside the categories of ordering unnecessary procedures, missed prevention, fraud, excessive administration, inefficient delivery, and excessive prices that is covered by that article.  This is how the healthcare system is currently designed.  It could be included in inefficiency or excessive administration though.  I'm not sure.
+
+The points about specialists does tie into that chart though for sure.  
+
+>I was also wondering why the insurance companies don't just refuse to cover these inflated costs?
+
+They do, that's why the costs get written down.  But the insurance companies must negotiate against those inflated costs to begin with and they'll always be paying the maximum cost for the procedure, never less.  That's why we've seen some insurance shifting to favor out-patient centers to bring costs down.  
+
+There's also some aspect of price gouging from hospital personnel.  Nurses will sign charts because they looked at the chart and that entitles them to send a bill.  I saw this when my children were born and we had bills from 10-12 nurses, but had only ever seen about 3-4.  A cousin works at a hospital as a nurse and confirmed its standard practice to just sign charts even if you didn't do anything with the patient.",4,0,1443152193,1444724305
+cvdfaf7,0,t1_cvde9th,Gintoh,"I understand the part about being hidden from costs by insurers, I don't understand this part:
+
+""This is seen mostly through hospital paymaster systems, where a patient comes in to get a treatment, maybe pays a standard co-pay, and then the hospital inflates the costs of every service to get maximum profit from the service from the insurer. This is the reason uninsured people often get bills for tens of thousands of dollars. The paymaster system, not knowing which procedure will be reimbursed by the insurer, sends a standard inflated bill to the insurer, which is then corrected by the insurer and returned to the hospital which discounts several thousand dollars. They do this because Medicare might reimburse for pneumonia, but not for a hospital admission...where another insurer will reimburse for the hospital admission, but not for the specific treatment.""
+",1,0,1443154306,1444724305
+cvdfq54,0,t1_cvdfaf7,TheNaBr,"Its how the billing works.  There's various line items in a bill.  Some are recognized by certain insurers for reimbursement and others aren't.  When insurers negotiate they negotiate against these line items. 
+
+So for an example:  Say Medicare reimburses for a doctor visit and pneumonia treatment.  Cigna reimburses for a doctor visit, hospital stay, and nursing services.  The hospital doesn't know what will get reimbursed at what rates to cover their expenses.  So the bill might look like this.
+
+Doctor Visit:  $500
+
+Pneumonia Treatment: $2,000
+
+Hospital Stay: $5,000
+
+Nursing Services: $400
+
+Gloves: $200
+
+Aspirin: $50
+
+**Total: $8,150**
+
+Medicare gets the bill and agrees to pay what they cover, the rest gets zeroed out, so the bill looks like:
+
+Doctor Visit:  $50
+
+Pneumonia Treatment: $1,500
+
+Hospital Stay: $0
+
+Nursing Services: $0
+
+Gloves: $0
+
+Aspirin: $0
+
+**Total: $1,550**
+
+Cigna gets the bill and adjusts it on their end and it looks like this:
+
+Doctor Visit:  $200
+
+Pneumonia Treatment: $0
+
+Hospital Stay: $2,000
+
+Nursing Services: $50
+
+Gloves: $0
+
+Aspirin: $0
+
+**Total: $2,250**
+
+But their are more insurers at play and a more complicated reimbursement system.",6,0,1443155322,1444724305
+cvdga8m,0,t1_cvdfq54,Gintoh,"Ok I understand what you are saying.
+
+But why wouldn't the insurance company just refuse to pay until the medical company lowers the bills to reasonable rates? You say they try to, but they are negotiating from a very high starting price. Wouldn't the same problem exist without the 3rd party payer insurance model? Wouldn't consumers still be negotiating from a very high starting price?
+
+Also why do uninsured people get such massive bills if the hospital knows they can't pay? Wouldn't they ""zero out"" much of the costs or make the costs much lower just like they do for stuff insurance doesn't cover in your example?
+
+If insurance companies are willing to charge the uninsured so much money, wouldn't the same problem exist in a conservative system that eschews the 3rd party payer (insurance) model?",1,0,1443156693,1444724305
+cvdglqp,0,t1_cvdga8m,TheNaBr,">But why wouldn't the insurance company just refuse to pay until the medical company lowers the bills to reasonable rates? 
+
+Because that would result in a drastically smaller network for insurance customers to access.  Plus, they still have the problem of insurance customers accessing out of network hospitals where they don't have negotiation deals.
+
+>Wouldn't the same problem exist without the 3rd party payer insurance model? Wouldn't consumers still be negotiating from a very high starting price?
+
+Not if they're paying cash.  If you pay cash and ask for billing up front, you'll get more of a true cost bill (as I understand it).
+
+>Also why do uninsured people get such massive bills if the hospital knows they can't pay?
+
+Because it's an automated mindless system.  
+
+>Wouldn't they ""zero out"" much of the costs or make the costs much lower just like they do for stuff insurance doesn't cover in your example?
+
+I think generally, they do, but it has to be negotiated and it depends on who is negotiating.  
+
+>If medical(sic) companies are willing to charge the uninsured so much money, wouldn't the same problem exist in a conservative system that eschews the 3rd party payer (insurance) model?
+
+I don't think so because they'd have no customers and would go out of business.  
+
+Also, just to clarify, I didn't advocate for any particular system.  I'm just explaining some of the things going on in our current healthcare marketplace.  I don't think insurance is bad by itself, it's just been manipulated into a position it's not adequate for covering.    In my opinion, insurance is good for the unknowns, it's not good for a standard care mechanism.  
+
+Plus I think that marketplace has started to respond with the outpatient care facilities that have been opening.  ",4,0,1443157532,1444724305
+cvddir1,1,t3_3ma8e6,iflyboats,"The following isn't the ""conservative"" explanation, but it's the *correct* explanation:
+
+1. Even before ObamaCare, more than half of of U.S. health care spending was government spending through Medicaid and Medicare, which led to an incredible rise in demand for medical services, and along with it, an incredible rise in healthcare costs. 
+
+2. The Federal tax code, which steers people into purchasing health insurance through an employer, drives an extreme overuse of insurance and encourages irresponsible behavior on both the parts of patients and doctors by insulating consumers from medical expenses that they should be paying out-of-pocket. As a result, we demand more insurance and use more medical services than we otherwise would. It's completely irrational that we would pay for common medical treatments through insurance, which by nature is designed to protect against the unexpected.
+
+3. FDA regulation drives an astronomical increase in the costs of drugs and medical devices by 1) creating huge compliance expenses that manufacturers must defray by increasing their prices, and 2) greatly restricting supply and competition by granting monopolies to approved products. FDA approval is extremely difficult and expensive to attain even for the safest and most effective therapies. The FDA's testing process often make little sense from a medical or safety perspective and does not protect patients. Under today's regulations, it would take years and cost hundreds of millions of dollars to introduce harmless tongue depressors to the market. 
+
+4. Government licensing of medical practitioners drives costs in much the same way the FDA does, by giving a small group of practitioners a coercive monopoly on medical care. The ""doctor"" as we know it is a creation of government. Our government-trained clinicians have to go through a 10+ year training crucible just to  legally be allowed to perform simple tasks like diagnosing strep throats and setting broken arms that could reasonably be mastered at much less time and expense through more streamlined training programs. They then graduate with enormous debt loads and 10+ years of opportunity cost they they have to recoup by charging patients more than their services are worth—and since the government makes it illegal to compete with them, patients have no choice but to pay up. 
+
+5. A laundry list of government insurance mandates dictate what treatments, procedures, and tests and insurance package has to offer, encouraging their zealous overuse, driving prices up.
+
+6. EMATALA, the law that makes it illegal for Emergency Rooms to turn anyone away regardless of their ability or intention to pay, or even the legitimacy of their complaints. It indirectly forces ER doctors to perform all kinds of unnecessary tests to rule out emergencies. It drives an enormous increase in ER costs by forcing hospitals to pass the costs of running utterly ridiculous and unnecessary tests on the uninsured and treating the uninsured for things that aren't emergencies onto everyone else. This was signed into law by Ronald Reagan of all people, which shows you far away from free market principles the Republicans truly are. 
+
+There are many other examples of how previous acts of government are driving the cost of healthcare, but that's the gist, but those are probably the biggest one. No honest person can't deny that government is the culprit. The cure for our healthcare ills has always been radical free market reform, but none of today's Republicans are talking about any of these things. 
+",5,0,1443150804,1444724305
+cvdchcz,1,t3_3ma8e6,FlareCorran,"First, because it's the best healthcare system in the world. Once you get sick, you're more likely to recover in the US than any other country, for almost any disease. That costs more money.
+
+Second, because we use it more than anyone else. Due to diet and lifestyle, Americans are far more likely to get sick.
+
+Third, there's a significant problem with other countries not paying the full price of medicines, often due to patent laws being more lax or entirely non-existent. It is far cheaper to produce the drug than to develop it, so generics will always be able to undercut companies that fund R&D. The US is responsible for a large majority of the world's research and development, which costs more money.
+
+Fourth, Health insurance is heavily regulated. Too many things are required to be covered that aren't necessary for insurance. That's why we want insurance to be sold across state lines, because it could be used to dodge stupid requirements. Unfortunately, the ACA has actually made this worse.
+
+As for your point about unnecessary services, it's worth noting that the 8% accounts for ~16% of the difference between the US and other countries. It's a sizable percentage.
+
+(Also, when you look at data, it's important to dig into the actual results. A lot of the studies on healthcare quality include cost as part of their analysis, which skews them heavily toward single-payer systems.)",3,0,1443148878,1444724305
+cvdieba,0,t1_cvdchcz,tomanonimos,">Once you get sick, you're more likely to recover in the US than any other country, for almost any disease.
+
+Hm... would you like to provide anything to back-up this claim? I get that you are saying we are the best healthcare system in the world because we cure more illnesses than other countries. 
+
+",1,0,1443163001,1444724305
+cvdhkm3,0,t1_cvdchcz,the_blue_wizard,"Best Healthcare in the world? Where did you get that data? 
+
+By most common metrics of Health Care, the USA is far down on the list - Infant Mortality, Health Care Outcome, Longevity. 
+
+Further with a huge profit incentive, there is extra incentive to gouge anyone you can. Which is precisely what they do. 
+
+Most other countries spend about HALF of what we do and have better results. ",0,0,1443160303,1444724305
+cvdd1b5,0,t1_cvdchcz,down42roads,"In addition to all of this, Medicare and Medicaid pay out at very low rates, which, when paired with guaranteed emergency care for the uninsured, results in the prices paid by insured patients rising to cover the difference.",5,0,1443149916,1444724305
+cvdpqe0,1,t3_3ma8e6,bookerevan,"People are not aware or accountable for healthcare expenses, the Insurance company acts as a filter.
+
+A couple of practical examples based on my personal experience:
+
+I need a medical device.  I purchased it through my insurance company.  The medical supply company billed the insurance $2,300 for the device, I needed to pay hundreds because I hadn't hit my deductible for the year.  Didn't really think about it until I needed to purchase another unit for travel which insurance wouldn't cover.  Discovered I could purchase the exact same unit, brand new, for about $400.00 on-line.
+
+Needed to get an MRI, decided to ask for pricing from my local hospital and outpatient imaging service.  My local hospital was more than twice as expensive, Insurance would have covered either.
+
+I have more examples, but the issue is that most patients aren't shopping for price and Insurance companies don't seem to be efficient.
+
+I realize that a single payer system may be the right thing to do in the U.S., but my biggest concern is our Government's track record of failure - think V.A. hospital system.",1,0,1443188283,1444724305
+cvduf6o,1,t3_3ma8e6,Risk_Neutral,"I agree with you completely. HSAs don't solve anything. Its a laughable solution to solving costs. 
+
+The government needs to act as a monopsony to get prices down. It's the best solution. ",1,0,1443196128,1444724305
+cvdyvou,1,t3_3ma8e6,mrhymer,"The fundamental problem with healthcare is the bad business model. Selling visits and procedures like you are selling shoes in a store does not work and has never worked for healthcare. The doctor and hospital is rewarded (gains wealth) when you are ill or injured. When you add third party payers to that terrible business model it exponentially compounds the problem. 
+
+A proper business model for healthcare is that the patient directly pays the doctor and hospital each month for their health. Illness and injury costs the doctor and hospital. The incentive is to keep you healthy and happy at home and work functioning well. 
+
+Also patients choosing between the doctors and hospitals close to home is a proper market. A CEO choosing from 3 or 4 insurance companies over a round of gold with the CFO is not a proper market. ",1,0,1443202986,1444724305
+cvdyylj,0,t1_cvdyvou,Gintoh,But what government policy is causing the healthcare business model to be like that? Isn't the conservative argument that government intervention is the reason for the cost of healthcare?,1,0,1443203109,1444724305
+cvdzqxv,0,t1_cvdyylj,mrhymer,"Government as third party payer and regulator exacerbates the problem but did not cause the bad model.
+
+The fix does not require government. We just need self-interested doctors to stand together and dictate the terms of their service.
+
+1. No more third party payers. From now on doctors and hospitals will only accept payment directly from patients.
+
+2. No more charging by visit and procedure. Doctors and hospitals will charge a monthly fee per person or family.  ",1,0,1443204299,1444724305
+cvdg3rx,1,t3_3ma8e6,DevonWeeks,"The biggest culprit, in my opinion, is the distortion of costs.  Consumers are detached from the real costs of healthcare and therefore prone to overuse services.  Conservatives have a hard time philosophically addressing that because the only real solution is to outlaw insurance which runs contrary to their free market leanings.",1,0,1443156242,1444724305
+cvdvutp,0,t1_cvdg3rx,MisterMiddleFinger,If American consumers over use healthcare services then why are Americans statistically so much more unhealthy than other first world people?,1,0,1443198361,1444724305
+cvehuky,0,t1_cvdvutp,DevonWeeks,"First, our cultural practices make us unhealthy, overeating being the biggest culprit by far.  Second, we receive more services, but services aren't inherently helpful.  You aren't going to be more healthy simply because you received more healthcare.  In most other countries I've been to, when you show up at the doctor's office with a head cold you get prescribe bed rest, soup, and get told to use over the counter meds to ease your symptoms.  It's just a head cold, after all.  It'll pass.  Not in America, though!  Here, you get a strep test despite not having any primary indicators of strep.  You get a blood test despite not having any indications of bacterial infection.  Then you get a sinus cocktail full of expensive steroids.  Then you get probably two different prescriptions to take.  All of this... for a head cold.  And you're not any better off, really, than if you had just taken a couple of days off, rested, and stayed hydrated.  
+
+It's a faulty assumption people that receiving more health services makes you healthier.  It isn't true at all.  We waste health services, **a lot**.  My wife is a nurse, and probably the one thing she complains about when she gets home from work more than anything else is how much pointless treatment they give just to avoid liability issues or losing patients to other doctors.  ",1,0,1443238329,1444724305
+cve7hnj,0,t1_cvdvutp,AHSfav,Because our services suck and our culture is unhealthy,1,0,1443217208,1444724305
+cvekqud,0,t1_cve7hnj,DevonWeeks,"Because having more healthcare doesn't make you healthier.  I'm not really sure why people think that.  We waste so much treatment on things we don't need, things that don't make us healthier.  No other country I've been to does what we do.  If you show up at the doctor with a head cold, you get prescribed bed rest, soup, and get told to get some over the counter medication to relieve your symptoms.  That's it.  Not in America, though.  Here, you get blood tested on the off chance it may not be viral (a slim, slim, slim chance).  When your white count shows normal, you get strep test... despite not having any primary indicators for strep.  Then you get a sinus cocktail shot which is full of some pretty expensive steroids.  Then you get prescribed at least two different medications one of which is likely an antibiotic which won't do anything for you at all.  None of that stuff actually made your cold go away.  And this isn't limited to colds.  Many common ailments are overtreated, and many drugs, antibiotics particularly, are overprescribed.  We overuse healthcare when it's pointless to do so and underuse it for serious ailments.  ",1,0,1443246436,1444724305
+cvekvob,0,t1_cvekqud,AHSfav,Yep.but everybody is making lots of money off of it so it won't change,1,0,1443246874,1444724305
+cven2mt,0,t1_cvekvob,DevonWeeks,Pretty much. ,1,0,1443255670,1444724305
+cvdoql6,0,t1_cvdg3rx,Lyxh,Government-administered insurance doesn't address this issue. Healthcare consumers would still be unaware of the prices involved and would have little incentive to shop around or stay at home (for minor things) under single payer.,1,0,1443186209,1444724305
+cvdg4db,1,t3_3ma8e6,ninekilnmegalith,"What gets me, is that Conservatives alike, Blue or Red, don't want ""socialized"" medicine, but, they will do whatever it takes to save you from other harms. House on fire, send in the socialized fire service. Somebody doing drugs you don't agree with; they aren't wearing their seat-belt; burglarizing your house, send in the socialized police service.
+
+Why spend so much money protecting other people and their property with social-services, and then leave out an entire realm of harm?
+
+Gun in your face? ""That's on us, we'll pay to stop it.""
+
+House on fire? ""This big fancy truck and all the water we use, let us pick up the tab, friend.""
+
+Cancer in your brain? ""Sorry, we don't have money for that, you probably should have picked a better insurer.""",0,0,1443156284,1444724305
+cvdlso4,0,t1_cvdg4db,FlareCorran,"Fire and crime are categorically different dangers.
+
+Protection from violence and punishment of it is the purpose of government.
+
+Fire is, in most cases, a danger to others around you that you wouldn't be able to reimburse them for if your own house isn't saved.",3,0,1443177414,1444724308
+cvdy9an,0,t1_cvdlso4,ninekilnmegalith,"Sure, fire and crime can be categorized differently, but are they actually ""categorically different"" in the rhetorical sense? Not when you are making a social benefit claim. See me response to /r/epicwinguy101, he makes a similar claim to yours.",1,0,1443202043,1444724308
+cvecw4x,0,t1_cvdy9an,FlareCorran,"His claim is actually the opposite of my position (which I didn't fully express.)
+
+My point was that the government is responsible for justice. It has the responsibility to prevent others from deliberately acting to harm you and some, limited, responsibility to protect its citizens from natural disasters. It has no responsibility (or right) to protect you from things you do to yourself or from things that won't harm others. 
+
+My position is all men are created equal and are endowed by their creator with certain, inalienable rights and among these rights are life, liberty and property. It is for the protection of these rights that governments are instituted among men. (Pursuit of happiness is a stupid line that isn't really supportable.)
+
+""Public goods"" aren't going to be divided left and right, since the dispute would be over what qualifies as a public good (which isn't terribly clear among economists either.)",1,0,1443227506,1444724308
+cvdw71f,0,t1_cvdlso4,MisterMiddleFinger,It seems like illness is even more likely to be a danger to others than fire. If my house is on a lot all by itself fire doesn't really hurt other people but any disease I have can still spread.,1,0,1443198884,1444724308
+cvdo4m7,0,t1_cvdg4db,epicwinguy101,"The difference is that conservatives support what are called ""public goods"".  For instance, if my neighbor's neighborhood has a crime problem, mine does too.  If my neighbor's house is on fire, there's a good chance mine will catch too, especially if it's a more densely populated area.  National defense works the same way.  If the Russians invaded my neighbor's place, things are looking grim for me, too.  You can't separate our well-being.
+
+Similar cases can be made for roads, though with improved GPS technology etc., you might be able to think of schemes for charging road usage that don't involve a toll booth at every stop sign, so maybe that could change.
+
+The point is, public goods tend to give an umbrella effect to non-payers.  You will note that many public health clinics offer low-cost vaccinations for similar reason, in the case of healthcare, since herd immunity can be thought of as a public good.  Cancer, being non-contagious, is a completely individual issue.
+
+As a fun aside, some townships in rural areas do not have fire departments on hand.  Individuals can often pay for a nearby township to cover them, but if they don't pay, then yes, their house burns down: http://www.nbcnews.com/id/39516346/ns/us_news-life/t/no-pay-no-spray-firefighters-let-home-burn/#.VgVABstVhBc.
+
+
+",4,0,1443184792,1444724308
+cvdy5mo,0,t1_cvdo4m7,ninekilnmegalith,"Amazing how you simultaneously defeated your argument by bringing up vaccinations as a ""public good,"" but then dismiss health care generally as if it wouldn't operate in the same manner. You claim the extreme position that, a ""public good"" is only worthy to Conservatives when it can be placed under ""an umbrella [to] effect non-payers."" That has two obvious logical flaws, not including the dubious notion that Conservatives care about ""non-payers,"" or did you mean non-victims?.
+
+First, you claim, ""the point is, public goods tend to give an umbrella effect to non-payers."" If that was in fact *the* point, then public healthcare would be within the scope of your ""public good.""
+
+Second, you rely on a domino theory for three of the most commonly accepted socialized services, police, fire, and military. However, this is thin material at best. So what if your house is being burglarized? If the culprit is an art thief and I don't collect art, then there is no ""umbrella effect"" on me by your own analogy. You have cancer, it may be deadly but it isn't really contagious, so we wouldn't want to treat it. However, if the burglar was stealing electronics, then it would make sense to treat it, almost everyone owns electronics, the disease is contagious.
+
+Aside, super-fun, nothing like poor people getting the shaft, am I right!",0,0,1443201890,1444724308
+cve2sn2,0,t1_cvdy5mo,epicwinguy101,"You seem potentially unclear on something.  ""Public good"" isn't a synonym for ""greater good"" or anything like that, it's a general economics term for things that are not exhausted by someone else using them, and can't be easily made exclusive.  This means that you get a market failure because there's a strong incentive to be a freeloader.  Herd immunity suffers this problem, because if everyone else gets vaccinated but me, I still can't get the disease, and I didn't have to get the vaccine either.  Naturally, the market cannot properly and efficiently handle cases like that, so the government should take over, if the service is determined to be important to people.  When I have a non-communicable condition, other people aren't involved, so we don't really run into that kind of market failure.  Not saying we don't want to treat it, just saying we don't need the government to do it.  You have an incentive to get it treated, and the doctor has a financial incentive to treat it, so you meet up with a doctor and let him do his thing.  Feel better soon!
+
+As far as policing goes, you come out ahead in terms of property value by having a low neighborhood crime rate.  Even if I don't have any art, my house value just took a hit by the spike in crime, so there is a direct public harm aspect to it.  The low crime rate adds value to property, and is thus also prone to freeloading market failures without a government intervention.
+
+I defeated my own argument, but not where you thought.  If anything, by highlighting that in rural neighborhoods a modern fire department can successfully distinguish individual between houses during minor fires, which makes it not a completely true public good (though in cities, it still probably is, especially for apartment-dwellers like me).  And they treated it as a non-public good to those people, because they charged at the individual level.",3,0,1443208962,1444724308
+cve7tf0,0,t1_cve2sn2,ninekilnmegalith,"Again, you've defeated your claim within the first sentence. Police, and police forces are finite resources, just ask Detroit, thus, they can't be defined by
+>""a general economics term for things that are not exhausted by someone else using them, and can't be easily made exclusive.""
+
+If there is a domestic dispute at your house that brings police units to your side of town, while moments later someone is burglarizing a house on the other side of town, you've exhausted the resource by using them. Those officers can not assist you and me at the same time. However, you've proved that healthcare for all is within your ""general economics term,"" unless, as above, we are talking strictly about resources like doctor/patient interactions, one citizen receiving medicine does not exhaust the medicine pool, nor make the ability to receive medicine exclusive. The two of us can receive many services without exhausting the medical care available for all.
+
+The problem with economics, particularly the LSE and Chicago school styles, is the focus on supposed ""rational actors,"" and the blind adherence to a preference for profit maximization by individual actors.",1,0,1443217779,1444724308
+cvea4dr,0,t1_cve7tf0,epicwinguy101,"I mean, there's no such thing as a truly inexhaustible good.  If everyone went to the park and it got too crowded, or if every town got invaded by foreign militaries at once, and so on, these textbook examples are exhausted.  Generally, the defining feature is again, the non-exclusivity.  It's pretty rare in hard science, much less economics, to have idealized theory match practice perfectly, after all.  Still, such descriptors can be close enough to be useful.
+
+And the important other part of these public goods, more important than the exhaustibility really, is the exclusivity.  Exclusivity isn't like a country club where only so many people are allowed in, it means that I benefit exclusively from my trip to the doctor.  Me getting a hernia repair did absolutely nothing for or to anyone else, no umbrella effect, everyone else's hernias were still the same as before, it was a transaction that only mattered to me and the doctor (and the insurance company, I suppose).  There's no way for other people to freeload on my hernia repair surgery, which makes it exclusive, and not prone to the particular market failures that make me friendly to government intervention.
+
+I wouldn't call it a blind adherence to rational actors, most economists are well aware of these limits, but modeling non-rational actors is still a topic in relative infancy.
+
+",1,0,1443222018,1444724308
+cveb1is,0,t1_cvea4dr,ninekilnmegalith,"You discount general health among a population as not having an ""umbrella effect,"" which if true, defeats your analogies as they relate to police, fire, and military. A sick person drags down the economy as much as a ""sick"" neighborhood, i.e., a burglarized one, or the favorite of economists, the ""broken window"" theory. There is no honest way to cast a public good umbrella over any social service in a manner that would not be applicable to social healthcare. You have to bend and twist the definition to even try, example being your failed attempt at casting exclusivity as purely the ability to directly benefit from you receiving services, under that logic, most acts by police are exclusive and
+>""there's no way for other people to freeload.""
+
+Under your logic, to claim a benefit from the police stopping you from speeding, or driving drunk, others would have to have been capable of being harmed by you. Much like your hernia example, normally your speeding or impaired driving would never harm me and your arrest would not benefit me directly, it would only be if others happen to be near you while you were driving, just like if you were having a hernia while driving on the freeway.
+
+If you want to reduce this problem to direct benefits, your umbrella wouldn't cover any social service entirely, but we accept those you already agree to generally, thus the logical break when denying healthcare as a social good on par with police, fire, and military.",1,0,1443223799,1444724308
+cvefd4d,0,t1_cveb1is,epicwinguy101,"No, you being sick would likely do little to my sense of security, property value, and would not involve a criminal being on the loose.  We have police to enforce laws, man, because people ignore unenforced ones, which is pretty bad if you consider rule of law important.  A drunk driver is a threat to the general public.  My hernia was a threat to nobody but me.
+
+I'm really not sure what this whole business about defeating things are.  Yes, public good is a categorization, and like most categories, breaks down, because the world is not so black and white.  But that's just it, then.  You would find that nothing is pure, theoretically ideal a public good, and nothing is free from externalities, so everything has at least a small amount of it.  Which means that, if your only basis of how to fund things was this metric, you would end up in the logical extreme cases of making either everything, or nothing, public sector.  We have seen both of these extremes in action, and found that despite their ideological ""purity"", they tend to have disastrous consequences in practice.  We have to make judgement calls on the nitty-gritty details in life, and healthcare still much more resembles, from how I see it, as a private good.  When I get sick, it's a problem that effects me at the individual level much moreso than a crime spree or a fire in the apartment one unit over.  When I get healthcare treatment, it affects me, and I doubt my neighbor ever even knows.  Like I said, pure examples of either private or public goods don't exist.  
+
+I'm not sure what this business about ""defeating"" you start each post with is, I'm here to discuss important decisions facing society, not ""defeat"" people, and I hope you share a similarly constructive approach and just chose words indelicately.  And you can read up one the definition of excludability (perhaps your source of confusion was a malapropism on my part, the word I was looking for was ""excludable""), it's right here for you:
+https://en.wikipedia.org/wiki/Excludability",1,0,1443232705,1444724308
+cvf17lu,0,t1_cvefd4d,ninekilnmegalith,"I'm sorry, I didn't read past the first three sentences because you've based your argument on arbitrary criteria, that appear to be of personal value to you. Thanks for the banter so far, this is where I get off.",1,0,1443293637,1444724308
+cvf6op4,0,t1_cvf17lu,epicwinguy101,">because you've based your argument on arbitrary criteria, that appear to be of personal value to you
+
+There is no set of valuations that don't require personally set arbitrary criteria.  Sorry to spoil this for you, but we're just atoms, and any sense of value is personal, because the universe doesn't care.  Have a great life, buddy.",1,0,1443303895,1444724308
+cvdni1l,1,t3_3ma8e6,ItsAlivee,"The main reason is because the HC providers have to get paid for all the free stuff the govt forces them to do. So what happens is they go where the money is. The deep pockets of the insurers. It's a screwed up mix of socialism and capitalism. 
+
+Also, insurance is no longer used for extreme emergencies. It's now for maintenance. That really jacks up the cost.",0,0,1443183154,1444724308
+cvdy2d2,1,t3_3ma8e6,alcoholic_father,"Because the government has interferred in the market and created incentives for high prices.  Look at what happened with Obamacare, prices are in many cases double triple and even quadruple what rhey were before Obama mucked it up.  What we need to do is get rid of medicare/medicaid which creates a false market, and allow insurance across state lines, and limit regulations on who is allowed to provide service.  The regulations make doctors go through expensive unecessary training even to cut off a toenail. If people can shop for their own service based on what they think is important to them, and have a real actual market, you would see prices drop exponentially.",0,0,1443201752,1444724308
+cvdc9fy,1,t3_3ma8e6,Mdayofearth,"*sarcasm*
+Because taxes are too high. If we lower the corporate tax rate, the private hospitals will reduce prices. If we reduce the individual tax rate (etc.), doctors will lower their prices.
+Because there is too much regulation. If we reduce regulations, healthcare companies will spend less regulating, and will reduce prices.
+*sarcasm*
+",-13,0,1443148484,1444724308
+cvddfdk,0,t1_cvdc9fy,LDM123,Enough sarcasm. Serious answer this time.,2,0,1443150636,1444724312
+cvdf9zw,0,t1_cvddfdk,Mdayofearth,"Health cares costs are high in this country because it's a capitalist economy. Health care companies, along with insurance companies, are natural monopolies and compete less than AT&T and Verizon. They may not collude to keep prices high, but they can keep raising the prices regardless of what other facilities are charging. Hospitals literally make up the ""cost"" of their services even when a general database of costs for well defined goods and services exists. There is no real law in place that says they cannot charge more than you can afford for their services.
+
+The only way to reduce health care costs is more regulation, which is contrary to conservative ideals of small government, that's why they cannot say anything. The principle of cheaper healthcare is also a socialist concept, which is also why they cannot say anything.",-2,0,1443154279,1444724312
+cvdltv9,0,t1_cvdf9zw,LDM123,...but why?,1,0,1443177547,1444724312
+cvdem3v,0,t1_cvddfdk,jellicle,"Prior commenter's answer is actually much more useful than the other comments posted in this thread, which are just various forms of libertarian nonsense.",-2,0,1443152846,1444724312

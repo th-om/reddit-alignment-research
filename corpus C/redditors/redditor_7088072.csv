@@ -1,0 +1,114 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvt5plt,0,t1_cvt5esz,7088072,"I'm not OP but things that bugged me:
+
+1. Extreme political polarization.
+
+2. Heavily divided social classes.
+
+3. Money is ensnared in politics because the US always falls back on the ""muh free speech"" mentality. They didn't have the history of ""reasonable limits"" on free expression that Canada has, which has prevented the rise of, oh, hate speech, in this country.",8,0,1444351108,1444729992
+cvt5kq9,0,t1_cvt4xfj,7088072,"Last August was the first time I lost power in over a decade. BC Hydro has been great to me. I didn't even lose power during the ""Hannukah Eve"" windstorm of 2006 that blew down all the trees in Stanley Park.
+
+I think since they're a crown corporation, they answer to the public, not shareholders. Kind of like how Sasktel and MTS are loved compared to Robelus, or SGI is seen as the model to which ICBC should aspire. I shudder at the thought of Hydro One's privatization.",10,0,1444350883,1444729992
+cvt5i45,1,t3_3nzey1,7088072,"Good, we need the rain.
+
+45% of CA is in ""exceptional drought"". 2/3 of WA is in ""extreme drought"". They're talking about desalination plants in California because of the water shortages.",3,0,1444350763,1444729992
+cvt4juz,1,t3_3o109l,7088072,"Back in 2008, when I was three years removed from my compsci undergrad, if you asked me what Vancouver's main tech players were, I would have replied with: HSBC, MDA, EA, Vision Critical, IBM, SAP, TELUS, BCAA, Fortinet, Radical and Nokia. 
+
+Basically, you had one of five choices:
+
+* Public-contract enterprise CRUD at union shops where developers were second-class citizens
+
+* Slave-driving game studios
+
+* Slave-driving hardware companies
+
+* Positions that could be outsourced to Bangalore at the drop of a hat
+
+* Nokia. 
+
+Radical has gone bust and IBM has bloodletted almost 100,000 employees. The union shops (TELUS, BCAA, BC Hydro, etc.) don't even call their software engineers ""engineers"", they're called ""programmer analysts"". Like I said, public-contract enterprise CRUD.
+
+Now look at the landscape today. **Zenefits** is hiring 30 engineers in Vancouver. The city's come a long way.
+
+This is still a small market compared to the Bay or Seattle, but I've kept a running list of Vancouver companies that pay new grads at least $70k base as of 2015. Besides AMZN and MSFT, which do have permanent shops in Vancouver, they are equivalent-ish to FB/GOOG/Uber/Quora/Palantir/Airbnb/Square/Linkedin/Groupon/Dropbox in the Bay/Seattle/Austin/NYC/Boston/Portland/Denver (and to a lesser extend LA/SD/Chicago/Pittsburgh). And, to be honest, you really don't need to pay Uber or Quora salaries in Vancouver.
+
+* Amazon (Mostly SDE I positions in the Fulfillment/Operations division. There are also entry-level SDE positions in AWS but why would you torture yourself working in AWS?)
+
+* Microsoft (Skip the game studios. If the Coalition messes up Gears of War, there will be mass layoffs on a Radical/Capcom scale. Also to any students, skip the Foundry internship and go for the full internships in Redmond, or the [Exploree program](https://careers.microsoft.com/students/explore) if you're in 1st/second year.)
+
+* Thinking Ape (I like the company, but they haven't rolled out any games since 2012ish. Apparently there are whispers their VC is drying up.)
+
+* Mobify (One of the few legitimate game changers in Vancouver. Completely bootstrapped and growing exponentially because companies don't want to build their own custom mobile shopping platforms.)
+
+* Bench (Another legitimate game changer, disrupting accounting software. $7 million Series A round led by Altos Ventures back in January.)
+
+* HootSuite (full stack engineers should easily clear $70k)
+
+* Grouplend (Bringing B2B lending into Canada, finally. I call Grouplend one of Vancouver's ""Three Kings"" of tech alongside Mobify and Bench.)
+
+* SalesForce.com (This is where everyone from the AMZN office downtown go to when they start having families and don't want to be married to their job.)
+
+* Human API (Big Data meets telemedicine. Originally founded in Redwood City with a large office in Vancouver.)
+
+* Clio (mobile apps for the legal market. Who needs junior associates? Their office is in a business park on Canada Way.)
+
+* D-Wave (created the world's first quantum computer, office is close to Clio)
+
+* Ericsson (their office is in the Still Creek Business Park. They pay better than other communications companies in Vancouver.)
+
+* Samsung (a major R&D lab in South Burnaby, but it's not very transit accessible.)
+
+* Intel (there's an SSD office near Broadway and Granville, plus Intel bought Recon Instruments in June.)
+
+* Axiom Zen (makers of ZenHub, Routific, and Timeline.)
+
+* CA Technologies (They bought Level 7 Technologies but didn't fold the company.)
+
+There are probably companies I'm missing (e.g. Visier, Arista, X Plus Z) but that list is what I have solid information on.
+
+Vancouver (and BC in general) ticks off a lot of quality-of-life intangibles you just can't find in other tech hubs. 
+It's a much more urban, walkable, transit-oriented city than pretty much any other tech hub in North America. 
+
+BC doesn't have the political dysfunction you see in Ontario or Quebec, certainly not like in the US. There isn't the racial tension or social inequalities you see in the US. The cops are on their best behaviour and there is legitimate civilian oversight. 
+
+Renting is cheaper than most tech hubs (you will not likely find a clean 1 bedroom apartment located 20 minutes to downtown for $850/month anywhere else, not even in cheaper cities like LA, San Diego or Chicago).
+
+Tuition at universities is cheaper than in most tech areas.
+
+A weak loonie means US companies save by hiring Canadian devs, US VC firms are more willing to fund Canadian ventures making up for the weak VC funding in Canada.
+
+Plus since there's no petrodollar anymore and oil prices are falling, the pivot of economic growth is shifting to Ontario and BC. This is good for the software industry in both provinces.
+
+There's a lot of talent in Vancouver, and you don't have to pay then $120K right out of undergrad. The best part is, salaries are rising and it's still cheaper for US companies than expanding down south. VC is less of a pain in the neck, too, if you keep the company in Vancouver you can get by with five-figure seed rounds. Startup assistance from all levels of government is available. (SR&ED, IRAP, IDMTC) Ryan Holmes and Markus Frind are giving back, trying to set up a startup ecosystem. The BCTIA has opened its innovation hub, Vancouver's first (in my opinion) legitimate startup accelerator. 
+
+OP, I'd watch out for Zenefits. Much like Uber disrupted the taxicab mafia and was banned throughout NA/Europe, and Tesla Motors disrupted the car dealership mafia and got banned in several US states, Zenefits is disrupting the HR/payroll software mafia. Fortunately, only one state (Utah) banned Zenefits, and it was reversed after public outcry. They are making an absolute killing with PPACA/""Obamacare"" compliance down in the US. Their office is at 1090 Homer. Look at the salaries: [hiring 30 junior engineers between $110-165K CAD/year](https://www.workbc.ca/JobSeekers/DisplayJobPostingApply.aspx?jobid=238251&from=EmployerProfile), with 40 hour weeks. At the moment, the highest salaries for new grads are with AMZN and MSFT, which hover around $85K CAD base. And AMZN requires you be married to your job and work on-call once a month.(though if you're on /u/Nerdbuddha's team, he'll give you a lieu day if you have to be tied to your laptop and it's a statutory holiday.)",48,0,1444349119,1444729992
+cvt0hhn,1,t3_3o0j8p,7088072,"I haven't even seen a western buffet restaurant in Metro Vancouver since 2003 or thereabouts.
+
+Whereas in the US they're all over the place. No wonder obesity is such an issue down south. 
+
+(Yes, I do go to the Old Country Buffet at Bellis Fair on my hops south of the border. But only sometimes.)",5,0,1444342145,1444729992
+cvqojwh,1,t3_3nq4y3,7088072,"Weeaboo
+
+Edit: Weeaboo that likes going through drive thrus in reverse",1,0,1444173788,1444729992
+cuxonjm,1,t3_3ki8yq,7088072,"A detached home? I wish. Not unless I could have inherited one from my parents.
+
+But I own an 800sf 1br + flex in one of the newer buildings in the Metrotown area, which I purchased for $430K in 2012 and which was appraised at $560K in 2015. (Muh property taxes)
+
+I'm an engineering manager for a large software company downtown (though I don't like calling it ""engineering"" compared to mechanical, electrical, civil, geological, etc. APEGBC doesn't regulate ""software engineering"" as rigorously, however.)",2,0,1441954316,1444729992
+cus3nbu,0,t1_cus39ci,7088072,"This comes up whenever this particular topic is discussed in /r/vancouver.
+
+Thinking that Chinese-only signs isolates and separates immigrants, and imposing a Bill 101 kind of legislation, are apples and oranges and cannot be compared.
+
+There is a S.U.C.C.E.S.S. poster for gambling addiction at Burnaby Hospital that is in both English and Chinese. No one is suggesting getting rid of Chinese-language advertising altogether or restricting Mandarin immersion like Quebec restricts who can go through an English language school system.",6,0,1441505647,1444729992
+cuqtp3v,0,t1_cuqhi5v,7088072,"Man, the Saputo family not only price-fixes dairy products in Canada, they terrorize the Impact de Montreal as well. 
+
+TIL Joey Saputo is the Jerry Jones of Canada.",2,0,1441397740,1444729992
+cuqtgsd,0,t1_cuqlh5m,7088072,"Week 9 should be
+
+> Let's Play *Diplomacy* All Week
+
+And the marking rubric should be modified to
+
+> 25% *Diplomacy*
+
+> 25% Amount of Support for Fringe Political Parties",2,0,1441397374,1444729992

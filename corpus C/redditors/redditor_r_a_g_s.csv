@@ -1,0 +1,45 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvxuvid,1,t3_3ogkll,r_a_g_s,"It's about life and death on both sides. And sadly, most people on one side either don't or can't or won't put themselves in the other side's shoes to appreciate the validity of their arguments.  The ""pro-lifers"" **definitely** seem to **refuse** to put themselves in the shoes of a woman who is considering abortion.  And many ""pro-choicers"" seem as if they don't want to give any credence to the ""pro-lifers'"" point of view.
+
+There's another way I look at these kinds of things.  Many religious people, many self-identified conservatives, and therefore many ""pro-lifers"" often think that governance and laws should reflect what people *""should""* do.  ""People 'shouldn't' get pregnant if they're not ready to have a baby!""
+
+But many less-religious (or more liberally-religious) people, many self-identified liberals, and many ""pro-choicers"" think that laws and governance should be based on what people **actually** do.  ""Women have been having unwanted pregnancies, and have gone to desperate measures to end those pregnancies, for millennia. Laws 'banning' abortion only drove them to butchers in back alleys, with far too many women dying or being maimed. The best solution is to ensure abortions are accessible and safe, and to try to reduce the number of 'unwanted pregnancies' by other means (like better sex education for our youth and better access to contraception).""
+
+I fall in the latter category.  My wife and I would never have considered abortion for any reason other than if it were necessary to save my wife's life.  But ""banning"" abortions works about as well as ""banning"" alcohol or ""banning"" marijuana.
+
+But the fact that so many ""pro-lifers"" are intensely religious means that they won't listen to reason; they have a faith-based belief that they're doing God's Work, and they won't let anything shift them.  An admirable trait sometimes, but in this case, it's just pigheadedness.",1,1,1444713415,1444720360
+cvxtkjo,1,t3_3ojkjt,r_a_g_s,"You might want to try /r/math, perhaps.
+
+For this question, you'd have to define ""number"" first.  Any of the ""usual"" number systems people use 99.99% of the time (natural numbers, integers, rational numbers, real numbers), they're all either positive, negative, or zero.
+
+Then you get the complex numbers, and you can't really say which are ""positive"" and which are ""negative"", although there is indeed a zero.
+
+Then when you get into other kinds of numbers — quaternions, cardinal numbers, ordinal numbers, infinitesimals, hyperreals — well, the concepts of ""positive"" or ""negative"" or ""zero"" don't always apply particularly well to those sorts of things.  :)",3,0,1444710381,1444720360
+cvxswr5,1,t3_3ojjd6,r_a_g_s,"OK, so is the thing in 1. equal to k ∙ k^(6/4)?  If so, then first, rewrite k so that it's k^something . What's the something?
+
+Then, when you multiply two things together with the same base, you just add the exponents.  So you end up with k^(something + 6/4).
+
+Then, when you take the *n*th root of something, you're dividing the exponent by *n*.  So you end up with k^([something+6/4]/3).
+
+For 2., same idea.  Add the exponents.  Divide 'em by 3.
+
+For 3., just add 2 to both sides, then cube both sides, then take the fourth root of both sides.
+
+Hope that helps!",2,0,1444709026,1444720360
+cvxssou,0,t1_cvxot5v,r_a_g_s,Pretty much.  :),1,0,1444708807,1444720360
+cvxoox0,0,t1_cvxogfq,r_a_g_s,"It might have a solution somewhere in the complex realm, but that's way beyond me.  :)",1,0,1444702021,1444720360
+cvxod6t,1,t3_3oj4op,r_a_g_s,"Well, I get ln(x-2) as the integral, but to take it from 0 to 3, at x=0 you get ln(-2), which isn't defined.",2,0,1444701503,1444720360
+cvxkmm2,0,t1_cvvugph,r_a_g_s,"I've already got 48/38/28 on the front and 11-32 on the back; the best thing for me for hills will be losing the weight.  :)  And I will walk uphill as required.
+
+Tempted by clip-in pedals and shoes, but those aren't in the budget right now.  Thanks!",1,0,1444695760,1444720360
+cvxkioa,0,t1_cvw7xph,r_a_g_s,"Depends on the calculator.  The one I have defaults to End, and you press a key labelled ""Bgn"" to set it up for Begin.  You'll have to check the manual for your calculator.  (If you don't still have the manual, just google; I found my calculator's manual just now by googling ""ti ba ii plus professional"".)",1,0,1444695586,1444720360
+cvv7u6o,1,t3_3o9lyy,r_a_g_s,Cool.  I'd love to see the rocks after they cooled.,3,0,1444516878,1444720360
+cvv7sji,1,t3_3o8uy9,r_a_g_s,"I checked in Excel.  For a loan like that, it's pretty normal to pay the payments at the end of each year.  And if that's the case, then your 8854 answer is right (I got $8,853.59).  The Excel function I used was
+
+=PV(Interest,Term,0-Payment,0,0)
+
+where the last 0 is for ""End"", and the 0 before it is for the Future Value (which is the default, 'cause you usually want to have the loan completely paid off at the end.  :)
+
+Now, the question says ""beginning now"".  Does that mean that the first payment is at the *beginning* of the year?  Does that mean that *all* the payments are at the beginning of the five years?  If that's the case, then you switch to ""Begin"" (and flip that last 0 in the Excel function to 1), and I get $9,588.44.
+
+So looks like you're OK, as long as you double-check what the ""beginning now"" part of the question means.",1,0,1444516795,1444720360

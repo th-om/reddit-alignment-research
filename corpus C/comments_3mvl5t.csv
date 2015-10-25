@@ -1,0 +1,60 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvii5wd,1,t3_3mvl5t,zigmeister22,"Daraprim (Pyrimethamine) was developed back in 1953 and its patent has long since expired.  Any company, or other entity, can manufacture it.
+
+The drug is so easy to make that some hospitals even make it in-house:
+
+>In Canada, the drug was reportedly discontinued in 2013 but hospitals may make the drug in-house when it is needed.
+
+Source: [Daraprim (Pyrimethamine)](https://en.wikipedia.org/wiki/Pyrimethamine)",2,0,1443558692,1444722099
+cvit8vr,0,t1_cvii5wd,adebium,"I wrote a lengthly comment to the OP but I will comment here as well.
+
+> Daraprim (Pyrimethamine) was developed back in 1953 and its patent has long since expired. Any company, or other entity, can manufacture it.
+
+Technically this is true but not the whole picture. Daraprim is an off patent drug and any company (say, a generic manufacturer) can make it. We see this in India and elsewhere but not in the US. The FDA offers marketing authorization to a company. A company cannot make or sell a drug in the US without this authorization. Turing purchased the marketing rights to Daraprim and has the sole marketing rights to the drug in the US. The reason is simply because no generics manufacturer has applied for marketing authorization in the US. Not saying a generics couldn't, just saying no one has applied for approval yet. ",1,0,1443576947,1444722099
+cviigbn,0,t1_cvii5wd,nobody25864,"What does it mean then for Turing to have ""marketing exclusivity""? I've been told that this is a way of the government limiting the drug to only be sold by Turing, but all articles I can find online are talking about how awful the high price is rather than its surrounding legal status.",1,0,1443559101,1444722099
+cviijqd,0,t1_cviigbn,zigmeister22,"> What does it mean then for Turing to have ""marketing exclusivity""?
+
+I've never heard that he has this, but if he does I have no idea what it means.  
+
+All I know is that this is a very old drug that any drug company, or other entity, can make.  It's simple and the patent expired many decades ago.",1,0,1443559223,1444722102
+cvimh2k,0,t1_cviijqd,nobody25864,"I would think that without something like this he would be immediately undercut. I mean, according to wikipedia this drug is being sold for literally 5 cents in India and 2 cents in Brazil. If you could legitimately get away with a $750 price, you could import this stuff for the biggest profit margin in history. It seems more reasonable to me that something's preventing that from happening, and I figured that would be what these marketing rights are.",1,0,1443565110,1444722102
+cvitbd9,0,t1_cviigbn,adebium,Please read my other comment to your original post. Turing does have market exclusivity. It mostly has to do with no other company applying for a license to manufacture and sell in US. A generic could be available for sale in US only if they apply and receive approval from the FDA. ,3,0,1443577073,1444722102
+cvirqif,1,t3_3mvl5t,mathurin1911,"I spent waay too much time learning this, so here you go.
+
+
+Any drug sold has to have FDA approval, even generics, usually they just copy the patented drug, do a bit of research to prove its a good copy, and the FDA gives them a thumbs up, but its not free or fast, it is government after all.
+
+So Turing purchased the rights to sell the only versions of Daraprim approved by the FDA, they also restricted it to a closed sourcing system, which prevents competitors from accessing the drug to get their own version approved, resulting in a government created monopoly.",2,0,1443574289,1444722102
+cvis5mh,0,t1_cvirqif,nobody25864,"Awesome man! That's what I figured, but good to get a confirmation. You got a source I could cite?",1,0,1443575033,1444722102
+cvivuzi,0,t1_cvis5mh,mathurin1911,"It took browsing multiple pages with no single smoking gun page, here are a couple
+Different drug, same issue - http://blogs.sciencemag.org/pipeline/archives/2014/09/11/the_most_unconscionable_drug_price_hike_i_have_yet_seen
+
+Description of closed sourcing of this drug - http://www.pharmacytimes.com/contributor/monica-v-golik-mahoney-pharmd-bcps-aq-id/2015/07/new-pyrimethamine-dispensing-program-what-pharmacists-should-know#sthash.lruZY1k5.dpuf
+
+",2,0,1443581618,1444722102
+cvit1ss,1,t3_3mvl5t,adebium,"There are a lot of unique things happening with the sale of Daraprim. To understand what is happening you must understand (roughly) how a drug is developed and sold in the US. Bear with me while I go into a little background in order to give you insight into the current Daraprim situation.
+
+A drug developer (for example Pfizer, or as is in this case GSK) creates a drug to treat a disease. After developing a delivery route (say, a pill) the drug is put into clinical trials to determine safety and efficacy. After years of clinical trials, the company applies to the FDA for permission to manufacture and sell the drug to patients. The FDA evaluates all the clinical data for safety and efficacy, as well as reviewing the manufacturing record, facilities, etc. It the drug is deemed safe and effective the FDA allows the company to manufacture and sell the drug. Part of that license to manufacture and sell the drug is patent protection. The drug company is given a period of time for market exclusivity. At the end of this exclusivity period other manufacturers may apply to the FDA to manufacture the drug. These generics are able to leverage the large amount of clinical data from the original manufacturer and not have to repeat most of the clinical trials. The generic manufacturer must still be able to show is can manufacture the drug safely and effectively (and still match the original drug). If the FDA evaluates the generics data and can then allow for its sale and manufacture by that generic firm. 
+
+A couple things to note. The original drug costs many more times that of generics. The reason is that the drug developer (GSK, etc) must be able to recoup all the development and clinical trials for the original development of the drug. The generics manufacture has a much lower market entry threshold (much less development and trials) that the original therefore it is able to sell its generic for less. Also, the FDA gives a ""marketing authorization"" to one company. It doesn't approve a compound that would allow anyone to manufacture it. The authorization allows that one company to manufacture that drug in the way it was submitted to FDA. Even generic manufacturers each have to apply to ""marketing authorization"" to make and sell the generic. Once a drug goes off patent it is NOT a free for all for any company to make and sell it in the US. Each generic must still apply to market and sell the drug. 
+
+A manufacturer that has a ""market authorization"" to sell a certain drug in the US may sell that license to another company. This is what happened in the Daraprim case. GSK sold the marketing rights to Core Pharma who in turn sold it to Turing. The owner of the marketing rights is the one who sets the price. There is no regulation (outside of market forces and what a company needs to recoup its cost) that forces a company to sell a drug for a certain amount. This tells us that Turing is legally allowed to sell Daraprim for as much as it wants. That is not to say there are not generics of Daraprim for sale elsewhere, there are. But those generics do not have FDA approval to market and sell in the US. If they wanted to, they would have to file an application and go through the process. Turing has market exclusivity in the US for a couple reasons. 1. The US market for Daraprim is quite small (~1200 cases a year) therefore demand is very low, so low that prior to this year there were no generics trying to make entry into the US market (It is more widely used in other parts of world like India). The cost to bring a generic into US would is likely considered too high to allow for recouping of costs for application. 2. Turing has limited distribution of the drug in to a specific distribution chain in order to limit any development of generics. As part of generics application to FDA, a bioequivalence study would need to be conducted comparing the original (Turing Daraprim) and the generic. If a generic manufacturer cannot obtain samples of the original then the study cannot be performed and FDA application is incomplete. 
+
+Sorry for the verbal vomit. I think I covered everything but please ask any questions. 
+
+TL:DR: Turing bought the marketing rights to Daraprim. Allows them and only them to sell it in US. ",2,0,1443576603,1444722102
+cvj8os1,1,t3_3mvl5t,zschultz,"Now this is frightening me.
+
+Yesterda I was like ""Oh another evil monopoly businessman stuff?"" and ""Biotech security crushes? MAYBE he had Hillary helping him doing the shorting LOL""
+
+Today I learnt that Turi has acquired a ""marketing exclusivity right"" and literally no one on the internet knows what is this, everybody knows patent but suddenly I learnt that FDA can grant a company a monopoly on something that is way out of patent time (where's the law supporting this?).  And almost nobody on the internet knows what this thing is.
+
+I'm not US citizen, so just guessing: perhaps people out there in life know little about this power of FDA to grant monopoly?
+",1,0,1443619882,1444722102
+cvjig8f,0,t1_cvj8os1,nobody25864,">...but suddenly I learnt that FDA can grant a company a monopoly on something that is way out of patent time (where's the law supporting this?).
+
+From my understanding, this is a monopoly accidentally. Other people could apply to make this drug, but the FDA has made that a long and difficult process, and since the market for the drug wasn't big in the first place, it probably won't happen. So unlike a patent which guarantees a monopoly until it expires, this would could theoretically be broken, but the government just made it prohibitively expensive to do so.
+
+Or if you take the understanding of ""monopoly"" to be just some class of protected sellers, then all government licensing creates monopolies. The FDA literally exists to make monopolies.
+
+Obviously the moral of this story is that the free market is to blame and this is just profiteering businesses price gouging again and the government's policies are totally blameless. /s",1,0,1443634794,1444722106

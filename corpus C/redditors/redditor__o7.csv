@@ -1,0 +1,17 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvxdy6c,0,t1_cvxcfcr,_o7,Or elephants!,4,0,1444685078,1444717336
+cvx7pfw,0,t1_cvwz0ca,_o7,So what you're saying is this is the US payback plan for our debt to China?,2,0,1444676171,1444717336
+cvx7lma,1,t3_3oh1cp,_o7,"I've increasingly started to hate Kaspersky more and more.
+
+Over the last week I have been fighting with them to get our LEGITIMATE OWA URL re-categorized from Phishing because their support team is dense.  We don't use their software but one of our remote users reported it and they are unbelievably dense when I am asking them to just re-categorize a URL.",2,0,1444676020,1444717336
+cvx5gzg,0,t1_cvx47wz,_o7,"Yep, Failed.",3,0,1444672952,1444717336
+cvx5gbb,0,t1_cvx4g0c,_o7,"Yea, I've been reading the Practical Malware Analysis book and tinkering with what I can.  Mostly been pulling samples out of our email filtering that it hasn't identified and tinkering with REMnux. I'll probably be sent off to the SANS FOR610 GREM course (we do one a year at my company) soon.
+
+I appreciate it and will keep you in mind.",1,0,1444672925,1444717336
+cvx3q9c,1,t3_3oh2on,_o7,Love me some Jon Ryan.,3,0,1444670431,1444717336
+cvx173c,0,t1_cvwpodc,_o7,I've noticed a lot of samples recently that run in our threatgrid instances and don't really do much in terms of ... well anything.  They're mostly UPATRE samples so they're pretty easy to spot with static analysis but I find it interesting that its doing vm evasion.,1,0,1444666566,1444717336
+cvwz8xr,0,t1_cvui6h6,_o7,"> I care about what you've done and what you know
+
+I'd say passing a major certification is an accomplishment that can fall under the what you've done.  Not all of them are braindumpmindlessbullshit exams.  I can see your point though because I've interviewed a loooooot of people and I see the same correlation you do.",1,0,1444663397,1444717336
+cvu1qc0,0,t1_cvtymu9,_o7,Only the good ones.,3,0,1444419380,1444717336
+cvu04u4,0,t1_cvtmdpl,_o7,God damn I'm old.,0,0,1444416969,1444717336

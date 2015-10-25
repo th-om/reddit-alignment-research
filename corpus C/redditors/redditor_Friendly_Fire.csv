@@ -1,0 +1,35 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvxi0n6,0,t1_cvxeoj0,Friendly_Fire,"I'm glad the cops were cool and all, but they are still cops. You call them when you think laws are being broken. Are you honestly telling me you think going talk to people is worse then calling the cops on them?
+
+So anytime an older person gets suspicious of a group of young people hanging out somewhere unusual, instead of just going talk to them to see what's going on, they should call the cops?
+
+Apparently it's opposite world, where you'd rather people call the cops on you then just come talk to you if they suspect anything bad could be happening.",-1,0,1444691512,1444725499
+cvx9mtf,0,t1_cvx88te,Friendly_Fire,">Then this fuckhead had to investigate for himself.
+
+I don't see why the lady's actions are 'somewhat reasonable' but this guy was out of line. Calling the cops is way more of an escalation, this guy was willing to just stop and talk to the people first.",3,0,1444678943,1444725499
+cvx39mh,0,t1_cvx33sa,Friendly_Fire,"Yeah, but I think it's weirder if it's a girl. I don't remember groups of guys ever picking on girls. Everyone would find it strange/wrong. Much like how school bullies might push/hit a guy but would never do it to a girl.",8,0,1444669749,1444725499
+cvx2k2m,0,t1_cvwxew0,Friendly_Fire,">And the neighbor later walked in after the police left without knocking
+
+Everyone keeps saying that (probably because this is top comment) but there is nothing that says it was the same guy. It's possible that guy wasn't even around when the cops were there, but he saw the same thing (A group of people in his neighbors house when his neighbor isn't there) and wanted to check.
+
+I would you think they'd be happy he decided to just talk to them first rather then call the cops on an assumption.",3,0,1444668671,1444725499
+cvx2au3,0,t1_cvwycp6,Friendly_Fire,"Everyone keep saying ""the same neighbor came over"" but I can't find anything that says it was the same guy.
+
+Maybe he wasn't even around when the cops were there, and came back to see a group of people in his neighbors house when he knows his neighbor is gone?",26,0,1444668275,1444725499
+cvtxmzj,0,t1_cvturhb,Friendly_Fire,"You can have insightful questions along with standard ones. Adjust the points so getting the basics makes you pass, you need insight to get an A. That's how you teach right, but I guess it takes a little more work.",3,0,1444413264,1444725499
+cvtwyy0,0,t1_cvtvekx,Friendly_Fire,"Defensive driving is fine and all, but there is only so much you can do. Bike lanes are almost always right next to side street parking, are you supposed to just never use the appropriate lanes?
+
+Are drivers who go through green lights idiots if they don't stop and check for cross traffic first?
+
+Is driving next to another car in a lane stupid? My car was totalled not long ago when someone merged into me. Am I suppose to never have a car next to me in lane?
+
+If you think the biker was at fault in anyway your retarded. People can randomly drive into you at any point on the road. You can't ""defensively drive"" to prevent any situation.",1,0,1444412257,1444725499
+cvtoram,0,t1_cvtmtmc,Friendly_Fire,">readers are already saying ""me too"" in their head
+
+Projection? That certainly did not cross my mind. Without the last panel the comic would mean something else to most people (I'd bet).",22,0,1444399643,1444725499
+cvt2usr,0,t1_cvt2gpq,Friendly_Fire,Your damn right it's frustrating. I can't comprehend why people are down voting basically a list of facts.,1,0,1444346147,1444725499
+cvt1ox0,0,t1_cvsn777,Friendly_Fire,">Its impossible to guarantee that you can compute the fastest route within a fixed period of time.
+
+That's actually not true. Pathfinding in dota is just the shortest path problem, [which can be solved in polynomial time] (https://en.wikipedia.org/wiki/Shortest_path_problem). For instance, [A* is guaranteed to find the best path in polynomial time](https://en.wikipedia.org/wiki/A*_search_algorithm). It can also easily tell you if there is no path.
+
+Now, polynomial time might still be 'too slow' for dota where we want basically instant movement, so they probably use a lot of other more clever solutions, but the problem isn't that tricky.",3,0,1444344135,1444725499

@@ -1,0 +1,45 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvv2ji3,0,t1_cvv1qdh,desayunosaur,Worse argument ever,0,0,1444507076,1444731894
+cvt78zx,0,t1_cvsvfih,desayunosaur,He has a lot of prestige. Kill his wife and marry him to a commoner a few times ;),2,0,1444353652,1444731894
+cvsw07h,0,t1_cvsphmh,desayunosaur,I used to have a cat who'd just raise an arm up in the air and let his paw drop dead-weight on your sleeping face. Really annoying,1,0,1444335435,1444731894
+cvrtcdp,0,t1_cvrktur,desayunosaur,"The brother and I tried a few concoctions. Ham, tayto, cheese and Branston pickle won the great sandwich-off of 1999",3,0,1444256457,1444731894
+cvrek6u,0,t1_cvn8yq9,desayunosaur,"Had the same happen when I controlled most of Europe including all the west and Britannia. The Aztecs landed and trounced poor Iceland, but never ventured further than that. I did spot a raiding party off the coast of Africa a little while later but they didn't achieve anything",1,0,1444234740,1444731894
+cvr97a8,0,t1_cvq9e9u,desayunosaur,Requesting data from a domain does count as accessing it. Your IP will be right there in the header of those packets going to Facebook.com,1,0,1444226227,1444731894
+cvr6of9,0,t1_cvr6goc,desayunosaur,"Yeah they all use the VIP service.
+
+WP is well known for its security holes and unpatched instances are forever serving up malware to their guests.
+
+[News from yesterday](http://talosintel.com/angler-exposed/) on the subject",0,0,1444220804,1444731894
+cvr5qej,0,t1_cvr5ivl,desayunosaur,"Hang on there, I'm just going to defragment this CD disc in format C: and I'll be right with you",6,0,1444218041,1444731894
+cvr5hfw,0,t1_cvr4y0g,desayunosaur,"Oh this is fucking priceless. It's actually written with an uppercase W followed by 2 lowercase ones as well.
+
+Now let's speculate wildly.
+
+Was she trolled by someone on her staff?
+
+Is she trying to be ""hip"" with the young wans?
+
+Is she demonstrating her STEM chops by giving people a code to break before they can check out her site?
+
+Is she functionally illerate?
+
+Is this the password to her wiffy?
+
+This woman might be very nice but publicly she's a total wreck. Classic
+
+Further fails:
+Her FB isn't accessible unless you're logged in
+
+The fucking favicon on her site is a picture of HER
+
+It's also built on WordPress
+
+
+",12,0,1444217214,1444731894
+cvr538g,0,t1_cvr4uck,desayunosaur,"I don't to be honest, but a google search for ""setup a basic cms"" throws back a few pages that may be useful for you.
+
+Nobody likes WordPress, for many reasons. I wasn't suggesting to use that. Though you still retain the ability to add and remove features if you host it yourself and can edit or add to the code. Maybe [Joomla](https://joomla.org) or [Confluence](https://www.atlassian.com/software/confluence) would be good for you, both of them are quite modular and you can delve into the code further if you wish.
+
+If you're doing everything alone though, just remember to check out some basic security practices while you're at it - [sanitising inputs](http://stackoverflow.com/questions/3126072/what-are-the-best-php-input-sanitizing-functions), [XSS protection](https://www.owasp.org/index.php/XSS_\(Cross_Site_Scripting\)_Prevention_Cheat_Sheet), etc etc etc - some links for info there, not exhaustive though. 
+
+Have fun!",-1,0,1444215796,1444731894

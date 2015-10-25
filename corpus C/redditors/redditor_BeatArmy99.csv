@@ -1,0 +1,68 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvtzylf,0,t1_cvtzs4r,BeatArmy99,"> My orders get partial fills, making me do it in multiple batches at worse and worse prices, 
+
+You are not entitled to complete fills.  It's true for you as much as it is for anybody else.  
+
+If you submit a limit order, nobody is obligated to buy or sell from you.  If you submit a market order, you *will* get filled.  Whether or not you think your price is any good is certainly debatable.  
+
+>even in the 'good' example above where they aren't front-running. I personally see the effect compared to years ago.
+
+Front running is a specific term in finance.  If you suspect that your broker is front running your order, you should report that to the CFTC or SEC.
+
+>Furthermore, when you cancel 97+% of your orders and just move them ahead of where trading is going , are you really adding liquidity?
+
+Are you honestly saying that we should prevent price improvement?  You bid $10; it's wrong that somebody else bids $10.02?  I'm not even certain how to respond to that.
+
+>but getting a bad price at all times is not the kind of liquidity I want.
+
+Use limit orders.",2,0,1444416715,1444721796
+cvtz1r1,1,t3_3o3yya,BeatArmy99,They will rise.,-1,0,1444415350,1444721796
+cvtyqlc,1,t3_3o2ste,BeatArmy99,"I'm going to answer your question, but in a roundabout way (I'm a professional portfolio manager and I construct these sorts of things all the time.  I'm also a CFA charterholder).
+
+When you construct a portfolio, you can choose whatever benchmark you like.  ACWI, GSCI commodities, ML 1-3M bills, etc.  Nobody is stopping you.
+
+Say you chose the Merrill Lynch 1-3M bills index as your benchmark, then set about trying to beat it.  The simplest way to beat it would probably be to just buy some 2 year U.S. Treasury Notes.  I suspect you'll beat your index every single year.
+
+When you're managing an institutional portfolio, you can also choose whatever benchmark you please.  However, it's likely that your clients (investors) will question whether or not you've chosen the appropriate benchmark.  They'll ask why you're choosing a benchmark that tracks short term bills when you invest exclusively in notes that are of longer maturity.
+
+Do you see where I'm going with this?
+
+Back to your ACWI benchmark:  It would only be appropriate for you to use the ACWI as a benchmark if it reasonably reflected the universe from which you select investments.  It would not be accurate if you invested in a mix of U.S. Treasuries and precious metals.  
+
+If you use the ACWI as a benchmark, there are only a few ways that you can construct a portfolio to beat it.  You can:
+
+* Adjust the weighting of the overall asset allocation - that is, you hold more cash than is in the index.
+
+* Adjust the country weighting:  You hold countries in weights than differ from the weights in the MSCI.
+
+* Adjust the sector weighting:  You hold sectors in different weights than the MSCI.
+
+* Adjust the company weighting:  You hold companies in different weights than the MSCI.
+
+* Because this is an international benchmark, you can use direct investments with or without currency hedging, or you can select local country ADRs (if you're in the U.S.)
+
+You can do all of these things in isolation or in combination.  After some time goes by, you'll be able to see how your portfolio is performing vs. the MSCI.  You can perform what's known as an ""attribution analysis"" on your portfolio:  That is, you will be able to attribute your relative over/under performance to specific choices you made in the construction of your portfolio vs. the benchmark you chose.
+
+If you do end up deciding that your portfolio should hold other asset classes (real assets, precious metals, fixed income securities, etc.) then to be fair with yourself you will need to create a custom benchmark that in some way attempts to replicate the universe from which you have selected the assets in your portfolio.  
+
+Make sense?",2,0,1444414892,1444721796
+cvtxhw6,0,t1_cvtt8h9,BeatArmy99,Ouch.,2,0,1444413055,1444721796
+cvtxdxi,1,t3_3o48o6,BeatArmy99,"I don't think that I've ever met a truly informed individual who either believed that the best markets are ""free"" markets, or who believed that an unregulated (""free"") market is the ideal form of a marketplace.
+
+On the other hand, I've met plenty of individuals who support the type of ""classic liberal"" market espoused by Hayek, for example.
+
+---
+*Edit* - I've pasted below one of the most salient portions of ""The Road to Serfdom"" which explain exactly where Hayek was coming from when he discussed ""liberal"" markets.
+
+*""The unpredictability of the particular effects, which is the distinguishing characteristic of the formal laws of a liberal system, is also important because it helps us to clear up another confusion about the nature of this system: the belief that its characteristic attitude is inaction of the state. The question whether the state should or should not 'act' or 'interfere' poses an altogether false alternative, and the term 'laissez faire' is a highly ambiguous and misleading description of the principles on which a liberal policy is based. Of course, every state must act and every action of the state interferes with something or other. The important question is whether the individual can foresee the action of the state and make use of this knowledge as a datum in forming his own plans, with the result that the state cannot control the use made of its machinery and that the individual knows precisely how far he will be protected against interference from others, or whether the state is in a position to frustrate individual efforts. The state controlling weights and measures (or preventing fraud and deception in any other way) is certainly acting, while the state permitting the use of violence, for example, by strike pickets, is inactive. Yet it is in the first case that the state observes liberal principles and in the second that it does not. Similarly with respect to most of the general and permanent rules which the state may establish with regard to production, such as building regulations or factory laws: these may be wise or unwise in the particular instance, but they do not conflict with liberal principles so long as they are intended to be permanent and are not used to favor or harm particular people.""*",5,0,1444412888,1444721796
+cvtx51z,0,t1_cvtuim4,BeatArmy99,"> Unfortunately Capitalist desire for growth & profit create lies to fool investors, create bubbles and steal money from the fooled investor.
+
+Honest question:  Do you work for Xinhua?  Are one of those operatives that the Chinese put out on the internet to push propaganda?  Your comments don't make sense otherwise.",1,0,1444412512,1444721796
+cvtr6hg,0,t1_cvtq707,BeatArmy99,"While that's an interesting story, I would hardly characterize it as an analogy to the market.",5,0,1444403581,1444721796
+cvtr4wc,0,t1_cvtq25u,BeatArmy99,"Who cares if it's ""respected"" or not?  The goal is to make money.  You either do or you don't.",5,0,1444403515,1444721796
+cvtr39g,0,t1_cvtp2kw,BeatArmy99,"That's a pretty ballsy claim on your part, considering that you're just dead wrong.
+
+When I post times in a given rivals category, I will generally rank in the top 1%.  Even at that level, I *never* go on and claim to be ""able to destroy somebody else's times,"" because I know that even in the top 1% there's a wide distribution of quality.
+
+Maybe you're just that good - maybe you're in the top 0.5% or better.  However, using ABS, I doubt it.",3,0,1444403442,1444721796
+cvtod3r,0,t1_cvtoa09,BeatArmy99,"You can keep saying ""it"" as long as you want.  The counterargument being, of course, if ""it was as simple as printing money causes inflation,"" don't you think it would have happened by now?",1,0,1444398924,1444721796

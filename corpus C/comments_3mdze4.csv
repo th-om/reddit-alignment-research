@@ -1,0 +1,537 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cve98uv,1,t3_3mdze4,remierk,I would get rid of corporate taxes and tax capital gains as regular income. The government will never be able to tax corporations effectively. ,23,0,1443220371,1444723558
+cvek4ib,0,t1_cve98uv,ctindel,Hardly anybody except the rich think that is a bad idea.,0,0,1443244437,1444723562
+cvg1h8b,0,t1_cve98uv,TracyMorganFreeman,Treating it as regular income means shoring up capital losses though. It would literally mean bailing out failed businesses every year.,1,0,1443380215,1444723562
+cvf4trn,0,t1_cve98uv,Thorbjorn_DWR,You can thank neoliberalism for that. Which is one thing I don't agree with as a democrat specifically at the local level. ,1,0,1443300380,1444723562
+cvea3ua,1,t3_3mdze4,rabidstoat,"I side more with Republicans than Democrats on gun control. I'm not a fan of gun registration, do not favor a return of the assault weapon ban, and do not think making 'gun-free zones' restricts gun violence.
+
+Though, I'm not a personal fan of guns, I don't own one, and I've been target shooting all of once.",17,0,1443221989,1444723566
+cveair6,0,t1_cvea3ua,Revere12,How do you feel about mandatory background checks on all gun sales? ,3,0,1443222782,1444723566
+cvebfzc,0,t1_cveair6,rabidstoat,"I'm not fully conservative on the issue. I do support background checks and closing the so-called gun show loophole. I'm also not against restrictions on high capacity magazines though I'm not a huge advocate of it, more neutral on the topic. Oh, and I also don't support that proposed bill that allows the guns of someone reported as being 'mentally unstable' to be taken away without due process before the act.",6,0,1443224584,1444723566
+cvej0k3,0,t1_cvebfzc,Bipedal_Horse,Do you think that law enforcement won't follow due process?,2,0,1443241277,1444723566
+cveqzq9,0,t1_cvej0k3,secondsbest,"Just an anecdote, but they didn't after Hurricane Katrina. ",4,0,1443272817,1444723566
+cveehgp,1,t3_3mdze4,EntroperZero,Nuclear power.  Lots of it.  Do it.,49,0,1443230845,1444723566
+cvet8lv,0,t1_cveehgp,blakeguthrie,"Can you justify this in opposition to renewable energy? I know a fair bit about Nuclear, but the waste involved--and the immense time it takes to store the waste, not to mention if it spills--seems to outweigh the monetary costs of renewable energy startups.",1,0,1443278478,1444723566
+cvfvhrs,0,t1_cvet8lv,Malcolmthrowaway,"Watch the documentary ""Pandora's Promise"". It lays out the main pros and cons of nuclear. The main problem (from my perspective) is that public views are based on 1960s technology. We've frozen nuclear development in this country for so long that our understanding has retarded. Modern reactors (Gen III-IV) are capable of reprocessing the vast majority of the waste produced (I want to say over 95%, but could be wrong), and what little IS left over, we know how to safely store.",2,0,1443370665,1444723570
+cver6cd,0,t1_cveehgp,ironpete,In your backyard?,1,0,1443273357,1444723574
+cvf271s,0,t1_cver6cd,EntroperZero,Anywhere.  Everywhere.,1,0,1443295487,1444723574
+cver9xb,0,t1_cver6cd,GeoStarRunner,I'd take it at the same distance that any coal power plant is. Less radiation emitted from a nuclear plant.,12,0,1443273642,1444723574
+cveshiy,0,t1_cver9xb,ironpete,"Right up until it has a bad day. Don't get me wrong, I agree with you on coal but can you imagine a major incident occurring at Indian Point.",-4,0,1443276761,1444723578
+cvg1fnh,0,t1_cveshiy,TracyMorganFreeman,Oh please. Three Mile Island exposed people within 10 miles to the equivalent of a chest X-ray.,1,0,1443380150,1444723578
+cvg2lwm,0,t1_cvg1fnh,ironpete, Can you imagine a meltdown like  Chernobyl or Fukushima 25 miles from NYC,1,0,1443381827,1444723578
+cvg33b6,0,t1_cvg2lwm,TracyMorganFreeman,"Well Chernobyl was based on a flawed design that has a) been corrected and b) never been used in the US in the first place, *and* they overrode the safety measures which led to the catastrophe. We don't build plants with a negative coefficient of reactivity for pressure for a reason.
+
+While Fukushima caused zero deaths due to acute radiation poisoning and there has been no findings of statistically significant increases in cancer risks. The increase in radiation to the oceans was to 5 Becquerels per m^3, which for perspective you could swim in 10 Bq/m^3 water 6 hours a day every day and it would take 1000 years to get the equivalent dose of a dental x-ray. The dosage received in the Fukushima exclusion zone still wouldn't exceed the annual limit of US radiation workers, and this is all before considering that Fukushima built *two* plants, one of which shutdown without incident. The plants were built to withstand what was  at the time the strongest tsunami/earthquake record in history of the area a 7, while the one that caused a disaster was level 9. If we stopped construction on everything that *could* be hit by something worse than known data nothing would get done.
+
+France produces 80-90% of electricity using nuclear, and is more densely populated than the US. We'll be fine.",1,0,1443382527,1444723578
+cvg6ewv,0,t1_cvg33b6,ironpete,OK,1,0,1443387432,1444723578
+cvesqhr,0,t1_cveshiy,GeoStarRunner,The plant that's been running for 40 years with almost no problems? We've come a long ways with safety technology since 3 mile island.,8,0,1443277332,1444723578
+cvermj6,0,t1_cveehgp,turtlefucker472,"Oh this is interesting. In my country Nuclear Power is a very left position, while the right is against it",3,0,1443274600,1444723578
+cvehsu7,0,t1_cveehgp,,"Yep. Even if there are possible risks to it, it's completely worth avoiding the known risks of fossil fuels.",9,0,1443238211,1444723578
+cvekvkg,0,t1_cvehsu7,hooah212002,"> Even if there are possible risks to it, it's completely worth avoiding the known risks of fossil fuels.
+
+Even if one of those possible risks is altering DNA?",-2,0,1443246865,1444723578
+cvf260n,0,t1_cvekvkg,EntroperZero,Being in direct sunlight alters your DNA.  We're aware of the risks and can manage them effectively.,1,0,1443295433,1444723578
+cveplyz,0,t1_cvekvkg,TheInternetHivemind,"So does coal.
+
+Asbestos too.
+
+UV radiation does.
+
+Really anything with that california cancer label (which is almost everything) can potentially alter DNA.
+
+There are risks dude. You could get hit by a meteor. Yellowstone could erupt tomorrow. You could shit your pants at work after a particularly bad sneeze. 
+
+Deal with it.",4,0,1443267935,1444723579
+cvep9e6,0,t1_cvekvkg,themightymekon,Climate change will end civilization within centuries. Nuclear power won't.,9,0,1443266471,1444723579
+cvet0hd,0,t1_cvekvkg,nightstryker,"Coal releases more radiation than an operational nuclear power plant. The safe dose level for civilians outside a nuke power plant is 2% of the max dose for radiation workers (100 mrem per year v 5000 mrem per year) and rad workers aren't growing third arms en mass. Hell, pregnant rad workers are at 500mrem for the pregnancy duration, and rad worker kids aren't being born with genetic defects at significant rates.
+
+Nuke power as used and regulated in the US is perfectly safe.",4,0,1443277979,1444723582
+cvesamz,0,t1_cveehgp,HonorAmongSteves,It's a shame this is even considered a political issue.,10,0,1443276303,1444723582
+cve8jkf,1,t3_3mdze4,thatnameagain,"I'm basically done with cultural relativism as a framework for looking at other societies. I don't think that western culture itself is definitely the ""best"" culture out there necessarily, but I do believe that there's nothing inherently wrong about critically looking at different societies and the norms and social interactions they embrace or reject. Perhaps ironically my scale of cultural preference largely aligns with how liberal those cultures are, so go figure. (""Don't tolerate intolerance"")
+
+I think it's important to maintain a relativistic outlook when learning about other cultures, but I don't believe that that prohibits you from drawing objective conclusions about them.",47,0,1443219081,1444723586
+cvej27h,0,t1_cve8jkf,JonWood007,"Yeah, I'm actually very critical of other cultures at times. And our own. I think that Islamic culture is extremely barbaric, as evidenced by seeing women treated like cattle and people being executed over minor moral infractions, or simply wishing to go against the herd. 
+
+I'm also critical of our own though. I think we're way too hyper capitalist, have an insane work ethic/culture, and are WAAAY too individualistic/screw you I got mine. 
+
+No culture is perfect, and I have no problem attacking and culture, and as an atheist, former christian, I especially have no issue taking religion down a peg, since it seems to get way too much of a free pass in the world.",0,0,1443241402,1444723586
+cvet6gp,0,t1_cve8jkf,blakeguthrie,"A problem with cultural relativism as a maxim is that it is self-refuting. If everything is relative, then you have already identified something that is not relative: Relativity. (if that makes sense) There are plenty of other problems with it, though.",0,0,1443278343,1444723586
+cvf0iuf,0,t1_cvet6gp,thatnameagain,"That's correct. Though I think it's worth noting that cultural relativism doesn't have to mean ""the belief that all cultures are equally good in their own right"". It's a mode of approaching another culture that makes room to allow for differentiation without prejudice, and I think there are many instances in which it's important to utilize. But it's useless as you say if you make it your entire framework.",1,0,1443292346,1444723586
+cveanpm,0,t1_cve8jkf,AHSfav,That's an okay viewpoint as long as you're intellectually honest about the horrible parts of western society. Usually people aren't. ,14,0,1443223047,1444723586
+cvet6w6,0,t1_cveanpm,blakeguthrie,Criticism is fuel for the engine of progress.,1,0,1443278371,1444723586
+cvej2xc,0,t1_cveanpm,JonWood007,"Yeah, fair enough. As noted in my post, I'm very critical of many aspects of our own culture. ",1,0,1443241455,1444723586
+cveb2zh,0,t1_cveanpm,repmack,Horrible parts compared to what?,4,0,1443223881,1444723586
+cveb14e,0,t1_cveanpm,thatnameagain,"I think I am. But there's also a difference between things that are horrible in western society which happen to be generally worse than everywhere else, and things that are horrible but actually significant less so than they are most other places.",5,0,1443223776,1444723586
+cvewm7n,0,t1_cve8jkf,suto,"Is this really a leftist position? Or, quite frankly, a position at all?
+
+It's one thing to say that you shouldn't judge another culture as worse *simply for being different*. But is there anybody saying that we shouldn't criticize suttee because it's simply a different culture? Is it really the Republicans who complain about women's rights in Suadi Arabia and the Democrats telling them to cool it and just respect cultural differences?
+
+It's true that the left is generally more supportive of multiculturalism while the cries of cultural invasion come from the right, but I don't see anyone using ""cultural relativism"" to endorse illiberalism.",6,0,1443285161,1444723586
+cvgabo5,0,t1_cvewm7n,Quantum_Ibis,"It's usually difficult, in practice, to parse between *simply different* and inferior.  Most people in the west believe that democracy is a superior way to govern than, for example, the one-party system in China.  Most people in the west believe that fundamentalist Islamic countries are oppressive and barbaric when it comes to women, gays, and just about anything that deviates from their view of Islam.  Not to mention it's a culture bereft of scientific inquiry for about 1,000 years now.
+
+
+You really never hear scrutiny of this from the left.  I have never heard someone liberal excoriate the Castro regime in Cuba--the only time Cuba is referenced by such people, it's with this bizarre, romantic vibe.
+
+
+What gets me is how liberals try to portray themselves as these global citizens, concerned for the lives of all...Fantastic, but then you shouldn't act as if someone opposed to gay marraige in the U.S. is *the worst* when gay people--or people just suspected of being gay--have been thrown off buildings to their death by ISIS.",1,0,1443394026,1444723586
+cvf0mce,0,t1_cvewm7n,thatnameagain,"It certainly is leftist. Conservatism conserves one's culture, liberalism opens it to influence of others. 
+
+> But is there anybody saying that we shouldn't criticize suttee because it's simply a different culture?
+
+Maybe not that exactly, but certain variations of that theme, for sure. Women wearing Burkhas, for example. 
+
+>I don't see anyone using ""cultural relativism"" to endorse illiberalism.
+
+It's usually not done intentionally.",6,0,1443292522,1444723586
+cvf1bc3,0,t1_cvf0mce,suto,"> Conservatism conserves one's culture, liberalism opens it to influence of others.
+
+Your argument here seems to be, ""*if* this were a position, it *would be* a liberal one.""
+
+> Women wearing Burkhas
+
+OK, let's look at this example. In your top post, you wrote,
+
+>> I do believe that there's nothing inherently wrong about critically looking at different societies and the norms and social interactions they embrace or reject.
+
+As far as I've heard about the burka/niqab/headscarf debates from the left, the first step is precisely to look critically at it: do these cultural items, by nature or in practice, degrade or otherwise oppress women? If the answer is yes, the item is criticized. If the answer is no, then the item should be accepted because there isn't any harm in allowing it.
+
+A right-nationalist, on the other hand, might reject the item outright without critical examination on the basis that it's different.",2,0,1443293831,1444723586
+cve8wlg,1,t3_3mdze4,kevinbaconjames,"I'm torn on abortion. 
+
+I'm normally very opinionated poltiically, but this issue is just too big for me. I understand the immense pressure that an unwanted pregnancy can place on a young mother, and I appreciate that one should have a right ot autonomy over their own body. But at the same time I recognise that a fetus is in itself a human life, and I believe there is a moral obligation to protect an innocent life.
+
+I don't really see the point of arguing semantics over what time period abortion should be allowed in - what is the practical difference between killing a 20-week baby and a 22-week baby?
+
+I think maybe I feel that as a man I don't have the right to tell anyone what to do in this situation. I think if I did have a girlfriend who got pregnant and wanted an abortion I would support her in it, but I wouldn't feel morally pure.
+
+It's an issue that I really do not believe has a ""correct"" answer. For me, I simply say that I have no opinion. If there were a referendum on the issue I would abstain from voting.",29,0,1443219746,1444723586
+cvebzul,0,t1_cve8wlg,Foxtrot56,">fetus is in itself a human life
+
+Why do you believe this though?",-2,0,1443225690,1444723586
+cvernrz,0,t1_cvebzul,turtlefucker472,"It is human, and it is  life. This has never been a question. The question is whether it is a person with rights",1,0,1443274689,1444723586
+cvegvsb,0,t1_cvebzul,qi1,"* An individual's body parts all share the same genetic code. E.g. A Chinese human zygote implanted in a Swedish woman will always be Chinese, not Swedish, because its identity is based on its genetic code, not on that of the body in which it resides.
+
+* It is possible for a fetus to die while the mother lives, and it is possible for the mother to die while the fetus lives.
+
+* In half of all pregnancies, the unborn child is a male, meaning that even the sex of the child is different from the mother.
+
+* In many cases, the blood type of the unborn child is different than the blood type of the mother.
+
+* Human embryos are not independently generated by the woman.
+
+* It is illegal to execute a pregnant woman on death row because the fetus living inside her is legally a distinct human being who cannot be executed for the crimes of the mother.
+
+* Most states have fetal homicide laws which protect the rights of unborn children independently of the mother.
+
+* No matter how you spin it, women don't have four arms and four legs when they're pregnant. Those extra appendages belong to the tiny human being(s) living inside of them. At no point in pregnancy is the developing embryo or fetus simply a part of the mother's body.",3,0,1443236072,1444723586
+cvehs0h,0,t1_cvegvsb,Foxtrot56,">At no point in pregnancy is the developing embryo or fetus simply a part of the mother's body.
+
+Yes it is, and that is the current law. The fetus isn't viable outside of the mother's womb until a certain point.",-1,0,1443238157,1444723586
+cvft37x,0,t1_cvehs0h,Honky_Cat,"What does that have to do with anything?
+
+A fetus is reliant on its mother just as much as a delivered baby is. A mother can't just say ""Oh, you're out of the womb now and are viable and reliant on yourself"" and toss the baby outside to fend for itself.
+
+I hear this argument all the time and it makes absolutely no sense.",1,0,1443365905,1444723586
+cvfttr6,0,t1_cvft37x,Foxtrot56,"It's the law. 
+
+https://en.wikipedia.org/wiki/Roe_v._Wade",-1,0,1443367469,1444723586
+cvec7am,0,t1_cvebzul,kevinbaconjames,"I don't know, that's whats so tough about it.",5,0,1443226111,1444723586
+cvecbrz,0,t1_cvec7am,Foxtrot56,"I think it's an emotional response, not a logical one based on scientific fact. You have to accept that at some point the fetus is capable of no thoughts or feeling. Eventually they gain some reception to stimulus and much later they gain consciousness (after birth actually) and they meet some of the fundamental requirements  what people would consider a person.
+
+The arbitrary line that is drawn now is viability, not life or personhood, we are debating ""viability"" When can the baby live outside the womb? ",-4,0,1443226365,1444723586
+cvenr6c,0,t1_cvecbrz,roberttylerlee,"I'd argue it's somewhat scientific. From day one it meets the biological criteria for being alive. It's also got unique human dna, so it's a human. Personhood is a moral argument, and is completely subjective.",2,0,1443259103,1444723586
+cveeho9,0,t1_cvecbrz,Stormgeddon,"You could say it's a scientific one too, I believe. Without any intervention, the fetus would become a person. It's not a person at the moment, but to say abortion isn't ending a (potential) life is naïve. I think abortion should be legal but I feel icky about the whole thing.",5,0,1443230856,1444723586
+cvehtyr,0,t1_cveeho9,Foxtrot56,"Why though? It isn't a person. 
+
+Suppose that there was a way to impregnate a women with 100 percent success. The baby would always turn out to be healthy and happy. By not doing this we are stopping a life from entering the world. By your logic would should be forcing women to always be pregnant. ",-6,0,1443238287,1444723586
+cvei0d7,0,t1_cvehtyr,Stormgeddon,What? There's a big difference between creating a life for the hell of it and ending a potential life. Your scenario doesn't follow my logic at all.,6,0,1443238712,1444723586
+cvei1gy,0,t1_cvecbrz,LiveByTheFreePen,"None of this is based on scientific fact. It is your opinion, and nothing more than your opinion, that personhood should be determined by some standard of consciousness. Someone else can believe that personhood is innate and organic, and could show genetic and other evidence to prove it. Someone else could say that all of that is irrelevant because it will be whatever you want to measure it against If you don't preemptively kill it. Or someone could accept your premise but reject your utilitarian idea that we can mark personhood as emerging at any one point. 
+
+All of those are valid positions to hold. It's an ethical and philosophical problem, science does not answer this. ",6,0,1443238789,1444723586
+cvejrwi,0,t1_cvei1gy,Foxtrot56,"Well it certainly isn't my opinion, it is a fact. I'm not saying personhood should be the standard or that it is determined by consciousness. Other people have said and argued very successfully that it is. Anyways the scientific part is the viability which is definitely not possible at 12 weeks or before where 90 percent of abortions occur.",-1,0,1443243392,1444723586
+cvevbjj,0,t1_cvejrwi,LiveByTheFreePen,"Science is not going to answer your question. All your facts assume the point you're trying to prove, which ultimately is an ethical and philosophical argument. Telling me what week of gestation this or that happens doesn't mean anything if I don't think it is less wrong to kill a human because it's capacity for conscious thought hasn't reached some arbitrary level. ",4,0,1443282719,1444723586
+cvevstt,0,t1_cvevbjj,Foxtrot56,Then you need to accept the fact that this is an argument with no clear boundaries and that you can't police people's actions on it.,0,0,1443283619,1444723586
+cvewlvq,0,t1_cvevstt,LiveByTheFreePen,"That's true. It's ultimately a value statement for us as a society to make, one way or another. And I don't really know where I stand on it, to be honest. 
+
+>you can't police people's actions on it.
+
+Well that's just not true. I know it's fashionable to think government is some kind of scientific utilitarian calculus, but that's not actually how we operate as a society. We enforce rules because we support the ideals behind them. Nobody had a scientific basis behind the prohibition on murder, or protection of property rights, or the idea that people should be treated equally. You might come up with a scientific basis after the fact, but those are just things we value and want to have protected. ",5,0,1443285144,1444723586
+cvetbqh,0,t1_cve8wlg,blakeguthrie,"I wrote an [essay](https://blakeguthrie.wordpress.com/2015/03/27/science-religion-and-philosophy-on-abortion/) on this in the Spring. Kind of a brief overview of the arguments for and against abortion. 
+
+TL;DR It's complicated, but an abortion before the second trimester seems to be morally reasonable. (No sentience, central nervous system, etc.) After that it gets murkier.",1,0,1443278674,1444723586
+cvek05l,0,t1_cve8wlg,ctindel,Why can't the least bad answer be the correct one?,1,0,1443244074,1444723586
+cverora,0,t1_cve8wlg,turtlefucker472,"Allow it until a certain line drawn in the sand, but do everything you can to prevent it (welfare, contraception, sex ed, etc)",2,0,1443274764,1444723586
+cveo8j1,0,t1_cve8wlg,CesarioKart,"I think a good way to look at it is this: As a society, we agree that the ""mother,"" for lack of a better term, exists and has right to do what she pleases with her body. What we *don't* agree about as a society is whether or not a fetus is either a) an extension of the woman's body or b) exists as another entity entirely. In other words, outlawing abortion has the potential to limit the rights of *known* entities - the women - where as allowing it only has the potential to limit the rights of *contested* entities - the fetuses. 
+
+And really, I don't think my own personal opinion about whether or not the fetus is its own entity matters - the point remains that it's a heavily contested issue. In light of that, you kind of have to default to protecting the rights of the known entities, even if its at the risk of harming potential entities. If I believe that the law is a list of things I *can't* do, not a list of things I *can* do, I think I have to default to keeping something legal until there's a concise argument against it.",2,0,1443261539,1444723586
+cvej87b,0,t1_cve8wlg,rikross22,"I'm super conflicted about abortion. I am very opposed to the death penalty and feel like life doesn't just begin at birth or it's hard to measure when. I can sympathize when a pregnant woman loses her fetus from some horrible accident or non fault of her own because I do think of it as a life. But at the same time I understand how hard it is to have a child especially if you don't want one. 9 months of carrying it, the emotionally attachment of giving it away if you do adoption or the financial strain of keeping it. Back alley abortions were unsafe and hurt women as well. 
+
+I usually just say I don't have a uterus or really a well formed opinion on the issue, just wish we did more to prevent less abortions from even being needed instead. ",2,0,1443241850,1444723590
+cvebmyb,0,t1_cve8wlg,goethean,Abortion can be morally wrong and still legal. I believe that this is Biden's position. ,8,0,1443224971,1444723590
+cveebc9,0,t1_cvebmyb,rabidstoat,"I call these people anti-abortion but pro-choice, same idea.",2,0,1443230491,1444723590
+cvek0iq,0,t1_cveebc9,ctindel,Not many pro choice people are pro-abortion.,4,0,1443244105,1444723590
+cvebz6l,0,t1_cvebmyb,kevinbaconjames,"See, I don't understand that either. If you believe it is morally wrong, you believe it is a form of murder, it is the act of taking an innocent life. 
+
+It is the government's duty to protect the lives of it's citizens, especially the innocent that cannot protect themselves.
+
+For someone who believes abortion to be morally wrong, surely they would want the government to enforce it in order to save lives.",11,0,1443225652,1444723590
+cvfjmqq,0,t1_cvebz6l,shieldmegoodies,"Not quite. You can believe that abortion is morally wrong on a spiritual level, but acknowledge that the fetus doesn't experience any actual suffering because they're not yet sentient. It seems that a lot of liberal Christians tend to separate their religion from their secular political beliefs, and for them they just can't find any compelling secular arguments for why abortion should be illegal. ",0,0,1443331406,1444723590
+cvepg92,0,t1_cvebz6l,TheInternetHivemind,"> It is the government's duty to protect the lives of it's citizens
+
+That's one theory on government, yes. But you do need to be more nuanced than that.
+
+The citizenry as a whole? Yes.
+
+One individual? Not so much, to be honest. ",1,0,1443267264,1444723590
+cvf2gl9,0,t1_cvebz6l,LetsBlameYourMother,"Here's my take coming at the issue from a different direction, and make of it what you will.
+
+I am essentially a reproductive-rights absolutist: I believe that a woman's right to bodily autonomy absolutely trumps any ""rights"" of a fetus or any governmental/societal interest in that fetus. Accordingly, I think abortion should be legal under more-or-less any circumstances (acknowledging run-of-the-mill professional licensing and other regulations that affect medical practice generally).
+
+That said, I have no ironclad scientific basis for holding that view; I can appeal to no irrefutable, universal moral principle. Intelligent, ethical, reasonable people believe differently -- and that should be respected. People who believe that abortion constitutes murder should not be obligated to subsidize the practice with their tax dollars.
+
+Put another way, I'm all in favor of abortion rights . . . but maybe I'm wrong. In any event, there's no way to *prove* -- to myself or to others -- that I'm right. I can support abortion rights *and* (ready your downvotes) empathize with those who want Planned Parenthood defunded. 
+
+TL;DR: Epistemic humility is good; we should have more of it.",2,0,1443295988,1444723590
+cvecifn,0,t1_cvebz6l,goethean,That's simplistic. The mother also has rights. ,6,0,1443226737,1444723594
+cvecl8o,0,t1_cvecifn,kevinbaconjames,"I know. Thats why I refuse to take a position on the issue, but can understand why people would be on either side of it.",6,0,1443226893,1444723594
+cvef12v,0,t1_cvecifn,linkns86,"Once you acknowledge that there are two beings at stake here, each with relevant rights that need to be protect, it becomes a matter of weighing someone's right to life against other rights.  Usually the right to life will win out.   ",5,0,1443231985,1444723594
+cvekunr,0,t1_cvef12v,hooah212002,"> Once you acknowledge that there are two beings at stake here
+
+And that is a slippery god damn slope.",1,0,1443246785,1444723594
+cvfstiy,0,t1_cvekunr,Honky_Cat,How so?,2,0,1443365305,1444723594
+cvfjuw5,0,t1_cvecifn,shieldmegoodies,"But if you believe that a fetus is a human life, then you probably also believe that the mother's rights end where the fetus' rights begin. If a mother becomes tired of paying for baby food, she can't just let her baby starve because ""the mother has a right to her own money"". ",3,0,1443332049,1444723594
+cvebtnl,0,t1_cve8wlg,,"Same. Thinking about it too much makes me feel panicky actually, because i get to wondering what consciousness is and whether human lives even matter and the nihilism is just terrible.",3,0,1443225345,1444723594
+cveaj9s,0,t1_cve8wlg,ForeignPolicyHawk,"This issue beats the crap out of me as well, though in more conservative. One thing that bothers me is that it's gotten so heated that some activists actually have become pro-abortion and I don't know if that is right. First trimester, I'm fully behind. After that I get a little more hazy. ",16,0,1443222809,1444723594
+cvehgz1,0,t1_cveaj9s,dk1244973,"> First trimester, I'm fully behind. After that I get a little more hazy.
+
+I'm the exact same way.  As far as I can tell during tat first trimester its not much more than a clump of cells, but after that is too morally complex for me to pick a side
+
+",1,0,1443237436,1444723594
+cvem2w7,0,t1_cveaj9s,Precursor2552,"I hate the fact that I feel like the activists straight up have no shared ground. 
+
+I'm pro-Choice, but I hate when I see other people who just seem to straightup not understand why people are pro-Life. 
+
+I'm like look disagree, I certainly do, but at least give them enough to understand their argument. Don't believe it's a life, fine I don't either, but to just ignore their argument entirely? Now your going against the underpinnings of our republic. ",2,0,1443251314,1444723594
+cveawq3,0,t1_cve8wlg,Zep_Rocko,This is definitely my pov on this topic. Its absolutely overwhelming.,6,0,1443223537,1444723594
+cvedeoc,1,t3_3mdze4,LiteraryPandaman,"I'm very much in favor of a stronger border. I work on political campaigns for Dems and I worked on a really competitive race on the Mexican border once. I remember one conversation I had with a rancher when I was trying to get him to support my candidate. He took me on a tour: he showed me where their family had buried his dog. ""The cartels killed him because he kept barking when they would run by"" he told me, ""and they keep running through my property. We're so scared."" The border fence was in poor repair and even worse, the fence he had put up around his own property was taken down ironically by the border patrol so they could get access to it. The member that I worked for was really pro-border security and we got his support, but it was really tough to see how much they had really suffered.
+
+I just... I know, it makes no sense from an actual standpoint of legislation. That's so much money to protect such a long area. I really personally support a strong path to citizenship, but we have a duty to safeguard and protect our citizens first. I met way too many people who didn't feel safe out there, and that's not right.
+
+Edit: Ha love the downvotes, only on Reddit... go to the border and see what you think.",17,0,1443228572,1444723594
+cvegngl,0,t1_cvedeoc,Fuckn_hipsters,"> ""The cartels killed him because he kept barking when they would run by"" he told me, ""and they keep running through my property. We're so scared."" The border fence was in poor repair and even worse, the fence he had put up around his own property was taken down ironically by the border patrol so they could get access to it.
+
+I think the best way to solve, or at least work towards solving, the problems with the Cartels has nothing to do with a fence or border security in general. Legalizing Marijuana nationwide would crush the black market trade for these cartels and shrink their budget tremendously. Marijuana is how these cartels stay in business and cutting out this revenue stream would cripple them. 
+
+This would also work towards creating an environment that does not see hundreds of thousands of immigrants (refugees really) fleeing violence in their native country. Sure some would still come but not nearly in the numbers we have seen since the cartels in Honduras and Guatemala have risen to power.",1,0,1443235547,1444723598
+cvgewqu,0,t1_cvegngl,sasuke5a31at,cartels actually don't get as much drug money as they used to. A lot of them switched over to mining.,1,0,1443402636,1444723598
+cvf765c,0,t1_cvegngl,Valerion,"Pardon my ignorance of the subject, but wouldn't the cartels transition to harder drugs in that situation and continue to operate? Is marijuana really their primary cash crop? I don't know much about the war on drugs so I'm curious about this idea.",2,0,1443304866,1444723602
+cvf8650,0,t1_cvf765c,Fuckn_hipsters,">wouldn't the cartels transition to harder drugs in that situation and continue to operate
+
+These revenue streams from harder drugs are much more inconsistent due to the fact that far less people use hard drugs than weed. They also are more expensive to produce because they need ingredients from elsewhere whereas weed production is completely in house.
+
+It is much harder for cartels to pay for daily expenses like bribes with an inconsistent revenue stream from harder drugs. It could be done I guess but it would shrink the demand for illegal drugs which would, in theory, shrink the number of cartels and their influence.
+
+>Is marijuana really their primary cash crop?
+
+I've heard described like this: Weed is the paycheck that cartels get every other week that keeps that lights on and drugs like meth or cocaine are the bonuses that make them rich. 
+
+Here are some articles on how much legalization in just a few states are hurting cartels.
+
+[Daily Caller](http://dailycaller.com/2015/02/09/legal-marijuana-drug-cartels/)
+
+[Vice](https://news.vice.com/article/legal-pot-in-the-us-is-crippling-mexican-cartels)
+
+[Time](http://time.com/3801889/us-legalization-marijuana-trade/)
+
+[Washington Post](https://www.washingtonpost.com/world/the_americas/losing-marijuana-business-mexican-cartels-push-heroin-and-meth/2015/01/11/91fe44ce-8532-11e4-abcf-5a3d7b3b20b8_story.html)
+
+>I don't know much about the war on drugs so I'm curious about this idea.
+
+No worries, I am not an expert by any means but this is a topic that interests me greatly and I try to stay read up on it.  ",1,0,1443306804,1444723606
+cve8w1o,1,t3_3mdze4,kingvitaman,"Not exactly a Democrat but definitely on the left on many issues. I think there's some truth to the idea that welfare creates a culture whereby people can become dependent upon the state, which in turn entrenches poverty for generations. Problem is. I don't know what the alternative is. ",18,0,1443219718,1444723606
+cvej8ff,0,t1_cve8w1o,JonWood007,"Eh, to me, the problem is more about the structure of the welfare system trapping people by penalizing work than about people being poor through lack of effort. Our economy sucks, our welfare system sucks, we could be doing things a lot better. I'm actually a basic income supporter fyi.",2,0,1443241867,1444723606
+cvep8mm,0,t1_cvej8ff,Grenshen4px,"Basic income is absurd, costs too much money. And there would have to be many many safeguards to prevent abuse. That its better to keep the current welfare programs since they target a specific thing that is needed. Not so people can sit in the couch all day and get free money.",3,0,1443266376,1444723606
+cvevhie,0,t1_cvep8mm,JonWood007,"People should have a right to a decent living, capitalism fails to provide it, and forcing people to work for it comes off as de facto slavery to me. Ubi is much more easily accomplished than you think, it likely won't hurt work effort too much on the aggregate if implemented properly, and the only real loophole to take care of is immigration, which is why I'm more conservative on that front.",0,0,1443283029,1444723610
+cvf3vst,0,t1_cvevhie,,[deleted],0,0,1443298673,1444723610
+cvf45jm,0,t1_cvf3vst,JonWood007,"> No they don't. If you sit on the couch and do nothing 24/7 YOU ARE NOT WORTH $5,000 a month. 
+
+1) No one is talking $5k a month
+
+2) I think the answer to this question depends on moral system.
+
+>Which is why the Former eastern europe(russia+etc etc), China and even Cuba is reforming or have reformed towards capitalism right? Would they have $30,000 incomes per capita for everybody had they stayed under the communist system?
+
+...and now you're arguing against strawmen...
+
+>Forcing people to pay for you to play video games 24/7 is slavery for the people who have to pay the money for your useless comfort.
+
+We live in a society where everyone can't, and probably shouldnt work. Work is a means to an end, not an end in and of itself.
+
+Work would be voluntary under a basic income system, as everyone would receive it, even workers. So, totally not slavery, unless you believe taxes are slavery like ancaps do.
+
+>The budget to pay for it would require massive switching of current expenditures, Don't forget even if you use all military spending for a stupid idea it would only pay $1,000 per citizen. Its better to not have that crap at all.
+
+There are ways to do it if we aim for $6-12k a year ($500-1000 a month). And your ""better"" statement is subjective. 
+
+>Sit on the couch on someone else's money.
+
+Property ownership in societies is also relatively subjective as a social convention.",1,0,1443299166,1444723610
+cvfkga4,0,t1_cvevhie,,[deleted],2,0,1443333816,1444723610
+cvft7d0,0,t1_cvfkga4,JonWood007,"1) mixed systems like Scandinavia. Capitalist, but actually self aware of its weaknesses and seeks to compensate for them.
+
+2) your perspective is simplistic and fails to take the big picture into consideration. We have a system where everyone works for themselves...but this system leads to a lot of people being left out. People have to work harder than they would otherwise, competing with others in said system to survive. Poor people run over each other out of desperation to acquire jobs that pay poorly by rich people who don't give a ****. Since the number of people will always outnumber the number of jobs in a functioning capitalist society, labor's power is detoothed and people are forced to compete in a rigged game that dehumanized and commoditizes them. Above that, not being able to find work is a death sentence as they have no legitimate means to survive. What kind of society punishes people for there not being enough work available? What kind of society requires more work to constantly be created to allow more people to prosper? You mentioned basic morality,but now I'm gonna appeal to common freaking sense.
+
+Your ""moral"" arguments assume a lot of assumptions that I don't assume. They assume an absolute system of property to rights. They assume you are entitled to 100% of your money that you worked for in this system. I don't accept that. Nor do I accept the abolishment of private property as communists do. I accept a compromise. I accept that property rights should be flexible rather than sacrosanct. That it is good to override them if a case can be made that it leads to a greater good. Giving people rewards for labor is a necessary incentive to get people to work. Sure. But we can do without the threat of material deprivation if they don't. As such, everyone should get a minimal basic standard of living, and if people want more, and most people probably will, they can work for it. If we transition into an economy based on automation, the idea can be expanded, whereas automation is the death knell of your system.
+
+Capitalism has both good and bad aspects to it. It has a lot of weaknesses, but it also has strengths. I say we use the strengths and seek to compensate for the weaknesses, and ubi is the best program to do that.
+
+As I said, your idea is simplistic and fails to see the big picture. It makes people have to work harder and harder through the threat of material deprivation if they don't, has societal dysfunction naked into it, and is ultimately very selfish. You can say what you want of those who want what you consider the fruits of other's labor, but a system like I'm proposing would make most people better off, even the workers. Its only the rich who have to fear from it, and they have too big of a share of the wealth if the goal is wealth is to maximize happiness and well being. As far as I'm concerned, as a utilitarian, the goal of all morality is to maximize happiness and well being. All morality to come after that must accomplish that goal. As such, property rights themselves are only moral if they maximize happiness and well being. And they do....but not when applied absolutely. Only when applied in the manner I describe. As such, my concept of basic morality says it is moral to tax someone and use the money for s basic income program for the good of all.",1,0,1443366161,1444723610
+cvfthfb,0,t1_cvep8mm,DailyFrance69,">Basic income is absurd, costs too much money. And there would have to be many many safeguards to prevent abuse. 
+
+Both of these statements are blatantly incorrect. In studies and experiments done with basic income, it turns out to be _cheaper_ than most regular welfare systems, precisely because _there don't have to be any safeguards_ to prevent abuse. The whole point is that you distribute it to everyone, so _there is no abuse possible_. Your argument that there would have to be ""many many safeguards to prevent abuse"" shows that you have no fucking idea what basic income actually is. The only problem it would have would be mass immigration, but since we already have measures in place to prevent that, it's not really relevant to the regular welfare vs basic income debate.",1,0,1443366761,1444723610
+cvewv5h,0,t1_cve8w1o,suto,"Why do you think this? Many experiments with guaranteed basic income or negative income tax -- i.e., high levels of unconditional welfare -- seem to show the opposite: better educational outcomes, better health outcomes, and in some cases increased entrepreneurship.",2,0,1443285643,1444723610
+cveahsw,0,t1_cve8w1o,12broombroom,A gradient cap on welfare programs would help. I mean you can't blame a parent for refusing a $.25 per hour raise if it means they won't get subsidized childcare for their kid any more.,11,0,1443222731,1444723610
+cve9nfw,0,t1_cve8w1o,Asturias2789,"I feel that welfare should be contingent on participation in jobs programs (workfare) or participation in government sponsored career training.  At least those are my preferred alternatives.  Kind of the whole ""teach a man to fish"" sort of thing.  
+
+I think the government should still be very involved in this (public works projects) so it's still a fairly liberal idea... but I'm definitely in favor of people needing to do something good for their government in order to take money from the government.",21,0,1443221130,1444723615
+cvfvpqc,0,t1_cve9nfw,Malcolmthrowaway,"I disagree because of long-term employment and automation projections. Eventually we are going to hit a point where there aren't enough jobs to go around. When unemployment in the US starts hitting upwards of 15%, social and political tensions will spike. In that scenario, I think it's far better if we've already got a welfare system set up along the lines of a universal basic income, rather than having to then turn away from an entrenched morally-based system like workfare. ",1,0,1443371075,1444723618
+cvfyras,0,t1_cvfvpqc,Asturias2789,"I don't disagree, and I think that is a direction we should head eventually.  But right now our infrastructure is crumbling, and automation can't build a road or bridge yet or in the near future.  So let's put able bodied people to work, earning a living wage, in the meantime.  
+
+These aren't jobs that will be lost to automation like fast food or manufacturing.  And this is a multi-year, probably decades, long process to rebuild our infrastructure, so starting this now won't put off UBI.  But it can help bridge a gap while UBI is being implemented yet not fully realized.",1,0,1443376148,1444723618
+cveud1c,0,t1_cve9nfw,Gregorofthehillpeopl,"Maine added a work, work training, or volunteer requirement for assistance for those who are able bodied   It apparently cut down welfare a good chunk.",2,0,1443280855,1444723618
+cvek3s2,0,t1_cve9nfw,ctindel,"It is so weird to see how many managers in corporate America only want to recruit people that already have jobs.
+
+I understand what their thinking is, I understand why that thinking is bad for society, but I'm also not sure how you stop it from happening. A large penalty for hiring someone that isn't on unemployment to create an economic and social disincentive to hopefully end the bad behavior?",2,0,1443244376,1444723618
+cvep7wb,0,t1_cvek3s2,Grenshen4px,"> how many managers in corporate America only want to recruit people that already have jobs.
+
+Since their still working that means they have experience. Taking on new hirees is actually a risk more-so than people already employed. Even people who might of worked a great cubicle job, if they get unemployed. The ability of that person to get hired or atleast hired in a similair job position and/or salary. keeps diminishing if he can't find one. ",2,0,1443266288,1444723618
+cvepqsl,0,t1_cvep7wb,ctindel,"It's not just about the experience it's also about only wanting to hire A-players. And A-players already have jobs because companies don't let them go easily.
+
+I agree though this demand for experience and general unwillingness to train new employees is a big problem too.",3,0,1443268493,1444723618
+cveiwxs,1,t3_3mdze4,JonWood007,"Immigration.
+
+I dont mind if people come here legally and try to assimilate, but illegal immigration, while not AS problematic as conservatives portray it as (definitely not a DEY TUK R JERBS kinda guy), I am concerned about assimilation. I mean, I""ve seen a tendency among some liberals to move toward bilingualism, and when i challenge the concept, I normally get stuff about latin america and how this is the way the world is going and blah blah blah. Sometimes the talking points on immigration arent convincing. You cant say that on the one hand they assimilate but on the other hand we have to adapt to their presence. No.
+
+And if I were European, I'd been deeply concerned about all those muslim refugees. I can understand wanting to be humanitarian, but then I see stuff like that the refugees were trying to get octoberfest in germany shut down because it's unislamic? Screw that. If that's your attitude go the heck home.
+
+I'm very much a big believer in the whole ""my turf my rules"" sorta thing. I'm nowhere near as xenophobic as a lot of the right is. I'm not for mass deportation, I'm not for keeping immigrants out, but if you're gonna come, respect our culture, respect our rules, respect our way of life, and dont expect us to adapt to you. You're a guest in OUR country. Do things OUR way or get out.
+
+I also think birthright citizenship is highly problematic and while I support the concept for children of those who are legal residents, I think the children of two illegal immigrants should be not given US citizenship. Seems like a bad loophole, and it would be a possible exploit if we were to implement my kind of social programs in the US like basic income.
+
+Ever notice how left wing welfare states in Europe are also highly critical of immigration? That's basically the kind of liberal I am. Left wing politics combined with a lax approach to immigration is a very uniquely american position in terms of the political spectrum as far as I know. And it's basically because the modern republican party has a deeply racist/xenophobic history going back to the 1960s with the signing of the civil rights act, the exodus of the south from the democratic party, the southern strategy, etc. Because the right sopped up all the racist/xenophobic types, the left becomes the party of pro immigration. In many other countries, left wingers dont think much differently than me.
+
+It should be noted I still consider myself relatively moderate though on immigration. I'm not for mass deportations, as I said, I dont think they have a particularly harmful impact on the economy. I'm mainly concerned with cultural conflicts and lack of assimilation, as well as problems they might pose for the welfare state (our current system doesnt give stuff to illegals, but I'm for a basic income, which means we need to pay special attention to immigration as to not just give free money to people who come here illegally). 
+
+-----
+
+I'd also say I'm somewhat moderate on guns as well. I tend to lean toward the democratic arguments nowadays since our gun violence problem is out of control and we have so many mass shootings and all, but I also understand the second amendment and believe in states rights in governing this issue, since federal legislation doesnt make sense outside of the most basic stuff like no freaking automatic assult rifles, need background checks, etc. Anything beyond the most basic stuff should be handled locally. NYC needs stricter gun laws than rural wyoming does. Some parts of the country are very urban, and allowing firearms will just cause problems. Other areas are very rural, and there just arent the same problems that you would find elsewhere.",10,0,1443241009,1444723618
+cveqvy7,0,t1_cveiwxs,nicmos,"I'm with you, you're not crazy.
+
+creating multiple cultures with multiple languages is bound to end in disaster.  look at several European countries.  the Balkans, Belgium, Spain, hell even Canada.  there's always separatists.  not a cohesive society.  I think of it like if we were still in tribes. it just doesn't work to have one group of people who speak one language, and a different group that speaks a different one.  that's not one society, it's two.  and all this stuff goes generally for cultural assimilation.",3,0,1443272516,1444723618
+cved78a,1,t3_3mdze4,RareLuck,I'm torn on Unions in that I feel they overstep their bounds and create a lot of inefficiency in our economy. But I also feel that they are necessary to ensure a certain level of protection for workers. There's a fine line to the strength of Unions I think.,10,0,1443228144,1444723622
+cvepohc,0,t1_cved78a,TheInternetHivemind,"Just keep them as private institutions.
+
+They can strike whenever they want. You can't force people to go to work, that's slavery. If nobody wants to go to work, well tough luck for the employer.
+
+To stop that, don't let them be voted in once and forever. Make them keep providing for the average employee that they represent. ",3,0,1443268227,1444723626
+cve7wo5,1,t3_3mdze4,JeterWood,"I tend to be more pro-intervention and believe in global military projection.  I wouldn't count myself among the ""neocon"" crowd, but they more compelling arguments then the left credits them.",12,0,1443217936,1444723626
+cvebodl,0,t1_cve7wo5,stefvh,"I used to be completely opposed to neoconservatism. Right now, I'm much more in favour of it (and no, I'm not American).",2,0,1443225051,1444723626
+cve9hwk,0,t1_cve7wo5,rstcp,Living in Rwanda and studying its history basically made me into a liberal hawk. Sometimes the worst moral decision is to be a passive bystander.,14,0,1443220839,1444723626
+cvebowo,0,t1_cve9hwk,goethean,Yes but no group in the US advocated involvement in Rwanda as far as i know.,1,0,1443225081,1444723626
+cvegwt8,0,t1_cvebowo,Lews-Therin-Telamon,"The point is that Hawks have a hard enough time getting people on board with wars that are (allegedly) involved in tackling the enemies of the U.S. 
+
+Vietnam (Commies?), Iraq I (Sadam H. invading), Afghanistan (Taliban), Iraq II (WMDs?). 
+
+
+
+So presumably a true ideologue Hawk would be interested in increasing our global involvement (in a more ""benevolent"" sense), killing warlords in their own country, stopping racial cleanses, etc.",6,0,1443236139,1444723626
+cveci4e,0,t1_cve9hwk,tomanonimos,Some times intervening does more damage than goo.d ,3,0,1443226718,1444723626
+cvejbnh,0,t1_cve9hwk,rikross22,"Weisel had a great speech on this http://www.historyplace.com/speeches/wiesel.htm
+
+
+""The opposite of love is not hate, it is indifference.""",4,0,1443242112,1444723626
+cve8zds,1,t3_3mdze4,the_blue_wizard,"Though not quit conservative, I'm a Progressive that is a lot softer on Guns than many others, because I understand guns in the greater context of the Bill of Rights. 
+
+The Bill of Rights empowers the people, and in a sense, creates a new 4th branch of government. Everything in the Bill of Rights represents a means by which governments and tyrants have tried to oppress the people; by suppressing or forcing Religions, by controlling the press, by disarming citizens, by restricting the right to free speech and freedom of assembly, by engaging in warrantless searches, trial without jury or evidence, false indefinite imprisonment, and so on. When you give up these Rights, you open the door to Tyranny. 
+
+We are not far from that now. The govt can seize your property on a whim, they can detain you without charges or trial, they can execute secret warrants that are rubber stamped by a corrupt court. You have no privacy in your person or your papers (electronic or literal). And the list goes on. 
+
+When we gave up liberty to the Patriot Act, we gave up Liberty to Tyranny. ",10,0,1443219884,1444723626
+cvebqp0,0,t1_cve8zds,goethean,What does that have to do with guns? You going to stave off the US military with your private arsenal? ,1,0,1443225180,1444723626
+cveknvd,0,t1_cvebqp0,nickmyersbass,"It's not about feasibility, it's about the vested interest individual citizens inherently have. ",2,0,1443246167,1444723626
+cvedh3j,0,t1_cvebqp0,wesswll,"Thia is pure speculation, but something tells me if a revolution ever broke out because the Government tried to take away guns, a solid amount of military personnel would not side with the government. ",5,0,1443228718,1444723630
+cveepws,0,t1_cvedh3j,djm19,"Thats why even using the ""guns to fight the government"" argument is entirely unrealistic. We are a nation with a strong volunteer army that has no will to take up arms against its own countrymen.  ",10,0,1443231334,1444723630
+cven5v8,0,t1_cveepws,the_blue_wizard,"The Second Ammendment has nothing to do with hunting or self-defense. I say that the citizen have a right to be sufficiently armed such that they can form Citizen Armies that are outside the control of the State or Federal Govt. 
+
+True citizen militias. It is the very fact that these potential armies are NOT under the control of the govt, that assure the govt will always be under control ",0,0,1443256101,1444723630
+cveulgf,0,t1_cven5v8,milesandmilesoftacos,This is pretty accurate. Anyone who has read up on the writings of the framers of the Constitution/Bill of Rights should understand that the 2nd amendment is there so we can shoot tyrants.,1,0,1443281308,1444723630
+cvix0cw,0,t1_cveulgf,the_blue_wizard,"Whether you are being sarcastic or not, you are still 100% right. ",1,0,1443583776,1444723630
+cvix8i9,0,t1_cvix0cw,milesandmilesoftacos,No sarcasm. ,1,0,1443584252,1444723630
+cvj2ant,0,t1_cvix8i9,the_blue_wizard,Still right. ,1,0,1443597758,1444723630
+cven4v6,0,t1_cveepws,the_blue_wizard,"Let me quote something to you - (slightly paraphrased) -
+
+*""when...any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, ... laying its foundation on such principles... as to them shall... effect their Safety & Happiness. Prudence,.. dictate(s) that Governments long established should not be changed for light/transient causes; ... But when a long train of abuses... design(ed) to reduce them under absolute DESPOTISM,...it is (then) their duty, to throw off such Government""*
+
+Do you recognize those words? You should. ",0,0,1443255960,1444723630
+cvek6lh,0,t1_cvebqp0,ctindel,"Did you not see the armed standoff that rancher who refuses to pay federal grazing fees had with the US military? I mean there were snipers on the bridge aimed at military service members of their own country.
+
+This was literally armed insurrection and the feds wisely de-escalated and turned around. Of course the feds could have gone all ruby ridge and slaughtered the ranchers but that would be bad PR.",3,0,1443244616,1444723630
+cvef3xj,0,t1_cvebqp0,Weenercopter,"> You going to stave off the US military with your private arsenal? 
+
+This was actually one of the original arguments in favor of the 2nd Amendment.  Times have changed, but the founders were wary of too much government power, especially when that power abuses force.  ",7,0,1443232161,1444723630
+cven3lv,0,t1_cvebqp0,the_blue_wizard,"Yes, in case you haven't noticed, we haven't won a war lately, and all those wars we haven't won were with insurgent/guerrilla groups, not standard front lines military. 
+
+Look up the story based around *""The Sword of Damocles""*; we and the Bill of Rights are ""The Sword of Damocles"" hanging over the head of Government, and that is exactly how I would like to keep it.",5,0,1443255789,1444723630
+cveq2z0,1,t3_3mdze4,TheDildoWarrior,">What is the most...socially ""conservative"" viewpoint that you hold?
+
+In many respects, I agree with the idea of cultural traditionalism. Though not the unpleasant baggage that often comes with it. E.g. racism, sexism, homophobia, xenophobia, and so forth.
+
+Rather, I agree that ""traditional"" culture, sentimentality, and shared history act as binding agents which link together various disparate groups. This is key to creating a collective consciousness and an ""organic society"".  
+
+Now, I don't personally believe in religion, nationalism, classical liberalism, the Founding Fathers mythology etc. But I recognise their significance. So I don't really agree with the more hard-line, left-wing iconoclasts.",3,0,1443269806,1444723630
+cvetixa,1,t3_3mdze4,blakeguthrie,"When it comes to extreme egalitarianism (think SJW rhetoric), I find myself a little uneasy to support it. In essence, these movements come from an honest place that I agree with: We should all be equal. But I don't like the kinds of movements and ""arguments"" being made by blacklivesmatter, and online feminists. They just come across as immature (at best) and hate groups (at worst). I'm not saying these movements' messages are bad or harmful, but I don't think they are really organized well enough to be both reasonable and effective in enacting the change they're pursuing.",3,0,1443279106,1444723630
+cvegehv,1,t3_3mdze4,BUbears17,"Corporate income tax. We need to abolish it completely. We should tax the income of the individuals running it, but the actual business tax should be completely done away with so maybe we can start competing with other countries for having corporations headquartered here. 
+
+Also I don't think corporations are evil and I have no problem supporting Walmart if the mom and pop shop can't compete with their prices. ",6,0,1443234993,1444723630
+cveh1t6,1,t3_3mdze4,TheKillersVanilla,"I'm not against the death penalty because I think it is wrong to kill certain criminals. I'm against the death penalty because if we can be absolutely sure someone has done something bad enough to deserve that, then execution is letting them off too easy. They will still end up dead at the end of it, so stick them in a hole of concrete and steel and keep them alive as long as possible, never to see the sky again. ",3,0,1443236462,1444723630
+cvehuoo,0,t1_cveh1t6,,Also it just ends up being more expensive to give them the death penalty. Not worth it to satisfy our bloodlust.,5,0,1443238336,1444723635
+cve8m7b,1,t3_3mdze4,DYMAXIONman,Strict on immigration,4,0,1443219217,1444723635
+cve8i4f,1,t3_3mdze4,tehfunnymans,Cap and trade is a terrible way to deal with climate change and emissions.  The conservatives who have suggested a [revenue-neutral carbon tax](http://www.wsj.com/articles/SB10001424127887323611604578396401965799658) have proposed a much better idea.  ,3,0,1443219007,1444723635
+cvebszy,0,t1_cve8i4f,goethean,I'll be shocked when any conservative starts giving a flying fuck about climate change.,1,0,1443225309,1444723635
+cvepbn2,0,t1_cvebszy,themightymekon,me too.,1,0,1443266733,1444723635
+cvebvjs,0,t1_cve8i4f,,How does cap and trade work exactly?,1,0,1443225451,1444723635
+cve9iha,0,t1_cve8i4f,CompactedConscience,"Really? Economists overwhelmingly favor cap and trade as an efficient way to deal with climate change. It encourages production by firms that don't pollute much better than a carbon tax does. It baffles me that conservatives aren't more in favor of it because it is also the more free market approach. 
+
+What don't you like about it?",2,0,1443220868,1444723635
+cveahau,0,t1_cve9iha,ForeignPolicyHawk,I've seen more economists saying that the carbon tax actually is a better system at this point. ,8,0,1443222705,1444723635
+cvepe0y,0,t1_cveahau,themightymekon,"I like mandates. Look at California. It mandated that utilities start buying more clean energy, and they have 25% clean energy. Utilities have booked enough solar and wind purchase contracts for 33% by 2030, because it's the law.
+
+Now they just passed a law that they have to up it to 50% by 2030 (15 years) and this doesn't count hydro, which is about another 20%. So, we get to run on 70% carbon free power in just 15 years.",1,0,1443267007,1444723635
+cveb2kc,0,t1_cveahau,CompactedConscience,"I would believe it, I just want to know why. I've seen economist say a carbon tax is better than simple and strick emissions limits, but I haven't seen anyone saying that it is better than cap and trade.",1,0,1443223857,1444723635
+cver19l,0,t1_cveb2kc,MattStalfs,Cap and trade is much easier to have legislative loop holes written in by special interests than a broad tax on all carbon.,1,0,1443272945,1444723635
+cveeulq,0,t1_cve8i4f,djm19,In my line of work (urban planning) it always seems to me that its liberals who want a carbon tax and cap-and-trade is the compromise alternative (i.e. a market solution). ,3,0,1443231602,1444723635
+cvepbho,0,t1_cveeulq,themightymekon,"true. Republicans won't vote for any carbon tax, revenue neutral or otherwise.",1,0,1443266717,1444723635
+cve8r00,0,t1_cve8i4f,the_blue_wizard,"From my observations, Cap and Trade is all trade and no cap. It simply creates a false commodity that can be bought and sold. Yet, with no net effect on pollution. ",4,0,1443219462,1444723635
+cveprja,0,t1_cve8r00,TheInternetHivemind,"It seems to have worked fairly well for sulfur dioxide.
+
+https://en.wikipedia.org/wiki/Acid_Rain_Program",2,0,1443268573,1444723635
+cve9644,0,t1_cve8r00,tehfunnymans,Exactly.  It's really easy to get a loophole written into the law so that it doesn't apply to a particular industry.  A simple price on carbon is far more difficult to get around.  ,2,0,1443220232,1444723635
+cveauci,0,t1_cve8i4f,Zep_Rocko,I don't know any conservatives who would consider a carbon tax. Who are these people?,6,0,1443223408,1444723635
+cvegd3h,0,t1_cveauci,Qwerksss,"The authors of the op-ed in the comment you replied to, for starters. Or [Greg Mankiw](http://www.nytimes.com/2015/09/06/upshot/the-key-role-of-conservatives-in-taxing-carbon.html?_r=0). ",3,0,1443234907,1444723635
+cveidvp,0,t1_cvegd3h,Zep_Rocko,"Ok, but there's nothing conservative at all about a tax. Just because certain right wing individuals have recommended doesn't mean it's a broadly held conservative view point.",2,0,1443239649,1444723638
+cvej0yv,0,t1_cveidvp,DevonWeeks,">Ok, but there's nothing conservative at all about a tax.
+
+Not quite.  There's nothing libertarian about a tax, sure.  But, conservatives, generally speaking, have no problem with certain taxes.  They just tend towards views that limit the types of taxes and making use of fees (car registration, for example).  A conservative may have no issue with paying an income tax, but the notion of paying taxes on the money they leave their children when they die offends them.  Taxes is too broad a concept to break down to ""this group supports no taxes at all.""",1,0,1443241309,1444723638
+cvelkhy,0,t1_cvej0yv,Zep_Rocko,"Well, in North America at least, no tax pledges are very common among conservatives. In the United States in particular, it seems bizarre to describe a tax as a disincentive on something many conservatives are not concerned with (greenhouse gases) as a 'Conservative' idea. I'm willing to bet most conservatives would pick not changing anything over a cap and trade program or a carbon tax.
+
+I'm not saying conservatives can't support it, but I doubt the majority do.",2,0,1443249333,1444723638
+cven185,0,t1_cvelkhy,DevonWeeks,"I don't disagree they won't support cap and trade, but that's not rooted in an opposition to taxes in general.  That's more rooted in the opposition of ineffectual regulation and the role of government in general.  What you see a lot with no tax pledges, at least in the U.S., is the result of the Republican party pandering to its libertarian voters.  These voters aren't your typical Republican though, and that's why there is so much internal conflict in the party right now.",0,0,1443255488,1444723638
+cvechlf,1,t3_3mdze4,tomanonimos,"The gun issue on the Democrat party. I know for a fact that my party would ban all guns except for police and very limited use (hunting) if they could. 
+
+edit: The reason I know for a fact that my party would ban guns if they can is because there will be two groups on this issue: those that do want to ban guns and those that will just go with the flow or abstain from voting. ",4,0,1443226689,1444723638
+cveefru,0,t1_cvechlf,rabidstoat,"That's my take too, despite not being interested in having a gun myself. I'm actually a little bit fearful of them, probably on account of a lack of familiarity.
+
+But I grew up in the South, and they're pretty big on guns down here. My dad had a concealed carry permit when I was growing up, and most of my friends own guns. Heck, the town I'm in [legally requires all households to have a gun in them](http://rense.com/general9/gunlaw.htm). (Don't tell anyone that I'm breaking the law!)",3,0,1443230748,1444723638
+cvefl0q,0,t1_cveefru,tomanonimos,"I'm not against guns, at least in this current system, is because gun control laws dont prevent criminals from obtaining guns. If they want to shoot someone they will find a way to get these guns. I'd rather create a more efficient mental health system. ",1,0,1443233186,1444723638
+cveh4g9,0,t1_cvefl0q,rabidstoat,"I'm not sure if better mental health would be the end-all solution, but it would be good on a number of levels.
+
+As far as bans, I feel like the horse has left the stable on that one. Short of breaking all sorts of civil liberties to search houses and people and confiscate guns, there is not a realistic way to cut down on the numbers enough to be at all effective, IMO. And I'm on the side that believes gun-free zones primarily mean legal people don't have guns, and criminals might.",1,0,1443236631,1444723638
+cvemrof,1,t3_3mdze4,timalexander,"Its 2015.
+
+Go get a photo ID.
+
+""But some people in certain areas are...""
+
+Shut up. It's 2015. You have over a year before the election. Go get a photo ID.",2,0,1443254275,1444723638
+cvep8bm,0,t1_cvemrof,themightymekon,"Your boss won't let you off during work hours at McDonalds to get a bus to the nearest town with a DMV. If you get sick, stay home with your sick child, you would get fired. You are pretty clear he will fire you if you go on a jaunt to get an ID. 
+
+How do you get an ID?",1,0,1443266338,1444723642
+cvf57tk,0,t1_cvep8bm,skylar__,"With no ID, you're not even going to be able to cash your paycheck or open a bank account to deposit it to.",1,0,1443301089,1444723642
+cvf1xhn,0,t1_cvep8bm,Funklestein,"How do you ever buy food, get gasoline, go shopping, run errands?  There is no one who can honestly say that in the last year, or the coming year, it was impossible to find a single day to get an ID.",1,0,1443294985,1444723646
+cvepsh4,0,t1_cvep8bm,TheInternetHivemind,"There's no way you work more than 40 hours/week at McDonald's unless you're a manager.
+
+Even the managers get days off.",1,0,1443268674,1444723646
+cveyg0b,0,t1_cvep8bm,yourMOMraisedaMORON,How do you work at mcdonalds without an ID?,2,0,1443288567,1444723646
+cver3v1,0,t1_cvep8bm,ironpete,"You do in a rural area. You do not have a car. The place you have to go to is open 9 to 5 Monday to Friday. You have to take time off from your job and arrange transportation. 
+
+You were born in Alabama. You live in Texas. In order to get your picture ID you need a birth certificate that you don't have and have. You need to go to the city you were born in to get one. 
+
+Do you really believe the people pushing this are really concerned about the integrity of the vote or a perceived advantage to their side?",2,0,1443273155,1444723650
+cver1ws,0,t1_cvemrof,Nanotchka,"I agree with you that the requirement isn't particularly onerous. But my issue with it is that it is essentially a poll tax. Getting an ID is not free. We should not be charging people money in any way in order to vote. Voting is a basic right in our democracy, and it's not something you have to pay for, even if the payment is the small amount of money it costs to renew your photo ID.
+
+If someone wanted to propose giving out free IDs to people then I would be down with the photo ID requirement.",4,0,1443272998,1444723650
+cveuu81,0,t1_cver1ws,timalexander,"I'm not saying that there aren't aspects of this that I don't understand the argument. I watch the news stories that CNN and MSNBC do about this every news cycle too. There's always some person who works 3 jobs and lives in a farm village with no electricity and has an ogre for a boss.
+
+But for all the injustice that people claim on each one of these heart stories, I just sit there thinking that it's B.S.. The odds that most of these people would be fired or would have to be a neglectful parent just because they  need to go to the DMV one time, which may take a few hours out of a single day, just doesn't gel in my mind. Maybe that's because I'm a city boy and I truly don't get it. Maybe that's because I'm a pretty self motivated person. But one way or another, it doesn't make sense in my mind.
+
+I agree it should be free too, and I haven't done the research on how much it costs to get an ID in each state. But if it's under $25.00 for this once every 3 to 5 years requirement to have an ID with your face on it, then just find a way.
+
+I'm liberal on every other topic. Sexuality not dictate how any government treats any person. Guns should have background checks and be harder to get than a driver's license. Abortion is a hard choice for a woman to make. Climate change is real and needs immediate action. Wealth inequality needs to be fixed, and we should be treating capital income like any other income. Religion is a hobby, and should have no bearing in law making aside from protecting people for being discriminated against. I'm a liberal on social issues as they come.
+
+Also, when it comes to vote suppression, that is real in terms of gerrymandering districts, and election day should be a national holiday. Also, there should be a minimum number of consecutive hours that voting stations should have to stay open. But if your excuse is ""between  Nov 2012 and Nov 2016, I couldn't find the time and resources to go to the DMV once""..., then it sounds like just that. An excuse.
+
+But hey, it's just my opinion. I get that it's unpopular on here. It's just how I feel at my core.
+
+TL;DR - You can give me 'what if's all day. But if in the past 4 years, you couldn't find a single way to get a photo ID, I think you're focusing on why you can't, rather than how you can. ",0,0,1443281789,1444723654
+cvewdp8,0,t1_cveuu81,Nanotchka,"I'm not arguing the point that realistically most people can/should be able to find a way to do this. I'm simply saying that from a philosophical/ethical standpoint, it should absolutely never be a requirement to pay money to vote. It seems like we are in agreement on that point. I also agree with your points about making Election Day a national holiday, and about voting stations.",3,0,1443284711,1444723654
+cvf1u9h,0,t1_cver1ws,Funklestein,"The gasoline to get to the poll in your car isn't a poll tax.  The car isn't a poll tax. The bus fare isn't a poll tax. The acquisition of a photo ID isn't a poll tax.  Those are all things that have useful benefits beyond getting yourself to the poll to vote.
+
+And, btw, the states who have tried to pass a requirement for ID have proposed giving them out for free.  But the silliest part is that you almost certainly need a photo ID to even register as a voter in the first place.",2,0,1443294823,1444723654
+cvf2qon,0,t1_cvf1u9h,Nanotchka,"There are free options to get to the polls. They may be inconvenient or impractical but they exist. Most localities also offer voting by mail, and this is typically postage-paid. There is no free option to get a photo ID.
+
+""In order to vote, you must present this item, and this item must be paid for"" is a poll tax. 
+
+Incidentally, I'm not familiar with the law in every state, but in mine, you absolutely do not need a photo ID in order to register to vote. You must provide either a driver's license number or a Social Security number, but you do not have to actually present either of those cards. (And I would point out that a Social Security card isn't a photo ID anyway.)
+
+My objection may seem stupid and nitpicky, because most if not all people are more than capable of scratching together the cash to get a photo ID, and people need a photo ID for everyday life anyway, and come on what is the big deal here. But I feel like we need to hold a hard line on making sure that voting is free to all citizens.
+",1,0,1443296518,1444723654
+cvf34xn,0,t1_cvf2qon,Funklestein,"> There is no free option to get a photo ID.
+
+[Not true](http://www.gab.wi.gov/node/1917) and it's easily fixable by every state. [Here is a list](http://www.ncsl.org/research/elections-and-campaigns/voter-id.aspx) of those states that have ID laws in place.",0,0,1443297257,1444723654
+cvf410q,0,t1_cvf34xn,Nanotchka,"Well, as I've said from the beginning, I withdraw my objection if photo IDs are freely available. ",1,0,1443298945,1444723654
+cvediyg,1,t3_3mdze4,nicmos,"we should build a wall.  while it doesn't stop all illegal immigration, it does a lot to prevent it.  this country has every right to control who comes into it.  I don't think I have the right to go to countries where I want to go and stay there indefinitely.  I would love to take advantage of the social welfare in Switzerland or Scandinavia.  but guess what, it's not my choice about it.
+
+ultimately, we need a better work verification system.  the details of that I'm not an expert on what would work the best.  obviously the ultimate solution is not giving illegal immigrants work opportunities.  and this might require paying agricultural and other low wage workers a better wage. boo hoo.",2,0,1443228830,1444723654
+cvegfhs,0,t1_cvediyg,BUbears17,That might be the most inefficient way to prevent illegal immigration. ,0,0,1443235055,1444723654
+cvehtpb,0,t1_cvegfhs,,How so?,3,0,1443238270,1444723654
+cveio1t,0,t1_cvehtpb,BUbears17,"Ladders. 
+
+Walls don't really stop people and it'd be ridiculously expensive to build an effective wall along the whole border. Increased agents and tools for their job coupled with more relaxed immigration policy would be far cheaper and more effective. ",-2,0,1443240360,1444723654
+cver77h,0,t1_cveio1t,ironpete,"> Ladders.
+
+Slow clap.",2,0,1443273424,1444723654
+cvf211u,0,t1_cvediyg,Funklestein,I'm a republican and at this point I simply suggest that we annex Mexico and make them all legal.  This will allow us to clean out the cartels and their messes in their government that can't control their poverty and the reasons why they come here in the first place.,1,0,1443295167,1444723654
+cvegu23,1,t3_3mdze4,qi1,Abortion is murder.,2,0,1443235959,1444723654
+cvf239n,1,t3_3mdze4,IBitchSLAPYourASS,Pull your god damn pants up!!!,1,0,1443295286,1444723654
+cvf8hzo,0,t1_cvf239n,antichristina,Otherwise... username?,2,0,1443307454,1444723658
+cvf4vbb,1,t3_3mdze4,bartink,That Islam is actually a threat to the world.,1,0,1443300457,1444723658
+cvf5ibv,1,t3_3mdze4,skylar__,"I prefer cheap energy from fossil fuels over greener energy from renewable sources, and pretty much always favor human activity over environmental concerns.
+
+I also favor far more permissive gun laws.  State and local laws that interfere with second amendment rights should be struck down by the supreme court as unconstitutional.  No taxes other than regular sales tax, no fees, no hoops to jump through, no arbitrary restrictions on models or accessories, and the only way to lose your right to bear arms is to be convicted of a felony.",1,0,1443301628,1444723658
+cvfqndw,1,t3_3mdze4,sillyhatday,"Ideologically I'm a mosaic of liberalism, progressivism, libertarianism, and a dash of socialism. There isn't really any conservative current to my thinking. Even on spot issues where I agree with the republicans more it's because they have the more permissive(liberal) stance(guns), or I concede their idea is technically superior(trade).
+
+But that said, in many ways I'm a political republican. That is to say that as for our democratic republic, I favor a little more republican format. The reason is because while I believe the public should have absolute choice over who represents them, they shouldn't be making policy decisions. The lay public can be majoratarian and fantastically incorrect about basic things. I get annoyed when I go to vote in a local election and there is a question on there about routing a water main. I don't know; I'm not a competent authority on this. Ask a hydrologist. ",1,0,1443359696,1444723658
+cvjiewf,1,t3_3mdze4,TheGreatWolfy,"Guns are good, full autos should be legal.",1,0,1443634744,1444723658
+cve90o8,1,t3_3mdze4,dewooPickle,"Pro gun, anti union, min wage is inefficient. I support interventist policy when we are honest about them and willing to pay for them. I think there are many more ways to deal with climate change than cap and trade. Generally against subsidies unless its temporary to start a new tech or industry. Pro nuclear? (Does any party support that?)",1,0,1443219950,1444723658
+cvebbsq,0,t1_cve90o8,kevinbaconjames,You identified pretty much every defining issue of the Democratic party as something you are opposed to,3,0,1443224358,1444723658
+cvef3z0,0,t1_cvebbsq,sobermonkey,"He didn't hit abortion/gay marriage/or immigration, but other than that",1,0,1443232163,1444723658
+cvefctt,0,t1_cvebbsq,dewooPickle,"Well I have a lot of very liberal sides to me like being a Basic Income support, end the war on drugs, and I'm big pro science. And things like climate change, I'd rather have an inefficient Democratic solution than no solution at all. Healthcare is the same way, Obamacare got a lot of things fixed where as Republicans just didn't really want to do anything.
+
+And also Democrats are much better at foreign policy IMO. I'm not into the whole dick measuring contest with Russia and I think the Iran deal is good.
+
+",3,0,1443232688,1444723662
+cvefdu7,0,t1_cvefctt,kevinbaconjames,"Good answer. I was confused why you wouldn't support a min wage, but it makes sense if you want a Basic Income",1,0,1443232750,1444723662
+cvefx5h,0,t1_cvefdu7,dewooPickle,Yea kinda goes back to the same thought process of inefficient democratic solutions. Basic income is the pro capitalist form of welfare in my eyes. ,2,0,1443233927,1444723662
+cveaolo,0,t1_cve90o8,AHSfav,Don't think you're a liberal dude,13,0,1443223097,1444723662
+cvef6mh,0,t1_cveaolo,dewooPickle,"Na I wouldn't say liberal but when it comes to voting, especially  higher position, I almost always choose Democrats. ",3,0,1443232321,1444723662
+cve901x,1,t3_3mdze4,irondeepbicycle,"I'd support eliminating the income tax, and replacing it with a progressive consumption tax or land tax. That means eliminating taxes on cap gains, corporate profits, estates, and gifts too. ",1,0,1443219919,1444723662
+cvebatf,0,t1_cve901x,kevinbaconjames,"OP asked for social issues, not economic ones.
+
+Your system seems like it would have a lot of loopholes though. Wouldn't a consumption tax need to be absurdly high in order to cover all the lost revenue from income tax? And a land tax would be easily avoidable by investing in other areas, like stocks, bonds, or other schemes",2,0,1443224306,1444723662
+cvepru9,0,t1_cvebatf,TheInternetHivemind,Everyone has to live somewhere.,1,0,1443268603,1444723662
+cvep5q2,1,t3_3mdze4,Grenshen4px,"Crime.
+
+I'm a bit sick of people that excuse crime by trying to blame society for ""not giving potential criminals, money""  every news article has comments from people who think people who do crime should be forbidden because ""crime is only done because society ignores them"".
+
+And the other ones who want a rehabilitation approach to crime.",0,0,1443266027,1444723662

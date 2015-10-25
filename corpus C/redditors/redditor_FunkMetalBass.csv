@@ -1,0 +1,31 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvxpu4f,1,t3_3oj6fc,FunkMetalBass,"It sounds silly, but one of the best things you can do for yourself is read the book for your course beyond just the assigned exercises. Authors usually do a pretty decent job of motivating the material and trying to give you some intuition for where it comes from. This intuition should help you internalize the concepts. If you get stuck, there are plenty of great resources (khan academy, MIT OCW, etc).
+
+Another suggested technique is to study more often (even if the amount of time per week is the same). The more you see the material, the longer you'll have to mentally digest it, and this will help solidify it more long-term.",3,0,1444703794,1444718516
+cvx7uia,0,t1_cvx6wzm,FunkMetalBass,"Is this really the historical approach? I would think that fields -> rings -> groups might be slightly more natural. Vector spaces/algebras/modules are algebraic structures built on top of algebraic structures, and seem like they'd be a harder place to start.",4,0,1444676372,1444718516
+cvx4cd6,1,t3_3ogrme,FunkMetalBass,"In between homework, I'm wading through an older article of one of my professor's colleagues to try to figure out what is going on in the program I'm expecting from him. With any luck, we might finally be able to make some progress toward this looming question I've been at for 2 years now.",0,0,1444671330,1444718516
+cvvnuxv,0,t1_cvvlo9a,FunkMetalBass,"Since fat has more calories per gram than either carbs or protein,  it's not unreasonable to reduce fat intake for losing weight. ",9,0,1444554289,1444718516
+cvvnt19,0,t1_cvvn6wu,FunkMetalBass,Eggs are at a ridiculous all-time high right now because of a mass outbreak of avian flu. I believe it's actually currently cheaper to buy chicken than eggs.,13,0,1444554071,1444718516
+cvtnp9i,0,t1_cvtljkb,FunkMetalBass,"Since the triangle formed by the cone's height and radius is a right triangle, you could have applied some trig. (The angle x stays fixed, so r/h = tan(x) for all time.)
+
+Also, it's assumed you've seen similar triangles at this stage in your math career (and your book probably uses it for an example too), so you should be able to freely use it.",1,0,1444397671,1444718516
+cvsrdus,1,t3_3o01wn,FunkMetalBass,"Base case: When n=5, it's definitely true.
+
+Inductive hypothesis: Suppose 2k-3≤2^(k-2) for all 1≤k≤n. We want to show that this inequality holds for the case where k=n+1. So
+
+2(n+1)-3 = (2n-3)+2 ≤ 2^(n-2)+2 ≤ 2(2^(n-2)) = 2^(n-1) = 2^(n+1-2)",1,0,1444328726,1444718516
+cvsnd5l,1,t3_3nzfir,FunkMetalBass,"By a similar triangles argument, you have that h/3=r at all levels of the water tank.
+
+The height of the cone and the radius of the cone are both functions of time, so
+
+dV/dt = π/3 (r^(2) dh/dt + 2hr dr/dt)
+
+Since r=h/3, dr/dt = (1/3)dh/dt, hence
+
+dV/dt = π/3 (h^(2)/3 dh/dt + (2/9)h^(2) dh/dt) = (5π/27)h^(2) dh/dt.
+
+Now, when h=2m, you are given that dV/dt = 0.05m^(3)/s = 1/20 m^(3)/s, so, if I didn't screw up on any of these calculations,
+
+1/20 = (5π/27)(2)^(2) dh/dt  => dh/dt = 27/(400π) m/s",3,0,1444322920,1444718516
+cvrc5ru,0,t1_cvrbc5l,FunkMetalBass,"They could, but I don't think it would be a wise move. 20 lbs is a *big* difference (enough so that there's an entire men's weight class in between the two women's weight classes), and Vanzant would be at an incredible disadvantage.",6,0,1444231140,1444718516
+cvr8to3,1,t3_3nt1xe,FunkMetalBass,"If your friend has counter examples, then the two statements are not equivalent. I'm inclined to believe it is not true because breaking it down into definitions, you have quite a few ∨ connectives, and ∀ does not distribute over these.",1,0,1444225525,1444718516

@@ -1,0 +1,166 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cv4qq8f,1,t3_3lalr9,Unshkblefaith,"The legal limitations on liability do not apply in the case of criminal charges. If a CEO uses his company to embezzle money from clients, he is not exempt from prosecution simply because he did it under the guise of a corporation. What does limit the liability of management in criminal cases is the burden to provide evidence of wrongdoing.
+
+Can you prove that the CEO of GM told his subordinates to cover up the defect in ignition switched? What if someone further down the chain of command chose to hide the issue from their boss for fear of losing their job? Should a manager be held criminally responsible for negligence when he was unknowingly receiving bad information?
+
+The burden of proof in criminal cases is on the prosecution in our legal system, and without sufficient evidence of negligent or intentional wrongdoing a conviction is improbable at best. Just saying, ""Someone knew about the problem,"" is not enough. You need specific names, dates, and verbal or written correspondence. This problem is magnified by the sheer size of GM and the number of managers that were potentially involved. Unless there was a leak that put all of the critical information in the lap of the DoJ, any attempts at a criminal prosecution would be little more than a waste of taxpayer money.",13,0,1442502753,1444727630
+cv500gl,1,t3_3lalr9,SailorBexar,"If you want CEO's to have personal liability for the actions of the company they manage, than you better expect to pay CEO's a lot more than we already pay them. 
+
+I'm sure we will then hear more complaints about the wage gap between CEO pay and average worker pay. ",3,0,1442516773,1444727630
+cv4ou1e,1,t3_3lalr9,jfpbookworm,"Yeah, my impression is that the corporate veil is primarily intended to protect shareholders, not officers.
+
+But on the other hand, I don't think creating a crime (as opposed to a tort) of ""corporate malpractice"" will be effective, for the following reasons:
+
+* For fines, it will just create a market for ""corporate malpractice insurance"" and raise the cost of doing business (without actually making things safer or compensating people harmed).  
+* How do you decide when a criminal charge is appropriate?  With torts, there's the [""Hand formula""](https://en.wikipedia.org/wiki/Calculus_of_negligence) but should the standard for a crime be the same as the standard for negligence?
+* CEOs are going to have an inherent conflict interest between their fiduciary duty to the company and their personal interest in avoiding anything they could be personally prosecuted for.  
+* It will encourage CEOs to leave those decisions in the hands of lower-tier employees who many not have all the resources to make the proper decision, and may make *more* bad decisions as a result of overprioritizing their particular role rather than seeing the ""big picture"".  For example, from an engineer's perspective it can look like they're doing a better job if manufacturing costs go down, even if the gains are more than offset by legal fees, settlements, judgments, etc.",5,0,1442499717,1444727630
+cv4zejc,1,t3_3lalr9,ChrisDeg87-2,You should watch the movie Class Action with Gene Hackman.  That movie goes into this exact issue. ,2,0,1442515861,1444727630
+cv53up4,1,t3_3lalr9,suijuricide,"I'd hold them to the same standard as military commanders accused of war crimes under international law. The doctrine of command responsibility states that a commander is liable for the crimes of his subordinates if he knew or should have known of the violations and had the power to stop them, but did not. 
+
+The same standard would apply in a civil or criminal case. The only thing that would change would be the burden of proof.",2,0,1442522508,1444727633
+cv4nns9,1,t3_3lalr9,Foxtrot56,If the CEO really did know and didn't do anything than they should be charged with involuntary manslaughter. The company should have to pay out sums of cash to the victims.,3,0,1442497630,1444727633
+cv4mwz2,1,t3_3lalr9,IUhoosier_KCCO,"i'm not sure about the answer to the question. but here is something to keep in mind...
+
+the entire point of forming a corporation is to shield oneself from liability. a CEO shouldn't be criminally responsible for decisions made below him. that would ensure that nobody would start a corporation in the US. i think executives deserve protection from personal liability. as organizations get larger, they are controlled and managed less and less by executives.
+
+that being said, i'm not sure exactly how much liability the executives should have. i don't think it should be much. instead, we need to start fining companies significant amounts of money if we want to incentivize behavior (and so penalties aren't just another P&L line item).",0,0,1442496179,1444727633
+cv4n1r3,0,t1_cv4mwz2,dragon34,"The fines being increased was another item that was mentioned.  I guess I feel like the decision to recall or not was made at a pretty high level.  If a flaw in a product could kill someone, it seems like a pretty deliberate to limit financial liability to go ""naw, I'm gonna risk it"" ",0,0,1442496448,1444727633
+cv4n8op,0,t1_cv4n1r3,IUhoosier_KCCO,"> If a flaw in a product could kill someone, it seems like a pretty deliberate to limit financial liability to go ""naw, I'm gonna risk it""
+
+it's a fairly simple cost/benefit analysis. families do it with their loved ones. it's not a comfortable discussion to have, but companies will make decisions to not recall when the cost of lawsuits and whatnot is less than the cost of recall. it's a reality that we have to deal with.
+
+maybe the focus should be on ensuring that GM and other car companies don't need to recall in the first place. stricter regulations? harsher penalties for when they screw up? any other ideas?
+
+if execs start getting punished criminally for decisions, you can say goodbye to a lot of corporations, especially ones that can involve people dying.",6,0,1442496832,1444727637
+cv4pc3l,0,t1_cv4n1r3,MeowTheMixer,"Was the risk actually identified as ""someone might die""? I have a feeling that it was more general such as the ignition switch may fail, which can prevent air bags from deploying"". 
+
+I'm pretty sure it wasn't ""The ignition switch can fail, causing serve accidents, that can result in death"". 
+
+There should be some accountability, but I really think you're trying to pin more on them than what they may have actually known. ",3,0,1442500542,1444727637
+cv4nt88,0,t1_cv4n1r3,BrawnyJava,"How do you determine what's a criminal flaw in a product?  A car has a hundred systems that can malfunction and kill someone.  Pretty much every one will fail at some time and kill someone.
+
+What about products that are inherently dangerous, like ladders and chainsaws?  ",5,0,1442497904,1444727637
+cv4r6a7,0,t1_cv4nt88,sllewgh,"The issue is that the flaw was known in advance and the decision was made to sell it anyway rather than correct it.  We aren't talking about inherently dangerous products, we're talking about faulty ones that are supposed to be safe.  That has already been established. ",3,0,1442503453,1444727637
+cv4tbpd,0,t1_cv4r6a7,BrawnyJava,"Every car model has at least one instance of an ignition failing.  How many failures does it take to constitute criminal negligence?  How does a manager at gm know when to make the call?  And why didn't the nhtsa tell them to recall it?The fact that nhtsa didn't tell them is a pretty strong defense against an accusation of willful, criminal negligence.",1,0,1442506755,1444727637
+cv4tmbn,0,t1_cv4tbpd,sllewgh,"Like I already said, the determining factor is whether it was known in advance.  It's about knowingly pushing a dangerous and faulty product. ",3,0,1442507204,1444727637
+cv4u7gm,0,t1_cv4tmbn,harsh_springboard,"How do you define ""faulty""? Namely, what failure rate per million units would you consider faulty? Additionally, what proportion of failure must result in bodily injury for you to consider the fault dangerous? ",2,0,1442508099,1444727637
+cv4unel,0,t1_cv4u7gm,sllewgh,"A faulty product in this instance is one that causes the product to fail or work incorrectly, and it subsequently kills or injures people.  If a decision maker in a company knows of such a fault and sells the faulty product anyway, they should be held accountable for not preventing the consequences. 
+
+I don't think establishing a rate of failure is pertinent to this logic. I'd leave that to the courts on a case by case basis. 
+
+I think in Op's example, the relevant executives should have been held responsible for the deaths their product caused that could have prevented. ",3,0,1442508765,1444727637
+cv4uwa7,0,t1_cv4unel,harsh_springboard,"If your standard is any part that is known to fail and kill people, I wouldn't be surprised if the majority of the mechanical components  your car meet that standard for negligence.
+
+What many people don't understand is that the rate IS the pertinent thing, since you cannot build a product that will never fail. ",2,0,1442509136,1444727637
+cv4v2qg,0,t1_cv4uwa7,sllewgh,That isn't my standard. Please reread my post.  Working incorrectly and preventability are also factors. A part that fails through sustained regular use across its typical lifespan is not a faulty part. ,1,0,1442509407,1444727637
+cv4p78p,0,t1_cv4mwz2,Valisk,"> as organizations get larger, they are controlled and managed less and less by executives.
+
+I thought the reason for their absurd levels of pay was precicely because of how much effort went into managing and controlling a large organization. 
+
+You can't have it both ways.",1,0,1442500317,1444727637
+cv4q3k1,0,t1_cv4p78p,IUhoosier_KCCO,"> I thought the reason for their absurd levels of pay was precicely because of how much effort went into managing and controlling a large organization.
+
+not sure where you got that idea from. most executives rely on stock options for most of their pay. some CEOs even have a $1/year salary. so, their pay depends on the share price. 
+
+for executives with large salaries, a lot of factors go into determining salary. what you mentioned is definitely an important one. but there are many important ones.
+
+> You can't have it both ways.
+
+the higher up the food chain you are, the more responsibilities you are delegating. a lot of skill and effort is involved in ensuring that delegating these responsibilities in an effective and efficient matter. you can definitely have it both ways.",6,0,1442501756,1444727637
+cv4x9ps,0,t1_cv4mwz2,Drayzen,Enron tells me what you just said is dumb.,2,0,1442512677,1444727637
+cv4xnch,0,t1_cv4x9ps,IUhoosier_KCCO,"there's a difference between actually committing crimes and making poor decisions that lead to people's deaths (notice how there is really no ""crime"" involved - maybe negligence but that is tough to prove). enron has very little to do with what i'm talking about. ",1,0,1442513240,1444727637
+cv4yy01,0,t1_cv4xnch,Unshkblefaith,">there's a difference between actually committing crimes and making poor decisions that lead to people's deaths 
+
+So criminal negligence is not a thing now? If I leave a loaded handgun next to a toddler, should I not be held accountable if the toddler shoots themselves or someone else? In the context of deaths resulting from negligent decision-making we have criminally negligent manslaughter, also referred to as criminally negligent homicide in the US. This charge is applicable in situations where death results from the failure to perform a duty owed. So if deaths occur because I choose to not fix a problem that I know can kill people, I can be convicted of criminally negligent homicide.
+
+There will be no convictions of GM managers, not because no crime was committed (one definitely was under US law), but because proving exactly who knew what and when is not feasible in this situation.",1,0,1442515163,1444727637
+cv4zkay,0,t1_cv4yy01,IUhoosier_KCCO,"from the post you just responded to:
+
+> (notice how there is really no ""crime"" involved - maybe negligence but that is tough to prove)
+
+i understand that it's a crime that exists.
+
+> but because proving exactly who knew what and when is not feasible in this situation.
+
+this is pretty much what i meant when i was saying it is tough to prove",1,0,1442516099,1444727637
+cv4zzi2,0,t1_cv4zkay,Unshkblefaith,"My purpose was to point out flaws in your overall argument.
+
+1. There is no maybe in the matter. A crime was absolutely committed (homicide).
+
+2. The CEO and managers are not protected from prosecution because of limitations on corporate liability. If we had strong evidence that the CEO was negligent he would absolutely be convicted in that scenario.",1,0,1442516733,1444727637
+cv50dlx,0,t1_cv4zzi2,IUhoosier_KCCO,"> There is no maybe in the matter. A crime was absolutely committed (homicide).
+
+ok... let me show you, once again, what my comment said:
+
+> (notice how there is really no ""crime"" involved - maybe negligence but that is tough to prove)
+
+sorry if it was unclear, but that is me recognizing that negligence (whether it be negligent homicide or what have you) is an example where an executive can be held criminally liable.
+
+> The CEO and managers are not protected from prosecution because of limitations on corporate liability.
+
+i know they are not. i never said they were. my comment said:
+
+> i think executives deserve protection from personal liability.
+
+it was my opinion. unless you are speaking of something else?
+
+> If we had strong evidence that the CEO was negligent he would absolutely be convicted in that scenario.
+
+ok great - and i would agree with that sort of conviction.
+
+you seem to not understand my comments at all. let me know how i can help you understand them. i hope this clears it all up.",1,0,1442517313,1444727637
+cv4xv6t,0,t1_cv4xnch,Drayzen,"Subject: What liability should CEO's have and other executives have for their decisions?
+
+Body of your post scanned for ""death"": 0
+
+At no point did you mention death. How was I to know you were talking about death?",1,0,1442513557,1444727637
+cv4xzcc,0,t1_cv4xv6t,IUhoosier_KCCO,"the first paragraph in the body of the post:
+
+> I heard on the radio this morning that GM, knowing about a defect in their ignition switches for over a decade, elected not to recall them, resulting in 124 deaths. It was also said that the executives would not be prosecuted.
+
+sorry if it is unclear. maybe you can ask me to clarify instead of being a bit of an asshole about it? you don't have to walk me through your thought process.",1,0,1442513726,1444727637
+cv4pvfn,1,t3_3lalr9,ender1944,"At the heart of the matter is peoples right to buy things that are dangerous to them.  Every design decision has trade offs.  Following your argument to its logical conclusion and every car would have a solid diamond chassis and angled undercarriage IED deflectors.  Also following your logic, we should jail every CEO who sells peanut butter - given the hundreds of children who suffocate to death during allergic reactions to peanut butter!
+
+Free citizens should be allowed to trade risk.",-1,0,1442501406,1444727637
+cv4zb9q,0,t1_cv4pvfn,yankeesyes,The only way this can work is if people have the information to assess the risk of buying a product.  The peanut butter analogy is wrong because peanut use is disclosed in consumer products.  The fact that a car has a faulty ignition switch generally isn't until a recall happens.,1,0,1442515722,1444727637
+cv4tm7f,0,t1_cv4pvfn,dragon34,"But it's informed risk.  I don't own one of the affected vehicles, but if they knew about the problem and continued selling vehicles with the problem then they should have notified customers of the risk.  By covering it up as long as they did they denied customers the right to make an informed choice.  I doubt many would have willingly purchased a car that might randomly turn off or on.",2,0,1442507199,1444727637
+cv4rk76,0,t1_cv4pvfn,Filosophrank,"But people have a right to awareness about those risks. Peanut butter allergies are a known risk. Typical car accidents are a known risk. Having a part fail on your car that you didn't know could fail can't be avoided. They aren't necessarily responsible for the deaths directly, but if they withheld the information that would have led consumers to make a better decision, then they are absolutely civilly and morally responsible. The actual criminality is up to judges and legislature.
+
+Frankly, none of us has time to stress test all 21,000 parts on your car. We trust the manufacturer to do that for us, and to inform us if there is a problem.
+",2,0,1442504039,1444727637
+cv4r0j0,0,t1_cv4pvfn,sllewgh,"No, at issue is people's right to SELL things that are dangerous to others. We're talking about a situation in which someone who knows the product is dangerous sells it to someone who reasonably assumes that it isn't. ",3,0,1442503202,1444727641
+cv4rf09,0,t1_cv4r0j0,ender1944,"Well alright, so in your opinion, at what %-mortality-causing should a product be allowed to be sold at?  And how would you define "" reasonably assume""?",0,0,1442503818,1444727641
+cv4rozl,0,t1_cv4rf09,sllewgh,"A reasonable assumption is circumstantial and best decided on a case to case basis in a court of law. The same goes for a mortality percentage. I don't think there's a good universal standard, but that's why we have our justice system. 
+
+Besides, that's beside the point. This isn't about what arbitrary standards we use, but whether the CEO should be liable.  I think the determining factor there is what the CEO knew prior to making a decision. ",2,0,1442504243,1444727641
+cv5gmqk,0,t1_cv4rozl,harsh_springboard,"So the defect rate cutoff leading to criminal charges for any given product or venture should be determined post hoc after a failure has occurred? I do not understand this reasoning, but it is fairly common in this thread. Maybe you can expound upon it further. ",1,0,1442544612,1444727641
+cv5nfg7,0,t1_cv5gmqk,sllewgh,"What you're missing is that it isn't the number of failures that's important, but the knowledge the decision maker had prior to making a decision.  You're focusing on the wrong metric.  I'm sure tort law and other areas of the law already give us some guidelines on this topic, but that isn't really what's at issue here.",1,0,1442562365,1444727641
+cv5ras7,0,t1_cv5nfg7,harsh_springboard,"This is an interesting topic. Perhaps I'm misrepresenting myself. My essential point is this: there are cases when an engineer or executive would knowingly and legally produce a product that could be expected to hurt someone through malfunction at least once. This happens every day, in many different industries, and is a statistical inevitability. This is particularly true in the automotive industry. 
+
+These decisions expose the organization to a civil suit (and as you said, American Tort law would provide guidelines on that liability). There is nothing about this case, however, that indicates criminal negligence. Which was my original point. ",1,0,1442577888,1444727641
+cv5w7ix,0,t1_cv5ras7,sllewgh,"I don't disagree with that.  All products have a risk of failure, we're talking about instances where someone knows that a product will harm the user and does not do what is reasonable to prevent it, whether pulling a faulty design, or putting a warning, or whatever. ",1,0,1442587896,1444727641
+cv4mvaw,1,t3_3lalr9,joecity856,"First off CEOs and Executives are not owners. The corporation is being prosecuted and the owners are effected that is exactly what happened.
+
+The owners (shareholders) can sue the CEOs and other officers (employees) if their decision violated the business judgment rule which is a fairly complex legal concept. 
+
+I think the bigger question is why are we spending so much money on an issue that killed a relatively small amount of people in comparison to bad driving, yet we put so little funding into self driving cars.  
+",0,0,1442496081,1444727641
+cv4rhi1,0,t1_cv4mvaw,shadow776,"These crashes too were caused by ""bad driving"". The fact is, losing engine and/or electrical power does not mean the car immediately crashes. Cars stall or otherwise fail all the time and in virtually every case the driver simply coasts to the side of the road without much drama. In the GM incidents, many of the victims were drinking or speeding, or simply overreacted. ",0,0,1442503923,1444727641
+cv4qkp8,1,t3_3lalr9,mrhymer,"The executives will not be prosecuted because their predecessors lobbied government for a separate set of laws for business called regulations. Everyone at GM who had knowledge of the problem is culpable of conspiracy murder. They should be convicted and jailed in the same way and in the same prison as any individual that sabotaged an ignition and killed a guy.
+
+>I realize that corporations were basically created to limit liability
+
+Limited liability only protects personal property from civil lawsuits. It is regulation and no corporation that protects CEOs from prison.",0,0,1442502507,1444727641
+cv53d6b,0,t1_cv4qkp8,,[deleted],1,0,1442521760,1444727641
+cv61jb5,0,t1_cv53d6b,mrhymer,"Good to know. So I can negligently kill 127 people and get a fine, settle a lawsuit and get no prison time? I can dump poison in the river behind my house and give all my downstream neighbors cancer and then pay a fine, settle some lawsuits, and not go to prison. 
+
+There is a regulation double standard.",1,0,1442596032,1444727641
+cv4r0al,0,t1_cv4qkp8,Unshkblefaith,">Everyone at GM who had knowledge of the problem is culpable of conspiracy murder
+
+The question then is who had knowledge and covered it up? Where in the chain, between the engineers who investigated the the potential causes of the crashes and the CEO of GM, was there enough information available for a coverup decision to be made?",1,0,1442503191,1444727641
+cv4rbbv,0,t1_cv4r0al,mrhymer,"Regulators investigated and found culpability. $35 million in fines were paid. 
+
+Cops would have shut down GM and seized all communications both personal and private. Regulators  do not typically do that with cooperating companies and why would companies not cooperate when the penalty is paying other people's money.
+
+Put the GM CEOs responsible in maximum security prison today and there will be dozens of new recalls on all kinds of products issued tomorrow.",1,0,1442503666,1444727641

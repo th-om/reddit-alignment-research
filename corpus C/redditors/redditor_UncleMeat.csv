@@ -1,0 +1,47 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvxulah,0,t1_cvxuaj7,UncleMeat,"Google Brain is branded like something on the path to Strong AI but its not. Its just another application of NNs. Don't get me wrong, Jeff Dean is brilliant and Brain's results have been spectacular in some areas (I love their stuff on spacial embeddings). But its not the sort of technique that is going to produce an intelligent machine like we see in scifi books. 
+
+A popular piece of nonsense that people like to use when branding neural net based projects is that it takes N seconds for a synapse to fire and M seconds for a human to perform some ""intelligent"" task so therefore a M/N deep neural net should be able to perform any one of these intelligent tasks. This is bullhonkey. Talk to a computational neuroscientist and they'll agree.
+
+I don't work at Google so maybe there is some secret sauce I'm not aware of but the Brain group has been pretty good about publishing papers. Even if there are a whole bunch of proprietary details that Google doesn't want to talk about I'd be *extremely* surprised if Brain is working fundamentally differently than other deep learning approaches.",2,0,1444712688,1444717984
+cvxt8u2,0,t1_cvxsw8g,UncleMeat,"I don't mean to discourage an enthusiasm for all AI research. Its undeniably changing the world. It can just be very difficult to get a grasp of the state of the art and what it means if all you've got to go on is blog posts. 
+
+Even without developing Strong AI, AI is an incredibly important area of research. Its just that we don't even really know what Strong AI *is*, let alone whether we are on the path to creating it.",3,0,1444709711,1444717984
+cvxrmp2,0,t1_cvxqak1,UncleMeat,"I knew it would be this article. A *lot* of the article is either vague or wrong, but compelling enough to make sense to a lot of non-experts. For example, he spends an awful long time talking about the nature of exponential functions without providing compelling reasons to believe that AI development will follow an exponential pattern or that the particular exponential pattern will behave as he describes. 
+
+It would take a long time to write up a complete rebuttal (and I'm also not an AI researcher who can give you the right places to look in the literature,) but I'll point out a few errors that bother me.
+
+1. He mentions the brain emulation project that emulated a flatworm brain as evidence that human brain emulation is a feasible approach. He completely fails to point out that the project does not actually emulate a brain, just a neural network with a similar structure. It doesn't emulate neurotransmitters or any of the other fuzzy stuff that we don't even yet fully understand about the brain. 
+
+2. Genetic Algorithms are grossly unprepared for developing a Strong AI (I got into a thing with somebody on askscience about this a few days ago). I don't have good numbers on me for genetic algorithms, but stochastic superoptimization (a somewhat similar approach in principle) scales to programs of something like *thirty* lines of x86. And that's when we've got precise fitness functions. What is a fitness function for ""intelligence""? If you cannot provide one, then all of the genetic algorithms techniques we've got fail to work. The author hides this problem underneath vague statements.
+
+3. The article isn't fundamentally *wrong*, it just paints a picture of the development of AI that I'd describe as misleading. His ""exponential function"" depiction of the development of AI presupposes that progress is measured along a single axis that always moves forward. That isn't the case. Progress exists in some weird multidimensional space. A complete and total revolution in one AI technique (say, bounded tree search) might have no significance whatsoever in solving a different AI problem (say, image recognition). Its misleading to simplify the ""path"" to Strong AI as one that we are making exponential progress toward through existing AI research.
+
+But the biggest point against this article is that this guy is *just an enthusiast*. This sounds very dismissive but you have to remember that this guy just writes blog posts and did some reading on his own about AI from futurist writing. He's not an expert and he doesn't have all of the answers.
+",3,0,1444706739,1444717984
+cvxpvyr,0,t1_cvxoxhp,UncleMeat,"Except these are *fundamentally different approaches*. You cannot look at the advances that have been made in AI over the past two decades and use them as points along some path towards machine intelligence because *they are not*. I know its romantic to see the development of machine intelligence in the future and the media coming out of the research is super over-hyped (even the name AI confuses people) but you have to understand that you do not develop machine intelligence by improving on the techniques we have used to make driverless cars or any of the other visible improvements in AI in recent history. Modern machine learning is *extremely fancy curve fitting*. It isn't magic.
+
+I don't feel like there is much I can say to dissuade you because it seems like you came to this belief based on a romantic understanding of AI rather than any experience in the field but we are no closer to developing an Asimov-esque AI than we were in 1980.
+
+And I know for certain that I wouldn't stop doing my research *even if* you could prove to me that some sort of super AI was just around the corner.",3,0,1444703874,1444717984
+cvxmrbq,0,t1_cvxm9jh,UncleMeat,"You are arguing that we should put a vast quantity of research effort into developing Strong AI. I'm telling you that people worked very hard on this problem decades ago and came to the conclusion that it *wasn't worth it*. It wasn't a lack of funding or motivation that all but killed this research thread, it just wasn't nearly as effective as some other approaches.
+
+We haven't learned how ""dumb AI works"" yet. We are still making progress daily on techniques that could never produce a sort of superintelligence but are nevertheless revolutionizing the way we live our lives. RNNs are the hot topic now and they've changed everything from image recognition to machine translation. But they aren't going to produce an intelligent being. Not now, not ever. We aren't going to turn the techniques we've developed today into Asimov-esque AIs with some elbow grease.
+
+The things you mention that are hard for computers (image recognition, locomotion, etc) are being solved by ""weak AI"" approaches very effectively. If you improve image recognition more and more and more you don't produce an intelligent being. Some wholly different direction in research is needed for that.
+
+And all this doesn't really matter since science is done by passion rather than decree. If you forced all of the scientists to immediately start work on Strong AI you wouldn't get the sum of all the brainpower working for you. 
+",4,0,1444699046,1444717984
+cvxly71,0,t1_cvxh7yg,UncleMeat,"People seem to think that AI is magic. If we just work hard enough there is no question that we'd develop the sort of AI that people talk about in sci-fi books. 
+
+Yet we've found that this isn't a very effective approach. Research on hardcore inference engines and other ""strong AI"" approaches stalled like thirty years ago. We made far far far greater progress by working on comparatively dumb techniques in AI. Machine Learning has revolutionized industries several times over in the last two decades. And you think it would be a more efficient use of brainpower to switch back to the old approach that wasn't yielding much in either theory or practical application?",4,0,1444697812,1444717984
+cvxgvum,0,t1_cvxgn04,UncleMeat,I don't remember a time where native americans [rounded up](https://en.wikipedia.org/wiki/Indian_Removal_Act) europeans and forcibly moved them to lands hundreds of miles away.,1,1,1444689675,1444717984
+cvx53g5,0,t1_cvx0pyw,UncleMeat,"Where is that in the article? You wouldn't be able to get a cert for the domain that quickly (especially not for google.com) so you wouldn't be able to fool mailservers and the like.
+
+It looks like he was getting mail from the domain manager to the owner of google.com. That's not a security flaw, that's just people sending emails to whoever owns the domain. ",5,0,1444672411,1444717984
+cvx3uxr,0,t1_cvwr4fc,UncleMeat,"In the US, like 100 million people oppose gay marriage. Should there have been a compromise?
+
+The point is that you cannot look at the politicians ignoring 3 million people and should ""this is the death of democracy"".",1,0,1444670625,1444717984
+cvx3snp,0,t1_cvwznou,UncleMeat,"I'm done. If you cannot recognize that the partition was more complex than ""Islam wanted it"" then you are too biased and close to the issue to discuss it critically.
+
+",1,0,1444670530,1444717984

@@ -1,0 +1,41 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvxd1i1,0,t1_cvxb0ys,moreworkouts,"""Hello, sir. Thanks for inviting us onto your property where no crime was being committed. Please put your hands behind your back.""
+
+Non-compliance of a minor type does not warrant unlimited escalation by the police.",6,0,1444683753,1444716550
+cvx5glj,0,t1_cvx4vx7,moreworkouts,"With Ubuntu's LXC (not including LXD, haven't used it yet):
+
+* #apt-get install lxc
+* edit /etc/network/interfaces to add lxcbr0, the bridge interface.
+* lxc-create -t ubuntu -n mycontainer
+* lxc-start -dn mycontainer
+
+LXD adds a lot of orchestration for clusters and templates, does live migration, and other cool things. The one time I looked at the administration of jails, it looked pretty wonky, and the only way to make it easier was ezjails, which didn't look as easy as LXC.",1,0,1444672936,1444716550
+cvwj1fb,0,t1_cvwbq1c,moreworkouts,"* zfs - A really awesome filesystem/disk management system in the Unix world. Not bundled in any Linux distros due to licensing. Really easy to use and really revolutionary.
+
+* better networking implementation - ?
+
+* jails - BSD's analog to LXC/linux containers. Arguably better, if a bit harder to manage.
+
+* having a single source for everything (as opposed to kernel vs os) - FreeBSD's kernel and base system are all maintained by the same organization. VS Linux distros that bolt on the userland on top of Linux, which is technically only the kernel.
+
+* the ports collection - BSD's package management. It's meh.
+* the bsd startup system - As opposed to Linux/systemd now.
+* the freebsd community - the people!
+
+",22,0,1444618116,1444716550
+cvwfo27,0,t1_cvtqxzt,moreworkouts,"My 92 bronco has a terrific turning radius. Must be something less than 20'. My 94 had it worse... I almost wonder if turning radii for trucks got worse to keep people from flipping?
+
+But yeah, the engineering of trucks sucks these days.",1,0,1444612143,1444716550
+cvwfm98,0,t1_cvtpge1,moreworkouts,"Not necessarily. You miss the ENTIRE point of how CAFE standards artificially coerce manufacturers to build bigger vehicles.
+
+> At issue was this: Some companies offer full model lines, from cars to large SUVs and pickups, but some don't. How could there be a overreaching fuel-economy standard that penalized companies like Ford and GM, while carmakers that sold only smaller cars effortlessly abided by the rules? So the concept of vehicle footprint was added. Models that ran large, crossing specific length-by-width thresholds‚ would have less ambitious fuel-economy targets. While the Obama administration has pushed for more aggressive CAFE numbers, the amended regulations retain the footprint-based leniency towards bigger cars and light trucks.
+
+[Study: CAFE Standards Could Mean Bigger Cars, Not Smaller Ones](http://www.popularmechanics.com/cars/a11889/study-cafe-standards-could-mean-bigger-cars-not-smaller-ones/)",2,0,1444612051,1444716550
+cvtlhjr,0,t1_cvtl5pu,moreworkouts,"Yes. From memory, CAFE bases emissions on the ""fleet"" of vehicles a company manufactures, and bases it off size. An F-150 these days weighs close to 5,000lb and you can see the increase in size since even 2010. But put a 1996 F-150 next to a 2016, and the difference is night and day - the '96 looks like a modern 'light' truck like the GMC Canyon.
+
+The power wars of the American trucks sucks. I don't need an F-150 that tows 11,000 lbs. That's what an F-250 is for.",47,0,1444392632,1444716550
+cvte92u,1,t3_3o0j9u,moreworkouts,ITT: Disabled people getting mad at people who think there are some out there who might abuse the privilege,1,0,1444366337,1444716550
+cvtddl0,0,t1_cvtbwkg,moreworkouts,Refs got paid by the Colts.,-2,0,1444364264,1444716550
+cvtdbva,0,t1_cvtct0c,moreworkouts,"His choice was an incomplete pass or a penalty.
+",10,0,1444364167,1444716550
+cvtdabr,0,t1_cvtcbc8,moreworkouts,Why is  that TYT loudmouth calling out Phil Simms? I guess a broken clock is right twice a day.,5,0,1444364074,1444716550

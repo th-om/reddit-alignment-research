@@ -1,0 +1,21 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvwqzkd,1,t3_3nctlm,chao06,"I've also found myself putting this enormously useful line at the top of most of my code:
+
+    jsonify = lambda x: json.dumps(x, indent=4, sort_keys=True)
+
+JSON is great for output! It makes large data structures readable, and it's even easily machine-parsable :)",1,0,1444639517,1444722006
+cvuh1sq,0,t1_cvufps6,chao06,That's *because* reddit loves cats! Some people will just hate something because it's popular.,2,0,1444447489,1444722006
+cvs0r9i,0,t1_cvrgkrl,chao06,"I think Millennials will probably shift the political poles from Conservative/Liberal to Libertarian/Socialist, which I think will be a much more productive axis.",6,0,1444268878,1444722006
+cvmvflf,1,t3_3nctlm,chao06,"I'm a fan of using the logging module for my console output and giving my programs a --debug option. That way if someone has a problem, I can just ask for debug output to fix it :)",64,0,1443891506,1444722006
+cvl4w7g,1,t3_3n5b1m,chao06,"Interestingly, Iran's Islamic  government has no problem with transsexuality, and in fact funds gender reassignment surgeries.",2,0,1443744265,1444722006
+cvl0e6j,0,t1_cvkyms4,chao06,Yep :-),1,0,1443736378,1444722006
+cvkltvn,0,t1_cvkka47,chao06,C and Unix-based OSes will likely live on long after ipods or smart phones :),23,0,1443715328,1444722006
+cvjh02f,0,t1_cvilqt3,chao06,">  Everything done by the private sector is more efficient.
+
+Complete myth.
+
+[Private prisons make money by cutting corners, bribery, and cheating, not by being more efficient](https://www.aclu.org/blog/congratulations-taxes-you-just-paid-might-be-their-way-private-prison)  
+[Military contractors are notoriously wasteful](http://www.nytimes.com/2011/09/18/opinion/sunday/runaway-spending-on-war-contractors.html)  
+[FedEX and UPS often cut costs by using USPS for certain legs of a delivery](http://www.wsj.com/articles/u-s-mail-does-the-trick-for-fedex-ups-1407182247)  ",1,0,1443632727,1444722006
+cvfgw2h,0,t1_cvfckkx,chao06,xfce4-terminal also has a dropdown mode :D,4,0,1443324730,1444722006
+cve0rrz,0,t1_cvdx3xw,chao06,"Hence the emphasis on the ""might"" - the chances are slim, but technically non-zero. More likely (and not unprecedented) would be a split in one party, leading to the other party steamrolling them.",7,0,1443205844,1444722006

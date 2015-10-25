@@ -1,0 +1,103 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvtpaeo,0,t1_cvtgu57,Tricericon,"> We know that new French ship will be at Tier 8.
+
+If so, you are correct. That information wasn't in your original post for some reason.",1,0,1444400570,1444722189
+cvt1csd,1,t3_3o132g,Tricericon,Yee-haw!,10,0,1444343569,1444722189
+cvsw7oy,0,t1_cvsv9yi,Tricericon,"I think that's the original model re-appearing in the game files - it disappeared for a while - not a new model of the ship. Not sure if that detail is important.
+
+It does appear that you are right WG does want to introduce convoy mode, in some form, in the future, so ""aren't impossible in the long term"" was probably unduly pessimistic of me. I'll just put a dev quote from this last weekend here:
+
+> This is Cimarron ship that, as it was already told, was used in the Convoy battles game mode as NPC. The game mode was removed as we want to redesign it to something more fun. The ship itself is OK, hence it was left in the game.
+
+The ship was also apparently used as a target in a tutorial mission very briefly during beta, so it does have uses outside of convoy mode.",1,0,1444335733,1444722189
+cvsv7xm,1,t3_3nzyi0,Tricericon,"There's a *Cimarron* oiler model in the games files as a leftover from alpha, where there was briefly a convoy mode which was removed. I forget the reasons.
+
+I'd file this under things that aren't likely soon but aren't impossible in the long term. I think at the moment they are focused on new ships and fixing bugs.",1,0,1444334317,1444722189
+cvso06b,0,t1_cvsnhu9,Tricericon,"> Iowa's had 7"" deck armor, and a straight 12.1"" belt.
+
+Iowa had a primary 6"" armor deck (clerical error on my part, now corrected) and a 1"" weather deck; multiple plates are less effective than a single plate and this should not be likened to 7"" deck armor.
+
+> The lion may have had 15"" belt in some cases, but it also tapered off to 6"" in some areas (11"" thickness in many spots).
+
+The *Lion* had a 14"" or 15"" belt everywhere *Iowa* had any belt at all; the 6"" sections were protecting the waterline fore and aft of the ""armored raft"". American BBs had unarmored ends.
+
+> Also over time, as the design necessitated changes from the 1942 redesigns, her belt armor was reduced to save weight.
+
+Yes, I mentioned that in my original post. There's no suggestion it was thinned more than an inch.",6,0,1444323877,1444722189
+cvsnnol,0,t1_cvsiv50,Tricericon,"> the ships have enough main and secondary armament to be competitive: most have 8 or 9 18"" guns.
+
+Guns from the early 1920s are generally less effective than guns of the same size from the late 1930s. 
+
+N3 can probably pull T9, but anything she can do *Yamato* can do and do better (N3 has worse guns, worse arcs, worse armor, worse speed, worse flak, and a worse TDS) which makes her a poor choice for tier 10.",3,0,1444323356,1444722189
+cvsnjmu,0,t1_cvsge31,Tricericon,"*Lion* was saved by the commanding officer of Q turret sacrificing himself to flood the magazine. He was awarded the Victoria Cross posthumously.
+
+*Princess Royal* also survived the battle, albeit in less dramatic fashion.
+
+Neither *Lion* class BC was actually sunk in action.",7,0,1444323191,1444722189
+cvsnbsv,1,t3_3nx6vs,Tricericon,"HMS *Lion* was laid down in 1939, along with her sister *Temeraire*. The ships were suspended in October '39 due to urgent war needs. In 1942, consideration was given to completing them to a revised design in light of war experience, but they were cancelled instead. The ships weren't actually scrapped at that time, so in 1944 completion to yet another design, this one much bigger, was again considered and again rejected.
+
+You seem to be outlining the 1942 design in the OP, but the 1939 design should probably be the focus as it was the one construction was actually begun on. Compared to the 1942 design it was slightly smaller but faster (equal to *Vanguard* in speed). The main improvement in the 1942 design was a massively superior torpedo defense system, likely in response to the loss of *Prince of Wales*.
+
+> be less armored in almost every category including belt, deck, turret, and barbette armor.
+
+I'm confused by this statement.
+
+Category - Iowa : Lion '39
+
+Belt - 12.1"" : **15""**
+
+Deck - 6"" : 6""
+
+Turret - **17.3""** : 15""
+
+Barbette - **17.3""** : 15""
+
+In core stats, *Lion* is essentially an *Iowa* that trades speed for armor.
+
+Some but not all sources state the 1942 design gave up an inch of belt armor for her improved TDS, but that's still 14"" to 12.1"" if so and if you are referring to the 1942 design.
+
+Incidentally, situations like this may be a reason that the Russian tree is in front of the Royal Navy tree against all conventional wisdom. Wargaming has access to Soviet archives making modelling Russian paper ships easy, while finding reliable information and blueprints on unfinished RN ships is very hard - and not just for Wargaming.
+
+> But, what then would take over the top spot in any traditional UK tree?
+
+The 1939 design will likely be the tier 9, although the 1942 design is possible. The 1944 design, which was similar in size to *Montana* or *Yamato* will probably be the tier 10. Speculation during alpha was that Wargaming will call the Tier 10 *Thunderer* after one of the other members of the class, based on a developer interview.",4,0,1444322863,1444722189
+cvryic9,0,t1_cvrfwil,Tricericon,"For the record, and strictly on the topic of ship type definitions.
+
+You say:
+
+> Brief description of a light cruiser: Guns that are below 8"". Not that hard to understand. Below 8"". Not 8"". Below it. That's why it's called a ""light"" cruiser. A lighter caliber gun.
+
+But, Article 15 of London Naval Treaty 1930 says:
+
+> For the purpose of this Part III the definition of the cruiser and destroyer categories shall be as follows:
+
+> Cruisers
+
+> Surface vessels of war, other than capital ships or aircraft carriers, the standard displacement of which exceeds 1,850 tons (1,880 metric tons), or with a gun above 5.1 inch (130 mm) calibre.
+
+> The cruiser category is divided into two sub-categories, as follows:
+
+> (a)	Cruisers carrying a gun above 6.1 inch (155 mm) calibre;
+
+> (b)	Cruisers carrying a gun not above 6.1 inch (155 mm) calibre.
+
+The definition is not ""less than 8 inch guns is a light cruiser"", it is ""more than 155 mm guns is a heavy cruiser"". 
+
+It's worth noting that ""light cruiser"" was an existing definition for, in general, all cruisers that weren't battlecruisers or armored cruisers, while ""heavy cruiser"" was a the new designation created by the treaty.
+
+There are a few ships that fall into the gulf between 6.1"" and 8"", most notably for in-game purposes including *Kirov* and HMS *Hawkins*. These are unambiguously heavy cruisers.",1,0,1444265130,1444722189
+cvrfb8a,0,t1_cvrcmlx,Tricericon,"> It did clarify ""some"". Not every ship. So it applying to just Buffalo is very possible.
+
+Like I said, ""if translated accurately"". I think it likely isn't, but *if it is* the plural cruisers can only mean *Buffalo* AND *Worcester* are reward ships.
+
+I think it more likely Worcester is a tree ship. Buffalo is unambiguously a reward ship now, which increases the chances of Worcester being the tier 10 CL.
+
+> I don't see why a CL line wouldn't have a CL at the end. Des Moines isn't a CL. It's a CA. Worcester is a CL. Des Moines has 8"" guns while Worcester has 6"" guns. It just doesn't make sense to put a heavy cruiser on a light cruiser line. Leave it where it is.
+
+We've been over this before. You're married to the notion that ""CL line"" is a rule handed down from on high written in blood, while I see no reason to think that's it's anything more than a brief description of the majority of the tree.
+
+8"" guns following 6"" guns makes sense with Cleveland/Pensacola (well, Cleveland has other problems but it would also make sense with Omaha/Pensacola), Mogami stock/Mogami elite, Kuma/Furutaka, and Nurnberg/Yorck. There's no reason it wouldn't with a hypothetical Worcester (or whatever)/Des Moines transition. That line would still be 8/10 CLs, plenty to call it a ""CL line"".
+
+> Edit: Oh, you're the same guy who doesn't understand cruiser classifications. We had this discussion before. WarGaming will have to be drunk off their ass to ignore historical ship classifications to put a heavy cruiser on a light cruiser line.
+
+I'm not going to dignify the notion that **I'm** the one who doesn't understand ship classifications with a response.",1,0,1444235834,1444722189

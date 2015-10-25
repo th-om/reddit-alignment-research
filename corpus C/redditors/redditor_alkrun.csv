@@ -1,0 +1,30 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvxupg6,1,t3_3ojhgs,alkrun,"I'm not an expert, but 0.3 and 0.4 are the weights.  Those numbers are generally created with random initial values, and through training, you tweak those values.  There are different kinds of training, but at a basic level, it involves assembling a set of sample input data along with the desired output.  Feed the samples through the network, changing the weights as you go.
+",2,0,1444712985,1444727476
+cvx7fa4,0,t1_cvx70y8,alkrun,"Yeah, that's what I did, have no regrets about spending the crystals.  Veromos, Ahman, Bella + 2 water monsters I can't remember is what I used.
+",1,0,1444675764,1444727476
+cvklte1,0,t1_cvkhk3b,alkrun,"Yeah, their website doesn't tell you what the heck the project is... The ""read more"" link at the bottom of the first page takes you to a page with no more information than the first.  Eventually you can find some report, but the report starts off like you know what this project is about.
+
+F+ for the site (the + is because it has a pretty render of a rocket).
+
+EDIT: apparently there's a link to their kickstarter page, which actually has information.",2,0,1443715306,1444727476
+cvkjklg,1,t3_3n3aji,alkrun,"If you're like me and a primarily C# guy who's doing web development, I can't say enough how nice Angular 2 and TypeScript are to work with.
+
+There's work to be done for them about documentation and getting everything ready for release, but even in it's current state and with the examples available, it's really nice to work with.",3,0,1443712046,1444727476
+cvkhzfs,1,t3_3n2xp4,alkrun,"How cold Tasmania can get.  It should have been completely obvious if I had just thought about it, but for some reason it didn't register for me how far South it was.  We took a boat tour around Tasman island and a cold-front blew through while we were out.  It was... brisk.
+
+Also, the Australian love of coffee.",1,0,1443709485,1444727476
+cvj9ag8,1,t3_3myc61,alkrun,"Mine is messed up, but worse... I've got all 30 cookies and claimed the three kings.  I've seen at least 5 cookies drop since then, and my count is still showing 0.  So I can't seem to receive any of the random rewards.",1,0,1443621015,1444727476
+cvj952o,1,t3_3myon6,alkrun,"The logging output is probably from some JavaScript that's making requests and parsing the data then doing a console.log(...) or using log4js or some similar library.
+
+I'd suggest looking at that JavaScript code, and seeing if you can figure out what the request to load the data looks like.  Click the Network tab and reload the page, check all of the requests that get made.  If at all possible, I'd suggest trying to take JavaScript out of the equation for what you need to run in C#.  If you can figure out the requests that are being made to get the data, and make those directly, that'll be easiest.
+
+For C#: [HTML Agility Pack](https://www.nuget.org/packages/HtmlAgilityPack) is great for parsing HTML.
+
+If you can't unwind the JavaScript logic that makes the network calls, then another option might be to use Selenium.  Just load the page in Selenium and [get the console log](http://stackoverflow.com/questions/20907180/getting-console-log-output-from-chrome-with-selenium-python-api-bindings).  That link is in python, but there are C# bindings for Selenium too.",2,0,1443620742,1444727476
+cvj85p0,1,t3_3my3mx,alkrun,"""181 is more speed than Bernard will ever need"" - Bill Gates
+",3,0,1443618817,1444727476
+cvi5l8w,0,t1_cvi52fv,alkrun,"I wouldn't say it creates vulnerabilities.  But as someone else mentioned, SMB requires network access, so you've got to open up a hole in your firewall (on the server machine) to allow traffic through.  Every open port on a firewall has some sort of security implication/exposure, that generally comes down to ""how well can you trust the server that's accepting connections on that port.""
+
+I've never spent a lot of time looking into it, but I wouldn't expect SMB or NFS or SFTP to be any more or less secure than the others.  A security researcher might have figures to make an argument one way or the other, but on the surface, they all do the same thing and have been around for a long time.",1,0,1443540662,1444727476
+cvi5dgl,0,t1_cvi4znl,alkrun,"Generally, but the protocol is based on establishing a secure channel between the client and the server... So while attacking the server is probably a more attractive target, if there's a vulnerability in terms of establishing that secure channel, an attacker could use that to exploit the client.  Passing off files with viruses in them, or stealing data that gets uploaded, etc...",2,0,1443540326,1444727476

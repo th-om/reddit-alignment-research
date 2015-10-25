@@ -1,0 +1,121 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cv0r0m7,1,t3_3kurp1,blah_kesto,"The reason is politics, not economics. It's just a way to raise revenue that will be more popular than other ways of raising revenue. ",18,0,1442198717,1444729274
+cv0t825,1,t3_3kurp1,krabbby,"The corporate tax can help investment and expansion of business. Since the tax is only on profits, companies are motivated to minimize profits and instead reinvest them back into R&D or expanding. You see this today with companies like Amazon (although this is not their purpose). A better example would be in the 90s, a lot of the R&D that led to the internet was caused by the telecom industry trying to cut their tax liability. ",6,0,1442202813,1444729274
+cv0tg6m,0,t1_cv0t825,,"This is an excellent point. I assumed it was just corporate income (so it would be taxed before they move on to spend it on expansion, thereby limiting their expansion. What would corporations do with their profits otherwise? Save them?",0,0,1442203276,1444729274
+cv0tres,0,t1_cv0tg6m,krabbby,"They can go towards bonuses, pay out dividends, etc.",3,0,1442203941,1444729274
+cv0tybu,0,t1_cv0tg6m,SavageSquirrel,"I mean, Apple is already known for sitting on [a lot of money](http://www.nytimes.com/2013/05/21/business/apple-avoided-billions-in-taxes-congressional-panel-says.html?pagewanted=all). ",5,0,1442204356,1444729274
+cv0psv0,1,t3_3kurp1,Shiloh86,"I think a lot of it stems from the public perception that a) corporations, especially large ones, make too much profit, b) corporate profits only go to rich people, and c) government needs money. What you feel about a, b, and c is up to you, but I'll leave you with the following pieces of information:
+
+1. Corporate profits are what's left *after* all employee compensation; that is, none of a corporation's profits will go to the CEO or upper-level employees.
+
+2. Economists mostly agree that the corporate tax is *very* bad for the economy, especially compared to other taxes.
+
+3. IIRC, the corporate tax is responsible for only about 1/10th of federal income.",9,0,1442196510,1444729274
+cv0q3qf,0,t1_cv0psv0,Risk_Neutral,"Well to be fair any individual can own a stock that pays a dividend. There is basically triple taxation on dividends as the corporation gets taxed, you get taxed on your earnings before you can buy a corporation, and your dividends on your after-tax stock purchases also get taxed. The dividend tax laws are written favorably for people who are rich. If we lowered the corporate taxes and fixed capital gains laws, you can get a similar effect as a high corporate tax and low capital gains tax. ",2,0,1442197064,1444729274
+cv0r24i,0,t1_cv0psv0,,"I think it's also that it's relatively easy to tax and collect. Despite popular opinion, corporates hardly every evade tax, especially large publicly listed ones. 
+
+If we didn't have a corporate profit tax, we'd need to be far more scrupulous in collecting taxes on dividends and capital gains on stocks. Otherwise we'd be giving wealthy people a reasonably large tax break.",2,0,1442198796,1444729274
+cv14fdq,0,t1_cv0r24i,AMatterofTrust,"The don't really evade taxes, but the compliance costs of the corporate tax rate are still very high. ",1,0,1442238830,1444729274
+cv0rv45,1,t3_3kurp1,ISBUchild,"Taxing the American public directly is unpopular; Taxing them by proxy is, because Americans are economic illiterates who have no idea how much profit corporations actually make.
+
+[The public wants more spending on almost everything.](http://i.imgur.com/1AJJwfp.png)
+
+[The average American doesn't want to pay more income tax.](http://www.gallup.com/poll/1714/taxes.aspx)
+
+[Corporate taxes are ultimately paid in no small part by labor.](http://economix.blogs.nytimes.com/2013/02/19/who-pays-the-corporate-income-tax/)
+
+[The average American thinks corporate profits are 5x higher than they are.](https://www.aei.org/wp-content/uploads/2015/04/pm.jpg)",9,0,1442200264,1444729274
+cv18t90,0,t1_cv0rv45,Dynamaxion,"Average person things corporations net *36% profit margins*? After listening to some of the Bernie supporters on /r/politics, I'm honestly not even surprised. ",4,0,1442246355,1444729274
+cv125b9,1,t3_3kurp1,LiberalTerryN,"There are a couple reasons. First, there's the revenue. Plainly, raising taxes from corporations raises revenue, and any reduction in corporate taxes would probably need to come from somewhere else.
+
+Second, the tax code is complicated because of all the different subsidies that Congress has put into place. For political reasons, many direct subsidies aren't popular, so when Congress wants to encourage retirement savings, home ownership, small business creation, oil exploration, renewable energy investment, broad health insurance coverage, charitable giving, etc., it creates tax credits and tax deductions to encourage that behavior. For corporate behavior, taking away the baseline tax rate will take away the carrots in the form of tax deductions. Will employers still provide health insurance coverage when it is no longer deductible from income? Will individuals themselves buy as much insurance if they have to pay for it with after-tax earnings?
+
+There's just a lot of reliance in the system built on the assumption that corporate taxes exist. We could tear the whole thing down and build up something in its place, but that will require individualized program by program design of replacement subsidies and replacement revenue sources to avoid the worst of unintended consequences.",2,0,1442233504,1444729274
+cv0sd8e,1,t3_3kurp1,AMatterofTrust,"The purpose is simple, raise revenue. 
+
+And it does raise $100 billion dollars a year, so it is not all bad. 
+
+That being said, it is one of the least efficient taxes (think:100 billion dollars for a country that holds the 10 highest grossing companies in the world.) It taxes Corporations at a 35% rate, one of the highest in the developed world, yet brings in only 1.8% of GDP. This is mainly because of deductions that the government should get rid of but won't (for example, deductions for charity will have to go, but no one wants that). Additionally, it is anti-growth. However, what is efficient, income taxation and a progressive sales tax, will get you voted out of office immediately. 
+
+Additionally, the compliance costs for it are very high. 
+
+The majority of economists want to lower corporate tax rates, and a growing number want to eliminate it entirely. [Here](http://www.nber.org/data-appendix/w19757/CorporateTaxPaper.pdf) is a paper outlining an argument in favor of its elimination. 
+
+However, this is a hard sell to people. You would tell people that their sales tax will rise by a little bit, say 2%, costing them a bit of money each year. Actually it won't be 2% because it is a progressive system, which almost nobody will understand. Additionally, income taxes will rise. In exchange the economy will grow by a bit, about 5% over a decade, about 0.5% a year, and wages will rise, you in fact are making money. 
+
+**The latter argument does not work well with people.** People can see the money taken out of their paycheck every year. If they get a raise, they attribute it to their company, not a extremely complicated network of events that comes from the removal of the tax. It is harder to see. So if income taxes are raised, people will feel like they are losing money, when in reality the removal of the corporate tax gave them some. 
+
+It is like NAFTA in a way. Though wages rose and unemployment fell, people can see people in manufacturing sectors lose there jobs, and the increase in service sector jobs is attributed to coincidence, not **a series of complicated events that ultimately stem from NAFTA.**
+
+So while a lot of economists want it lowered and some eliminated, the public says no. Because economists act in the greatest good, what will benefit the people the most objectively, whereas the public votes on what feels to be the case, and it is hard to see long term benefits, (5% over a **decade**) especially if it involves short-term sacrifice. ",2,0,1442201216,1444729274
+cv0vztt,1,t3_3kurp1,YankeeQuebec,"Regulatory capture. Large corporations that have hundreds of accountants, and can easily do business in other jurisdictions to get around tax laws, have lobbied to increase corporate taxes as a way to make more profit than smaller businesses who don't have the time nor money to deal with every loophole.",1,0,1442209659,1444729274
+cv0xygm,1,t3_3kurp1,cp5184,"I see absolutely no difference between a corporate tax and a payroll tax, in fact, a corporate tax makes a lot more sense to me.",0,0,1442216530,1444729274
+cv17eit,1,t3_3kurp1,mrhymer,The goal is not a successful economy or people. The goal is social justice by taking from successful and giving to the less successful. We want equal misery for all and not high achievement of some.,-2,0,1442244094,1444729274
+cv18drq,0,t1_cv17eit,,"But what I'm not understanding is does it even do that effectively, if you do want ""social justice""? The coorporate profits do not go to the business owners right? ",2,0,1442245667,1444729274
+cv18xl7,0,t1_cv18drq,mrhymer,No it does not work. It creates a more powerful political class. It gains them power in granting exceptions and exemptions while in office and wealth generating corporate board or lobbying positions after office.,1,0,1442246554,1444729274
+cv0pywi,1,t3_3kurp1,,[deleted],-1,0,1442196815,1444729274
+cv0qw08,0,t1_cv0pywi,blah_kesto,"> He said that one think that could be done is to give tax incentive to companies that bring their foreign money back into the US if they use that money to create jobs. This is an amazing idea
+
+How is that an amazing idea? You are then giving an advantage to companies who moved jobs overseas and then back, over companies that kept jobs here. Why not just lower the general rates rather than create more distortions and loopholes like this?",3,0,1442198488,1444729274
+cv0qznx,0,t1_cv0qw08,Risk_Neutral,Should have added context that this was when unemployment rates were a bit worse. Plus it was a one time law so its not really a loophole. No one could consciously take advantage of this because it was just a one time incentive for companies to repatriate money. Though you do raise a good point. I must add that this was a few years back when the economy wasn't looking too great. ,1,0,1442198671,1444729274
+cv0qldj,1,t3_3kurp1,the_blue_wizard,"Haven't you heard - Corporations are people, they need to pay taxes according to the standard rate applied to people.
+
+They don't get to be people when it suits them and equally not people when it doesn't suit them. If they are, then let them pay the rate. 
+
+But of course, despite all the whining and crying about the tax RATE, they don't actually pay anywhere near that rate. In some cases, like GE, they pay a negative tax. That is, not only don't they pay anything, but we the tax payer give them additional money. 
+
+This is whining right wing cow dung. ",-10,0,1442197972,1444729274
+cv0rhwz,0,t1_cv0qldj,AMatterofTrust,"Corporations are not people. You can express this talking point, but note it means nothing when discussing actual policy. 
+
+Also, the majority of companies  around 35-40% tax, if you look at a distribution chart and not simply the average total of **only large companies.**",3,0,1442199602,1444729274
+cv0r6zq,0,t1_cv0qldj,blah_kesto,"> They don't get to be people when it suits them and equally not people when it doesn't suit them. If they are, then let them pay the rate.
+
+Do you actually believe in this line of reasoning? Do you support treating corporations like people in every way? Or only in the ways you like?",4,0,1442199046,1444729274
+cv0x86j,0,t1_cv0r6zq,the_blue_wizard,"Well, the obvious counter question is, will they give me all the tax breaks and the tax rates they give corporations? If corporations are by default people, then logically aren't people by default corporations with all the same legal advantages. 
+
+It is true; you don't get to be people when it suits you, then not get to consider yourself a person when it is not advantageous. 
+
+Though of course, that's exactly what they do. But they shouldn't. You are either a corporation or you are not. You are either people or you are not. I don't see any middle ground unless that middle ground applies both ways. Perhaps every family should be considered a corporation. They could shield themselves from law suits, and pay lower taxes. ",1,0,1442213677,1444729274
+cv15gs6,0,t1_cv0x86j,kebababab,"> If corporations are by default people,
+
+When people say ""corporations are people"", what they mean is that we ought to treat corporations as people for certain legal purposes. A ""corporation"" is merely a *group* of people with shared interests. If BP spills oil on my property, it makes sense for me to be able to sue ""BP"" instead of the individual shareholders and workers of BP. 
+
+Likewise if the ""ACLU"" wants to defend somebody in a free-speech case, they can do so as the ""ACLU"" and not as a random assortment of donors and employees. 
+
+>  Perhaps every family should be considered a corporation. They could shield themselves from law suits,
+
+* [The spousal communications privilege](https://en.wikipedia.org/wiki/Spousal_privilege#Communications_privilege) or confidences privilege is a form of privileged communication that protects the contents of confidential communications between spouses during their marriage from testimonial disclosure. The privilege applies in civil and criminal cases 
+
+> and pay lower taxes.
+
+* [Married couples ](http://blogs.hrblock.com/2014/09/25/10-ways-getting-married-affects-your-taxes-updated/)filing a joint return get to claim two personal exemptions (one for each of you) on the tax return instead of the one exemption allowed when you filed as a single individual. Additionally, the standard deduction allowed on the tax return is highest for married couples filing a joint return.
+
+* [With the Child Tax Credit,](http://www.irs.gov/uac/Ten-Facts-about-the-Child-Tax-Credit) you may be able to reduce your federal income tax by up to $1,000 for each qualifying child under the age of 17.",2,0,1442240814,1444729274
+cv0qrqx,0,t1_cv0qldj,,">This is whining right wing cow dung.
+
+1) I'm a liberal 2)My question was clearly just wanting to know more about the issue. I wasn't even taking a stance, just expressing my doubts. 
+You, sir, are a douchebag. You didn't even address the effects of a higher or lower coorporate tax rate, and instead gave a bunch of garbage about them being treated as people under the law, which is really meaningless when I'm asking about the economic impact",8,0,1442198278,1444729274
+cv0x9gs,0,t1_cv0qrqx,the_blue_wizard,"""whining right wing cow dung.""
+
+Not the question you asked, but the concept that corporations pay high taxes. The Tax Rate means nothing when no one pays it. ",4,0,1442213808,1444729274
+cv0p1g1,1,t3_3kurp1,Tacdex,"Two important things.
+
+  * First,  the govt is a gargantuan beast and needs to be fed. Already, govt employees outnumber manufacturing job by almost 2 to 1.
+
+https://biblicisminstitute.wordpress.com/2015/08/14/when-money-is-the-problem/
+
+http://disinfo.com/2011/04/more-americans-work-for-the-government-than-in-manufacturing-farming-fishing-forestry-mining-and-utilities-combined/
+
+  * Second, the progressives dont want America working like it did in the past. So they enact laws and regulations that become an incentive to leave the US.
+
+[**PROGRESSIVE GOAL: The way to save the planet: shrink the economy**](http://peoplesworld.org/the-way-to-save-the-planet-shrink-the-economy/) ....
+
+  * A)  to decrease economic activity to limit carbon emissions.
+
+
+
+  * B) to fairly redistribute the dwindling resources of our planet to include the third world.
+
+""B"" is very important. It explains why the progressives sent our jobs to other countries. They redistributed our jobs to the third world.
+",-9,0,1442195163,1444729274
+cv0rgog,0,t1_cv0p1g1,,Yeah I think very few on the left have that goal in mind...,3,0,1442199538,1444729278

@@ -1,0 +1,89 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvxh262,0,t1_cvwvqeu,qbg,"Behavioral economics doesn't study the same thing as Austrian economics; behavioral economics studies the choices that individuals make whereas Austrian economics studies the patterns that emerge from individuals making some choice.
+
+> That is also true for geology, astronomy, and climatology. isn't it? 
+
+It's reasonable to assume time and translational invariance in physics; were that not the case you'd be in a hard spot if you wanted to conduct a controlled experiment that controlled for those variables.
+
+In economics it is not reasonable to assume that the actions of one individual do not affect the actions of anyone else, nor is it reasonable to assume that don't learn from their experiences. You can try to control the former, but the larger the scope the harder that becomes.",1,0,1444689950,1444728692
+cvwjbut,0,t1_cvwhfx9,qbg,"> The mainstream doesn't need experiments, statistics, regressions, etc, to show comparative advantage.
+
+You don't need empiricism? Look at you praxing it up there--you're going to be featured in /r/PraxAcceptance/ before you know it!
+
+> Both.
+
+Method is that we're studying humans with ""free will"" and not atoms, that properly controlled experiments are not readily available, and that the economy is anti-inductive, for example. As for the conclusions, if the foundation is rotten why should you trust what's built on top of it?
+
+> I don't know what this means.
+
+That there is a variety of resources available is a supporting assumption that Rothbard uses early on in Man, Economy, and State. You can use empiricism here to see that this assumption holds.
+
+> Nor this. It is vague.
+
+You cannot clone the universe minus a single change and observe the impact from an outside point of view. You can try to control for some variables in an experiment, but the variables are connected to each other. Small initial differences can avalanche into differences that can affect the outcome. Extreme apriorism is extreme pessimism.
+
+> especially since many Austrians aren't AnCaps
+
+We're talking about ancaps here.
+
+> Or Austrian socialists? 
+
+I wouldn't say ""no"" but rather ""very few"".
+
+> In other words, you think AnCaps would reject the NAP if provided with evidence that the free-market doesn't always work and that the government can play a role in creating good outcomes?
+
+In my alternative scenario they wouldn't just reject NAP but rather reject ancap and so you'd have one less non-Austrian ancap.
+
+As for you specific case if they held the view that ""markets fail; use markets"" (like the GMU Austrians) then evidence that the government *can* play a role is not sufficient by itself.
+
+> So AnCaps don't actually believe in the NAP?
+
+Depends on the how core the NAP is to the individual ancap.",1,0,1444618639,1444728692
+cvwh61h,0,t1_cvw641j,qbg,"> Why do so many AnCaps embrace Austrian economics?
+
+I suspect the pedagogy of Austrian economics plays a role in this. It is easier to grasp ""consider the case of two individuals and two goods..."" than experiment design, statistics, regression, etc. to empirically show comparative advantage.
+
+> Why do you reject mainstream economics? 
+
+The method, or the conclusions that differ?
+
+> There is nothing about the NAP that says you can't accept empiricism in economics.
+
+Austrians aren't necessarily opposed to empiricism, it's just that they have a very high standards for it. For sufficiently basic claims, like that there is a variety of resources available, you can meet this standard easily enough: water is not iron. For more complex claims, you quickly reach the point where you no longer have a fully controlled experiment.
+
+> I personally think the reason that AnCaps love Austrian economics is because they work backwards from normative positions to positive ones.
+
+There is a more benign explanation: they start with Austrian economics for whatever reason (could be the pedagogical aspects), and work their way forward. The end result meshes nicely with ancap, and so you see these ancaps. If they started from a different point and ended up with a result that conflicts with ancap, they would probably ditch ancap and so you wouldn't see them around. The end result would look like as if they had worked backwards even though they had not.
+
+> I think the reason why AnCaps dont, is because they secretly value consequences.
+
+You mean besides the consequentialist ancaps?",1,0,1444614770,1444728692
+cvw7ejd,1,t3_3ocrb6,qbg,Does /r/politics realize that the south wanted all other persons to be 5/5 and the north wanted them to be 0/5?,29,0,1444597532,1444728692
+cvv3t0f,0,t1_cvux55b,qbg,"> Think about a scenario in which the majority of labor is automated.
+
+Do you realize how much has already been from the point of view of someone from 200 years ago?
+
+>  What if automation makes enough jobs obsolete that you have 100 million people in the US out of work and not enough jobs to replace those Tha have been automated.
+
+The problem in this hypothetical is not the automation, but rather that processes that have provided continuing demand for labor have failed to do so in this case.
+
+One way I could see that happening is that if regulations, taxation, government inventions, etc. strangle entrepreneurship and cause capital starvation. Ironically, it appears to me that most of the popular ""solutions"" to the ""problem"" of automation would drive you *towards* such a scenario--the doom-and-gloom would become a self-fulfilling prophecy.",1,0,1444509392,1444728692
+cvnr9i6,0,t1_cvnr8cb,qbg,"From my other reply:
+
+I'm talking about their charges for data transfer. If you use the [AWS calculator](http://calculator.s3.amazonaws.com/index.html), you see that for the US-East / US Standard region Public IP/Elastic IP Data Transfer is $1 per 100 GB.",0,0,1443967631,1444728692
+cvnr2yt,0,t1_cvnqizv,qbg,"> Because they don't have to transfer data, but to store
+
+I'm talking about their charges for data transfer. If you use the [AWS calculator](http://calculator.s3.amazonaws.com/index.html), you see that for the US-East / US Standard region Public IP/Elastic IP Data Transfer is $1 per 100 GB.
+
+> So what?
+
+A business exists to make a profit. You may not like it when those using less than you stop subsidizing you, but deal with it--that's what you'd expect from competition anyway.
+
+If your problem is with the price, then you'd be better served by trying to get effective competition rather than complaining about the existence of **any** data cap.",1,0,1443967200,1444728692
+cvnqm1k,0,t1_cvnmckv,qbg,"> Everything else meant I couldn't get work done from home or enjoy modern entertainment options.
+
+Sounds like you're saying there are other options, but Comcast provides the best service.",2,0,1443966020,1444728692
+cvnqecy,0,t1_cvnp4az,qbg,"Why then do so many cloud hosting providers charge by the gigabyte?
+
+You'd have a point if the average consumer was buying dedicated bandwidth, but they are not. They're buying access to a shared pool of bandwidth. In order to provide the same QoS to everyone, those that use more cost more, and a business isn't a charity.",-1,0,1443965442,1444728692
+cvn782o,0,t1_cvn64h2,qbg,"Section 3.2 critiques Rothbard on a point, but that doesn't mean that Austrian economists, or even Rothbard in particular, believe that deadweight loss in general doesn't exist.",3,0,1443912355,1444728692

@@ -1,0 +1,71 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvwynu7,0,t1_cvwxrws,averagemassbrick,"Ah, but if you buy a slab (4 x 6 packs) you pay a median price around $47. It's just if you buy the same beer in volume that price is with you.
+
+But I'm worse than you at Dan Murphy's I buy English/European beers between $7 -10 a bottle (except Kwak at $5) so a dozen beers can cost around $84 upwards.",2,0,1444662396,1444732166
+cvws8ky,0,t1_cvtn63u,averagemassbrick,"Limitations and exceptions to copyright, extension of copyright to life plus 70 years despite a broad consensus that this makes no economic sense and simply amounts to a transfer of wealth from users to large, rights-holding corporations. The extension will make life more difficult for libraries and archives, for journalists, and for ordinary users seeking to make use of works from long-dead authors that rightfully belong in the public domain.
+
+The Electronic Frointer Foundation reports that all of the provisions that recognize the rights of the public are non-binding, whereas almost everything that benefits rightsholders is binding. That paragraph on the public domain, for example, used to be much stronger in the first leaked draft, with specific obligations to identify, preserve and promote access to public domain material. All of that has now been lost in favor of a feeble, feel-good platitude that imposes no concrete obligations on the TPP parties whatsoever.
+
+Another, and perhaps the most egregious example of this bias against users is the important provision on limitations and exceptions to copyright (QQ.G.17). In a pitifully ineffectual nod towards users, it suggests that parties “endeavor to achieve an appropriate balance in its copyright and related rights system,” but imposes no hard obligations for them to do so, nor even offers U.S.-style fair use as a template that they might follow. The fact that even big tech was ultimately unable to move the USTR on this issue speaks volumes about how utterly captured by Hollywood the agency is.
+
+The provisions in QQ.G.10 that prohibit the circumvention of DRM or the supply of devices for doing so are little changed from earlier drafts, other than that the opposition of some countries to the most onerous provisions of those drafts was evidently to no avail. For example, Chile earlier opposed the provision that the offense of DRM circumvention is to be “independent of any infringement that might occur under the Party’s law on copyright and related rights,” yet the final text includes just that requirement.
+
+Alongside the prohibition on circumvention of DRM is a similar prohibition (QQ.G.13) on the removal of rights management information, with equivalent civil and criminal penalties. Since this offense is, once again, independent of the infringement of copyright, it could implicate a user who crops out an identifying watermark from an image, even if they are using that image for fair use purposes and even if they otherwise provide attribution of the original author by some other means.
+
+The distribution of devices for decrypting encrypted satellite and cable signals is also separately proscribed (QQ.H.9), posing a further hazard to hackers wishing to experiment with or to repurpose broadcast media.
+
+On damages, the text (QQ.H.4) remains as bad as ever: rightsholders can submit “any legitimate measure of value” to a judicial authority for determination of damages, including the suggested retail price of infringing goods. Additionally, judges must have the power to order pre-established damages (at the rightsholder’s election), or additional damages, each of which may go beyond compensating the rightsholder for its actual loss, and thereby create a disproportionate chilling effect for users and innovators.
+
+No exception to these damages provisions is made in cases where the rightsholder cannot be found after a diligent search, which puts the kibosh on ideas for the introduction of an orphan works regime that would cap remedies available against those who reproduce these otherwise-unavailable works.
+
+One of the scariest parts of the TPP is that not only can you be made liable to fines and criminal penalties, but that any materials and implements used in the creation of infringing copies can also be destroyed (QQ.H.4(12)). The same applies to devices and products used for circumventing DRM or removing rights management information (QQ.H.4(17)). Because multi-use devices such as computers are used for a diverse range of purposes, this is once again a disproportionate penalty. This could lead to a family’s home computer becoming seized simply because of its use in sharing files online, or for ripping Blu-Ray movies to a media center.
+
+In some cases (QQ.H.7), the penalties for copyright infringement can even include jail time. Traditionally, this has because the infringer is operating a business of commercial piracy. But under the TPP, any act of willful copyright infringement on a commercial scale renders the infringer liable to criminal penalties, even if they were not carried out for financial gain, provided that they have a substantial prejudicial impact on the rightsholder. The copying of films that are still playing in movie theaters is also subject to separate criminal penalties, regardless of the scale of the infringement.
+
+The severity of the earlier language on trade secrets protection has not been abated in the final text. It continues to criminalize those who gain “unauthorized, willful access to a trade secret held in a computer system,” without any mandatory exception for cases where the information is accessed or disclosed in the public interest, such as by investigative journalists or whistleblowers.
+
+The TPP has just ridden roughshod over that entire debate (at least for country-code top-level domains such as .us, .au and .jp), by cementing in place rules (QQ.C.12) that countries must provide “online public access to a reliable and accurate database of contact information concerning domain-name registrants.”
+
+The same provision also requires countries to adopt an equivalent to ICANN’s flawed Uniform Domain-Name Dispute Resolution Policy (UDRP), despite the fact that this controversial policy is overdue for a formal review by ICANN, which might result in the significant revision of this policy. Where would this leave the TPP countries, that are locked in to upholding a UDRP-like policy for their own domains for the indefinite future?
+
+The TPP’s prescription of rules for domain names completely disregards the fact that most country code domain registries have their own, open, community-driven processes for determining rules for managing domain name disputes. More than that, this top-down rulemaking on domain names is in direct contravention of the U.S. administration’s own firmly-stated commitment to uphold the multi-stakeholder model of Internet governance. Obviously, Internet users cannot trust the administration that it means what it says when it gives lip-service to multi-stakeholder governance—and that has ramifications that go even even deeper than this terrible TPP deal.
+
+Similarly Chile’s system under which ISPs are not required to take down content without a judicial order is explicitly grandfathered in, but no other country joining the TPP in the future will be allowed to have a similar system.
+
+In addition, although there is no explicit requirement for a graduated response regime of copyright penalties against users, ISPs are still roped in as copyright enforcers with the vague requirement (Appendix Section 1) that they be given “legal incentives…to cooperate with copyright owners to deter the unauthorized storage and transmission of copyrighted materials or, in the alternative, to take other action to deter the unauthorized storage and transmission of copyright materials”.
+
+Quite honestly there are no parts of this agreement that are positively good for users. Of course, that doesn’t mean that it’s not improved over the earlier, horrendous demands of the U.S. negotiators. Some of the areas in which countries rightly pushed back against the U.S., and which are reflected in the final text are:
+
+The exhaustion of rights provision (QQ.A.11) that upholds the first sale doctrine of U.S. law, preventing copyright owners from extending their control over the resale of copyright works once they have first been placed in the market. In particular, this makes parallel importation of cheaper versions of copyright works lawful—and complementing this is an explicit authorization of devices that bypass region-coding on physical copies of such works (QQ.G.10, though this does not extend to bypassing geoblocking of streaming services).
+A thoroughly-misguided provision that would have extended copyright protection totemporary or “buffer” copies in a computer system was one of the earliest rightsholder demands dropped by the USTR, and rightfully so, given the damage this would have wreaked to tech companies and users alike.
+But we have struggled to come up with more than two positive points about the TPP, and even then the absence of these tragic mistakes is a pretty poor example of a positive point. If you look for provisions in the TPP that actually afford new benefits to users, rather than to large, rights-holding corporations, you will look in vain. The TPP is the archetype of an agreement that exists only for the benefit of the entitled, politically powerfully lobbyists who have pushed it through to completion over the last eight years.
+
+There is nothing in here for users and innovators to support, and much for us to fear—the ratcheting up of the copyright term across the Pacific rim, the punitive sanctions for DRM circumvention, and the full frontal attack on hackers and journalists in the trade secrets provision, just to mention three. This latest leak has confirmed our greatest fears—and strengthened our resolve to kill this agreement for good once it reaches Congress.
+[AG News](https://anongalactic.com/today-wikileaks-leaked-the-final-text-of-the-tpp-and-it-is-as-bad-as-we-feared/)
+",1,0,1444645207,1444732166
+cvtlmna,0,t1_cvrfgy2,averagemassbrick,"Once More: The TPP Agreement Is Not A Free Trade Agreement, It's A Protectionist Anti-Free Trade Agreement.
+
+[Easy Reddit post for you](https://www.techdirt.com/articles/20151007/18053032475/once-more-tpp-agreement-is-not-free-trade-agreement-protectionist-anti-free-trade-agreement.shtml)",0,0,1444393025,1444732166
+cvrzma3,0,t1_cvruy00,averagemassbrick,"Yeah, we always swam there. Seriously, until the dog got pulled under.",1,0,1444266911,1444732166
+cvrzj5s,0,t1_cvr6gi7,averagemassbrick,Elroy you need to substitute Green Beacon with Tipplers. Real beers and the best choice in Brissy with home and away. ,1,0,1444266763,1444732166
+cvrze6w,0,t1_cvr8amm,averagemassbrick,"Nurse: The first person you see when someone says, ""Hold my beer and watch me paddle on a lilo down the Brisbane river.""",3,0,1444266528,1444732166
+cvrymr0,1,t3_3nv13i,averagemassbrick,">Something about Tawrich - Majestic and Bright
+
+Thought it was a sub-reddit from earthporn. Ah must be in Wales.",1,0,1444265325,1444732166
+cvryfcv,1,t3_3nu32j,averagemassbrick,For any New Scientist readers: Nominative determinism strikes its head again.,1,0,1444264998,1444732166
+cvrycdr,1,t3_3ntt7d,averagemassbrick,"A joke just for Australians:
+
+Brought to you by the Julia Gillard Company.",1,0,1444264864,1444732166
+cvrxzmr,0,t1_cvrwupm,averagemassbrick,"Just saw this on/r/economics. It's already looking better than feared. Thank whatever. If Krugman sees hope, there it's already starting to look better than the discussion papers wanted.
+
+**PP Take Two**
+ OCTOBER 6, 2015 1:35 PM October 6, 2015 1:35 pm 153 
+I’ve described myself as a lukewarm opponent of the Trans-Pacific Partnership; although I don’t share the intense dislike of many progressives, I’ve seen it as an agreement not really so much about trade as about strengthening intellectual property monopolies and corporate clout in dispute settlement — both arguably bad things, not good, even from an efficiency standpoint. But the WH is telling me that the agreement just reached is significantly different from what we were hearing before, and the angry reaction of industry and Republicans seems to confirm that.
+
+What I know so far: pharma is mad because the extension of property rights in biologics is much shorter than it wanted, tobacco is mad because it has been carved out of the dispute settlement deal, and Rs in general are mad because the labor protection stuff is stronger than expected. All of these are good things from my point of view. I’ll need to do much more homework once the details are clearer.
+
+But it’s interesting that what we’re seeing so far is a harsh backlash from the right against these improvements. I find myself thinking of Grossman and Helpman’s work on the political economy of free trade agreements, in which they conclude, based on a highly stylized but nonetheless interesting model of special interest politics, that
+
+An FTA is most likely to politically viable exactly when it would be socially harmful.
+
+The TPP looks better than it did, which infuriates much of Congress.",-1,0,1444264310,1444732166

@@ -1,0 +1,23 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvv8pl9,1,t3_3o9mur,lindymad,"I've seen them chase a criminal (who was on foot) through streets where there was lots of traffic. Those horses were amazingly well controlled and fast at getting through cars and people. 
+
+It was more effective than a car, bike or on foot would have been I think.",24,0,1444518537,1444726996
+cvtszct,1,t3_3o3dpt,lindymad,"The USB adapter does conversion, or probably more accurately, the driver for the adaptor does conversion.
+
+I am not sure of the details of the USB protocol, but think of it like this - they speak in different languages, but they share a common alphabet. If you transfer data to the external HDD over USB, I'm not sure whether or not it uses packets, but even if it does, they are not packets that would be understood on an ethernet network. 
+
+USB might be saying `Yo what's up, give me some data` while ethernet is saying `bonjour, s'il vous plaît puis-je avoir des données`. They don't understand each other, but they both are saying those things using words.",3,0,1444406299,1444726996
+cvtbie1,0,t1_cvtbecu,lindymad,Thanks! I'm excited about it! My friend just finished the design the other day and I'm hoping to code up the last major parts this weekend :),1,0,1444360714,1444726996
+cvtan9d,1,t3_3nyr9z,lindymad,"I'm actually getting ready to launch something similar to this, but because of the legal issues, rather than neighbours, it's friends - you post what you're making and your friends claim portions. You decide if it's dinner party style where people come to eat or take out style where people pick it up and take it home, or a mix. If you want to sell it (or even deliver it) to your friends, that's your business.
+
+The early trials show that it is delicious :) PM me with your email address if you want an invite to the beta trial, although it's not finished yet!",4,0,1444359196,1444726996
+cvrmu0z,0,t1_cvreziz,lindymad,"Would I be expected to buy them, or would they give them for free? I'm sure it's something negotiable, but I'm trying to get a feel for how it tends to go down before I start negotiating!",1,0,1444246716,1444726996
+cvrddyi,0,t1_cvr5omq,lindymad,"Hmmm, I'm not sure that would work for what I am trying to do. I specifically want links to grocery stores that you physically go to and coupons would be the perfect thing, I'm just not sure how it works in terms of who-pays-who.
+
+I don't want to give away products either, I want to encourage people both to use my website and go shopping for food more.",1,0,1444232996,1444726996
+cvr50bo,0,t1_cvr4woj,lindymad,I don't have a store - I'm looking for ways to reward early adopters of my new website for getting involved :),1,0,1444215488,1444726996
+cvqxr1y,0,t1_cvqu12f,lindymad,"Ah - I want to do them the other way round where I give out coupons for the grocery store, not put my coupons on their receipts! 
+
+Users of my system would be rewarded with coupons when they meet certain goals.",1,0,1444190251,1444726996
+cvqxpmr,0,t1_cvqssz3,lindymad,"Not quite like groupon, more like a game where you get a coupon for something when you reach a certain level or complete a quest etc.",1,0,1444190165,1444726996
+cvogobs,0,t1_cvoenxw,lindymad,"Think of it like quantum physics. Anything that is not illegal *and not explicitly legal* is in a state of being both legal and illegal at the same time, until its true state is observed (settled) by a court case. Of course with no objections leading to a court case, it is inherently legal.",-3,0,1444009133,1444726996

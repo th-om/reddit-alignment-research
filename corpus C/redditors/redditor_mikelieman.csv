@@ -1,0 +1,24 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvxw9cn,1,t3_3ojwh7,mikelieman,"Interesting question.  I don't know the answer.   
+
+Anecdotally, while I don't count calories, I do use a weight tracking app, which I host on a VPS, so I do have all the data sitting in the database if I wanted it.  ( it started as a spreadsheet, then sorta got out of control... )
+
+But in practical terms, any data over 60 days old really isn't relevant to the task of managing my weight, so I doubt I'll ever refer to it again ( although since I use an exponentially weighted moving average, it *is* nice to have the entire dataset go into the calculation... )
+",2,0,1444717475,1444730692
+cvxv4br,0,t1_cvxlzfb,mikelieman,"""sploosh""",1,0,1444714069,1444730692
+cvwnwy3,0,t1_cvw5g6x,mikelieman,Not the F35.,0,0,1444628601,1444730692
+cvwf6ll,1,t3_3oe72q,mikelieman,"Apartheid is as apartheid does.  If the Government of Israel is going to claim the entirety of Jerusalem as its ""eternal and undivided capital"" then everyone who LIVES THERE is by definition an Israeli Citizen, and I'm not seeing those citizens getting (  what us Jewish-Americans call ) ""Due Process of Law"" OR ""Equal Protection of the Law""",2,0,1444611236,1444730692
+cvwexg5,1,t3_3oe7oc,mikelieman, No lockers?  I thought not having towel service was a hassle...,1,0,1444610763,1444730692
+cvudein,1,t3_3o5u2y,mikelieman,"While I agree with the advice, ""You don't have to justify your choices to anyone else"", I also benefit from a long-term 16/8 Intermittent Fast.  My first meal is lunch AT NOON, so anything before that is ""I don't want to spoil my appetite for lunch"", and after lunch it's either ""I've just eaten lunch"" or ""I don't want to spoil my appetite for dinner"" which is between 6 and 7.  After 8 it's ""I've already eaten AND BRUSHED AND FLOSSED so I don't want to mess up my teeth again... ""
+
+100% Totally True...  ",7,0,1444439665,1444730692
+cvucv6a,1,t3_3o5rt7,mikelieman,"They lynched Jews next to Blacks during the 60's.   If you study racist theory, Blacks are 'animals' and can't help themselves, but us Jews, we're ""The Devil"" since we killed Christ or some bullshit like that.   They'd rather kill me than them.
+
+Trying to apply the rules of rational analysis to irrational beliefs is pointless.
+
+I've never seen anti-Semitism from the left.  I've seen a lot of criticism of the Government of Israel, but that's materially different and not without basis, given the failure to meet what Jewish Americans like myself think of basic Democratic principles like ""Equal Protection of the Law"" and ""Due Process of Law"".",4,0,1444438588,1444730692
+cvuchy5,1,t3_3o4vv8,mikelieman,Foswiki,1,0,1444437864,1444730692
+cvtihyb,0,t1_cvthuuf,mikelieman,"That's correct, but those are the two contemporary distros that have mindshare these days in the commerical context if you're not rolling your own deb in the first place...",17,0,1444380808,1444730692
+cvthjs8,0,t1_cvth74y,mikelieman,"My opinion is none.   This was IIRC part of the 'commercialization' effort, where the idea was that if only we had ONE O/S configuration, then software vendors would be able to target RHEL and Ubuntu ( since from the Apps' perspective, they're the same, rather than just Windows... )
+
+I concur with the belief that ""the game is not worth the candle.""",48,0,1444376677,1444730692

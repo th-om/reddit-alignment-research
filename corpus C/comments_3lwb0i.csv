@@ -1,0 +1,163 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cv9wq8n,1,t3_3lwb0i,KabIoski,"Things that have worked include rotating people so you don't deal exclusively with one body for a long time. A financial regulator might oversee Goldman Sachs for six months, and switch off to another bank after. Eliminates the ability of a business to get too cozy with a regulator, and puts the regulator in a frame of mind where their decisions now will be reviewed by others in the near future. 
+
+A lot of the solution lies in training, and ensuring regulators know that when they spot problems, that calling banks, or whoever, out on it won't come back to bite them. 
+
+Pro Publica had a great investigation on just this subject regarding an employee at the NY Fed, if you're interested: http://www.propublica.org/article/carmen-segarras-secret-recordings-from-inside-new-york-fed",13,0,1442899068,1444725512
+cva3lry,0,t1_cv9wq8n,BarcodeNinja,"Also, fund rather than defund regulators.  See the EPA",2,0,1442925136,1444725512
+cva4woc,0,t1_cv9wq8n,iflyboats,Who decides which regulator gets assigned to which business or industry and who gets to be in charge of training? Now you've created another target for manipulation. ,2,0,1442928229,1444725512
+cva6rgu,0,t1_cva4woc,KabIoski,"The idea isn't to change human nature so people can't be bribed, or to make it so someone can't even imagine how someone could be manipulative. The idea is to make those things difficult. Getting cozy with a regulator you work with every day for years is a long way from influencing the entire agency. That's not creating another target, its removing the easiest target from those that exist.",3,0,1442931839,1444725512
+cv9wyv2,0,t1_cv9wq8n,February32nd,"I vaguely remember this from TAL last year. Solid episode, will have to listen to again.",2,0,1442899728,1444725512
+cva7lw1,1,t3_3lwb0i,TheKillersVanilla,"In ancient Greece, if you were in a position of public trust, and you were found to have violated that, they'd skin you and use the leather they'd make from that for the chairs at their ""city council"" equivalent . In Ancient Rome they'd sew you into a bag with wild animals, and then toss the bag into the river.
+
+It was shockingly brutal, and I don't suggest we do something like that, but I'm guessing it was pretty effective.
+
+",2,0,1442933256,1444725515
+cva9dp3,1,t3_3lwb0i,RandallWho,"Prevented? No. Can steps be a taken to minimize it? Yes.
+
+One of the biggest things we can do is get deal with the [revolving door](https://en.wikipedia.org/wiki/Revolving_door_(politics)).
+
+Another thing would be  to look at the idea of political appointees.
+
+Also i am not sure how this would work but decouple the regulatory agencies from politics.  ",2,0,1442936111,1444725515
+cv9vjdt,1,t3_3lwb0i,Enturk,"I know the problem, but I'm not sure this is something to be prevented. I think the solution would be to give better representation to other stakeholders, such as labor, the communities involved, and the environment, along with industry and commerce (the traditional ""capturers""), in the rulemaking process. Right now, labour is mildly involved (if you're part of a union), but mostly in an oppositional way, and communities and environment are not represented at all, really. If all these parties were properly represented, I think we'd have a much better rulemaking process. ",3,0,1442896052,1444725515
+cvai0wn,0,t1_cv9vjdt,TeddysBigStick,Labour and environmental groups are already heavily involved in the rule making process. What sort of change would you put in place?,3,0,1442949054,1444725515
+cvav1v7,0,t1_cvai0wn,Enturk,"As I mentioned above, labour's involvement in rule making is very minor relative to industrial and commercial groups, and, by and large, protectionist (of its constituency) - not that I blame them for that. This is evinced in the very concept of regulatory capture, which highlights the extent to which commercial and industrial interests prevail in the agency rule making process.
+
+Likewise, environmental issues are represented in the most minor of ways, and although this is improving, it is doing so very slowly. It has it's own agency, but it keeps getting batted down by the courts, other agency, and industry.
+
+I would put all the stakeholders at the rule making table, from industry to the communities immediately involved, to the commercial interests, and even include a representative assessing the environmental impact of proposed rules. Put everything on the record, including the discussion leading up to the decisions, all the final basis for the rule, any notions that might work against the decision and why they are outweighed, and an assessment of how certain the rule is, along with when its consequences should be reviewed to see how the rule is working. New rules, or rules that have uncertain impact should be reviewed more frequently. All of this should be on a wiki-like site, viewable publicly, and with a discussion page open for anyone to comment on.",1,0,1442970145,1444725515
+cv9wejh,0,t1_cv9vjdt,repmack,Are we talking about the same thing? Why do you think these ideas would lead to less regulatory capture?,3,0,1442898192,1444725515
+cva2vti,0,t1_cv9wejh,Enturk,"Regulatory capture, in common parlance, is when industry and commerce has too much influence over agencies that make regulations, a process legally called ""rulemaking"" to distinguish it from ""lawmaking,"" which occurs in Congress. 
+
+I hope it's obvious that if those two parties have ""too much influence,"" that's the same as other parties having ""too little influence."" Does my comment make sense now?",1,0,1442923109,1444725515
+cva0bf4,1,t3_3lwb0i,LarsP,"Since no one has nearly as big interest in regulation of glass panes as the glass pane industry, it's hard to see how they can be kept away from influencing it.
+
+Donations to legislators is just a small part of how it happens, IMHO.
+
+The simplest solution is to not regulate. If there are no regulators, they can't be captured. The typical way these things worked before we had the ""regulatory state"" was liability. If you cause harm, your victims can sue you, and a judge will decide. The judge will very likely not have any specific ties to the glass pane industry, so it usually works out fairly.",6,0,1442912505,1444725515
+cvapj95,0,t1_cva0bf4,norembo,"> If you cause harm, your victims can sue you, and a judge will decide. 
+
+The ecenomic disparity between a megacorp and a blue collar citizen would allow the corp to grind most cases into dust using money. Erin Brockovich is such a popular story because it was unusual.
+
+Regulations exist to protect the interests of the public, the community, and the environment. If you abolish regulation, you need to replace it with some mechanism to check the naked rapacious greed of the corps.
+
+The US justice system only delivers if you have the time, money, image and knowledge to leverage it.
+
+",1,0,1442960341,1444725519
+cvax0yr,0,t1_cvapj95,LarsP,"Many countries has a ""loser pays"" system, where whoever loses a lawsuit pays the legal costs of the other side. This makes the typical US tactic of ""we know we're guilty, but it'll cost them more to prove it than they can get in damages, so it doesn't matter"" moot.
+",1,0,1442973638,1444725524
+cvb5rjz,0,t1_cvax0yr,norembo,"Loser pays would be an improvement, however it doesn't solve the problem of being able to afford both a good lawyer and the time away from work to deal with the legal system.
+
+And what about environmental disasters? Eg an unregulated US waste disposal company dumps barrels of nuclear waste in a remote marine area. Nobody is killed and no fisherfolk are affected. Who prosecutes?
+
+It feels great to say ""oh let's just abolish all regulations"" but extreme answers like that are just too simplistic to work. Something needs to protect the public interest.
+",1,0,1442997152,1444725524
+cva7pe3,0,t1_cva0bf4,WhiteyDude,"> The simplest solution is to not regulate.
+
+That's throwing the baby out with the bath water.  I don't get how you can seriously argue that. Regulations came about for a reason. Because there was a time before they existed, and there were problems.  What makes you think the problems wouldn't happen again?  ",2,0,1442933415,1444725524
+cva350y,0,t1_cva0bf4,LiberalTerryN,"> Since no one has nearly as big interest in regulation of glass panes as the glass pane industry, it's hard to see how they can be kept away from influencing it.
+
+Influence is fine. You don't want someone who doesn't understand the glass industry from passing impracticable or ineffective regulation.
+
+And there are other players very interested in glass: the customers of glass, especially at large scales. Real estate developers, architects, and contractors will have something to say about their industries. In the auto safety context, there are plenty of insurance companies, standards bodies, manufacturers, and consumer safety groups will want to make sure that the industry is watching out for their respective interests.
+
+So when the FCC wants to start licensing a new use of spectrum where there are already incumbent users, the lobbyists for each industry come out in full force. Audio device manufacturers, theater owners, Broadway producers, and musicians groups may all wish to weigh in on rulemaking that affects wireless microphone usage. If it's happening in the TV bands, the broadcasters will want to protect their own interests. And if there's any possibility of licensed data networks, the wireless ISPs and big telecoms will get involved. Other players who have interests in spectrum regulation might be state/local government licensees (fire, police), aviation interests, tech companies that wish to use the spectrum, hobbyist organizations, medical users (hospitals and clinics), maritime groups, and other federal agencies (military, coast guard, other law enforcement, space agencies), as well as our foreign partners in cross-border or space issues. I've worked in spectrum licensing, and it would surprise you what kinds of organizations put together really compelling arguments that the FCC should or shouldn't take a particular course of action.
+
+I think the key is to make sure factions (as described in the Federalist Papers) each get the regulators' ear. That way, regulation is largely democratic and informed, and the regulators have good transparent reasons for why they rejected some proposals and adopted others.
+
+Somewhat ironically, my firsthand experience has been that the more money is at stake, the more democratic it tends to be - in large part because the smaller players can devote the time and resources to be heard on the topic. Big business is almost always on both sides of an issue. And aggregations of consumer groups can be more powerful than business interests.",3,0,1442923857,1444725524
+cva4kp5,0,t1_cva350y,progressiveperson,">Influence is fine. You don't want someone who doesn't understand the glass industry from passing impracticable or ineffective regulation.
+
+Wtf does ""ineffective"" mean in this context? The glass industry will lobby for rules that benefit them at the expense of everybody else, and the regulator will go along with it if the glass industry can make it worth his while. So yes, having the glass industry write regulations is ""effective"" for them. ",1,0,1442927502,1444725524
+cva5v62,0,t1_cva4kp5,LiberalTerryN,"> Wtf does ""ineffective"" mean in this context?
+
+If the regulator is interested in a particular result (e.g., safety requirements for auto glass, insulation properties for commercial building construction), the regulations need to be cost effective and not prone to loopholes defeating the purpose of the regulation. The main way that gets done is by being familiar with the industry practices and needs. So do the regulators mandate a particular manufacturing technique? Or do they prescribe a particular heat transfer or car collision test standard? Knowing which option to choose will require knowing the costs and the benefits of each approach. As the EPA has discovered with Volkswagen diesel ECU software, some tests can be gamed, so you want a balance of empirical results of particular tests (with the tests mimicking the real world conditions as well as possible), as well as certain best practices prescribed by regulation (I don't care how fireproof your building is, there must still be fire exits). It's a state of constant feedback and adjustment, and regulatory capture is best avoided by giving all stakeholders a voice.
+
+Frankly, you don't seem to appreciate that other stakeholders have a serious interest in glass pane regulation. Apple will demand glass that meets certain physical characteristics for their phone screens, and regulations on the types of adhesives that may be used or imported might affect the choice of glass manufacturing technique used. Patents and trade secrets might give one particular glass manufacturer a competitive advantage so that they might favor something that is good for them personally but bad for their competitors.
+
+And it's like that for every industry. Google's interests might be aligned with Verizon's for the purposes of allowing broad use of wireless spectrum for mobile devices, but those two companies will butt heads on net neutrality regulations. It happens all the time.",1,0,1442930190,1444725524
+cva8u9g,0,t1_cva5v62,progressiveperson,">If the regulator is interested in a particular result
+
+Why would you think it's beneficial for one guy to impose his own personal preferences upon everybody else? 
+
+>the regulations need to be cost effective
+
+Cost effective for whom? If the company believed it was ""cost effective"", then you wouldn't need laws forcing them to do it. 
+
+>So do the regulators mandate a particular manufacturing technique? Or do they prescribe a particular heat transfer 
+
+Christ, what you want is called a command economy. The verb ""regulate"" means to control. Why don't you look it up in the dictionary. ",3,0,1442935264,1444725524
+cvam3ng,0,t1_cva8u9g,LiberalTerryN,"> Why would you think it's beneficial for one guy to impose his own personal preferences upon everybody else? 
+
+Well, it's a case by case issue. I think governments should regulate restaurant food safety, automotive collision performance, air pollution, medical licensing, fire building codes, and securities disclosures. If you have beef with any particular regulation, fine, we can have a discussion, but to say that the government should never regulate anything is an absurd position and isn't worth engaging with.
+
+The fact is, I'm speaking about general regulatory goals (keep poison out of the food supply, reduce vehicle emissions, reduce unnecessary deaths, etc.), and regulators should be cognizant of how much compliance costs and how effective a particular rule will be at achieving a particular result.",1,0,1442954911,1444725524
+cva7xmd,0,t1_cva350y,LarsP,"> Influence is fine. You don't want someone who doesn't understand the glass industry from passing impracticable or ineffective regulation.
+
+That is a valid point. But that also means you need people from the glass industry working as regulators. Even **without any influence peddling**, they will typically share the worldview of industry insiders and make regulations that the industry likes.
+
+The fact that the next job for these people will most likely be in one of the companies they're regulating is an other factor pushing the world into regulatory capture without anyone doing anything improper.
+
+> And there are other players very interested in glass: the customers of glass, especially at large scales. Real estate developers, architects, and contractors will have something to say about their industries. In the auto safety context, there are plenty of insurance companies, standards bodies, manufacturers, and consumer safety groups will want to make sure that the industry is watching out for their respective interests.
+
+Experience (and Public Choice theory) shows that concentrated interests easily beat dispersed common interest. That means that 50,000 people whose livelihoods and careers depend on industry X will easily out lobby 300M people who can all stand to gain $9/year from proper regulation.",3,0,1442933787,1444725524
+cvaheh8,0,t1_cva7xmd,Mymobileacct12,"Without regulation, nothing prevents large industries from individually incorporating every risky operation as a ""arms length"" company and run it with a minimum of environmental and safety controls. Factory pollutes a major water source? Declare bankruptcy, play a bit of PR with who actually owns it, and make sure you don't write ""pollution control isn't cost effective, lol @fishermen"" in emails for prosecution to dig up and actually charge the people running the company. 
+
+Nearly zero risk for everyone profiting from it, large societal impact. What's your solution for that? ",1,0,1442948137,1444725524
+cvaxbic,0,t1_cvaheh8,LarsP,"That's an interesting tactic that I haven't heard of before. Can't say I have a premade solution for it. Then again I don't know that it ever happens in the real world.
+
+Under the Regulatory State system, the regulated industry typically writes the regulation¹, and probably writes them so whatever pollution is actually done is legal. Or possibly that no inspections are done. On top of that, the regulation always removes the possibility to sue for damages if the regulations have been followed. It's not clear to me that that is better than even if your scenario is 100% doable.
+
+¹ *This is what ""Regulatory Capture"" in the topic name means.*",1,0,1442974159,1444725524
+cvay72r,0,t1_cvaxbic,Mymobileacct12,"""Companies"" do it all the time to insulate them and for other reasons. Most publicly traded companies have multiple subsidiaries, which are to varying degrees separate legal entities. If they want them to, it's trivial for a large corporation to create a chain of companies that they all control explicitly (stock) and implicitly (the ceo happens to be a vp or close friend of their's). Even explicitly unless you can prove specific communications between parties, one company can fail without significant harm to the greater corporation. ",1,0,1442975722,1444725524
+cvaza7m,0,t1_cvay72r,LarsP,"I understand companies have subsidiaries, but the question is if they are used to shield the parent company from environmental damages, and if current regulation stops this kind of construct, as I think you claim.",1,0,1442977767,1444725524
+cvazylc,0,t1_cvaza7m,Mymobileacct12,"It proactively (in theory) requires a base level of protection for whoever operates. It requires certifications to operate in certain instances. Lawsuits are inherently retroactive. And retroactive lets you isolate intelligently, or better yet obfuscate. Make it complicated. Make it so no one outside of people who make a career of it understand it, and no casual observer can he informed. Democracy operates best in this environment. ",1,0,1442979134,1444725524
+cvah6sv,0,t1_cva0bf4,--__--__---____-----,"Sounds great in theory, but the judicial system in this country is way too dependent on having expensive lawyers, so again it comes back to who has money.",2,0,1442947828,1444725524
+cv9w1e3,1,t3_3lwb0i,repmack,Not regulating.,5,0,1442897266,1444725524
+cv9walz,0,t1_cv9w1e3,February32nd,"Sometimes I do forget that this is an option. In markets where deregulation won't lead to sizable negative externalities, this really is the simplest and best solution.",7,0,1442897909,1444725524
+cv9wgfv,0,t1_cv9walz,repmack,"Well Ronald Coase supposedly said something along the lines of there not being a regulation that he liked. Might be a little tongue and cheek, but it indicates how useless most regulations must be.",2,0,1442898337,1444725524
+cv9wr8l,0,t1_cv9wgfv,February32nd,"Coase never really addresses the concept of ""rights"" though does he? In those specific instances where regulation is meant to protect victims' rights, why should the victim have to enter negotiations? It's been a while since I've dealt with Coase though, so I could be wrong here.",2,0,1442899141,1444725524
+cv9xwq9,0,t1_cv9wr8l,repmack,"As far as coase's theorem goes no he doesn't. As far as property rights go he doesn't address them because he believes you don't need to address the origin or justification, just that we do have strong property rights.",1,0,1442902590,1444725524
+cv9w0fa,1,t3_3lwb0i,mywan,One of the ways is to have sunshine laws with more teeth.,3,0,1442897199,1444725524
+cv9xcxg,1,t3_3lwb0i,qlube,The best way is simply having a culture that values civic duty.  This should lead to minimal levels of corruption regardless of the size of the state.  Compare how Norway runs its national oil industry with Venezuela.,3,0,1442900847,1444725524
+cva2fog,0,t1_cv9xcxg,made_of_idiot,"> The best way is simply having a culture that values civic duty
+
+OK, lets do that...",2,0,1442921664,1444725524
+cv9y5zb,0,t1_cv9xcxg,BrawnyJava,Easier said than done.,2,0,1442903455,1444725528
+cva4pkk,1,t3_3lwb0i,iflyboats,"The only way to prevent regulatory capture is not to have regulators. There are no regulatory agencies anywhere on Earth who aren't involved in doling out favors. Regulations, being violations of individual rights, are inherently unfair and arbitrary, and unavoidably harm some businessmen more than others. Thus, regulations create a lawless environment in which the incentive is not to innovate an excel, but to manipulate the regulators to your advantage, because if you don't, someone else will.  
+",-1,0,1442927804,1444725528
+cva9ift,0,t1_cva4pkk,BoiseNTheHood,"Exactly.  There's a common misconception that money is power.  Really, money *rents* power.  And through regulations (and regulatory bodies), the government inevitably leases power to the biggest, most powerful and most well-connected companies in the market at the expense of smaller competitors.  It creates a perverse incentive in which bribing regulators through lobbying is what you have to do to innovate and get ahead.",1,0,1442936323,1444725528
+cvab16i,0,t1_cva9ift,joelcm13,"I hear your argument that in the current system money rents power, but need a bit more clarification on what deregulation would to to improve the situation. It seems that a removal of regulations simply moves the power from the government to those with money, e.g. those being regulated. In a world void of regulations, would those with money only increase and consolidate the power they have?
+
+While there is no doubt that the current regulatory system does a poor job in divvying up power as a result of the ability of money to ""rent"" power, it seems that instead of deregulation we should look for ways to account for the power of money in this situation. 
+
+I don't know how realistic these ideas are, but I think it could be interesting to hear your thoughts on how we might go about reducing the influence money has over regulators. What would you think about making regulators elected officials? If money is the problem, maybe the problem could be addressed through the redistribution of wealth? ",2,0,1442938682,1444725528
+cva8xu8,0,t1_cva4pkk,bleahdeebleah,"While it might suppress some kinds of innovation, I think that, for example, having fire extinguishers and fire exits are worth having regulations and regulators for.",3,0,1442935422,1444725531
+cvaab0b,0,t1_cva8xu8,iflyboats,I don't think regulators invented the fire extinguisher.,-1,0,1442937550,1444725531
+cvaaoz3,0,t1_cvaab0b,shinyskarmory,"But if it wasn't mandatory, I doubt many companies would invest in making sure the fire extinguishers in their buildings were properly maintained. 
+
+There are a lot of regulations out there that are worth attacking, but safety regulations like fire extinguishers/fire exits are really not the ones to go for. With most regulations, there's only money at stake; with OSHA regulations, there's lives. I think even the most hardcore conservatives wouldn't want to go back to the pre-FDA meat factory days, nor would we want something like the Triangle fire to reoccur because we let safety regulations go lax. ",3,0,1442938157,1444725531
+cvaas8r,0,t1_cvaaoz3,iflyboats,"If fire extinguishers and fire exists have legitimate value to tenants, it will be standard for real estate companies to maintain them just as they do with other essentials like lighting, plumbing, and heat. Would you rent space in a building that you thought was unsafe?",0,0,1442938298,1444725531
+cvb5vz4,0,t1_cvaas8r,norembo,https://en.wikipedia.org/wiki/Slumlord,1,0,1442997745,1444725531
+cvagjxo,0,t1_cvaas8r,shinyskarmory,"I'm thinking specifically in terms of workers' conditions. Renting a living space is different because the renter is free to seek out different accommodations at minimal penalty if they aren't satisfied with the apartment they're shown.
+
+But if we're talking about an unemployed worker who wants to provide for themselves/their family, they won't have any choice but to accept whatever jobs they can scrape up, lest they fail to put food on the table or go into debt. If a prospective employee is applying for a job and asks for proof that there's a working fire escape, he'll get laughed out of the building. 
+
+There are many regulations that I won't stand up to defend, but safety regulations are important.",3,0,1442946912,1444725531
+cvaaho8,0,t1_cvaab0b,bleahdeebleah,"Pedantism FTW?   Ok, replace ""having fire extinguishers"" with ""requiring fire extinguishers""",3,0,1442937838,1444725531
+cv9yvvn,1,t3_3lwb0i,233C,https://www.reddit.com/r/TrueReddit/comments/3lsy19/stanford_university_a_comparison_of_government/,0,0,1442906114,1444725531
+cvafaqa,1,t3_3lwb0i,mrhymer,End regulation. ,-1,0,1442945025,1444725535
+cvanidt,0,t1_cvafaqa,February32nd,"End all regulation?
+
+How would you propose to solve the issue of a power plant which has a natural monopoly and emits pollution into the skies of a city? Should there be regulations which limit emissions and afford the nearby residents access to clean air?
+
+Let's say the residents value relatively clean air over relatively cheap energy. The plant and residents clearly have competing interests. How can the right to clean air be obtained without regulating the emissions of the plant?",2,0,1442957036,1444725535
+cvbempx,0,t1_cvanidt,mrhymer,">How would you propose to solve the issue of a power plant which has a natural monopoly and emits pollution into the skies of a city? Should there be regulations which limit emissions and afford the nearby residents access to clean air?
+
+First of all, power companies have a government sanctioned monopoly. Secondly, any pollutants that the power plant admits that causes direct physical harm to people is a crime. Any pollutants that cause monetary damages is a civil lawsuit. Any pollutants that do not directly do either is the price of human progress.
+
+>Let's say the residents value relatively clean air over relatively cheap energy. The plant and residents clearly have competing interests. How can the right to clean air be obtained without regulating the emissions of the plant?
+
+Buy property far away from the plant. Your power will cost more and your air will be clean.",1,0,1443021183,1444725535
+cva2zp5,1,t3_3lwb0i,JohnnyBeagle,"Start by overturning Citizens United, to starve the beast.  Then systematically chop away at it, piece by piece.  Prevent anyone in government from signing on with a lobby firm for at least two years after leaving office.  And so on.... ",-7,0,1442923428,1444725535

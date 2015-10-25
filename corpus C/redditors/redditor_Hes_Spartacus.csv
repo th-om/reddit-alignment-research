@@ -1,0 +1,41 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvxketi,1,t3_3ogzid,Hes_Spartacus,03/22/2011,2,0,1444695418,1444720825
+cvmh7vr,0,t1_cvme0j6,Hes_Spartacus,"Right, got it, Civilians killed in collateral damage isn't the same as killing civilians and therefore is clearly not terrorism. The FSA does not target Civilians [The Alleged war crimes](https://en.wikipedia.org/wiki/Free_Syrian_Army) aren't  all that relevant because the IEDs they use are intended to kill, Mame and demoralize Assad regime militants and not civilians.
+
+In all seriousness, I'm sure the Syrian freedom fighters are less terrible than ISIS, and probably less terrible than the Assad regime. However I personally, do not condone any one of the three  groups' actions. They all have committed war crimes and which ones are considered terrorists versus freedom fighters is pure semantics. in closing read the [Definition of Terrorism](https://en.wikipedia.org/wiki/Terrorism) and you will fine that it is not absolutely defined, not by the Geneva convention, not by any one nation let alone all the nations. Additionally the term terrorist is routinely used disparagingly as a way to marginalize certain groups or lionize others.",1,0,1443846093,1444720825
+cvmaum0,0,t1_cvlo5at,Hes_Spartacus,"If my brain is truly mush please help me un-mush it. Your original post says that:
+>A key part of the definition of terrorist is who their target is. 
+
+While your second post clearly says that it is not the target of the attack but the weapons and strategy employed that constitutes an act of terror. If the frigate, when bombing the pentagon, were to kill 59 Civilians as collateral damage would it not now be an act of terror?
+
+If instead as you say (in your second post) that it is the tactics employed which define an act of terror as well as the intended target are not the Free Syrian Army no different than ISIL?
+
+I (with my mush head) can agree that terrorists are people who attack civilians for political goals. However, how does one define 'political goals' if not relativistic-ally. ",1,0,1443831759,1444720825
+cvlmavz,0,t1_cvldarj,Hes_Spartacus,"If that were true then the 9/11 attack on the Pentagon is not an act of Terrorism. That Wikipedia article I linked to if you were to replace each instance of Syrian Government, or Assad Regime with American government, I will guarantee you that that organization would be classified as a terrorist organization by the United States.
+
+The point being that Terrorism is relative. The target does matter, not in an objective sense, but in a relative one. The enemy of my enemy is my friend, whereas the friend of my enemy is a Terrorist.",0,0,1443791855,1444720825
+cvlb2wj,0,t1_cvlag79,Hes_Spartacus,"Yes, and my favorite part of that example is Rambo III, which from the closing credits is ""Dedicated to the Gallant People of Afghanistan"". Referring to the Mujahideen, now Al-Qaeda.
+> John Rambo's former Vietnam superior, Colonel Samuel Trautman, has been assigned to lead a mission to help the Mujahedeen rebels who are fighting the Soviet invasion of Afghanistan, but the Buddhist Rambo turns down Trautman's request that Rambo help out. When the mission goes belly up and Trautman is kidnapped and tortured by Russian Colonel Zaysen, Rambo launches a rescue effort and allies himself with the Mujahedeen rebels and gets their help in trying to rescue Trautman from Zaysen. ",1,0,1443755007,1444720825
+cvlacz4,0,t1_cvl96tn,Hes_Spartacus,Terrorism is also relative to who is making the classification. In many cases on nation's terrorist is another nation's [Free Syrian Army](https://en.wikipedia.org/wiki/Free_Syrian_Army#Strategy).,2,0,1443753744,1444720825
+cvl9x1l,0,t1_cvl9n5u,Hes_Spartacus,[Reference](https://en.wikipedia.org/wiki/Crab_mentality),3,0,1443752983,1444720825
+cvk3277,1,t3_3n1hby,Hes_Spartacus,"The 2nd question... Is a bit tricky, however they place to start is with the free body diagrams (FBDs) which are part A. In situations where you need to draw multiple FBDs it is generally best to start from the outside and then work in. In this case he simplest or most outside body is the mass Mb. In the Y axis it will have a weight acting down through the CG (Wb) A normal force equal and opposite will act upwards through the CG (FNb) that is all there is in the Y direction. For the X direction there is only the frictional force (Ffb) opposing the velocity v0 acting at the surface between Mb and Ms. 
+
+For Ms again starting in the Y direction, acting down you have the weight of both the slab (Ws) and the box (Wb). The weight is equally opposed by a normal force acting up (FNs). That is all for the Y direction. in the X direction there is only a frictional force equal and opposite that of the box. So there is a force Ffb acting to the right on the top surface of the slab.
+
+To solve the final velocity Vf you can utilize the conservation of momentum. So the inital momentum Mb*v0 equals the final momentum (Mb +Ms)*vf. Therefor vf = Mb*v0/(Mb+Ms) = 0.57 m/s.
+
+To find the distance you have to solve for the acceleration of the slab, and then integrate once to get velocity. From the velocity equation you can solve for the time it takes for the slab to accelerate from 0 m/s to 0.57 m/s. You can then integrate the velocity to get a displacement equation. The final displacement can be calculated by plugging in the time obtained from the velocity relationship. The acceleration in this case is constant because the mass and Frictional force Ffb acting on Ms are constant with respect to time. Hopefully that is enough to get you started.",1,0,1443666846,1444720825
+cvk21gm,1,t3_3n1hby,Hes_Spartacus,"The 1st question is worded a bit strange. However what I gather is that this is a circular motion problem. The mass as it spins would normally fly off into space except for the radial force being applied by the vertical wall (Fn). This normal force allows for a frictional force Ff to opposite that of the velocity v. Ff = Fn*u (where u is the coefficient of friction). Fn can be determined based upon the mass and velocity of the small mass.
+
+The radial acceleration Ar = v^2/R (or Ar = omega^2*R). Fn is simply mass times the acceleration in the normal (radial) direction. Therefore Fn = m*v^2/R. The frictional force therefore can be written as Ff = Fn*u = m*u*v^2/R. This force acts negative the direction of the velocity v.
+
+Part B asks for the tangential acceleration At. This is simply Ff = m*At (since no other forces act in the tangential direction). Therefore At = u*v^2/R.
+
+Part C requires the old calculus. dv/dt = At. By moving the dt to the other side, dt = dv/At. This can then be integrated to solve for time T. integral(dt) = integral(1/At dv).
+
+so T = integral[-R/(u*v^2)] The negative is needed because the tangential direction opposes velocity v. This integral can then be solved for the interval V0 to V0/3. The final answer I got is 2*R/(u*V0).
+
+The key here is to draw all the Free body diagram of the small mass. The Ff is opposite v, and the normal force Fn acts in the radial direction. knowing these things you can than start to list the things you know like Ff = u*Fn and Fn = v^2/R etc.",1,0,1443665056,1444720825
+cvj82eq,0,t1_cvisqwx,Hes_Spartacus,"The issue I have isn't so much what individual people believe as much as when they try to peddle some cause or product as being the salvation from some apocalypse. In this case my issue is with Elon Musk and the original article.
+
+He claims that the current refugee crisis is nothing compared to the future climate crisis (prophecy of impending doom) and that unless we take action to reduce emissions (Subsidize Tesla) our world and our future children will look on us in utter disappointment. This tactic is disingenuous and [found throughout history.](https://en.wikipedia.org/wiki/What_Did_You_Do_in_the_Great_War,_Daddy%3F)",1,0,1443618613,1444720825

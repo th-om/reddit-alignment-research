@@ -1,0 +1,33 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvszc7q,0,t1_cvswhho,okkoto,"Attenuverters exist which would invert the voltage signal. In the Euroack world Maths by Make Noise can do it, Triatt by Intellijel will too. So, giving the signal the right amount of negative offset could probably work, but it would be tricky to calibrate it accurately.
+
+Actually, of the 2 channels of Maths that can act as attenuverters, one is 5v and the other is 10v, so sending the BSP CV through the appropriate channel with a hard -5 offset would work perfectly in theory",4,0,1444340350,1444728130
+cvsvucr,0,t1_cvsv5z0,okkoto,"yea, BSP doesn't do negative, so... that's the issue, though, -5 to 5 is still a 10 volt range, so I'm thinking there might be a way to set it up properly, but would have to sit down and think about it.... also have no idea what the Werkstatt is like at this point either.
+
+it would depend on how far you could coarse tune the VCO of the werkstatt i guess
+
+edit: so yea that's what was weird about the BSP when i first got it. Tuned my VCO to C3 or something, but pitch was crazy high scaling up and wouldn't go lower than C3. It's because it doesn't output negative voltage. When I tuned VCO to C0 and set BSP to output 0 volts at C0, then I could play the VCO at full range",3,0,1444335201,1444728130
+cvsugu3,1,t3_3nzmnz,okkoto,"i have BSP and modular gear, and yea, like others have said,it's about calibrating the BSP. Normally, when playing VCOs via CV you have to tune the VCO to C, but the question is which C. I cant remeber exactly how I set it up, but you can adjust what kind of output C0 is on the BSP, so if you know you want to tune your VCO to C0 then it makes sense for output on the BSP at C0 to be 0v. And scale up from there. I assume you can accommodate similarly to the Werkstatt's range. 
+
+I'll have one once the recent MassDrop ships",2,0,1444333251,1444728130
+cvl20cx,1,t3_3n4v24,okkoto,"TipTop Rails + Power supply of your choice + old suitcase of the right dimensions. 
+
+That's what I did. Still about $200 +/- but certainly not the craziness of some cases out there
+
+here she is: http://imgur.com/a/VHmNK",3,0,1443739073,1444728130
+cvkxiwx,1,t3_3mwg39,okkoto,damn where are they playing together? that's an awesome show. ,1,0,1443732052,1444728130
+cvkjj0c,1,t3_3n2tpj,okkoto,Try Tulsi/Holy Basil tea. It really helps me sleep.,1,0,1443711975,1444728130
+cvirwf2,0,t1_cvirebg,okkoto,"I've never had any other clock besides Pam but as far as I can tell, it covers all the same ground as QCD but twice the outputs. Plus the opportunity to change the firmware to the euclidean sequencer",1,0,1443574588,1444728130
+cvinygq,1,t3_3ms1nu,okkoto,"my system is somewhat similar to yours. I use Pamela's Workout for all my clocking needs. I have gotten some pretty sweet stuff using the on board logic of the Rene and different divisions of Pam's outputs. [Here's a video of that in action](https://youtu.be/DcLxYwsIIqQ)
+
+You might consider a Beatstep Pro. I have one and been thinking that it would probably be friggin awesome to use the drum gates to rhythmically advance the Rene's X/Y but just been so busy lately. I probably will try this weekend because I have some new stuff coming on Thursday. But, also having two extra lanes of sequencing will certainly liven this up for you too and allow for basslines and melodies and whathaveyou ",2,0,1443567589,1444728130
+cvg2kvk,1,t3_3mlhz8,okkoto,"Sounds like that could be a town. Foxsquabble, Mississippi",42,0,1443381787,1444728130
+cv36qt2,0,t1_cv358cq,okkoto,"we are poking at hornets' nests here. 
+
+i am not of the neo-humanist mindset that defines quality by lack of chaos and technological/consumer convenience. 
+
+A society plagued with corruption and injustice is not quality. 13 years of war is not quality. A panopticon government is not quality.
+
+I think the extreme weather that has affected CA and Syria is the result of global climate change, which in turn is the result of our addiction to oil which is at the heart of our cancerous global economy. Cancerous meaning unchecked and detrimental growth that is threatening the vitality of the entire system. 
+
+Life in service to profit is not quality and I would much rather see a world in service to humanity. ",0,0,1442378793,1444728130

@@ -1,0 +1,25 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvxuqp8,0,t1_cvxkcnk,hooah212002,"It's Detroit and all murders and violence happen in the middle of the street broad daylight, so alley's are probably the safest place. Thanks kind Detroitian!",1,0,1444713071,1444721310
+cvxuhfe,0,t1_cvxpy5g,hooah212002,"At the moment, you have to choose between ""can do everything I want and play everything I throw at it"" and ""doesn't use a lot of power, can be hidden well, is really small and compact"". You can't have both.",1,0,1444712420,1444721310
+cvxmq3u,0,t1_cvx5c49,hooah212002,He should have Bernstein on as a regular guest when they talk about Chicago sports.,2,0,1444698996,1444721310
+cvxm8v1,0,t1_cvxm42h,hooah212002,: A Darude Love Story,1,1,1444698270,1444721310
+cvwjsqy,1,t3_3oej08,hooah212002,lol welcome to detroit motherfucker,43,0,1444619481,1444721310
+cvwjna1,0,t1_cvwjior,hooah212002,OpenMediaVault.,1,0,1444619207,1444721310
+cvwj6wz,0,t1_cvwiwjg,hooah212002,I am not sure. I don't know enough about brtfs to be of much more help. Give me some time to look into it and I'll see what I find. Sorry mate.,1,0,1444618392,1444721310
+cvwis59,0,t1_cvwijhm,hooah212002,"Try
+
+    lsblk
+
+because it doesn't look like you *have* a /dev/sdd
+
+[Here is mine](http://i.imgur.com/g2UJK89.png): I have 4 disks on my NAS. md1 and md2 are the arrays. Granted, I am using mdadm, so that is likely why I am confused......",1,0,1444617648,1444721310
+cvwidkm,0,t1_cvwiauo,hooah212002,"Is everything mounted the right way at this time? If so, what does 
+
+    df -h 
+
+return?",1,0,1444616925,1444721310
+cvwi7m5,1,t3_3oe6l3,hooah212002,"Don't mount a RAID array by device, mount it by UUID because that never changes.
+
+>Ive looked around and most people say to look in the fstab, but since its a RAID IDK how it should look.
+
+What does it look like?",2,0,1444616618,1444721310

@@ -1,0 +1,49 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvpebd2,0,t1_cvos6nm,XplodingForce,"I disagree with the way you calculated this. Under normal conditions and the normal definition of visual acuity that I can find a visus of 1.0 corresponds to a visual acuity of 1 arcminute. Even assuming an individual with a visus of 2.0, that's a resolution of just over 16k for a 100° FOV (which is really large, THX recommends 40° for movies).
+
+Now I can find the figure of 0.5 arcsecond for a single black line on a perfectly illuminated white background, but those are not normal viewing conditions for a monitor. I highly doubt that going past 16k (or even 8k for a lot of people) will make any discernible difference under any realistic usage conditions. ~~Now I understand that there might be conditions where this could be theoretically achieved (although your monitor would need perfect contrast and a very high brightness), but that does not mean it will be necessary for normal applications.~~
+
+Edit: if I understand this [paragraph](https://en.wikipedia.org/wiki/Visual_acuity#Other_measures) correctly, the fact that a 0.5 arcsecond black line would only produce a 1% difference in illumination means that it even in lab conditions, it would look exactly the same as a 50 arcsecond line that is 99% white (very light gray) against the same background. That means that even under lab conditions, that figure makes no sense for a display, since displays also have brightness.
+
+Tldr: Under normal conditions display resolutions are approaching what a human can see, Paladia's figure does not apply for displays since they can show shades of gray.",1,0,1444081979,1444720253
+cvoptzj,0,t1_cvnts4a,XplodingForce,"There was [an interesting thread](https://www.reddit.com/r/politicalfactchecking/comments/3asjwo/america_is_number_6_in_the_top_ten_developed/) on these statistics a while ago. I won't repeat all the arguments here, but since you are repeatedly posting this as a source of information I highly urge you to read that thread (it's not that long) and draw your own conclusions about the validity of those stats. A good way to illustrate what is wrong is to sum the population and fatalities columns in the [archived full version](https://archive.is/f4gbv).
+
+Edit: To illustrate my point properly I did the summing: The sum of all deaths in countries except the united states is: 182 for a population of 935 405 145. This is a ""rampage shooting rate"" of 0.19 per 1 million people. For the united states that rate is 0.72, which means the rate for the united states is 3.7 times higher than that of the other countries in the chart. Now yes: there are a few countries in the chart that have a higher rate, due to large shootings and a small population (notice that in the fourth column, they all have 1 or 2 shootings, as opposed to the united states 38).
+
+The equivalent of doing this to the united states would be splitting the statistics for all states, which would result in some states that have had no shootings (since there are more states than shootings during that period of time), just like there are countries in Europe that have had no shootings in those five years, and some states that would have much higher rates than the average for the entire US.
+
+To be clear: I'm not implying any conclusions about gun control from this, but the statistics that you have linked to are presented in a highly misleading way, masking the fact that the united states is highly out of the ordinary in that list. What the reason for that discrepancy is, is a much more complicated discussion, but the stats you linked to certainly don't provide an answer.
+
+In any case, I would argue that the rate of mass shootings is not a good indicator for information on gun policy, but all results of having guns commonly available should be considered.",1,0,1444030711,1444720253
+ctw2bg6,0,t1_ctw1ct0,XplodingForce,"Dude, please don't. Chances that the brick is dangerous from the outside seem pretty slim to me, since it should have been better contained than just a case. However, some kind of ceramic or metal (what this looks like) would be a really good containment to seal a radiation-emitter in for transport. It should still have markings on the outside of the case if it were dangerous, but since were talking about a defense contractor I wouldn't assume official protocol was followed.",1,0,1439055094,1444720253
+ctsje5z,0,t1_ctsijy7,XplodingForce,"There is nothing constructive to be said about that without a source, except to say that I obviously think it is not true. Therefore, if you want a more constructive reply, I would really like a source for that quote.",2,0,1438796386,1444720253
+ctsgwr6,0,t1_ctsfzex,XplodingForce,"What exactly are you trying to say with those statistics? Are black people more involved with (violent) crime in the United States? Yes. This is a well known social problem, although the exact causes and solutions are of course very hard to determine. [This section on wikipedia](https://en.wikipedia.org/wiki/Race_and_crime_in_the_United_States#Theories_of_causation) provides a great overview of current theories around the causes of this problem. Note that ""It's a genetic difference that makes black people more likely to commit crime"" is not among the theories, since it is not a viable theory at all.
+
+So I guess what I'm asking is, are you suggesting that black people are more likely to commit crime, due to genetic differences, or are you just pointing out a social problem? In the former case, that's racist. In the latter case, I totally agree, it is a terrible problem that needs to be solved.",-2,0,1438792900,1444720253
+ct0v6f1,0,t1_ct0rz6j,XplodingForce,"Except that Peter Gregory was based on Peter Thiel, I think the creators have even stated that. Gavin Belson resembles Marc Benioff (CEO of SalesForce.com) quite a lot.",2,0,1436725439,1444720253
+ct0t0j8,0,t1_ct0rnzr,XplodingForce,You would give 13 euros for a beer ;),8,0,1436721367,1444720253
+ct0sd69,0,t1_ct0rloy,XplodingForce,"I should keep my mouth shut about stuff I don't know about. The regulations I was quoting apply to shipping batteries over the air, not for personal carry on. It seems that your original statement was correct, from the same IATA recommendations:
+
+> Although the text provided above does not impose a limit on the number of lithium
+metal and lithium ion batteries that fall under the 2 g or 100 Wh limitation (See
+2.3.5.9) being carried as spares within a passenger’s carry-on baggage it must be
+emphasized that the number of spares must be “reasonable” in the context of the
+equipment used by the passenger and his or her itinerary. Furthermore, these must
+be intended to power portable electronic devices (including, but not limited to,
+cameras and professional film equipment, laptop computers, MP3 players, cell
+phones, Personal Digital Assistants (PDA’s), pocket calculators etc).
+
+On a semi-related note: I hate it when regulations include “reasonable”, they even put quotes around it themselves. The whole point of the regulation is to know what you can and cannot take. You can make an exception to the regulation for stuff that should be allowed because it is reasonable, but that should never be the entire regulation, because that's not a regulation at all.",1,0,1436720093,1444720253
+ct0s52n,0,t1_ct0rloy,XplodingForce,"Ah, I misread, you are absolutely right! ~~If you need to bring more than 2 batteries you might want to look into those Section IB and Dangerous Goods requirements, that'll allow you to bring 10KG and any number of batteries.~~",1,0,1436719644,1444720253
+ct0qfea,0,t1_ct0olgl,XplodingForce,"So if these regulations apply, the airport personnel was actually right in that /u/andersonsjanis had to take the batteries with him in his carry-on. However, that's a very big if, because we are talking about lithium-polymer batteries here, which are *very* different from lithium-ion (and quite a bit more dangerous).
+
+Edit: according to the recommendations posted by /u/medhp lithium-polymer is actually regarded as a form of lithium-ion:
+> Lithium ion cells/batteries – rechargeable – includes lithium polymer cells/batteries
+
+So yeah, take them in your carry-on and you should be fine. there's even a template in those recommendations to add to your batteries, so the airline knows what they're dealing with.
+
+~~Edit 2: And although there does not seem to be a quantity restriction under 100Wh (I did not look for this, so don't quote me there), there is a weight restriction: 5kg per package.~~
+
+~~Edit 3: So yeah, there is a quantity restriction, even <  100Wh: 2 batteries. These are the ""Section II"" limits, if you go over that your package has to be packaged according to Section IB and IMP RLI (which tells me nothing, but you can probably look it up). Section IB means that you are now subject to ""Dangerous Goods"" regulations, which means (among other things) that you need special training to be able to take that stuff with you.~~
+
+Edit 4: All the striken stuff applies to shipping, not carry-on. See further down the thread for the (lack of clear) rules for carry-on.",3,0,1436716208,1444720253

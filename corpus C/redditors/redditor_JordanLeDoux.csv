@@ -1,0 +1,39 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvxwetc,0,t1_cvxw6ay,JordanLeDoux,"Awesome. Thank you, I'd rather use another library for this, since base conversion is a solved problem in computer science. ",1,0,1444717977,1444722679
+cvxkljh,0,t1_cvxj1tw,JordanLeDoux,"While it is completely impossible, if the 20x solar mass 'planet' was made of rock like we have here on earth, it would primarily be carbon and silicon, which would absolutely fuse under those pressures.
+
+But the fusion time would be very short. Probably only a few days.",4,0,1444695713,1444722679
+cvxfi7a,1,t3_3oi9io,JordanLeDoux,"For example, 100.1 in base 2 should be:
+
+1100100.00011...
+
+I break the number up by the radix (decimal point), and the function linked converts 100 -> 1100100 in base 2, but I'm just kind of going in circles on how to convert the 0.1 -> 0.00011... in base 2.",1,0,1444687486,1444722679
+cvxe645,0,t1_cvxbvaa,JordanLeDoux,"> then you should probably get a full-time job. 
+
+lol, it's like you didn't understand a single word of what was written.",11,0,1444685416,1444722679
+cvx81w0,0,t1_cvwzbsd,JordanLeDoux,"I filled out my ballot in 2008 and 2012, but left the president spot blank. I voted in everything else. ",1,0,1444676673,1444722679
+cvx7vo2,0,t1_cvx0z38,JordanLeDoux,"She is certainly being accused of Bill being the brains, and that is something I've observed many women experience. 
+
+But, for them in particular, I would just like to point out that when Bill was president, people used to say Hilary was the brains, and he was simply enacting her ideas. 
+
+The Clinton's are different from normal people in a lot of ways. ",1,0,1444676415,1444722679
+cvvwvfr,0,t1_cvveu5m,JordanLeDoux,"Well, it'd be easier at least. ",2,0,1444581097,1444722679
+cvua08h,0,t1_cvu9p9g,JordanLeDoux,"Sorry if I sounded insulted. I was not trying to be confrontational, I was expanding on your question, since the answer to just your question is ""because it didn't exist"". :) ",2,0,1444433043,1444722679
+cvu1u10,0,t1_cvu1h1w,JordanLeDoux,"What I'm using it for is the server side of a game, but really there are many (niche) use cases for something like this. 
+
+And while some other languages might be better for this application, that doesn't mean that they are better for the combination of application/developer/userbase. PHP is not inherently bad at these things, or slow at them either. It's just that the libraries don't exist for it.
+
+Which is actually exactly why this should exist. :) 
+
+I think a common use case for this could be converting shipping weights, although this library is way overkill for something like that. (Still, it won't be slow at something like that.)
+
+Another use case that might come up in PHP is localization in general... being able to display a user's height/weight/etc., or the properties of an item, in any conversion that you want.
+
+Your question has merit though. It was asked the last time I posted this too. The bottom line is this combination of details:
+
+1. PHP is not especially bad at this *sort* of thing.
+2. The libraries to do this sort of thing don't currently exist in PHP.
+3. Ergo, the notion that this shouldn't be made because there are languages better at it is not a good argument, since the main advantage they have is that they have a library written already. Now PHP does too.
+
+I'll wait and see what other people might do with this.",10,0,1444419539,1444722679
+cvu13rk,0,t1_cvu0qcn,JordanLeDoux,"Ah, cool. I thought they were much further along, but it's good to know they haven't been abandoned. They sounded like they had a lot of advantages. I wasn't aware that materials science was the limiting factor there.",1,0,1444418423,1444722679

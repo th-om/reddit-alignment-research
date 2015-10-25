@@ -1,0 +1,19 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvxg5xm,0,t1_cvxdw2e,michaelmalak,"What are some examples of non-neural symbolic processing inspired by cognitive science?
+
+Thanks for the update on OpenCog -- I added an update to the end of my blog post.",1,0,1444688526,1444716668
+cvwrxp4,0,t1_cvwnkpa,michaelmalak,"Sure, but probably not that the photo is going viral",1,0,1444643825,1444716668
+cvwruqp,0,t1_cvwoimm,michaelmalak,Farm subsidies. https://www.washingtonpost.com/lifestyle/food/farm-bill-why-dont-taxpayers-subsidize-the-foods-that-are-better-for-us/2014/02/14/d7642a3c-9434-11e3-84e1-27626c5ef5fb_story.html,4,0,1444643445,1444716668
+cvwrp9g,0,t1_cvwohps,michaelmalak,"Supervised vs unsupervised puts it into the camp of machine learning, not AGI, as it implies single shot execution over a fixed set of data to create a model (usually static at that).
+
+In a sense, all AGI will be supervised because it will optimize its pleasure and minimize its pain, however pleasure and pain are encoded into its ""DNA"".
+
+In the case of DeepMind playing Atari, the pain is pre-hard-wired to the score. A true AGI would have had to learn the social cues, such as verbal cues or a soothing virtual stroke on the head, and learned to read the score on its own. Really, playing Atari with the score decoded for it is such pathetic progress after 60 years of researching perceptrons that I hesitated to include it. But the potential is unknown if they could make the leap to embody it into a robot body.",3,0,1444642748,1444716668
+cvwnjzb,0,t1_cvwn6j4,michaelmalak,That would pretty much be the source of hypothesis generation for the symbolic approach. It's not possible for introspection to look down into the sub-symbolic level (connectionist/neural network level).,3,0,1444627624,1444716668
+cvvuq92,1,t3_3o8q34,michaelmalak,Taken out of context. No *financial* wrongdoing.,0,0,1444577009,1444716668
+cvvq9ji,1,t3_3o9qlg,michaelmalak,"Split Living. Not ""Living With Both Parents"" (which refers to an intact family).",3,0,1444564959,1444716668
+cvvpyj7,1,t3_3oaxzy,michaelmalak,"Plus there are more protections with a credit card than with a debit card. Not too much of an issue at grocery stores, but gas stations are more likely to have card skimmers on them. And definitely do not want to be using a debit card online or at restaurants.",2,0,1444563755,1444716668
+cvvjrz2,1,t3_3oail5,michaelmalak,"With Disney part of the plutocracy, TFA won't have the anti-Vietnam War / anti-Virus Iraq War message of the first six films.
+
+Abrams may duplicate the ""feel,"" (John Williams, screen wipes, futuristic equipment and facilities that are actually scuffed up) but only in a superficial way.",-4,0,1444539962,1444716668
+cvvecix,1,t3_3o7p2v,michaelmalak,Slashdot has been online since 1997.,1,0,1444529186,1444716668

@@ -1,0 +1,63 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvxvnk5,0,t1_cvxuz3u,fastspinecho,"You're right about GPS satellites, because of the relativistic effects of gravity. For Space Shuttle passengers, however, clocks run measurably slower.
+
+As for Alice and Bob, let me try again. 
+
+From Alice's frame of reference, if she sent an instant message to Bob on day 300, she would calculate that it would arrive on his day 270. If she expected an instant response, then she would expect Bob's response on her day 300 (the same day she sent a message to Bob). 
+
+From Bob's frame of reference, however, he would calculate that the message from Alice was sent on her day 270, which happens to be his day 300. He would instantly send a message back, which (again from his frame of reference) would also arrive on Alice's day 270.
+
+The paradox is that depending on the frame of reference, Bob's message either arrives on Alice's day 270 or Alice's day 300. If Alice's message concerned day 290, then from Bob's frame of reference his message would be calculated to arrive before Alice could even have sent her message. That's not exactly time travel, but it is reverse causality.
+
+",2,0,1444715599,1444726280
+cvxtwll,0,t1_cvxr9si,fastspinecho,"No, it's not a limitation of light or other problem with ""perception"". In other words, there is no possible measurement or calculation by which Alice would show that she and Bob are aging at the same rate. And if Bob actually turned around to meet Alice in person, any physical exam would show that he aged more slowly than she did.
+
+Of course from Bob's frame of reference, Alice is aging more slowly than he is. The only way to avoid a paradox of reverse causality is to put a speed limit on their methods of interaction. And that speed limit is the speed of light.
+
+This is not merely theoretical, by the way. The internal clock of GPS satellites actually run slower than clocks on earth, and this must be corrected whenever you use them to triangulate your position.",2,0,1444711095,1444726280
+cvx32q6,0,t1_cvx11gn,fastspinecho,"No, it would come before day 300 from her perspective. 
+
+You can see the paradox more clearly if you imagined communication with infinite speed. 
+
+Alice has bad shrimp on day 300. From her reference frame, Bob is only on day 270. She ""instantly"" communicates this to Bob. Bob instantly replies. But from his reference frame, he is sending a message to Alice when he is on day 300 and she is on day 270 (ie, before he sees her eat the shrimp). So from his reference frame, she will instantly receive his message on day 270 and eat the shrimp 30 days later.",1,0,1444669458,1444726280
+cvx0isc,0,t1_cvwy4yf,fastspinecho,"Thank you, this is very informative. 
+
+There is a worked-out example on this page that should make things pretty clear. I've quoted the premises and conclusion, see the wiki page for the calculations. 
+
+> As an example, imagine that Alice and Bob are aboard spaceships moving inertially with a relative speed of 0.8c.... Each one also has a tachyon transmitter aboard their ship, which sends out signals that move at 2.4c in the ship's own frame.... When Alice's clock shows that 300 days have elapsed since she passed next to Bob (t = 300 days in her frame), she uses the tachyon transmitter to send a message to Bob, saying ""Ugh, I just ate some bad shrimp"".... Due to the effects oftime dilation, in her frame Bob is aging more slowly than she is by a factor of ... 0.6, so Bob's clock only shows that 0.6×450 = 270 days have elapsed when he receives the message... When Bob receives Alice's message, he immediately uses his own tachyon transmitter to send a message back to Alice saying ""Don't eat the shrimp!""... she receives a message from Bob saying ""Don't eat the shrimp!"" only 243 days after she passed Bob, while she wasn't supposed to send the message saying ""Ugh, I just ate some bad shrimp"" until 300 days elapsed since she passed Bob, so Bob's reply constitutes a warning about her own future.
+
+",3,0,1444665473,1444726280
+cvwic9r,0,t1_cvwaq3d,fastspinecho,"> As to the device itself, technically Apple can and can't access it. In specifics, they can, but only by telling the automated system to reset your password via email. 
+
+What if Apple sent your reset request to a different email, like director@nsa.gov?",1,0,1444616859,1444726280
+cvvy9gt,0,t1_cvvtcl8,fastspinecho,"Another frustrated Linux wannabe user here. 
+
+And I don't understand why Linux is still so complicated when OSX, another *NIX, makes most things painless. 
+
+Case in point: this year I tried to convert an old laptop into a Linux server for Plex. This is straightforward in Windows and OSX, but for some reason this requires messing around with various low level disk utilities, and I often wondered whether a typo would accidentally wipe my media collection. Why, Linux, why? 
+
+EDIT:
+
+Thanks for the advice. I did eventually get it running. Not to derail too much, but the problem arose because the media files were located on an NTFS drive. This is an issue with a [known solution](https://support.plex.tv/hc/en-us/articles/200288606-Mounting-NTFS-Drives-on-Linux). But IMHO, the solution is unnecessarily complicated, even compared to OSX which likewise is not based on NTFS. In particular, configuring fstab was unpleasantly reminiscent of fixing the MBR in Windows.",2,0,1444583553,1444726280
+cvvxv5e,0,t1_cvvrvot,fastspinecho,"Of course, the whole point of the detention center is lost, if you *keep* it a *secret*! Why didn't you tell the world, EH?",1,0,1444582868,1444726280
+cvs6q03,0,t1_cvs5tmb,fastspinecho,"> The complexity of cell phones is directly why more money can be commanded for quality and features.
+
+Yes, and more money can also be commanded for branding. Particularly when nowadays there is little to distinguish Apple's products based on their technical specifications.
+
+You still haven't demonstrated whether branding or quality is ultimately responsible for Apple's success. 
+
+>Microsoft nor Samsung have not really innovated in any way in the realm of phones or tablets, have they?
+
+Microsoft popularized a type cover and stylus. Samsung popularized a huge phone.
+
+Apparently they got Apple's attention.",3,0,1444280623,1444726280
+cvs4k9r,0,t1_cvrxtyz,fastspinecho,"Yes, that's true. The factors that determine which cable to buy are much simpler than those that determine which phone to buy.
+
+But if quality is not directly related to price and/or profits in the very simple case of HDMI cables, how on earth can you claim that the relationship must hold true in the far more complex phone market?
+
+As for Microsoft and Samsung, the solution is obviously not to raise prices, and I never suggested it was. What I suggested is that a strong brand can command high prices even in the absence of technological innovation.",3,0,1444275347,1444726280
+cvrsxy8,0,t1_cvrs4tm,fastspinecho,"> The same can't be said of an expensive cable they you use to connect your tv to your blu ray player. 
+
+How do you know the same can't be said of an expensive cable? People are paying a premium despite the existence of competitors with an inexpensive alternative. Using your reasoning, Monster cables must therefore be providing a better user experience. 
+
+",2,0,1444255790,1444726280

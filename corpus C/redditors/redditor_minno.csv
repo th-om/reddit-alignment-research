@@ -1,0 +1,32 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvxqt7z,0,t1_cvwpn9w,minno,"Sure, it's adorable when they do it, but when *I* try painting somebody's face with my own blood?",1,0,1444705372,1444718948
+cvxpxcq,0,t1_cvxe5cf,minno,"It's a tough problem in general. You want to keep the fissile material compressed for as long as possible to let the fission reaction run longer, especially since it intensifies exponentially, but the bomb is being torn apart by a nuclear explosion.",4,0,1444703934,1444718948
+cvxpf8u,0,t1_cvxghd9,minno,There are a couple of moments in [[S] Equius: Seek the highb100d. ](http://mspaintadventures.com/?s=6&p=005338).,2,0,1444703152,1444718948
+cvxkdkf,0,t1_cvxk9lg,minno,"Looks like your only hopes are generous employers or sane politicians, and I think I know which one is more likely.",4,0,1444695364,1444718948
+cvxk7nq,0,t1_cvxe9eo,minno,"http://www.pacefirm.com/faq/expunction.html
+
+> #What if I pled guilty, no contest, or was convicted at trial?
+
+> A no contest plea has the same impact as a guilty plea on your Texas criminal history. Any case that resulted in a **conviction**, whether by plea or trial, is **not eligible for expunction or non-disclosure** unless you are one of those rare and lucky souls who was pardoned by the governor. Governor Perry’s office was notoriously stingy with pardons, even those approved by the Board of Pardons and Parole. The new governor, Greg Abbott, has not been in office long enough yet to develop any track record in this area.",3,0,1444695105,1444718948
+cvxe6vv,1,t3_3ohowg,minno,"Depends on the relative sizes. If the second block is much bigger or there are multiple blocks like that, always #1. If there are only the two and they're similar size, then probably #2. It's all about whether you want to think of it as ""do one of these"" or ""quit early if this"".",2,0,1444685447,1444718948
+cvxdakk,0,t1_cvx5cre,minno,But why male models?,4,0,1444684119,1444718948
+cvwh7lj,0,t1_cvwea5y,minno,"If you have a function like
+
+    fn get_the_closure(which: bool) -> (impl Fn(i32) -> i32) {
+        let x = 3;
+        if (which) {
+            |val| { val + x }
+        } else {
+            |val| { val + 4 }
+        }
+}
+
+then no, the unboxed abstract type wouldn't work. The proposal is to allow you to refer to a single concrete but unnameable type, but in that case there's more than one concrete type involved.",4,0,1444614851,1444718948
+cvwcg5v,1,t3_3odr4k,minno,"At the moment, your options are:
+
+1. Box it.
+
+2. Manually implement the closure: define a struct with fields for the closed-over values, and implement the appropriate `Fn[Mut|Once]` traits.
+
+3. Wait for unboxed abstract types to be implemented, which would allow you to name types by a trait that they implement.",7,0,1444606045,1444718948
+cvw1n5g,0,t1_cvw1522,minno,"Right, if you use `static Type name [= initial_value];`, then it's initialized the first time you run the line and never destroyed.",2,0,1444588894,1444718948

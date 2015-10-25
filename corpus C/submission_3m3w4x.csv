@@ -1,0 +1,51 @@
+id,title,num_comments,author,body,score,permalink,subreddit,created_utc,collected_utc
+3m3w4x,Pharma pricing FAQ/Q&A,23,HealthcareEconomist3,"Lots of misinformation going around regarding the price hike on pyrimethamine both on reddit and in the media and with a dozen people tagging me to answer questions over the last couple of days I figured it would be useful to post all the common questions people seem to have. Also happy to answer any questions people have about pharma or healthcare.
+
+**How is there still a patent in place for a drug developed 62 years ago?**
+
+There is no current patent in place for pyrimethamine. Instead it has a special FDA classification called orphan drug.
+
+An orphan drug classification is awarded for drugs that have a very small market and the FDA believes that guaranteeing a protected market is the only way to ensure the drug remains available to US patients.
+
+The classification is also awarded for small markets if no prior efficacy trials have been completed for a use and a pharma completes them, this can be an off-label usage or it can be for a drug developed prior to 1965 when we began to require efficacy trials for new drugs. A pharma who completes efficacy trials is awarded a 7 year period of marketing exclusivity in the US.
+
+Marketing exclusivity means that no other pharma can distribute it in the US, it behaves similarly to a patent in this regard.
+
+**Doesn't he need to raise the money to continue development?**
+
+No. While I can't directly speak to his claims of attempting to develop new drugs none of his prior companies have engaged in drug development activity and instead they have simply purchased licenses for existing drugs.
+
+In addition drug development doesn't work in this manner. Pharma seeks investment and then recovers the cost of development to return to investors when a drug is on market (which is why we have protected markets with patents in the first place), for multi-drug companies they will certainly seek to recover the cost of failed drugs too but they don't increase the price of existing drugs in anticipation of completing new development activity.
+
+**How will the price rises impact consumers?**
+
+ACA regulated how those with chronic conditions pay for drugs. Cost exposure for individuals who need the drug is effectively unchanged as they are subject to a co-payment instead of co-insurance. The cost will fall on RX providers and the federal government (via Ryan White programs and Medicare) which is obviously a cost for everyone in the country.
+
+**What legislative/regulatory action is possible?**
+
+While the FDA do move fairly slowly they have the authority to act against those abusing an orphan license in this manner and they probably have already sent out a regulatory notice, pharma are required to notify the FDA before making a public announcement regarding a price change. The process for revoking their orphan license takes about a year, the FDA have done this in the past for similar pricing abuse.
+
+For this specific drug there is also another option as its part of the WHO essential drugs list, any item that appears on this list a country is permitted to simply ignore any patents for under the TRIPS agreement. This would require NiH, congress or the executive to act to assert the countries rights under this agreement.
+
+**How long would it take for a new generic to make it to market?**
+
+For this drug the process would take around 6 months. Newer generics take up to 15 months.
+
+Older drugs like this are inexpensive to manufacture and can use existing filings rather then having to complete their own clinical work so there is not a particularly high cost of entry in this case. The cost to file with the FDA in this case would be $38,020, assuming an existing pharma takes it on additional entry costs are only for things like designing packaging, drug information sheets etc.
+
+**Is it is true the US is the only country in the world which doesn't regulate price?**
+
+Every country which is not the US sets a limit on the price they are willing to pay for drugs based on their efficacy, in most countries this process is a dialog as there is not a true objective standard for measuring efficacy. No country tells pharma how much they can charge beyond this, as long as a drug meets their price/efficacy standards they don't regulate prices beyond this.
+
+The US should have a similar system, it will certainly reduce our drug expenditure by removing low-efficacy drugs from the market but the savings likely wont be very large on an average per-unit basis. The drugs we consume the most of are generally not unreasonably priced, we would have a readjustment in prices (some would come up as the efficacy system would set a bar, others would come down for the same reason) but little net change.
+
+In the case of this drug even the most restrictive system in the world (currently the UK) would still buy it, its extremely effective and the price wasn't set high enough for any country to refuse to cover it. However this problem generally would not occur outside the US as the US is one of only two countries which deal with orphan drugs in this manner, most don't require re-approval for a use which has already been demonstrated on-market (IE off-label use can be licensed absent efficacy trials if sufficient data exists elsewhere) and they don't discourage off-label use (EG Medicare prohibits physicians from writing off-label, its thankfully poorly enforced but remains a problem).
+
+**How do our drug costs compare with the rest of the world?**
+
+On a per-unit basis we are higher then average but not an outlier, our costs are comparable to Germany and Japan. Our per-capita costs are much higher then average and we are an outlier, this is due to very high consumption, we consume a much high proportion of branded drugs and we consume a much higher proportion of on-patent drugs.
+
+Excess consumption mainly comes from those covered by Medicare, an efficacy/cost control mechanism would do a good job of reducing this. Our excess from branded drugs comes from stronger regulations on substitution preventing pharmacists from substituting and physicians writing no-substitute prescription far more frequently then they should. Our on-patent excess is driven by almost all drugs entering the world market in the US before elsewhere as 47% of development cost recovery worldwide is from US markets.
+
+
+",101,https://www.reddit.com/r/PoliticalDiscussion/comments/3m3w4x/pharma_pricing_faqqa/,PoliticalDiscussion,1443038280,1444724866

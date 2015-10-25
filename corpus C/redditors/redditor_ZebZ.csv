@@ -1,0 +1,63 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvxvzi5,1,t3_3ojxcv,ZebZ,"Don't bother with a ""smart tv"" if you have a choice.  The apps never get updated and they all suck.  Use your Chromecast or another streaming stick/device.
+
+Don't get a 3D TV if you don't plan on buying/streaming 3D content.
+
+Get one with a bunch of HDMI ports.  Better to have too many than not enough.
+
+Don't buy the extended warranty.",1,1,1444716598,1444719605
+cvxvsw6,1,t3_3ojusx,ZebZ,"    Sub Main
+    
+    Dim storeCount As Integer
+    Dim storeName As String
+    Dim storeSales As Integer
+    'Dim stars As String
+    Dim i As Integer
+   ' Dim j As Integer
+    
+    storeCount = Application.InputBox(""Number of Stores"")
+    
+    For i = 1 to storeCount
+    	storeName = Application.InputBox(""Store "" & i & "" Name"")
+    	storeSales = Application.InputBox(""Store "" & i & "" Sales"")
+    
+    	'Using a worksheet function, which is probably your ""correct"" answer
+    	Debug.Print storeName & "": "" & Application.WorksheetFunction.Rept(""*"", storeSales \ 100)
+    
+    	'Using Space and Replace
+    	'Debug.Print storeName & "": "" & Replace(Space(storeSales \ 100), "" "", ""*"")
+    
+    	'Using a loop
+    	'stars = """"
+    	'For j = 1 to (storeSales \ 100)
+    	'	stars = stars + ""*""
+    	'Next
+    	'Debug.Print storeName & "": "" stars
+    Next
+    
+    End Sub",1,0,1444716040,1444719605
+cvxry6n,1,t3_3ojgck,ZebZ,"[Buckwheat's Greatest Hits](https://www.youtube.com/watch?v=9wo1-sI7MOQ)
+
+Wookin pa nub in all da wong paces.",1,0,1444707297,1444719605
+cvxr9oh,1,t3_3oincr,ZebZ,"Everything I now about running a bar, I learned from Cocktail.
+
+Step 1.  Go to Jamaica and find a rich woman to knock up and make your wife.
+
+Step 2.  Learn how to do fancy cup spinning and tossing and whatnot.
+
+Step 3.  Profit!",1,0,1444706106,1444719605
+cvxq9k8,1,t3_3oinrc,ZebZ,"Sounds pretty cool.  Good luck. :)
+
+Have you thought about monetization yet, or is that a ""later"" problem?",1,0,1444704487,1444719605
+cvxp3fj,1,t3_3oj423,ZebZ,I like this better than seeing people rush to be the first for self posts or links to box scores.,4,0,1444702665,1444719605
+cvxotgl,0,t1_cvxonvr,ZebZ,"Twitter:  [@daystilstarwars](https://twitter.com/daystilstarwars)
+
+Facebook: [How Many Days Until Star Wars](http://facebook.com/howmanydaysuntilstarwars)",2,0,1444702226,1444719605
+cvxnxgl,1,t3_3oi8pw,ZebZ,"Neuvy got the shut out?   GOALIE CONTROVERSY!
+  
+
+^just ^kidding.  ^but ^i ^wouldn't ^be ^surprised ^if ^one ^of ^our ^dumbfuck ^sportswriters ^actually ^says ^it.",9,0,1444700822,1444719605
+cvxm417,1,t3_3oiu0w,ZebZ,R2D2,5,0,1444698065,1444719605
+cvxlyuu,1,t3_3oi8pw,ZebZ,"So, I take it it's a good game?
+
+I'm stuck at work and probably won't get home until midway through the third period.",4,0,1444697841,1444719605

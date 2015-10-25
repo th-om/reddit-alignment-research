@@ -1,0 +1,51 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvsllyv,0,t1_cvs883f,Wikitrollfaceman,"Logging can be implemented by specializing the template for the ref pointer type you want to log, and put the instrumentation there.
+
+Once weak pointers are in a system then there are rules of thumb that will break cycles. Most allocations are tree like, A owns B owns C etc, and B or C are passed around temporarily in the same frame. This is fine for ref pointer.
+
+However if the child allocation points back up the hierarchy, in the trivial sense the parent (B->A) then always use weak pointers. Another use case for weak pointers is for work queues, which execute the code in an undetermined amount of time. It's nice to be able to unref an object and then have the work queue handle the null value correctly not have to worry about the work queue doing a bunch of unnecessary work.
+
+Another interesting part of ref counting pointers is that large chained object destruction can be trivially broken up. Say a grouping object takes 30ms to destroy, well to prevent stuttering of the frame you can walk the object and move all the child referents to a garbage queue (and children's children if you want to go deeper) and then run the garbage queue in the background.
+
+Yes, it's looking like a garbage collection system now and that's ok. The great thing about a system like this is that 98% of the allocations are trivial but 2% of the objects you'll need to do special things to make the app run predictably without stutter.
+
+The way I see it, most allocations should live in scoped_ptr, then some allocations should live in ref pointer, then few allocations should use weak pointer. That sort of system is very easy to modify.",1,0,1444320353,1444723271
+cvrk7v9,1,t3_3nugzx,Wikitrollfaceman,"Very good presentation.
+
+One part I disagree with was the presenters point about ref-counted pointers being very bad due to circular dependency issue. The straight forward solution would be to use weak pointers to break the dependency. The presenter just said that he ripped out the ref-counter pointers.
+
+Using bare pointers in multithreaded environment is challenging if objects are created or deleted in different threads. If thread A wants to access a pointer who may die in thread B then the straightforward solution is to take a global lock to block thread B so that thread A can proceed. If there is a callback to block thread A, well now you have a deadlock! This is a very common scenario with many C++ codebases and untangling such dependencies is very costly as it takes a lot of time and a senior software engineer usually has to do it.
+
+With ref-counted pointers (strong and weak) there is essentially a lifecycle lock on the object itself and no global lock is needed. As long as the ref-counted pointer exits, or a weak pointer can be converted into a ref-counter pointer, then the caller can guarantee that the object will be alive during an operation of it (and all of it's ref-counted children!).
+
+This results in a system where objects can be passed between threads with much stronger guarantees on their lifecycle, which significantly reduces cost to modify the system. ",0,0,1444242918,1444723271
+cvn01u1,0,t1_cvmz9bc,Wikitrollfaceman,"About the ""it's just a piece of paper""
+
+So all the time reading, analyzing, writing has zero impact on intelligence...
+
+That the intellectual stimulation of college and the intellectual stimulation of manual labor have no difference in impact on intelligence.
+
+Right... The hilarious thing is, you don't even realize how much knowledge plays into the intelligence score.
+
+But hey, don't let your own ignorance prevent you from shouting noise from the soapbox.",5,0,1443899301,1444723271
+cvmyodo,0,t1_cvmfbyk,Wikitrollfaceman,Lol. There are more college women graduates than guys. Taking away their right to vote would be tyranny. There's literally no reason this would ever come to pass.,1,0,1443897029,1444723271
+cvm881e,0,t1_cvlq3zp,Wikitrollfaceman,"No, the big reason is that the manufacturing sector was wiped out when the US dropped all import duties against China in the late 70's.
+
+The globalization of the labor force means that the value of labor has dropped significantly. It means the third world has an economy that is ON FIRE, while the US won't see double digit economic growth again in our lifetimes.
+
+On the plus side, the rate of poverty in the world is in free fall and everywhere I travel in the developing nations I see happy people who are having unprecedented social mobility as the jobs roll in. Not a good consolation is it?
+
+Sorry American worker, you can't compete against the Chinese worker making $1.50 an hour, and no politician is going to give you the straight answer because big business will throw a fucking fit if some rogue politician trys to stops the gravy train.",1,0,1443826602,1444723271
+cvjk71i,0,t1_cvidl86,Wikitrollfaceman,"Funny because as far as we see it, our galaxy is dead except for us.",1,0,1443637256,1444723271
+cvgykj2,0,t1_cvgvvsi,Wikitrollfaceman,"A few years ago I read that the growth rate was quadratic to the number of qbits. There is a decoherance problem that prevents faster growth.
+
+This is all from memory, if someone could post a link that would be awesome.",3,0,1443454804,1444723271
+cvfy1h4,1,t3_3mimpd,Wikitrollfaceman,"Blast free TV & Radio down from satellites. Show women in power having intelligent discussions on channels.
+
+Intelligent media would have a profound effect on the minds of the populace over 10 years.",1,0,1443375030,1444723271
+cvdx5f7,1,t3_3mc7sr,Wikitrollfaceman,"> This produces almost no neutrons but instead fast, heavy electrons (muons), since it is based on nuclear reactions in ultra-dense heavy hydrogen (deuterium).
+
+This is important because charged particles can be stopped with a thin barrier such as tin foil.",13,0,1443200351,1444723271
+cv4e10m,0,t1_cv43eay,Wikitrollfaceman,"If that's the case then create a different pixel array and copy it into the led buffer before every draw.
+
+Also, what is your arduino type (uno?) and how many leds are you using",1,0,1442465863,1444723271

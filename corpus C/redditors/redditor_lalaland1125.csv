@@ -1,0 +1,22 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvchhcv,0,t1_cvbk8x1,lalaland1125,"I don't think you quite understand all of the pro higher minimum wage arguments. The basic idea is that it takes a certain amount of money in order for families and individuals to survive in society.
+
+Now, there are two ways to provide that money. One way is through welfare and government spending. The other is by forcing employers to pay the real cost of their workers through minimum wage laws. Right now we are sort of using a mix of both approaches. Many of the people on minimum wage require governmental assistance.
+
+The main reason I advocate for a higher minimum wage is to move working people off governmental assistance. I do not want the government to subsidize industries that can't pay their workers enough to live. 
+
+That is the reason I don't advocate for ""20, or 50, or 100"".",2,0,1443099175,1444727057
+cv9l0un,0,t1_cv9dwu0,lalaland1125,"So your argument is basically ""null is more efficient""? Isn't that premature optimization?",3,0,1442877720,1444727057
+cv75tst,0,t1_cv744vt,lalaland1125,"I don't care about what religion people have. I just want a leader who is willing to listen to reason and evidence. If someone believes something as crazy as a young Earth creationism, which is based off pretty much nothing, what else could they possibly believe? I don't want someone in control of nukes who clearly lacks the ability to see reality from fiction.
+
+Now, if there was some evidence that homosexuality actually caused moral and/or psychological harm, I would also be forced to critique candidates for being homosexual. However, all evidence seems to indicate that homosexuality is a normal part of the human experience and offers no advantages or disadvantages to heterosexuality. I am always open to new opinions though. Feel free to prove me wrong.",1,0,1442689964,1444727057
+cv6eb43,0,t1_cv67t8o,lalaland1125,"I'm just going off what I see at the debates. When even ""moderate"" Jeb Bush quips about trying to use government money to send more people to Christian schools, I don't really know what else to believe. ",0,0,1442616895,1444727057
+cv663fm,0,t1_cv657by,lalaland1125,"Sadly, conservatism the US seems inextricably tied to religious conservatism.",1,0,1442603045,1444727057
+cv5r7v3,0,t1_cv5nt5l,lalaland1125,"I'm fine with people coming to conclusions I disagree with. My main issue is that I expect people to at least have some evidence for their opinions. When I listened to the talk, his main counter-arguments were basically God and the Bible. How can I trust a president to make good decisions when he doesn't seem to care about evidence?",1,0,1442577651,1444727057
+cv5jnv1,0,t1_cv5jeyb,lalaland1125,"He is a young earth creationist. Quotes like ""no one has the knowledge of the age of the earth"" really scare me. Original source: http://www.faithandliberty.org/content/dr-ben-carson-tells-why-he-optimistic-america-and-why-obamacare-worse-slavery-0",2,0,1442550448,1444727057
+cv5ik7m,0,t1_cv5i5ya,lalaland1125,"The other ones I have issue with are primarily:
+
+* Possible ties between vaccines and autism
+* A disbelief in evolution",2,0,1442548154,1444727057
+ctp74mh,0,t1_ctp1yrf,lalaland1125,Why would free take a `const void*`? free is allowed to modify whatever value you provide it. `const void*` would simply be incorrect.,13,0,1438548541,1444727057
+ct51hsd,0,t1_ct4uuqx,lalaland1125,"JavaScript does have some great immutable data structure libraries like https://facebook.github.io/immutable-js/ that are not available in many other languages. With the current library landscape, I would pick JavaScript over many other options if immutability was a goal.",5,0,1437022684,1444727057

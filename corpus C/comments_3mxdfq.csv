@@ -1,0 +1,285 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvj6rbh,1,t3_3mxdfq,MajorRollin,"In general, yes. Here's a [GAO report](http://www.gao.gov/assets/320/316959.pdf) on the subject.
+
+For illegal immigrants:
+
+>As shown in figure 12, about 50 percent of all convictions for Arizona’s
+SCAAP illegal alien incarcerations in fiscal year 2008 were related to three
+offenses: drugs, traffic violations, and assault.
+>
+>Additionally, the total number of SCAAP illegal aliens incarcerated in Arizona state prisons in fiscal year 2008 was about 6,000, which accounted for about 11 percent of all inmate days.
+
+For immigrants in general (both legal and illegal):
+
+>In fiscal year 2005, the criminal alien population in federal prisons was around 27 percent the total inmate population, and from fiscal years 2006 through 2010 remained consistently around 25 percent.
+
+So, the percent of the Arizona's population that are illegal immigrants is around 6%, yet they're 11% of Arizona's prison population. The percent of total legal immigrants is around 13% (and 16% including illegals), yet they're 25% of the federal prison population.
+
+Edit: made note of difference between legal and illegal immigrant statistics
+
+Edit: Corrected percent of Arizona's population.",11,0,1443615509,1444721792
+cvjjhwo,0,t1_cvj6rbh,AgentElman,"Sure but studies show blacks and whites use marijuana in similar percentages but black people are many times more likely to be in jail for it.
+
+Who gets put in jail for crimes in the U.S. is less of a measure of who commits crimes than who the police arrest.",1,0,1443636272,1444721792
+cvjljew,0,t1_cvjjhwo,JoseGoebbels,That's completely false largely though. DOJ victimization surveys are in line with arrest rates year after year when it comes to everything from theft rape assault and murder  ,1,0,1443639135,1444721792
+cvj94qc,0,t1_cvj6rbh,BUbears17,"You can't compare total US illegal population to Arizona's illegal immigrant population in prisons. You'd have to compare that stat to the total Arizona illegal immigrant population since they probably have a much higher population than, say, ohio",1,0,1443620724,1444721792
+cvjsfif,0,t1_cvj94qc,MajorRollin,"Fair point. According to [this](http://www.fairus.org/issue/immigration-in-arizona-fact-sheet) source, illegal immigrants make up about 6% of Arizona's total population.",1,0,1443648976,1444721792
+cvj7dyi,0,t1_cvj6rbh,PeterGibbons316,"I didn't have time to look through the whole report, but on page 28 there is a graph detailing the percentage of convictions by type of offense.  Looks like there are more drug-related convictions than anything, but assault, homicide, robbery, and kidnapping make up a decent chunk as well.  These are stats from Arizona, but if you assume this ratio is consistent it would seem that about 23% of that 25% of the population (5.75% total) are there for violent crimes, and that doesn't include rape because I couldn't distinguish rape from other sex offenses on the graph.
+
+TL;DR - yes, it appears that illegals are committing *violent crimes* at an above average rate",3,0,1443617084,1444721792
+cvjkrau,0,t1_cvj7dyi,JimMarch,">Looks like there are more drug-related convictions than anything, but assault, homicide, robbery, and kidnapping make up a decent chunk as well. These are stats from Arizona, but if you assume this ratio is consistent...
+
+Hold on there.  I lived in Tucson from 2006-2012 and I know for a fact that the Nogales-Tucson-Phoenix route is the largest land-based drug smuggling corridor into the US.  That is going to seriously skew the numbers.  Cartel involvement in drug trafficking is a huge thing down there and a factor in most of the violent crime, especially murder.",1,0,1443638040,1444721794
+cvj7xnd,0,t1_cvj7dyi,MajorRollin,"That number is actually for immigrants in general. For illegals, I couldn't find a number for the federal level, but by the reports lists numbers for illegal immigrants by state, which seem to be around 10%. I've edited my post.",2,0,1443618327,1444721794
+cvj8f93,0,t1_cvj7xnd,PeterGibbons316,"Quick search turned up this:  http://felonvoting.procon.org/view.resource.php?resourceID=004339
+
+Looks like nearly half of the prison population is there for violent crimes, where illegals do seem to find themselves in prison primarily for other reasons (as indicated in Figure 12 of the GAO report).  I wonder if this is where the ""illegals commit less violent crimes"" comes from?",2,0,1443619357,1444721794
+cvj5r28,1,t3_3mxdfq,houinator,"I think for a pure definition of crime, this is obviously true.  
+
+Imagine you are an illegal immigrant coming to the US.  You don't have an SSN, so you can only get a job under the table, which means you aren't paying taxes, which is a crime (or you steal/fake an SSN which are also both crimes).  You need to get around, so you get a vehicle, but most states you can't get a license/insurance so you drive without them, another crime.  Just to live a normal life, you are going to be committing a half dozen crimes at any given time.
+
+What would probably be more valuable is to look at violent and property related crime specifically.
+
+One example of the higher crime rates in general is as of 2005, [24.9%](http://www.gao.gov/products/GAO-05-646R) of all inmates in California detention centers were Mexican nationals.  As near as I can find, an estimate of California's illegal immigrant population was about 3 million in 2005, so you would have less than 11% of the population (because we are not even taking into account non-Mexican illegal immigrants) making up about 24.9% of the detained population.  Of course, you could argue that Hispanics are more likely to get detained due to racial prejudices, but if we descend down that road basically any discussion of the statistics is worthless.",17,0,1443612455,1444721794
+cvj93wl,0,t1_cvj5r28,BeatArmy99,"Supposedly, [every American commits 3 felonies a day.](http://www.wsj.com/articles/SB10001424052748704471504574438900830760842)",1,0,1443620684,1444721794
+cvjcrc6,0,t1_cvj93wl,thechaserx,On purpose though?,1,0,1443626628,1444721799
+cvjk3aa,0,t1_cvjcrc6,hitbyacar1,Intent is not a requirement for many crimes.,3,0,1443637109,1444721802
+cvjlwif,0,t1_cvjk3aa,thechaserx,"Sorry, what I meant was: an illegal immigrant would know what they are committing a crime(s). His post about people doing it everyday without realizing that kinda didn't make sense.",1,0,1443639646,1444721802
+cvj8juh,0,t1_cvj5r28,HisNameIs,"I wouldn't say that the statistics are worthless when you begin a discussion of racially-charged incarceration. One doesn't counteract the other - you can still have the statistics while keeping in mind that police in that area may be racially motivated. To determine the latter you would have to do more of an ethnography, and if racial bias is found then the statistics are useful in that regard as well.
+
+On the other hand, you have to look at immigrant's place within the economy, and where they are allowed in or excluded. If they are in large part excluded from the formal economy, they must then subsist in the informal or underground economy which, since unregulated, is prone to much more violent, property and drug-related crime. This could also account for the statistics. 
+
+My point being, and this may not be counter to what you were trying to say (perhaps I am misinterpreting or generalizing), statistics do not become useless once several explanations arise for them. It is just as likely a theory that the high incarceration rates of Mexicans are caused by their greater involvement in criminal activity, as it is that the police are racially biased, and/or that undocumented immigrants find themselves subsisting within the informal, more crime-ridden economy. Statistics are just a piece of the picture - they are often the conclusion without the story in my opinion.",2,0,1443619612,1444721802
+cviz0d7,1,t3_3mxdfq,TheNaBr,"They don't track statistics on immigrant crime.  So it's hard to tell.  The Federal government knows how many toasters are on Guam, but they don't know how many crimes immigrants commit.  
+
+A study is often cited to say that illegal immigrants commit *less* crime than native born citizens, but that study compared illegal immigrants to native-born *criminal* populations.",10,0,1443588064,1444721802
+cvizucj,0,t1_cviz0d7,irondeepbicycle,"> A study is often cited to say that illegal immigrants commit less crime than native born citizens, but that study compared illegal immigrants to native-born criminal populations.
+
+Can you cite this study?  Because it [simply isn't true](http://www.nber.org/papers/w13229) for [a number of studies](http://www.nber.org/papers/w6067).  ",-2,0,1443590049,1444721802
+cvj1cde,0,t1_cvizucj,8llllllllllllD----,"*ctrl+f* ""Illegal"" 
+
+No results returned. 
+
+Both those studies have to do with immigrants, which most people have no problem with and OP's question was about illegal immigrants. ",9,0,1443594351,1444721802
+cvj78q9,0,t1_cvj1cde,MajorRollin,"[Here's one that passes your ctrl+f test](http://www.gao.gov/assets/320/316959.pdf).
+
+>As shown in figure 12, about 50 percent of all convictions for Arizona’s SCAAP illegal alien incarcerations in fiscal year 2008 were related to three offenses: drugs, traffic violations, and assault.
+
+>Additionally, the total number of SCAAP illegal aliens incarcerated in Arizona state prisons in fiscal year 2008 was about 6,000, which accounted for about 11 percent of all inmate days.
+
+So there you go, illegal immigrants are estimated to be around 3 percent of the population, but make up 11% of Arizona and California's state prison population.
+
+I'm not sure why this is surprising, much less debated or controversial. Many US citizens complain about difficulty finding work. It's reasonable to expect that illegal immigrants would have even more difficulty, making it more likely for them to turn to crime as an alternative.",2,0,1443616735,1444721806
+cvj8lim,0,t1_cvj78q9,I_NEED_A_GF,"According to [this](http://www.slate.com/articles/news_and_politics/map_of_the_week/2013/02/map_illegal_immigrant_population_by_state.html), Arizona's and California illegal immigrant population is at 6% and 6.8% respectively. 3% is just the national average, I believe, which shouldn't be used if we're only looking at states. So 50% of 11% is just around there for those states. ",1,0,1443619702,1444721806
+cvj6bo6,0,t1_cvj1cde,KabIoski,"It's hard to conduct a study where you survey a thousand people and ask them all if they're illegal immigrants. Doing so almost guarantees bad results, as people are skeptical of strangers inquiring about their status. The best solution, used by both papers, is to examine recent immigrants who have a high probability of being illegal. So you examine 1000 people, of which you can determine that an average of say 500 or 800 or whatever are undocumented, on average. 
+
+When you do that, if you have 50% of your sample that is more likely to commit crimes on account of their being illegal, then it's going to show up in the average of the whole population. As it stands, the best information we have shows that in those populations, the imprisonment rate is lower, not higher. ",2,0,1443614263,1444721810
+cvj1cq1,0,t1_cvizucj,TheNaBr,"[Abstract available, study behind a pay wall](http://link.springer.com/article/10.1007%2Fs10964-013-0045-z#page-1)
+
+The conclusion in your first link is interesting, in part because it states that immigrant crimes are lower in part because they are deported for their crimes.  The study focuses on incarceration rates instead of crime rates.  
+
+Plus on page 40, there is a section on why relying on the US census may be flawed.  That also confirms my statement about the US Federal government not actually tracking statistics on immigrant crime.  
+
+Plus both studies are performed by the same people using the same type of Census data.
+
+Also, Table 2. in both studies are interesting (just looking at 1980 column for this example).  The 1st study from 2007, lists the number of observations of native born incarceration at 1,900,111.  The 2nd study from 1997, which only accounts for males 18-40, lists observations at 839,839.  On the immigrant side the 2007 study lists observations at 127,392.  The 1997 study is 136,221.  
+
+So it appears that taking the whole population into account, it more than doubles the observations for native born, but for immigrants, it reduces observations by about 9,000.  Seems odd, like something is going on with the data.
+
+I don't know though, just a quick observation.",3,0,1443594385,1444721810
+cvj7t3t,0,t1_cviz0d7,Chubbybrownbear,"There is no definitive answer, but using the information we have you can actually draw a conclusion that immigrants cause the crime rate to drop. 
+
+Here's what we know:
+
+From 1990 to 2013, the number of undocumented immigrants in the country tripled from 3.5 million to 11.2 million. Yet during that time, violent crime rates dropped 48% nationwide. 
+
+Not conclusive, so let's look at a few more numbers. Since most crimes are committed by males between 18 and 39 let's look at incarceration numbers. 1.6% of foreign-born males are in jail, compared with 3.3% of the native-born population.
+
+There are plenty of statistics to suggest that immigrants are responsible for a lower % of crime than natives, but not much supporting the opposite. Trump cited federal prison sentences to support his stance, but only a few % of violent crimes are handled by the federal system. Undocumented immigrants accounted for 9.2% of federal murder convictions in 2013, but that represents a grand total of eight murder cases - so he purposefully used numbers that were not representative of violent crime in the US. ",2,0,1443618042,1444721810
+cvj5haj,0,t1_cviz0d7,mywan,"> native-born *criminal* populations.
+
+Even aside from the need to cite this study, how do you even go about defining what ""native-born *criminal* populations"" even means? The only way I know how to make such a definition meaningful is to explicitly compare them only to people who have done time for crimes. Perhaps compare crime rates of illegal aliens to the recidivism rate of parolees. That just doesn't make sense.",3,0,1443611513,1444721810
+cvj6wmu,0,t1_cviz0d7,MajorRollin,">They don't track statistics on immigrant crime. 
+
+This is simply wrong. The first thing I found when I Googled ""immigrant crime statistics"" was [this GAO report](http://www.gao.gov/assets/320/316959.pdf) titled ""CRIMINAL ALIEN STATISTICS"".",8,0,1443615893,1444721810
+cvjdpsi,0,t1_cvj6wmu,TheNaBr,"And the devil is in the details.  The GAO report is an estimate.  Look at their Methodology.  Here's how they estimated costs.
+
+>To determine the costs associated with incarcerating the criminal alien
+population, we obtained and analyzed cost and inmate data from BOP,
+data on SCAAP reimbursements to states for incarcerating criminal aliens,
+and cost and inmate data from five states (Arizona, California, Florida,
+New York, and Texas) and five localities (Maricopa County, Arizona;
+Orange County, California; Los Angeles County, California; New York City,
+New York; Harris County, Texas)",3,0,1443628032,1444721810
+cvjseg1,0,t1_cvjdpsi,MajorRollin,"That's referring to cost data, not inmate population data, which is what OP and my response referred to.
+
+If you have X people sitting in a jail cell because they were convicted of Y, of which subset X' are illegal immigrants, there's no estimation required. Prisons keep tons of data. It's just counting.",2,0,1443648933,1444721810
+cvjsj1k,0,t1_cvjseg1,TheNaBr,"Certain prisons keep data, the Federal Government doesn't track it though.  That's why they have to refer to the Census or Estimates from specific jails.  New York tracked it.  The Feds don't.",1,0,1443649126,1444721810
+cvj1fqe,1,t3_3mxdfq,DevonWeeks,"Yes, it is, in several ways.  The first way is a net increase in crimes committed and reported.  That's obvious and would be the case no matter how you suddenly increased the population.  The second way is in proportion.  Certain demographics and nationalities are more likely to commit certain types of crime than others, so you get an increase in that type of crime disproportionate to the increase in population.  The third way is in unreported crime if we include illegal immigrants.  Illegal immigrants are less likely to report when they've been the victim of a crime, so the implication is crime rates have risen by an indeterminate number in unknown areas.  
+
+The short answer is yes, it brings more crime.  The long answer is yes, but we cannot account for unreported crimes and are often afraid to include demographic statistics in our analysis for reasons of ""sensitivity.""",3,0,1443594663,1444721810
+cvj6a1t,0,t1_cvj1fqe,KabIoski,"> Certain demographics and nationalities are more likely to commit certain types of crime than others
+
+I've never heard this before. Do you mean like, people have done studies and determined that for instance, Vietnamese or Haitian people are more likely to cheat on their taxes or trade in counterfeit stereos? Do you have a source or something showing which nations' immigrants are more likely to commit which crimes, or are you speaking of your own beliefs?",2,0,1443614127,1444721810
+cvj6na3,0,t1_cvj6a1t,DevonWeeks,"I am the source.  Crime statistics is part of my job.  I do it for a living for the government.  And, our data demonstrates quite adequately that certain groups commit certain types of crime more often than others.  How do you think we were able to develop offender profiling as well as we have?  It's all based on that kind of data.  We know if we are dealing with a serial killer, for example, the odds overwhelmingly favor the killer being an American, white male with income between 50 and 80k a year and is single.  And, we'll be right 90%+ of the time.  If we see a drug-related shooting, we know the odds favor heavily the shooter being a black male between the ages of 16 and 34, likely unemployed or employed at a menial job, with only a GED or high school diploma and no college education.  
+
+I know people get all worked up over the idea, but it's common sense when you think about it.  You couldn't even have a concept like offender profiling if you didn't have demographic trends to work off of.  That's the whole point of an offender profile, to tell you who you are most likely to be looking for.  No one sits around and watches a show like Criminal Minds and says, ""Oh, those racists!  How would they know white men are the killers?  What data do they have?""  We have the data.  It's internal and not available to the public (well, a lot is, but the data I work on specifically is not), but it is there.  People just won't stop and consider how programs like offender profiling got their start and what they are based off of.  They can't exist if correlations don't exist.",3,0,1443615202,1444721810
+cvj7737,0,t1_cvj6na3,goethean,"> It's internal and not available to the public (well, a lot is, but the data I work on specifically is not), but it is there.
+
+Is this a joke?",0,0,1443616625,1444721810
+cvj7g6c,0,t1_cvj7737,DevonWeeks,"It's my career, thank you, and has been for quite some time.  If you are a regular member of this sub you'd know that, and if you knew anything about law enforcement agencies and their handling of internal data you'd know we cannot release any information to the public without authorization from an admin.  So, no, my data, specifically is not available because my admins do not authorize our internal data to be released.  We may only report it in our NCIC audits where is later used by the FBI to develop training materials and may or may not be released as part of a separate study.  
+
+In the future, try not to be such a jerk and respect the fact that we all have different jobs and fields of expertise.  You have yours, whatever it may be, and I have mine, which formerly was in education and is now in law enforcement, specifically in a lower admin capacity as of two years ago.  ",2,0,1443617228,1444721810
+cvj7l3g,0,t1_cvj7g6c,goethean,"> If you are a regular member of this sub you'd know that, and if you knew anything about law enforcement agencies and their handling of internal you'd know we cannot release any information to the public without authorization from an admin.
+
+Then don't cite it as evidence in a discussion.",-1,0,1443617548,1444721810
+cvj86yn,0,t1_cvj7l3g,DevonWeeks,"It is evidence.  And plenty of other data that is publicly available will support it.  Seriously, just move on.  You're not here for any reason than to be offensive.",0,0,1443618892,1444721810
+cvj9mse,0,t1_cvj86yn,KabIoski,"I don't think he's being offensive, its just hard to have a conversation about a thing if one person has evidence they say resolves an issue but aren't able to share. 
+
+I get what you're saying though, but I'm not sure it works both ways- profiling a crime is a statistically valid way of predicting who might have done a thing- you can make a generalization on the population of people who commit serial murders, but those don't shed light on the population of white people for instance, particularly since the location and demographics of an area are so heavily considered in profiling. If there's a drug shooting for example, you mention that it's probably a black person, but where I am, its way more likely to be a thin white guy with unusually bad teeth. Like a lot of crimes, the answer is most often ""who's poor around here""?",2,0,1443621630,1444721810
+cvjavua,0,t1_cvj9mse,DevonWeeks,"I think you're being too accommodating.  To simply say, ""It's frustrating if you can't share your data.  I hope you understand.""  That's one thing.  To say, ""Is this a joke?""  That's another.  So, yes, he's being offensive.
+
+And, for dealing with racial makeups of crimes or even crimes by nationality, you don't boil things down to cities or counties.  You look nationally, then you correlate rates, not net incidents, to local arrests to determine if the trend is solid enough to base new protocol on.  
+
+Take a look here, for instance...
+
+http://www.ojjdp.gov/ojstatbb/crime/JAR_Display.asp?ID=qa05261
+
+Let's just give a summary of their findings...
+
+>The Violent Crime Index arrest rate in 2012 for black juveniles (575) was 5 times the rate for white (111) youth, 6 times the rate for American Indian juveniles (94), and 12 times the rate for Asian juveniles (47).
+  
+>In the 1980s, the Violent Crime Index arrest rate for black juveniles was 6 times the white rate. This ratio declined during the 1990s, holding at 4 to 1 from 1998 to 2004. Since 2004, the racial disparity in the rates increased, averaging about 5 to 1 in the last 10 years.
+
+If we see that data nationally we would then pull as many county and city records as we could and see if the national trend holds true locally as well.  And, it does, almost universally regardless of poverty. 
+
+Now, I'm not saying poverty doesn't play a role.  It does.  But, it's impact is on **net** crimes or crimes per capita, not rate by race or nationality.  Even taking a rich neighborhood with few arrests you'll find the same races and nationalities over-represented for certain types of crimes.  This is an issue of rates by race and nationality, not what you mentioned which would be net crimes by location.
+
+When you get down to doing what FBI ""profilers"" do in the field, you start taking into account the local demographic makeup of the population, and that's a different field I don't work in.  But, when it comes to what I do, I give data that says when I look at someone that if they are guilty of a crime it's likely one of these specific things.  And, I'm right, almost all of the time.  I'd say my failure rate is probably no greater than 3%, and even then the investigative process will most often reveal that we are dealing with an outlier very early in the investigation.  
+
+Ultimately, though, there's no way to escape the fact that certain races, ages, genders, and nationalities do commit more crimes than others, and if you bring in a bunch of immigrants, particularly a high concentration of them all with a similar demographic makeup, you're going to see a spike in specific crimes related to the trends of that demographic.  What I can't understand is why people are resistant to that. 
+
+It's this simple.  If orange Koozbanians commit the crime of forgery at 12 times the rate of the next closest group, then you bring in five million Koozbanians into your population, you're going to get a huge spike in the number of forgeries that will mirror the trend you already had in your data.  This is just a function of math, nothing else.",2,0,1443623714,1444721810
+cvj1q7k,1,t3_3mxdfq,Thatguywhothrowsshit,"Illegal immigrants, what options do they have in the US? 
+
+Poor low wage jobs that trap them in an expensive society that makes poverty worse and worse year after year with or without welfare.
+
+black/gray market jobs that are not on the balance sheet that possibly involve criminal activities such as racketeering, undocumented below minimum wage employment, prostitution, or illegal trafficking.
+
+It's possible to draw a hypothesis that there is increased **possibility** of crime, probably not outright. Most **people** born on earth are not born as **morally bankrupt** as the media (Television, radio News and Hollywood villains). And illegal immigrants are probably escaping a society that is **forcing them** to a corner to either be morally bankrupt or **die**.
+
+It's not an easy thing to study either because they are hiding for the fear of deportation, which makes researching and surveying them is incredibly difficult given the size of the US.
+
+I'd prefer that we should disown the Westboro baptist church, Jehovah witnesses, Telemarketers, KKK, and confederate deniers then deport them to Mexico in exchange for the illegal immigrants. /joke",3,0,1443595668,1444721810
+cvjf741,0,t1_cvj1q7k,President_DonTrump,"So you are saying that because they entered the country illegally and broke our laws, that its acceptable for them to continue to break our laws?",1,0,1443630174,1444721815
+cvjv3bj,0,t1_cvjf741,Thatguywhothrowsshit,"No mr trump, I'm saying that it's a complex situation that shouldn't be treated with arguments that equate to summary executions. 
+
+A lot of these people are cousins/fathers/sisters/brothers/mothers of legal immigrants or refugees of organized violence(which has been largely ignored). 
+
+There are even more who are jack shit broke and just coming here for jobs that only 3% of the population actually wants to do(agriculture).
+
+It's not a problem of legal tolerance, it's a problem of international societal epidemic such as poverty, corruption, and violence. ",1,0,1443653271,1444721815
+cvj2naq,0,t1_cvj1q7k,Axdek,Maybe not come to the US ,5,0,1443599153,1444721815
+cvj7k51,0,t1_cvj2naq,no-sound_somuch_fury,"> And illegal immigrants are probably escaping a society that is forcing them to a corner to either be morally bankrupt or die.
+
+",1,0,1443617487,1444721818
+cvj8no5,0,t1_cvj7k51,Axdek,"Not our problem, their culture is shit and bring crime. ",1,0,1443619820,1444721818
+cvj12mv,1,t3_3mxdfq,puppyplz,"Is it not common sense? If you see one story of an illegal committing a crime, that means an illegal immigrant is committing crime in this country. If he were not here, that crime would not have taken place. So yes, illegal immigrants bring more crime. 
+
+Like that woman killed by an illegal in the 'sanctuary city'. She would still be alive if it weren't for liberals and their sanctuary cities.",0,0,1443593501,1444721818
+cvj5qnv,0,t1_cvj12mv,rfinger1337,"So,by extension, every murder committed with a gun could never happen without the gun.  Ergo, get rid of guns and you get rid of gun crime.
+
+I think your logic is sound.
+
+And, again by extension, ignorant rednecks have a higher volume of guns than educated liberals, so get rid of ignorant rednecks and you get rid of gun crime.  Like that one ignorant guy who shot up a church because he was taught to be ignorant.  Those people would still be alive if it wasn't for retardlicans and their gun laws.
+
+Say, this IS fun! All we have to do is teach our kids to hate ignorant rednecks (that's easy), and we have a place to lay the blame for everything we do wrong!  Weee!
+",1,0,1443612419,1444721823
+cvj5rrk,0,t1_cvj5qnv,TrevoneBoykin,The argument fails when you try to connect a person and an item.,0,0,1443612518,1444721823
+cvj5ybc,0,t1_cvj5rrk,rfinger1337,No it doesn't. ,2,0,1443613120,1444721826
+cvjdmol,0,t1_cvj5ybc,Skalforus,"Yeah, it does. A gun can't commit a crime on its own, despite what 'educated' liberals are taught to believe. An illegal immigrant however, can make the decision to commit a crime. (Something else on top of being here illegally, of course.)",1,0,1443627910,1444721826
+cvjodto,0,t1_cvjdmol,rfinger1337,There's that silly argument again. Let's not go back down that rabbit hole of crazy.,2,0,1443643096,1444721826
+cvj7j8a,0,t1_cvj5qnv,PeterGibbons316,"You had me until ""retardicans.""  If you can't make a coherent argument without stooping so low as to labeling everyone on the ""team"" that isn't your ""team"" a retard then we really have nothing more to discuss.
+
+You'll go further in life if you stop believing that everyone who doesn't think exactly like you is a retard.",0,0,1443617429,1444721826
+cvj8f1b,0,t1_cvj7j8a,rfinger1337,"haah, I shouldn't have had you at all.  If you were agreeing with ANYTHING in that post, then you should really stop and think about it a bit more.
+  
+The post was a sarcastic comparision to an absurd point, designed to illustrate how silly the first statement was.
+
+You'll go further in life if you learn to recognize sarcasm and deliberate oversimplification (but if you do that, you'll quickly get dissallusioned by conservative news.)
+",1,0,1443619345,1444721826
+cvjdpa5,0,t1_cvj8f1b,Skalforus,"In the defense of /u/PeterGibbons316, it's really hard on Reddit, especially on political subreddits, to tell sarcasm from legitimate comments when it comes to making a mockery of Republicans. ",2,0,1443628013,1444721826
+cvj7kps,0,t1_cvj5qnv,MajorRollin,">So,by extension, every murder committed with a gun could never happen without the gun. Ergo, get rid of guns and you get rid of gun crime.
+
+That analogy doesn't make sense. Without a gun, someone can still murder. If illegal immigrants are physically deported, they can't commit additional crimes in the country.",2,0,1443617523,1444721826
+cvj8q9e,0,t1_cvj7kps,rfinger1337,"It make perfect sense.  I said ""gun crime,""  not ""all crime everywhere.""  It's absolutely true that without guns there can be no gun crime (a simple statement so absolutely true that it's amazing that I have to say it.)  
+
+But it's as unrealistic as the origional statement, which is really the point I'm making.",1,0,1443619961,1444721826
+cvjdrae,0,t1_cvj8q9e,Skalforus,"Do you think that if a law was passed banning guns all 300+ million of them in the United States would suddenly just, disappear?",1,0,1443628093,1444721826
+cvjdz4g,0,t1_cvjdrae,,[deleted],1,0,1443628412,1444721826
+cvji8n6,0,t1_cvjdz4g,rfinger1337,"I understand.  I also understand that the repulican hate machine has made them the scapegoat to distract you from the fact that the Republican party has been plundering the US economy at an alarming rate.
+
+So you go ahead and hate people who have no effect on your life, and sleep soundly knowing that you are easily manipulated.",1,0,1443634502,1444721826
+cvjhjbs,0,t1_cvjdrae,rfinger1337,"No, I don't.  I also don't think that we can say ""if we just got rid of all illegal aliens, our life would be perfect.""
+
+As noted, it was sarcasm designed to illustrate how absurd the other post was.  ",2,0,1443633500,1444721826
+cvj3d8f,0,t1_cvj12mv,,[deleted],8,0,1443602293,1444721826
+cvjf7xw,0,t1_cvj3d8f,President_DonTrump,Can you explain how its not relevant to the question?,1,0,1443630207,1444721826
+cvjfc09,0,t1_cvjf7xw,,[deleted],0,0,1443630366,1444721826
+cvjfve1,0,t1_cvjfc09,President_DonTrump,"Actually, it is. You made the claim, you have to at least explain why you did.
+
+Vapid contrarianism is just trolling. ",1,0,1443631128,1444721826
+cvkc2ro,0,t1_cvjf7xw,Aceofshovels,They basically answered the question 'Is it true that people commit crime?',1,0,1443692545,1444721826
+cvjobai,0,t1_cvjf7xw,arjun10,"Because its extremely obvious that OP is talking about crime not related to the initial ""crime"" of illegal immigration. ",1,0,1443643001,1444721830
+cvkbtiw,0,t1_cvj3d8f,Aceofshovels,Politics!,2,0,1443691349,1444721830
+cvjjumg,1,t3_3mxdfq,mrhymer,Nothing about immigration - illegal or legal reduces the amount of crime that native born US citizens commit. So any criminal from another place adds to the overall amount of crime.,1,0,1443636771,1444721830
+cvjsywc,1,t3_3mxdfq,stuckmeformypaper,"The logic seems to check out. It's not like illegals come here and make beaucoup bucks. In Texas, you go to The Valley (southern tip of the state) and you can find cartel members recruiting illegals to get their hands dirty. However in certain cases they're forced to do so. Then again that also doesn't mean that it's entirely cartel-linked, poor people are going to seek ways to supplement their income, whether theyre illegal or not.",1,0,1443649814,1444721830
+cvkbw04,1,t3_3mxdfq,Aceofshovels,"Illegal immigration does increase crime. However if you consider the links between poverty and crime, alongside the fact that illegal immigrants are more likely to be in low or no income situations you'll see that the problem isn't illegal immigration, as usual it's poverty and inequality.",1,0,1443691667,1444721830
+cviyuel,1,t3_3mxdfq,rdinsb,"http://www.usatoday.com/story/news/nation/2015/07/16/voices-gomez-undocumented-immigrant-crime-san-francisco-shooting/30159479/   
+
+Both sides use statistics to prove their points - but once you look carefully you see that immigrants don't commit crimes more than anyone else - and maybe less than most.   
+edit: spelling",1,0,1443587683,1444721830
+cvjb45t,0,t1_cviyuel,_o7,Except OP asked about Illegal immigrants which by their very nature of being here are committing a crime.,0,0,1443624082,1444721830
+cvjb6c5,0,t1_cvjb45t,rdinsb,"The article is about undocumented immigrants - which legally is a misdemeanor - the same as speeding or jay walking, and we don't consider people who jay walk or speed criminals do we?",2,0,1443624176,1444721830
+cvj43j0,0,t1_cviyuel,bookerevan,"From the article:  ""On the other side, many immigration advocates have been pointing to a report also released last week by the American Immigration Council. That study used different kinds of data that led to the same conclusion, that undocumented immigrants commit violent crimes at a far lower rate than native-born Americans.""
+
+But the report it referenced is crimes committed by immigrants, not illegal immigrants - proving your point that people manipulate statistics to suit their ideology.",8,0,1443605670,1444721830
+cvj6pj4,1,t3_3mxdfq,JustARandomDude17,"Well 100% of the time you come here illegally, you have committed a crime, so I mean they're 100% criminals..",1,0,1443615377,1444721830
+cvj74o7,0,t1_cvj6pj4,goethean,False. [Unlawful Presence Is Not a Crime](http://blogs.findlaw.com/blotter/2014/07/is-illegal-immigration-a-crime-improper-entry-v-unlawful-presence.html),-2,0,1443616460,1444721830
+cvja7s9,0,t1_cvj74o7,,[deleted],2,0,1443622625,1444721830
+cvja9b9,0,t1_cvja7s9,goethean,Not all undocumented aliens are guilty of illegal entry. Many overstay a visa.,-1,0,1443622695,1444721830
+cvjt37v,0,t1_cvja9b9,JustARandomDude17,"I said 100% of the time you COME HERE ILLEGALLY, you have committed a crime",0,0,1443650003,1444721830
+cvjbkvl,0,t1_cvja9b9,lametown_poopypants,"The most accepted figure is that 40% of illegal immigrants are visa over-stays.  While not an immaterial amount, it isn't like we're talking like they're the majority. ",4,0,1443624816,1444721830
+cvjdfqt,0,t1_cvjbkvl,SentrySappinMahSpy,"It's still a lot more than most people probably think it is, though. ",2,0,1443627627,1444721830
+cvjdk02,0,t1_cvjdfqt,lametown_poopypants,"I agree since it almost seems like a misnomer.  They immigrated legally, but didn't repatriate.  ",4,0,1443627800,1444721830
+cvj6tro,1,t3_3mxdfq,jpastore,Well the act of immigrating by itself is a crime when you preface it with illegal. So they're already starting in the negative. Impoverish people take higher risks to survive. The best cute for crime and immigration problems is to cure economy. We're doing the opposite of that driving people to do bad things regardless of labels and borders. Juarez Mexico used to be bustling travel destination. Economy yanked note you get drugs and have some killed for $200. ,1,0,1443615689,1444721830
+cvj7r6u,0,t1_cvj6tro,goethean,False. [Unlawful Presence Is Not a Crime](http://blogs.findlaw.com/blotter/2014/07/is-illegal-immigration-a-crime-improper-entry-v-unlawful-presence.html),-2,0,1443617924,1444721830
+cvjlxcz,0,t1_cvj7r6u,jpastore,Shot down by others,0,0,1443639679,1444721830
+cvj95ld,0,t1_cvj7r6u,atomicpete,"> Unlawful Presence Is Not a Crime
+
+The link that you shared says that it is a crime. ",1,0,1443620767,1444721830
+cvj470g,1,t3_3mxdfq,GodKnightMoon,Compared to the general population? Not even close. You tend to lay low when getting busted might mean getting deported.,-1,0,1443606117,1444721830
+cvj6apj,0,t1_cvj470g,fixingthepast,"Okay, beside your interesting bit of logic, what else do you have to back that statement up? ",6,0,1443614181,1444721830
+cvjfbc0,0,t1_cvj6apj,President_DonTrump,"Its a trolling account, look at its comment history.  They post solely to invoke a response.  ",2,0,1443630338,1444721834
+cvj78u2,0,t1_cvj6apj,brinz1,crime is higher in places where immigrants do not fear deportation. ,2,0,1443616742,1444721834
+cvj7dzm,0,t1_cvj6apj,MajorRollin,"He has nothing to back that up, because it's [simply wrong.](http://www.gao.gov/assets/320/316959.pdf)
+
+>As shown in figure 12, about 50 percent of all convictions for Arizona’s SCAAP illegal alien incarcerations in fiscal year 2008 were related to three offenses: drugs, traffic violations, and assault.
+>Additionally, the total number of SCAAP illegal aliens incarcerated in Arizona state prisons in fiscal year 2008 was about 6,000, which accounted for about 11 percent of all inmate days.
+
+So illegal immigrants are estimated to be between 3-4% of the population, but make up 11% of Arizona's prison population. That report lists some other stats by state, and some have higher percentages, while others lower. In general, it seems the farther away from the US/Mexico border you get, the lower the percent becomes.
+
+Even intuitively, it should be clear that he's wrong. Yes, illegal immigrants want to ""lay low""...but they're also going to have a harder time finding work than US citizens, and the menial work they do find doesn't pay much, making it more likely that they'll turn to crime.",5,0,1443617086,1444721834
+cvj3nre,1,t3_3mxdfq,Weenercopter,"By definition, an illegal immigrant has committed a crime.  
+
+So, yes. ",-1,0,1443603655,1444721834
+cvj7r1y,0,t1_cvj3nre,goethean,False. [Unlawful Presence Is Not a Crime](http://blogs.findlaw.com/blotter/2014/07/is-illegal-immigration-a-crime-improper-entry-v-unlawful-presence.html),-1,0,1443617916,1444721834
+cvjfd0l,0,t1_cvj7r1y,President_DonTrump,Crossing the border illegally is a crime.  ,2,0,1443630405,1444721834
+cvj7li0,0,t1_cvj3nre,MajorRollin,"You're technically correct, but I think OP meant crime besides illegal immigration.",0,0,1443617573,1444721834
+cvj6kuj,1,t3_3mxdfq,MrIvysaur,"More crime than what?  Than before?  
+
+I mean, if you have a country of 315 million people and you let in one million, and just ten of that million people commit a string of crimes, yeah you have more crime than before you let the million in.  So I don't really understand your question.
+
+Another thing is that illegal immigrants are all criminals simply by entering a country illegally.  So they bring that crime with them.",-1,0,1443615010,1444721834
+cvjkv64,1,t3_3mxdfq,JoseGoebbels,"Yes very much so for a few different reasons.
+They are largely poor and they are largely of races that commit alot of crime",-2,0,1443638192,1444721834

@@ -1,0 +1,42 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvobsz6,1,t3_3nia2h,ThatsLatinForLiar,Don't forget to unsub r/dota2 after you uninstall,2,0,1444000365,1444726874
+cv6okmw,1,t3_3li5ks,ThatsLatinForLiar,"I don't think a majority Americans much care what happens once prisoners are behind bars. Private prisons just foster the paranoia that businesses profit if greater strides are made by the government to lock people up. Sanders' message appeals to immigrant, racial, and social justice groups and small government libertarians. 
+
+Prisoners rights don't have nearly the same public support.
+
+On the other hand, what the government is doing is legal, but are these private prisons also low-balling for contracts? I assume it's their business model. Making money in private prisons on the backs of ""nearly"" free (slave) labor doesn't sound very ethical. It's probably not good for small businesses either.
+
+Are there any good arguments for private prisons in the first place?",1,0,1442639854,1444726874
+cuzb16e,0,t1_cuz2o0a,ThatsLatinForLiar,"I agree with you, mostly. One point about acquiring a Robotics lab now is that Uber will not have to worry about university IP policy down the road. I've worked in a university and I can tell you that Uber will have much more control of where the $$ goes as it furthers research. This isn't to say their model is better overall, just better for their bottom line in the creation and ownership of new research.",2,0,1442089168,1444726874
+cuzao45,0,t1_cuz9gi7,ThatsLatinForLiar,"Don't worry, CMU in turn will poach new people from smaller & less prestigious universities and the cycle continues.",20,0,1442088515,1444726874
+cuva4tb,0,t1_cuv794f,ThatsLatinForLiar,"I absolutely agree with you and want to piggyback on this:
+
+> Third, I don't think that religious thinking is the most important factor when it comes to scientific thought. I would say that a solid foundation in ethics is much more important. I would also prioritize recognition of the issues that women and minorities face in academia, as well as promoting (and enabling) scientists to be committed to the truth of their findings, as opposed to being pressured for positive results. 
+
+Keep in mind that scientific endeavor, like religion, is a *human* endeavor and is susceptible to the same basic perversions as a result of human nature. Faking scientific results, poaching and exploiting colleagues, students and subjects, hubris, greed can all be found in scientific world. We ridicule the religious groups for their analogous behaviors but we, atheists and the non-religious, need to hold the same standards to the scientific community as we impose on the religious. 
+
+My issue with this 'militant atheism' idea is that science can be as dangerous as religion if we blindly support it going forward with no ethics or concern towards the needs of humanity. Science does not automatically win ethical battles. Yes, it wins when we need to explain the world and ourselves. But scientists' moral judgments don't get a free pass because they work in the world of rationality, they may still act in a self-serving, destructive manner.",3,0,1441773238,1444726874
+cut69eo,1,t3_3jxcv9,ThatsLatinForLiar,"This is complicated. Here is what I think.
+
+I don't think you should come out as atheist yet.
+
+Your best move is to start using your time to find a support system for when you are ready to come out. You are attending college so you have a lot of different groups and people you can meet. Pursue your passions and hobbies and meet some people and grow new relationships. You need people who will be there for you when you are ready to come out.
+
+With regards to your current friends, I would try my best to evaluate who are going to be the lasting friends and who are going to drop you by the wayside. Embrace those lasting friends in your new hobbies and spend time with them outside the bible study. If you think someone is going to drop your friendship, you need to accept that they only see you through the lens of faith or you need to invest more time and effort building a friendship that is stronger than a common faith. Don't let your friends fall away easily, but don't waste your time on a relationship that may not work.
+
+You will eventually stop attending this bible study.
+
+Come out when you're ready. Be sincere. Don't apologize. Identify your support network. Realize that word might travel faster than you intend.
+",1,0,1441601500,1444726874
+cuntlsl,0,t1_cungyl9,ThatsLatinForLiar,"I definitely need to re-read Bone Clocks.
+
+How are you certain that those 6 are the same ""person""? Is it not likely that Zachry could be that person? (or his son, who may be the more likely candidate considering the novel structure)
+
+Also ""Meronym"" means ""part of a name."" This might not be her real name or only a part of her true identity.
+
+I have often thought that Meronym (and the Prescients) are actually searching for Marinus but we don't seem to know enough about their civilization's story to know.",2,0,1441167328,1444726874
+cunen42,1,t3_3iuq97,ThatsLatinForLiar,It would make sense to me that Meronym is Marinus.,1,0,1441139583,1444726874
+cujg2vw,0,t1_cujfomf,ThatsLatinForLiar,"No idea :) If you are interested in what is recorded, take a look in the directory ""/var/log"" There should be a file called Xorg.0.log which logs the graphical environment server (X). If errors were being thrown, they'll be in there.
+
+I'm glad it's working now.",1,0,1440822314,1444726874
+cujfq4i,0,t1_cujfn9p,ThatsLatinForLiar,"I highly recommend looking into boot-repair. You say you are noob so learning the process of installing boot-repair and creating sudo privileges is going to be valuable, even if it's on a live USB.",1,0,1440821444,1444726874

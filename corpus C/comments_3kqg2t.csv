@@ -1,0 +1,174 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cuzqkg4,1,t3_3kqg2t,cassander,There are massive diseconomies to scale in administration.  There are large costs in diversity.  The US is almost an order of magnitude bigger and more diverse than the biggest other developed countries.  You cannot just wish these problems away.,13,0,1442119316,1444729709
+cv188dp,0,t1_cuzqkg4,redem,"Nor can you assume these problems. Some things scale well, some poorly. I have not been convinced that government scales poorly.",0,0,1442245424,1444729709
+cv1bi40,0,t1_cv188dp,cassander,">Some things scale well, some poorly. I have not been convinced that government scales poorly
+
+Then, frankly, you haven't bothered to look into the question.  The things I just said aren't even org theory 101, they are so fundamental they define the problems the discipline exists to solve.",3,0,1442250566,1444729709
+cv1cpn5,0,t1_cv1bi40,redem,"Or, it's nowhere near as cut and dried as you want to pretend it is.",0,0,1442252414,1444729709
+cv01bfz,1,t3_3kqg2t,looklistencreate,"Absolutely. Not everything scales, especially when dealing with a massively spread-out population. The fact that we're four times bigger than Germany and two and a half times bigger than Japan, plus the fact that even those countries have systems that are nothing like each other, means the US has to do our solutions on our own terms.
+
+Also, a ""generally efficient government""? That's too vague to mean anything.",5,0,1442156116,1444729709
+cuzuak5,1,t3_3kqg2t,DevonWeeks,"/u/cassander brings up the key term for this discussion, [diseconomies of scale](https://en.wikipedia.org/wiki/Diseconomies_of_scale).  
+
+A smaller, local operation is inherently more efficient than a larger, bureaucratic one.  You can read about some of the reasons for that in the link.  We can apply some of these to healthcare, specifically.  There are obvious concerns with inertia, isolation of decision makers from results of their decisions, slow response time, and inelasticity of supply (think antibiotic and vaccine shortages, for example).
+
+There are also the classic problems centered on the rural/urban divide, but that's a political issue, not a technical one.  ",5,0,1442130754,1444729709
+cuzlw0d,1,t3_3kqg2t,ABSOLUTELY__BASED,">Do you think this is a legit argument?
+
+Absolutely. Take single payer healthcare for instance. AFAIK Vermont is the only state to have tried a single payer system, and it failed miserably while not even covering everyone. Imagine the piles of human debris that would have accumulated had this been applied to everyone.
+
+While it is arguable that Norway or Sweden or <insert your favorite social democracy here> have self sustaining single payer systems, and that they are roughly the size of larger US states; remember these are people half a globe away with their own needs and tax/infrastructure setups.
+
+If it can be demonstrated that singular US states can have self sustaining single payer whatever's, then their proponents would have a case for making me in Kansas pay for some Wyomingite's broken leg. ",5,0,1442109454,1444729709
+cuzm1pn,0,t1_cuzlw0d,TehRoot,"The Vermont single payer system alone was more expensive then the entire state budget of Vermont the previous year. 
+
+Vermont couldn't afford it, the federal government provided 50% of the funding. $2 billion and some change out of a total cost of like $4 billion+ I believe they ended it a year or so later. 
+
+It's basic systems theory anyway, generally the larger a system is, the more complex and prone to problems it is. The U.S. single payer system would be the largest in the entire world by a huge margin. 
+
+The european nations built a lot of their social system structures from scratch after WW2. The U.S. doesn't really have the ability to trial and error this stuff without wasting tens or hundreds of billions of dollars. 
+
+",7,0,1442109744,1444729709
+cuzr3g8,0,t1_cuzm1pn,SapCPark,"Consider what Vermont was trying to do on a less then 10% tax rate what countries do w/ a mid-30% tax rate minimally, it really wasn't feasible w/o a massive tax increase.  The argument of scale in VT makes no sense either since VT has less then a million people while England can do it with 53 million people.  Also we don't have to trial and error our way, other countries have done it.  We have a framework to work with and we can adapt it from there.  We don't need to reinvent the wheel",4,0,1442120632,1444729709
+cuzwuo4,0,t1_cuzr3g8,ClockOfTheLongNow,"Vermont was essentially going to do single payer on easy mode and couldn't make the numbers work, yet we're supposed to think that it would work nationally.",3,0,1442142498,1444729709
+cuzzwra,0,t1_cuzlw0d,mrmoustache8765,"> While it is arguable that Norway or Sweden or <insert your favorite social democracy here> have self sustaining single payer systems, and that they are roughly the size of larger US states
+
+Hell, Norway wouldn't even be in the top 20 states population wise if it were part of the US. They've only got 5 million. ",5,0,1442152920,1444729709
+cv6c07d,0,t1_cuzzwra,Sollexs,">They've only got 5 million.
+
+For reference, that is smaller than some of our cities.",1,0,1442612619,1444729709
+cuzm4rp,1,t3_3kqg2t,rwilso7,"I'd be wary of people(and their numbers are legion) who are enthusiasts for growth-for-growth sake. There was someone on this very site yesterday talking about "" carry capacity"" and how America is well short of it-- as if people were trees. It's really a value judgment and what you want the future to be, but I would prefer a smaller America, a smaller world. But this is dangerous ground, where you can get called names. The pro-growth side, often, prefers a nasty argument.
+",2,0,1442109903,1444729709
+cuzq0i4,1,t3_3kqg2t,SapCPark,"In certain aspects yes (We couldn't feasibly build a national high speed rail system b/c of our size) but in many others no.  For example, people argue we are too big to afford single payer or a bigger public option.  Well we already pay double per capita than pretty much any other Western Country so obviously we are doing something very wrong.  I personally think its b/c we have the healthcare system completely backwards.  We have a mostly private regulated system with an auxiliary public system for select people.  It should be a vast public system w/ an extra bit of private insurance if wanted.  Yeah we would need to pay more taxes, but we would save more in not having to pay 200+ dollars on premiums and not have to pay down deductibles.  People say the public option would be too expensive but people forget the government would have the bargaining power of over 300 million people being accessible at whatever rate they set.  That is the #1 reason why strong public options bring down prices.  
+
+We pay 26.7% of our GDP in Taxes at all levels.  Most Western Countries are in mid 30% to low 40%.  There is the reason why we can't have major social programs like other Western Countries have.  Not b/c we are too populous.  I'm not suggesting we jack up our taxes to 35% of our GDP immediately but it points to we have the resources to make more expansive programs if we wanted it",1,0,1442117992,1444729709
+cuzqj1i,0,t1_cuzq0i4,cassander,"> We have a mostly private regulated system with an auxiliary public system for select people. It should be a vast public system w/ an extra bit of private insurance if wanted
+
+funny, because most of the rest of the world has ""a private regulated system with an auxiliary public system for select people""
+
+But let's say you want a public system.  an american NHS would have, assuming british levels of care, a minimum of 10 million employees.  To put that in perspective, the US at the height of world war two, had about 12 million people in the military.   It would be the largest organization in the world by almost an order of magnitude.  It's completely, utterly, infeasible.  
+
+
+>We pay 26.7% of our GDP in Taxes at all levels. Most Western Countries are in mid 30% to low 40%
+
+When you include tax expenditures (which the US has far more of than most other countries) and state and local spending, the gap between the US and the rest of the world narrows considerably.  A couple of points, no more.",2,0,1442119220,1444729709
+cv18ck5,0,t1_cuzqj1i,redem,"> But let's say you want a public system. an american NHS would have, assuming british levels of care, a minimum of 10 million employees. To put that in perspective, the US at the height of world war two, had about 12 million people in the military. It would be the largest organization in the world by almost an order of magnitude. It's completely, utterly, infeasible. 
+
+Why is that infeasible? Those people already work in the healthcare system, presumably. They would work for the state instead of the various private entities, there is no substantial change needed in terms of the number of employees, except that needed to cover any shortfall in numbers as coverage extends to everyone.",1,0,1442245613,1444729709
+cv1be4i,0,t1_cv18ck5,cassander,">there is no substantial change needed in terms of the number of employees,
+
+If you want all those people in one system, you need them all to do the work they're doing now, plus a huge number on top to supervise them, plus more for people to do the work needed to comply with the mandates those new supervisors lay down.  Tooth to tail ratio gets worse as organizations grow, not better.",2,0,1442250393,1444729709
+cv1cp0d,0,t1_cv1be4i,redem,"They already have supervisors and administrators covering their work as well. Much of it redundant administration due to having to work with a thousands of other companies and their different admin standards and practices. 
+
+You mention only those factors that move in the direction you want, ignoring those that move in the opposite direction.",1,0,1442252389,1444729709
+cv1dd4n,0,t1_cv1cp0d,cassander,">They already have supervisors and administrators covering their work as well. 
+
+Those people, at least at the top, currently make decisions for themselves.  You want to make decisions for them, which means hiring people to make those decisions, then a hell of as lot more to ensure the central directives are followed.  Or do you think that  the Secretary of health and human services can just directly monitor every healthcare provider in the county directly, with no staff?
+
+
+>Much of it redundant administration due to having to work with a thousands of other companies and their different admin standards and practices.
+
+None of that goes away if you nationalize the system.  You need to keep all the current systems operational, so you still need to do all that work because those systems depend on that work.  You could try to design a new centralized system for everyone, but that's a project that takes years to build and maybe decades to implement, and means spending even more money and hiring more people to until you've gotten everyone into the new system.  And once there, good help you if the new system isn't very good.
+
+>You mention only those factors that move in the direction you want, ignoring those that move in the opposite direction.
+
+Pointing out that the world is more complicated than it seems from your dorm room often feels that way, but you'll get over it with time.",2,0,1442253412,1444729709
+cv1h341,0,t1_cv1dd4n,redem,"Admin already exists, it is not a new concept. You're ignoring all economies of scale that come with the territory. Replacing owners with administrators lowers costs and redundancy, increases effectiveness. There is absolutely no need to maintain a thousand different systems where one would be better. Negotiation powers for supplies would be improved. The complete elimination of entire areas of cost, such as sales.
+
+I realise it is an article of faith among the right that the government can do no right, that doesn't make it true. The condescension just really makes the whole argument, though. Keep that up.
+
+",1,0,1442259094,1444729709
+cv1hhf0,0,t1_cv1h341,cassander,">You're ignoring all economies of scale that come with the territory
+
+You can't ignore what doesn't exist.  There are no economies of scale in administration, there are massive diseconomies. Again, this is not even org theory 101, the entire discipline is dedicated to solving the problem that organization scales poorly.
+
+>eplacing owners with administrators lowers costs and redundancy, increases effectiveness.
+
+Belief in magic is childlike.
+
+
+
+>There is absolutely no need to maintain a thousand different systems where one would be better. 
+
+I've already explained why you do, and some of the problems with getting rid of them.  If you aren't going to even try to address the points I've made, there's no point in indulging your ignorance.",2,0,1442259694,1444729709
+cv1py63,0,t1_cv1hhf0,redem,"Applying simplistic ""org 101"" models to reality runs into the problem that you're not dealing with abstract ideas any more. There are other details than just whether you have more administrators or not. You're ignoring them entirely. You've explained nothing about why there would be need to maintain thousands of different systems, that is only true for a limited time depending on how you choose to implement the change over. In other words, it's not really worth considering at all when talking about which model is superior.
+
+> Belief in magic is childlike.
+
+Dismissal of that claim as a ""belief in magic"" is simple-minded arrogance.",1,0,1442273284,1444729709
+cv1t0uy,0,t1_cv1py63,cassander,"> There are other details than just whether you have more administrators or not. 
+
+And now you're literally arguing that adding more administrators doesn't add more administrators.  
+
+> There are other details than just whether you have more administrators or not. 
+
+I did exactly that.  to quote, ""You need to keep all the current systems operational, so you still need to do all that work because those systems depend on that work.  You could try to design a new centralized system for everyone, but that's a project that takes years to build and maybe decades to implement, and means spending even more money and hiring more people to until you've gotten everyone into the new system.  And once there, good help you if the new system isn't very good.
+
+But I think you've established that your head is too far up your own ass for you to be capable of learning anything.  I think we're done there.",2,0,1442278428,1444729709
+cuzqqpx,0,t1_cuzqj1i,SapCPark,"We pay 18% to the Federal level.  The 26.7% of GDP is at all levels of Taxes (Federal, State, and Local).  I did mention the all levels part in the original post.  
+
+Also I'm talking about Western Systems, and most of them have major public sectors w/ auxiliary private sectors.  We are a Western Country, so its fair to compare us to those systems and not systems like India.  Also the England NHS employs 1.3 Million people, England is not employing 1/5 of their population in healthcare (http://www.nhs.uk/NHSEngland/thenhs/about/Pages/overview.aspx).  We would need to employ about 6 million people to run the system assuming the scale up is equal in proportion of employees per capita.  Our current system currently has over 11 million people in it (which includes 800,000 Doctors and 3 Million Nurses and Midwives), so in all likelihood we would downscale, not upscale.  ",3,0,1442119745,1444729709
+cuzr2p4,0,t1_cuzqqpx,cassander,">We pay 18% to the Federal level. The 26.7% of GDP is at all levels of Taxes (Federal, State, and Local). I did mention to all levels in the original post.
+
+again you must include [tax expenditures.](https://www.cbo.gov/publication/42919)
+
+>Also the England NHS employs 1.3 Million people, England is not employing 1/5 of their population in healthcare 
+
+First, england is not the UK, there are 3 others NHSes.  Second, I didn't claim the NHS was employing 1/5 of the UK population, nor that the american world.  but given that there are about 53 million people in england, the US employing a similar percentage of the population would be 8 million, not 6.  And that's assuming that the physically more spread out US wouldn't need more people, which is unlikely, and that it's possible to make an organization 5 times the size of the NHS with the same tooth to tail ration, which it definitely isn't.  Third, unless you think that those extra 3 million people are sitting around twiddling their thumbs, someone is buying services from them, and they aren't going to just vanish. ",3,0,1442120583,1444729709
+cuzrftf,0,t1_cuzr2p4,SapCPark,"The internet and telecommunications take away the need for everyone to spaced out.  You can have regional centers and work from there.  Size of a country in the modern era is not something that would require more people to need to do something (Outside of Nurses and Doctors, but we already have that in our current system).  And those 3 million can get other jobs or be the private sector auxiliary that I mention.  I'm not saying we junk the private industry completely.
+
+Also, other countries have debt as well and deficit spending, so if we take those into account as well, the gap spreads out again.  Every 1% difference is 167 Billion Dollars.  So if the gap is lets say 9% (Which is around the gap that accounts for our tax expenditures and not Sweden's deficit spending).  That is 1.5 Trillion Dollars.  We already spend 1.3 Trillion via public, and another 1.3 Trillion is private.  We could pay for the whole healthcare system w/ current per capita costs if added that 1.5 Trillion w/ another 200 billion to spare.  And that doesn't take into account if we went full public or mostly public our healthcare costs would likely plummet.  Just to put some perspective on how much money is a few % points.  ",1,0,1442121532,1444729709
+cuzrlfu,0,t1_cuzrftf,cassander,">The internet and telecommunications take away the need for everyone to spaced out.
+
+If you need to make sure that everyone is within X miles of a certain set of services, having 1/10th the population density means you need a lot more of those services in a lot more centers, per unit of population.  
+
+>And those 3 million can get other jobs or be the private sector auxiliary that I mention. I'm not saying we junk the private industry completely.
+
+you misunderstand.  those people are currently providing medical services that someone is paying for.  if the government stops paying them, the people getting the service will protest, demand to be served, and probably get their way.  an american NHS is going to spend more money than we currently spend, not less. 
+
+>Also, other countries have debt as well and deficit spending, so if we take those into account as well, the gap spreads out again.
+
+this entire paragraph is completely incoherent.  I don't even know what you're trying to say.",2,0,1442121953,1444729709
+cuzrswp,0,t1_cuzrlfu,SapCPark,"Your assumption that the gap shrinks b/c of deficit spending of the US doesn't take into account that other countries deficit spend as well.  Also every % of GDP gap b/w us and other countries is equal to 167 Billion dollars.  I basically was pointing out the scale a 5-10% gap in reality is a ton of money and how the gap between the US and Sweden accounting for our deficit spending and not Sweden's is enough to pay for our current health care system at our current per capita costs with 200 billion to spare w/o the assumption that our healthcare costs would drop if we had a strong public option (which is a valid assumption to make since pretty much every other strong public option system has lower costs then ours).  
+
+And we already do the X distance per service with nurses and doctors in our current system, which we have less per capita than the UK by the way  (0.2 less Doctors per 1,000, 1.0 less Nurses per 1,000 people) despite the fact we are more spread out then England.  Talking to insurance companies don't require person to person meetings anymore, so that X per distance rule doesn't matter.  And those 3 million people you mention can be rolled into a private system if they want to be and be paid through an auxiliary private insurance.  There are private doctors and health care providers in Western European Countries.  ",1,0,1442122513,1444729709
+cuzrxus,0,t1_cuzrswp,cassander,">Your assumption that the gap shrinks b/c of deficit spending of the US doesn't take into account that other countries deficit spend as well. Also every % of GDP gap b/w us and other countries is equal to 167 Billion dollars. I basically was pointing out the scale a 5-10% gap in reality is a ton of money and how the gap between the US and Sweden accounting for our deficit spending and not Sweden's is enough to pay for our current health care system at our current per capita costs with 200 billion to spare w/o the assumption that our healthcare costs would drop if we had a strong public option.
+
+this is, again, either incoherent or irrelevant.
+
+> w/o the assumption that our healthcare costs would drop if we had a strong public option.
+
+I have explained several ways that this is not an assumption, it's a certainty that things would cost more with a public system.  You are talking about creating the largest bureaucracy in history.  the idea that it will be more efficient than smaller systems that do the same thing is not just implausible, it's laughable.  ",2,0,1442122889,1444729709
+cuzs1ja,0,t1_cuzrxus,SapCPark,"If a system that on the scale of the NHS would employ 8 million vs. 11 million we currently, I would say that sounds a lot more efficient.  Also you forget about the idea of scale of buyer.  If we as the government can bargain for 318 million people, it gives the government a ton of power to bargain down prices of drugs and services.  That is a major way how other systems w/ strong public systems are cheaper.  Insurance companies with limited patients can't do that nearly as effectively.  So that factor alone would drops our price per capita significantly, even if an NHS system would be less efficient.  ",1,0,1442123168,1444729709
+cuzs99z,0,t1_cuzs1ja,cassander,">If a system that on the scale of the NHS would employ 8 million vs. 11 million we currently
+
+No, it wouldn't.  First, the NHS is not all care in the UK, there is a substantial private market.  Second, the figure is 10 million, not 8, when you include the NHS in scotland, wales, and northern ireland.  Third, an NHS 5 times the size would be less efficient than the current one, not more. 
+
+> If we as the government can bargain for 318 million people, it gives the government a ton of power to bargain down prices of drugs and services.
+
+No, it doesn't, You aren't talking about negotiating for services, you are talking about having the government directly employing millions of people, and you can only do that by at least matching their current salaries.  Maybe, in future, you can restrain cost growth, though that's unlikely, but you absolutely cannot lower it out the door.
+
+>That is a major way how other systems w/ strong public systems are cheaper
+
+No, it isn't.  Except for drugs, which are a very small share of medical expenses, this is flat out false.  ",1,0,1442123777,1444729709
+cuzwvj6,0,t1_cuzs1ja,ClockOfTheLongNow,"> If we as the government can bargain for 318 million people, it gives the government a ton of power to bargain down prices of drugs and services.
+
+Insurers have larger pools than the populations of many single payer countries and this doesn't happen.",2,0,1442142611,1444729709
+cv05ro1,1,t3_3kqg2t,ZenerDiod,"What I never understood is why if liberals love all the big social program why don't they just implement them in their own states? That's the great thing about the federal system we live in, surely after all the other states see how great it they'll follow suite?",1,0,1442164183,1444729709
+cv039kb,1,t3_3kqg2t,palsh7,I've never thought that argument carried any weight. I think it's an excuse a lot of the time for people to avoid progress.,0,0,1442159888,1444729709
+cuzq517,1,t3_3kqg2t,elizabeth90125,"I don't think the population levels have a lot to do with why Americans don't want certain things common in other rich, western countries. I believe it has more to do with American culture. Americans are some hard working people with a belief that hard work is not only good for the soul, it's also good for you life. With this responsibility for oneself comes freedom to choose. Americans would rather work more hours and pay more for things than to give up that freedom of choice.
+
+When anything becomes socialized it becomes something made for the average person. Only problem is, most people are not average. Some people don't want to eat hamburger so other people can eat anything, they want steak even if the other people have to starve. That is the reality. And no one wants to change things in case they get rich and can afford steak whenever they want.
+
+But yeah, there are lots of things like controls on gun ownership that could never happen in the US, not because of population, but because it's a firm part of American Culture.",0,0,1442118289,1444729709
+cv00068,0,t1_cuzq517,Divio42,"I won't even begin to argue that this concept has some validity, particularly historically in this country but even today among a huge segment of the population. 
+
+I'll at least point out that that paradigm is starting to shift in other segments of the population, though. It seems more common among younger generations. Those who grew up with the internet and global communications who are used to holding conversations with and learning about people all over the world. 
+
+Their concept of ""American Culture"" is slightly different. More integrated with our European counterparts. They don't quite hold the same Puritan Work Ethic. 
+
+Of course, we're still a long ways off from anything resembling our European counterparts. ",1,0,1442153152,1444729709
+cv06sfy,0,t1_cv00068,Battlesnake5,"Without trying to get into the value or validity of the idea, which probably wouldn't withstand any critical thought, the observation is not wrong. America is not a collectivist country and has not been since agrarian populism and the labor movement were huge.
+
+Even the progressive left of today is not collectivist: It's all positive-rights individualism. We want people to be able to make the most out of their own lives, we don't want your future to be dictated by an accident of birth. So we take money from those people and give it to these people so they don't have to worry about education or healthcare. But there's no real movement for solidarity or self-sacrifice or collectivism, just moving money from disfavored groups to favored groups. And if anybody ever suggested that all the progressive STEM majors wouldn't be able to make guaranteed six figures rent-seeking in the medical field, I know exactly how that would turn out. ",2,0,1442165670,1444729709
+cv187af,1,t3_3kqg2t,redem,"Some things are easier at scale, some things are harder. I have not been convinced that healthcare, for example, scales poorly. Quite the opposite.",0,0,1442245377,1444729709

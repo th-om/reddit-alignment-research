@@ -1,0 +1,24 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvwm9p6,0,t1_cvw4fmf,ten_thousand_puppies,"Can you bestow it then? Not sure if the ""without paying its mana cost"" clause also applies to alternative casting costs or not.",2,0,1444624409,1444722308
+cvwhvkl,0,t1_cvwenk8,ten_thousand_puppies,I'm sad they errata'd that card to only work if the creature actually died,11,0,1444616023,1444722308
+cvwhnoy,0,t1_cvwb7my,ten_thousand_puppies,Extra turns in GREEN?!,8,0,1444615639,1444722308
+cvw3dj4,0,t1_cvvxhun,ten_thousand_puppies,I think the reason most people in Europe think American beer is still all piss is because most of our exports are still crap like Budweiser.,1,0,1444591489,1444722308
+cvu767l,0,t1_cvttwh4,ten_thousand_puppies,The Smart Rockets take a solid 25% off too if you hit them in the head,2,0,1444427969,1444722308
+cvth10x,1,t3_3o0zdb,ten_thousand_puppies,Driving down from SF to see the show; so fucking stoked,2,0,1444374663,1444722308
+cvsqp61,0,t1_cvsb0yp,ten_thousand_puppies,"Dude, you don't offer a SUBNET to a single device, ever; it does a router solicitation when it comes up, gets offered a /64 prefix, and generates an address based off that.
+
+Another device bridged through that phone comes up and it has its own MAC address? Same deal. Globally routed IPv6 addresses are self-assigned for the most part, so once a device knows what prefix to use, it can generate as many of its own addresses as it wants, as long as none of them are still in use, and there's a duplicate address detection mechanism to work around that.",1,0,1444327764,1444722308
+cvrrecc,0,t1_cvrl75v,ten_thousand_puppies,"Sure, but there's also no reason for those IP's to be in different subnets either.
+
+If a host wants three addresses for that, it can assign itself all of them on the same /64 subnet being served - there's no need to start delegating tons of different subnets for devices.",1,0,1444253351,1444722308
+cvrkk53,0,t1_cvrfgzu,ten_thousand_puppies,"A virtual IP STILL has to have a port mapped to the application though too - TCP and UDP literally don't work without ports, and changing the underlying network protocol isn't going to change anything about that.",1,0,1444243410,1444722308
+cvr9h64,0,t1_cvr1i4c,ten_thousand_puppies,">I mention this because the reason Android refuses to implement the entire DHCPv6 spec (and insists on only using the prefix delegation part) is that they want to be sure that tethering always works. So I'm not sure you actually answered my question -- if my phone gets a /64, what happens to the machines behind it? Does my laptop get a /128? Or does one of these devices start acting like a bridge instead?
+
+The latter. Just because the smallest subnet you have is a /64 doesn't mean you can't put tons of devices on that subnet. You're misunderstanding what a /64 is I think.
+
+>This is why I was excited about the idea of giving giant prefixes to everyone (and still having ridiculously more prefixes than IPv4 had addresses) -- my phone could get a /48, it could give a /56 to my laptop, which could give a /64 each to a dozen VMs, which then still has an ocean of addresses that it can use for individual services, so we never have to worry about dynamically allocating port numbers again
+
+Uh, if you're talking about using IPv6 addresses like that, that's fundamentally rewriting the OSI or TCP/IP models. The whole point of a port is that it's used to identify a given service on a given IP, regardless of what the underlying network protocol is.
+
+I think you're also fundamentally misunderstanding what a subnet is; you don't assign an entire subnet like that to an individual device, because those devices almost assuredly cannot act as a router for those subnets.
+",1,0,1444226738,1444722308

@@ -1,0 +1,67 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvvomog,0,t1_cvvmdls,jferry,"Really, almost everything can be characterized as a cache:  CPUs spill and preload values from/to registers just like things get spilled and preloaded from/to L1 + L2 + L3 caches.  Even main memory itself really just a cache for things that need to be spilled from the CPU, and is in turn spilled/reloaded from swap files.
+
+That said, I'm not sure what that proves.
+
+But use your imagination here.  DDR2 was the standard not that long ago, and now SSDs are now faster than that.  Yes, some thought will need to go into the fact that cache lines are (typically) 64 bytes and SSDs don't normally work with read/writes that small.  But the upsides are:
+
+- Having a few terrabytes of 'ram' instead of just a few gig.
+- All 'ram' is immediately stored, allowing nearly instant computer shutdowns and program resumes.
+- In case of power failure, only the few megabytes on the CPU need to get flushed to allow for complete recovery.  At 3GBps, a big capacitor might be enough to avoid calamity.
+- Fewer components needed to build computer (cheaper?  smaller?)
+- Don't need battery power to maintain ram (longer battery life? cooler? less fan needed resulting in even less battery usage?).
+- Instead of data being transferred from disk to memory, then from memory to cpu, data travels from disk directly to CPU.  Less is more.
+
+Almost forget about your comment re lifespans.  This was a HUGE issue when SSDs were new.  But it is becoming less of an issue every year.  Between the components actually improving, and the firmware leveling algorithms getting better, well, I won't say it's a non-issue, but I'm not convinced it's a complete disqualifier either.",1,0,1444557752,1444724740
+cvt76a8,1,t3_3o1da8,jferry,"This ruling has something for both the plaintiff and the defendant.  Transcribing from the [judgement](http://www.motherjones.com/documents/2451499-vanderslootdecision):
+
+    VII. CONCLUSIONS OF LAW
+
+    Based upon the foregoing findings and analyses, the Court concludes as follows:
+
+    1. The February 6, 2012 tweet referred with particularity to Melaleuca.  None of the other statements at issue are ""of and concerning Melaleuca.
+    2. All of the statements at issue are protected as opinion or rhetorical hyperbole.
+    3. All of the statements at issue are non-actionable truth or substantial truth.
+    4. None of the statements at issue are defamatory per se.
+    5. This action was not brought frivolously or without foundation.  The First Amendment's application can be difficult and subject to varying interpretations.  This was a proper case to resolve the issues.
+
+So legally, MJ got most everything they wanted.  Number 5 suggests that recovering any legal fees is out of the question (IANAL).
+
+However, MJ did not come off completely unscathed.  Also from the judgement:
+
+> Mother Jones describes its articles as ""smart, fearless journalism,"" ""ahead of the curve,"" and ""about reporting.""  Contrary to its perception of itself, this case illustrates the non-objective bias of Mother Jones and its approach in seeking out only the negative to support its position; resorting to sophomoric bullying and name-calling to lead the reader to adopt its particular agenda.
+
+> ...
+
+> But the journalistic model revealed to the Court in the record of this lawsuit is anything but a ""guardian of true liberty.""  Instead, it is little more than mud-slinging, advertised as journalistic fearlessness, which offers very little in the way of a complete or balanced picture for its readers.  Instead of being a leader in educating the people about civil discourse in an era of increased political polarization, the press in general, and Mother Jones in particular, leads the way in demonizing, rather than fairly discussing, those whose points of view differ from its own.
+
+Ouch.  There's more, but you get the idea.
+
+So while this is a legal win for MJ, it's not necessarily one their ""mother"" is going to post on the refrigerator.
+",9,0,1444353530,1444724740
+cvopntz,1,t3_3ng8gy,jferry,Groundhog Day.  They could just release the first movie again!,2,0,1444029989,1444724740
+cvn6ym5,0,t1_cvmx5kn,jferry,"If 1-3 supreme court judges get replaced by Republicans (probably starting with Ginsburg), you are looking at something that lasts 30-40 years, not just 4.  Think what would happen with 3 more Scalias who will be there until 2050.
+
+And how many of their rulings will have to do with redistricting, voting rights, etc?  We had *barely* enough votes to uphold Arizona's attempts to improve [redistricting](http://www.politico.com/story/2015/06/arizona-redistricting-commission-supreme-court-voting-119543).
+
+I get that you're angry, and that's a good thing.  Being angry can help drive change.  But don't let being angry make you short sighted.",6,0,1443911851,1444724740
+cvmjz74,1,t3_3n05tj,jferry,"Isn't the max transfer speed of DDR2 ram only about ~3 GB/s?
+
+Yes, I know DDR2 is the ""old"" standard.  But there seems to be some [question](http://www.extremetech.com/extreme/198894-raming-speed-does-boosting-ddr4-to-3200mhz-improve-overall-performance) about whether faster RAM results in faster programs.  SSDs may not (yet) be at the speeds they are talking about in this article (DDR4), but given them another gen or two.
+
+But more interesting to me is the answer to the question: Why does a computer need RAM at all?
+
+The short answer deals with the difference in performance between CPU speeds and disk speeds.  But if that difference is disappearing, how does that affect the need for/uses for ram?  And if an SSD can literally replace ram (excluding the on-cpu cache), what happens if you install a 4TB drive?  Do you now get the performance of a computer with 4 terabytes of RAM, plus the persistence of storage?",3,0,1443854695,1444724740
+cvhw4q6,0,t1_cvhkld3,jferry,"Right.  Who wants to have a nameless, faceless bureaucrat who couldn't care less if you live or die in charge of their health.  Let's stick with the current system where insurance company employees get bonuses for letting people die.",2,0,1443515323,1444724740
+cvf67fl,0,t1_cvewpp7,jferry,Wish granted: http://www.rightwingwatch.org/content/ann-coulter-women-should-not-have-right-vote-they-can-still-write-books,2,0,1443302953,1444724740
+cvdfbnq,1,t3_3mak0n,jferry,"> the Republican presidential candidate was seen waving from a balcony near the top of the 58-story Trump Tower.
+
+By *who*?  Some passerby in a helicopter?",2,0,1443154381,1444724740
+cvdf3lw,0,t1_cvcjrd9,jferry,"If you are starting from scratch (as the OP is doing), then comparing your positions on a variety of topics with those of various candidates is a reasonable place to start.
+
+But as has been pointed out, personality counts.  If (by some spectacular twist of fate) I were to find that Donald Trump best matched my positions, he still would not be my candidate, and I would look at my second closest candidate.
+
+In my case, I found that a candidate I hadn't given much thought to deserved a closer look.  After additional research, that's who I've (currently) settled on.",2,0,1443153878,1444724740
+cvc8gzd,1,t3_3m5ocm,jferry,"When I took the quiz on ISideWith.com, I found that the candidate I *thought* I supported wasn't the one that best matched my positions on issues.
+
+There are people who quibble with some of their methods (for example how do you score a question if the candidate hasn't given a position on the issue?), but it's a place to start.",11,0,1443068334,1444724740

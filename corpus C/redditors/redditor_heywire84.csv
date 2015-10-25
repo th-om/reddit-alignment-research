@@ -1,0 +1,33 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvu85v4,0,t1_cvu6d22,heywire84,"Like what u/peoplerproblems said, iron is the end of the line for stellar fusion.  When stars die, they leave behind a large amount of iron as well as lighter elements.  
+
+When the solar system formed, the Earth coalesced from the dust that was orbiting the new sun.  Since iron is the heaviest (and densest) element formed through fusion inside a star, iron was also the heaviest and densest abundant element in that dust.  There would be heavier elements like lead and uranium, but those elements are created from supernovae, not more typical star death, and so are not nearly as common.
+
+So when the Earth did form, the densest elements literally sank to the bottom (or middle in the case of a sphere).  Since iron was the most abundant dense element, it sank the farthest forming the core.  The Earth's core is also comprised of other heavy elements like uranium, gold, lead, platinum, etc.  Other common elements which were in the dust that made the Earth like silicon and aluminum floated on top of the denser material and those elements are the most common components of the rocks and minerals which form the mantle and crust.
+
+This is kind of a poorly simplified explanation and the timeline and exactly how the iron sank was left out.  There are some competing theories which explain it.  Check out https://en.wikipedia.org/wiki/Iron_catastrophe and https://en.wikipedia.org/wiki/Rain-out_model as well as https://en.wikipedia.org/wiki/Formation_and_evolution_of_the_Solar_System",12,0,1444429707,1444724870
+cvu33fe,0,t1_cvttg37,heywire84,"Have you ever seen them live?  Rearviewmirror *always* turns into a really fantastic jam.
+
+http://pearljamlive.com/ if you haven't!",3,0,1444421457,1444724870
+cvtzvga,0,t1_cvtwg34,heywire84,"There is also the .rstrip() and .lstrip() method for stripping trailing and leading chars.  In case you have leading spaces or tabs in the text file you'd like to preserve, such as an outline.
+
+Other [string methods](https://docs.python.org/2/library/stdtypes.html#string-methods) for those who are curious.  Since python 2.x print statement is rather simple compared to 3.x, manipulating the string to be printed is the way to go.",2,0,1444416587,1444724870
+cvt267x,0,t1_cvsqwpr,heywire84,"The XKE could go from 0-60 in less that 7 seconds.  At the time, there were few cars that could claim the same thing.  Today, 7 seconds isn't incredible, just like every other car from that era but the styling was not its only claim to fame.",4,0,1444344961,1444724870
+cvt209k,0,t1_cvt1kyf,heywire84,"Sounds good, those are just two big caveats regarding this particular engine.  Most bikes of that era are pretty simple, but the 450/500 was kinda strange.  Torsion spring valves, hemi cylinder head, disc brake, etc.  In the 70s the 500 is kinda lackluster, but when the 450 came out in the 60s, it was a totally insane machine compared to its peers.  It could rev to 10K in an era when the fast British bikes shook to death at 7K.  I gotta get off my ass and rebuild mine :(
+
+But it really doesn't like pods, most bikes from back then have independent carbs and pods work when you get the jets right.  The 450/500 has a tube that connects both air filter boxes, it really hates pods.  Keep an eye on the valves, the rocker arms can wear out and there aren't any replacements.  ",2,0,1444344680,1444724870
+cvt1go4,1,t3_3nza8u,heywire84,"Learn how to adjust the valves and adjust them ALL THE TIME.  Like, every 500 miles.  You will not be able to find new valve train components.  The rocker arms are prone to wear and they do not exist except for one or two shops in the world that will resurface and re-harden them.
+
+Regarding pod filters, the intake on the 450/500 is balanced with a tunnel that connects the two airboxes.  The bike doesn't like pod filters.  DO NOT throw the airboxes of filters away, they don't exist anywhere either.
+
+Other than that, cool find!  Maybe one day I'll get off my ass and rebuild my '72 450.",5,0,1444343746,1444724870
+cvrkkng,0,t1_cvrk29f,heywire84,"Some people never use their health insurance and feel like they are wasting money paying for it.  Some people pay into unions and don't see or use the benefits and feel like they are wasting money paying for it.
+
+There are good unions and bad unions just like there are good insurance plans and bad plans.  People end up generalizing that because *their* union was terrible then *all* unions must be terrible.  That generalization is the problem and it gets inserted into all the rhetoric.  
+
+Even politicians when they start flapping their gums about unions want to get rid of the public employee unions and the teachers unions, but they don't want to touch the police or firefighters unions.",7,0,1444243430,1444724870
+cvrkc11,0,t1_cvrjh0z,heywire84,Does your mom see that as a benefit or a detriment?  I'm just curious since your comment is somewhat ambiguous.,2,0,1444243083,1444724870
+cvrk19v,1,t3_3nv29l,heywire84,"Magnetic fields deflect electrical arcs.  Depending on the field strength, you could find yourself pulling or pushing arcs around...",3,0,1444242652,1444724870
+cvrjz3b,1,t3_3nuyxd,heywire84,"Local codes supersede the NEC unless I am mistaken.  If your State, county, or town has a more stringent rules then they would apply.
+
+You'd have to search for the relevant codes from the local authorities to see if anything disallows them.",6,0,1444242563,1444724870

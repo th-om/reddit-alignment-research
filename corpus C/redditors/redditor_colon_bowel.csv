@@ -1,0 +1,66 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvucncp,0,t1_cvtm9b7,colon_bowel,"depends on the state.. here in PA there are two types of DV plates.. one with the international handicapped symbol that comes with the parking privileges, and one without the symbol that has no special parking privileges..
+
+still.. even though I have the plate with the symbol, from time to time someone will try to give me shit for parking in a hp reserved spot.. mostly it's people who think the window hang-tag is still needed, which it is not if you have the perm plate.
+",1,0,1444438159,1444720945
+cvrp5sv,0,t1_cvrntmx,colon_bowel,"That's the thing.. that debt from 2001 is not on my credit report. Hasn't been since at least 2007.
+
+I don't think the CRAs will report a debt that is older than 7 years so I'm not worried about that.
+
+I doubt hiring someone will do any good, simply because the agency will pass it on to another one. There really isn't a way to force them not to, except maybe sue them out of existence.
+
+I'm pretty sure that old debt made it onto one of the ""zombie debt"" lists that get passed around / sold back and forth between some less than scrupulous collection agencies.
+
+I'm at the point when one calls I tell them to kick rocks and go ahead and sue me. In fact, I wish one would sue, as I would love to see how the judge reacts when finding out the debt is not only 10+ years past the SOL, but has already been paid.
+",1,0,1444250037,1444720945
+cvrncrn,0,t1_cvr9wi7,colon_bowel,"I don't know why this post is being downvoted.  It is very common for collection agencies to sell off ""bad"" debt to other collection agencies.
+
+I've been dealing with this for some time now - on a debt that was paid in full back in 2001, which I have proof - to this day I still get calls every month or so from some collection agency trying to collect on it. I send them the proof and never hear from that agency again, only to be called by a different company.
+
+Those that do that are mostly the very bottom of the bottom-feeder type collection agencies, the ones who hope they can scare someone into paying on an old or no longer valid debt by means of threats and lies.
+",4,0,1444247456,1444720945
+cvrn3i1,0,t1_cvrk3is,colon_bowel,"In theory yes, but in nearly all cases the original creditor will not accept payment on that old debt. The reason being is that they sold that debt to a collection agency - the original creditor received some money (usually a small amount) for that debt.
+
+While it is possible for the OC to pull the debt back, it usually involves too much hassle and some whining from the collection agency, the OC will simply tell the debtor they need to deal with the agency.
+
+When I worked in credit/collections at a local utility, people would beg to pay us the original amount that was sent to a collection agency. The only time we were allowed to pull the debt back when it was some sort of mistake, like a bank error or the payment went to the wrong account, or something along those lines.
+",1,0,1444247091,1444720945
+cvpmszq,1,t3_3n6e5c,colon_bowel,"are you in-house or contractor?
+
+I worked @ Comcast as both, and while the in-house guys get shit on, it's a hundred times worse as a contractor.
+",1,0,1444096575,1444720945
+cvpmfar,0,t1_cvm8m95,colon_bowel,"> I can't even get to either Routers Settings. I've tried separate computers as well. I'm dumbfounded.
+...
+> its not the router...
+
+sounds like it's either the ethernet cable and or the ethernet on the computer you are trying to connect to.
+
+are you using static IPs on your networked devices?  
+
+try setting one of your computers to connect via dhcp then direct connect it to the router..  verify the computer then has an IP by checking the network settings.. in those settings you should see a ""Default Gateway"".. that is be the IP of the router - an out of the box N66 should give you 192.168.1.1 as the gateway and you should have a 192.168.1.x address on the computer.  
+
+If your computer is showing an address of 169.x.x.x then something is preventing it from properly connecting to the router.  For the life of me I can't see how or why the cable modem would have anything to do with preventing you access to the router.
+
+You should be able to connect to the router even without a cable modem connected.
+",1,0,1444095919,1444720945
+cvmf0qt,1,t3_3n9oql,colon_bowel,I'm surprised they haven't yet started making airmen carry around 341's beyond tech school while on duty.,1,0,1443840800,1444720945
+cvm7l20,0,t1_cvm22k6,colon_bowel,"That may be for r/all.. this afternoon - after not being online the entire day - I go to the main page, the so-called ""front page"" of the Internet.. www.reddit.com, of the top 25 posts, the newest post is 7 hours old, most are in the 11-18 hour range.
+
+I don't care what the admins are claiming. I can view reddit at 6 in the morning, go off for the day and not view the site again until 5pm and still see most of the same content on the main page that was there 11-12 hrs ago.  That never happened before the ""change"" they claim was rolled back.
+
+SOMETHING was changed, and at this point Reddit staff is choosing to remain silent about it. Why this is I do not know. It's hard to give any them the benefit of the doubt, with their past record of denial, obfuscation, ignoring the obvious, and outright lying.",5,0,1443825413,1444720945
+cvlk3at,0,t1_cvlgwt1,colon_bowel,"> You can still get a free photo ID from the county clerk, and all county clerks are still issuing them. There is at least one clerk in each county that will still be issuing them after this.
+
+Are those IDs accepted as photo ID for voting purposes?  
+
+My county (in PA) tried to start something similar when a new voter ID law was passed, but the state went and ruled (or had a judge rule, I forget) that County IDs were not acceptable because they were supposedly not as secure as a state issued ID.
+
+I just don't get it.. It's 2015, you would think we would be over such petty bullshit like this by now.
+",1,0,1443786103,1444720945
+cvkwbtg,0,t1_cvkvwrp,colon_bowel,"registering to vote is different than actually voting..
+
+sure there are many ways and places one can register to vote.. that is not the issue.. the issue is requiring photo identification  and only certain types of photo ID to be able to cast a vote.
+
+I am of the opinion that if a State wants to require photo ID in order to vote, then the state must make it very easy and cheap (free?) for citizens of that state to get that ID.
+
+Here in this case, it appears that Alabama's voter ID requires a state issued photo ID - issued by their DMV - and by closing all those DMV offices, they are making it more difficult for people to get the ID they are required to have in order to vote.  That IMO is wrong.",3,0,1443730356,1444720945

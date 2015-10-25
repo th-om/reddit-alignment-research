@@ -1,0 +1,18 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvr60eq,0,t1_cvqy8zv,helios210,"Me too, got two extra batteries and a 128 GB card after a few weeks, being able to go three days without have to charge anything is super convienient sometimes ",1,0,1444218911,1444728408
+cvjvdwp,0,t1_cvjun89,helios210,"Indeed, as I was saying they wouldn't be required unless you had a large reactive load, for example a ton of squirrel cage induction motors, or just one enormous one. 
+
+Compensators don't help to even out power on the grid, unless your talking about power-electronic interfaced inverters, in which case you could argue that operating at non unity generation reduces the active power output, but since this is a load and not a generator that isn't the case here.
+
+What the compensator will do is regulate the flow of *reactive* power, thereby keeping the voltage stable and preventing localised disruption as you said. Too much reactive power on the network and the voltage goes high enough to trip DNO breakers, too little can lead to total voltage collapse and a complete system disconnection so on a system level they are rather important devices! ",1,0,1443653766,1444728408
+cvjuf0i,0,t1_cvjiaf9,helios210,"This is why I love Reddit, long held misconception now corrected - Thanks! ",3,0,1443652132,1444728408
+cvjf86c,0,t1_cvje6rh,helios210,"Technically no, it was leased for 100 years from the Chinese from 1897 until 1997, however during those years it was *essentially* British sovereign territory. ",10,0,1443630217,1444728408
+cvj1h7z,0,t1_cviwc4h,helios210,"SVC and similar devices like STATCOMS are not energy storage devices, they are used for reactive compensation to prevent localised voltage depression on the grid due to highly non linear inductive loads, simply being a large consumer does not require these devices, the EAF must have had quite a few large non unity power factor loads to require an SVC",13,0,1443594803,1444728408
+cv6rsnc,0,t1_cv6rij6,helios210,All the nice progressive Polish people left Poland... :/,-2,0,1442652197,1444728408
+cv5n2xn,0,t1_cv5mrdw,helios210,Can anyone explain this reference? What did she say in '75? Cheers ,1,0,1442560962,1444728408
+cv2hh0a,0,t1_cv2gwtn,helios210,"Not at all, they are happy to pay lower prices because the volume to a *single* client skyrockets, here in the UK companies fall over themselves to complete R&D for the NHS as if they get the contract its 1) Safe as its with a government orgsnisation 2) relatively cheap to manage/administer as its a single client and 3) gives them fantastic exposure to other global health markets. Lobbyists don't affect the NHS much, most Tory politicians on the other hand would love nothing more than to see it implode.",1,0,1442335315,1444728408
+cv19p4k,0,t1_cv191tg,helios210,"Thank you! It seems today everyone focusses on the end rather than the means, if the means of determining who gets the job are fair and gender equal such that the *best person for the job* gets the job, *regardless* of sex, religion, orientation or creed then it doesn't actually matter what the final tally is. 
+
+All a lop sided distribution shows in that instance is intrinsic problems within our education system and wider society.
+",10,0,1442247761,1444728408
+cupl457,0,t1_cu6ci70,helios210,"Unfortunately no, I registered for the official bootloader unlock and was told ""Sorry your SEA variant is not supported at this time"" (or something to that effect, can't remember the exact wording - basically no) however the Low Effort Root worked perfectly, despite me being on 10b rather than 10c, just like /u/RougeCrown said it would :D",1,0,1441308262,1444728408

@@ -1,0 +1,38 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvw9tb7,0,t1_cvw7h5b,subheight640,And yet writers have the same fucking problem. They are being paid worse than ever these days...,9,0,1444601497,1444728070
+cvw3yus,0,t1_cvvuau1,subheight640,">A person has the right to control what is happening in their own body, and to expel any other person from inside them at will.
+
+So for you, it should be completely legal to abort an 8 month mature fetus?? 
+
+Similarly, if I am invited into your house, and suddenly you change your mind, are you allowed to remove me by murder??? Similarly, if you leave the gate open and an unsuspecting tourist wanders onto your property, are you allowed to kill him?
+
+Personally, I loath ""rights based"" arguments. You can use these ""rights"" to do the most horrible things possible. ",2,0,1444592388,1444728070
+cvvwxp1,0,t1_cvvwood,subheight640,The swiss manage to have that same fucking system and they seem to be doing just fine. ,-3,0,1444581206,1444728070
+cvvw94d,0,t1_cvvvvqf,subheight640,"Just because you don't pay attention to the policy proposals from the left doesn't mean they don't exist. For example, I'd like a national gun and ammo registry to track every purchase, to give police better information to track and fight crime. I'd like to have it like in Switzerland where you can only buy ammo for a gun registered to your name.
+
+That of course is too tyrannical for many on the right. ",-2,0,1444579976,1444728070
+cvvvmou,0,t1_cvvvavh,subheight640,"And what if guns did increase crimes. It is obvious to everyone that guns certainly make it easier to kill than knives or melee attacks or bow and arrow. 
+
+We know that economics and logistics matters when it comes to crime. If you make crime logistically easier and more economical to carry out, then more people will commit that crime. Guns are a reliable tool for crime, whereas knives are much more difficult to use and unreliable for crime.
+
+But there's no use arguing here. Nobody fucking knows because the data is all shit and complex to measure. Nobody knows what will happen until after the reforms are in place. Policy design is an iterative cycle, but if a particular group refuses all proposals of reform, then the problem of mass shootings certainly can never be solved. ",-3,0,1444578797,1444728070
+cvvv50a,1,t3_3obj55,subheight640,"There's lots of interesting models in the world. Most computer games revolve around **rigid body dynamics** or simple spring and dashpot dynamics. 
+
+For added solids complexity for deformable solids, the world relies on an algorithm known as the finite element method. The simplest of these models assumes something called isotropic elasticity. 
+
+Simulation of fluids typically uses some sort of finite difference method that I am not too familiar with. 
+
+To perform these simulations, the computer solves a fundamental math problem associated with the behavior. For springs, this is as simple as f=kx and f=ma. Additional information relates each spring element to the  others. The full system is typically sorted into a huge linear system matrix known as the stiffness matrix and then solved using linear algebra. For nonlinearities, differential equations are solved via iteration. Typical solver patterns are Runge kutta algorithm or Newton raphson. 
+
+Problems can be done faster when you presolve the physical solution. Instead of iterating again to find the most accurate solution, you do all the computations before hand and find an approximate relationship that you can use. You can then prescribe the motion rather than solve for it, which is much faster.
+
+Keep in mind I am no game programmer but a structural analyst whose life revolves around approximating physical models.",5,0,1444577841,1444728070
+cvvtv8n,0,t1_cvvnfht,subheight640,Like the rest of the developed world... Even more pro gun countries in Europe still have stricter gun control... Even Switzerland has a gun registry and ammo registry. ,-10,0,1444575268,1444728070
+cvvtdak,0,t1_cvvqvjt,subheight640,Exactly which news oriented subreddit do you subscribe to?,1,0,1444574090,1444728070
+cvvks3d,0,t1_cvvic0q,subheight640,"No its definitely gotten much worse. Back in the day news dominated the site discussion. Nowadays its cats and memes and imgur and porn. There was even a recent data is beautiful that showed which domains have gotten less popular over time. News is down. Bullcrap is up.
+
+",1,0,1444542612,1444728070
+cvutrx5,0,t1_cvutgyi,subheight640,"Whatever this stuff is:
+https://en.m.wikipedia.org/wiki/Book_of_enoch
+
+It's not canon for some reason. ",5,0,1444490709,1444728070

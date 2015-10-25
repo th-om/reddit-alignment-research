@@ -1,0 +1,68 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvuot27,1,t3_3o16sw,BlackBrane,"This question comes up a lot, which is probably because the majority of explanations floating around are less than helpful.
+
+I suggest first de-linking your question from black holes, which is an unnecessary complication at this stage. Black holes radiate because they have a horizon. Horizons are the aspect to focus on. It suffices to consider an accelerating observer in flat Minkowski space (Rindler space). So this process is something that can be understood within quantum field theory (without gravity at all) and is called the [Unruh effect](https://en.wikipedia.org/wiki/Unruh_effect).
+
+For the intuition, I suggest thinking about this process as analogous to all the EPR-like entanglement experiments involving non-local correlations that are done these days. The vacuum in quantum field theory is very highly spatially entangled, so it is akin to an EPR-like entanglement experiment with a large number of entangled degrees of freedom. If you did a basic EPR experiment without spatially separating the qubits, the system would look maximally boring, because the spins are anti-correlated and thus cancelling. However if you separate a pair of entangled qubits (or many such pairs) you will see random behavior, characterized by tracing out the distant degrees of freedom from your density matrix, yielding a thermal system. For the same reasons, when you causally separate one region of space from another, as happens at the Rindler horizon if you're an accelerating observer, you will also see a thermal density matrix.
+
+Any confusions I once had about this were incisively addressed [by this lecture by Nima Arkani-Hamed](https://www.youtube.com/watch?v=-Y-r5tinruE).",1,0,1444476366,1444727469
+cvr7g57,0,t1_cvqzp3t,BlackBrane,"Check out [the theoretical minimum](http://theoreticalminimum.com/), by Lenny Susskind, who knows this stuff really well. It's specifically for people starting almost from scratch. It's a book, as well as those online lectures.",6,0,1444222673,1444727469
+cvqa549,0,t1_cvq6q6l,BlackBrane,"Sweet, I hope you like it and it works well for you. :)
+
+Let me know how it turns out, or if you have any suggestions.",3,0,1444151916,1444727469
+cvqa14n,0,t1_cvq5dj7,BlackBrane,"Hmm, thanks for the report.
+
+Maybe its the Unicode characters themselves that are causing you trouble, based on that line at the bottom? The [ansi-terminal](https://hackage.haskell.org/package/ansi-terminal) package says it's compatible with Windows, but I don't really know.
+
+If its the Unicode chars, that's pretty integral to the purpose of course. But if it's the ANSI codes then I might be able to special-case some stuff to not use colors. There's [a function that trys to check if ANSI is supported](https://hackage.haskell.org/package/ansi-terminal-0.6.2.3/docs/System-Console-ANSI.html#g:10), but it needs a Handle, so I'm not sure how I could do it programmatically from the library.",4,0,1444151751,1444727469
+cvq3hxb,1,t3_3npij7,BlackBrane,"Hey, all. I've been completely enamored with Haskell (and Idris) for a while now, and only just recently began trying to take the step of making tangible contributions worthy of Hackage.
+
+Even though its been an awesome, thrilling journey, I feel like I've underutilized this great community. I've soaked up a lot of knowledge and wisdom, but never really had the balls to straight up ask for feedback on my code. So now I'm asking. If you have any constructive feedback, I'd love to hear it, either on this, or my first complete Haskell *program* [which is here](https://github.com/BlackBrane/svocab).
+
+Also I'd be interested to know that it works on windows or other UNIXy systems besides OSX, since ANSI seems like the kind of thing that may be finicky that way.
+
+Hopefully this is just the beginning and I can contribute some more ambitious stuff from here...
+
+Thanks.",9,0,1444141608,1444727469
+cvnovkq,0,t1_cvmwza6,BlackBrane,"In addition to what /u/superforms said, it ensures by construction that energy is bounded from below, which is generally not true of non-SUSY QFTs, including the SM at high energies. And it's the only known way that internal symmetries can be combined with spacetime symmetries, which is a pretty motivated expectation if you want a unified description of physics. Specifically, the [Coleman-Mandula](https://en.wikipedia.org/wiki/Coleman%E2%80%93Mandula_theorem) theorem shows this is impossible within a Lie algebra structure but [it is possible with a Lie superalgebra](https://en.wikipedia.org/wiki/Haag%E2%80%93Lopuszanski%E2%80%93Sohnius_theorem).",2,0,1443960917,1444727469
+cvnooii,1,t3_3nbzml,BlackBrane,"I would suggest reframing the question.
+
+There are a number of unsolved problems related to the Standard Model, and a number of proposed (classes of) solutions. Any solution worth mentioning has specific predictions for particle experiments that differ from the SM, but in very few cases do we have any solid reason to expect this new physics at any particular *definite* energy scale. So the main question is, at what energy scale does such a departure occur, at a scale that would be detectable by LHC14 or its successors, or much higher?
+
+This question has nothing in particular to do with SUSY. If run 2 of the LHC does nothing but confirm the SM, it doesn't really tell us anything affirmative at all, other than that the SM continues to be a valid description up to 14 TeV, more or less. SUSY would have declined a chance to be discovered, but so would all of its competitor theories. So we really wouldn't really learn anything about which successor theory is likely to be correct, all we'd learn is about the range of validity of the SM.
+
+Of course this doesn't stop some people from *claiming* that lack of evidence of SUSY is somehow affirmative evidence that *their* favorite idea is actually correct, but that's a flagrant non sequitur.",5,0,1443960125,1444727469
+cvno7lf,0,t1_cvms5qk,BlackBrane,"That's very far from the most important motivation though. For example, its much more important that SUSY makes sure the energy of a QFT is bounded from below, or that it allows spacetime and internal symmetries to be unified. The connections to general relativity and string theory/quantum gravity are arguably much more important, conceptual, and qualitative than any mere fine-tuning problem.
+
+I don't believe its true that the hierarchy problem was what actually motivated postulating SUSY. The early papers I've seen first introducing SUSY start from a primitive string theory, or from just trying to generalize existing symmetries. The HP may have been what helped it catch on as an idea, but I think the role of the hierarchy problem in motivating SUSY is very much overblown. And we certainly shouldn't imply it was the historical motivation unless there's some paper I haven't seen (in that case please tell me).
+
+The hierarchy problem is obviously an important clue that pertains directly the the energy scale we're probing at the LHC, but from a broader perspective looking at the big questions in fundamental physics, it is clearly much further down the list.",5,0,1443958180,1444727469
+cvklta5,0,t1_cvjgtiu,BlackBrane,"It's not like this is would otherwise be a very serious document about a very serious issue. So I think it's fine. ;)
+
+This is about what concisely formulated theories/equations are equivalent to, or imply, Maxwell's equations. I'd be interested in to hear about any other empirically viable theory that satisfied that property. I don't know of any others, let alone ""many"", do you?
+
+A more agreeable conclusion might be to suggest:
+
+>*Let there be a quantum, relativistic theory of spin-1, non-self-interacting  particles.*
+
+It's an under-appreciated fact that Maxwell's equations follow from that statement. From there, especially if we're interested in the most concise statement possible, its certainly worth mentioning:
+
+>*A quantum, relativistic theory of extended objects.*
+
+I wouldn't claim this makes a good flashy t-shirt, but it certainly has a place in the discussion at hand.",2,0,1443715301,1444727469
+cvi078v,0,t1_cvhsyow,BlackBrane,"Here's some good reading about it:
+
+http://blog.sigfpe.com/2007/07/data-and-codata.html
+
+I'd quibble slightly with what /u/beerdude26 answered below to say that codata is *possibly* infinite. 
+
+These examples from Idris, which explicitly distinguishes data from codata, are illuminating I think. (remember `::` is cons):
+
+
+    data   List   a = Nil | (::) a (List a)
+
+    codata CoList a = Nil | (::) a (CoList a)
+
+    codata Stream a = (::) a (Stream a)
+
+In Haskell data/codata are conflated, so there wouldn't be any observable difference between the first two definitions. But Idris does totality checking, so the distinction can be important since codata has a different notion of totality (""productivity""). For example, something like `repeat x = x :: repeat x` is marked as total when its defined as a Stream or CoList, but not when defined as a List.",3,0,1443530879,1444727469

@@ -1,0 +1,36 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvwvd9t,1,t3_3ofyzq,specialpatrol,How can they guarantee they're definitely going to open the door for you on the day the shit does go down?,8,0,1444655825,1444717552
+cvwu1gv,0,t1_cvwt621,specialpatrol,"Ok got it, in the code you have apply the translate of the robot before the rotate. Then you have the head rotating on it's spot and moving along the z axis. Now each time you ""move the robot"" you need to add robotX += 0.15 * cos(angle), and robotZ += 0.15 * sin(angle)
+
+(Might be the other way round with tghe cos /sin)
+
+",2,0,1444652141,1444717552
+cvwtew8,1,t3_3ofmz4,specialpatrol,"Just to be clear; your robot always moves forward/backward in the direction it's facing.
+
+You have two values to accumulate; direction (deg), position (x,z).
+
+Everytime you rotate, you add/sub from the rotation.
+
+Everytime you move you add/sub to the position, in the direction of the current rotation.
+
+Everytime you want to show the result, you recreate two matrices; a rotation about Y matrix, and a translation of the position matrix.
+
+Your result matrix is rotation * position.",3,0,1444650016,1444717552
+cvwszwc,0,t1_cvwgs20,specialpatrol,"His arguments are well put, but there's a utterly fatalistic bent to it all.",17,0,1444648465,1444717552
+cvwrjhl,1,t3_3of371,specialpatrol,"I think its;
+
+>glBufferData(GL_ELEMENT_ARRAY_BUFFER, M->numIndices, M->indices, GL_STATIC_DRAW);
+
+shouldn't it be M->numIndices * sizeof(GLuint)?
+
+instead of earlier you have:
+
+> glBufferData(GL_ELEMENT_ARRAY_BUFFER, sizeof(indices), indices, GL_STATIC_DRAW);
+
+
+",3,0,1444641998,1444717552
+cvwratc,0,t1_cvwr6sc,specialpatrol,"I imagine what this guy is doing is more blatant / inforceable tax avoidance - he's receiving money in the country and the whole business is based in the country. It's not like google who are largely taking money off of ad revenues from companies also based in other countries, it's harder to show where the money they actually make is generated.",1,0,1444640916,1444717552
+cvwr3v8,0,t1_cvwqr3w,specialpatrol,bet its a good pub though.,2,0,1444640054,1444717552
+cvw9ffp,0,t1_cvvml46,specialpatrol,Well does ISIS think they are terrorists? Did the Nazis think they were the bad guys?,0,0,1444600848,1444717552
+cvw9chs,0,t1_cvw87wc,specialpatrol,"So is this ""before 1986"" rule an attempt to faze out ownership of these things then?",1,0,1444600709,1444717552
+cvw80wq,0,t1_cvw7sad,specialpatrol,"But it's not actually illegal to own say, an AK47?",1,0,1444598538,1444717552

@@ -1,0 +1,139 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cuwqnfz,1,t3_3ke0ea,houinator,"Many conservatives favor the practice of subsidiarity/decentralisation, which holds at resolving problems at the most local level possible.  There are many reasons to do this, but the simplest is that in a democracy people have more ability to influence their government the closer it is to the population.",10,0,1441894117,1444730456
+cux7vhf,0,t1_cuwqnfz,western_red,"The only thing I've heard about federal support for education at state universities/colleges would be for the feds to provide more money.  So it would still be locally controlled, but some of the funding would be federal.  There is already a lot of federal support in universities, but as far as I know the bulk of that is grant money for R&D.",1,0,1441921164,1444730456
+cuwtatk,0,t1_cuwqnfz,BrawnyJava,"Also, where in the constitution does Congress have the ability to ""expand"" community colleges?  Most colleges are run by states.  Congress cannot make a law saying ""NY state university system must open 10 new colleges"".  
+
+I mean they could, but it would be struck down.",7,0,1441898611,1444730456
+cuwpmfa,1,t3_3ke0ea,FlareCorran,"It doesn't even matter if they would do it better, the federal government is nowhere given the authority to expand community college or to spend money in that direction. 
+
+The only way to weasel into that is to interpret the so-called ""general welfare clause"" in a way that Madison (the Father of the Constitution) considered to be utterly ridiculous.",6,0,1441892105,1444730456
+cuwx9gt,0,t1_cuwpmfa,bleahdeebleah,This is an important point - there are lots of people who don't care whether it's 'better' in the sense that OP means.   ,1,0,1441904797,1444730456
+cuwp1v7,1,t3_3ke0ea,looklistencreate,Community colleges are the most localized type of higher education there is. They're explicitly for the purpose of meeting the needs of the local community. If any colleges should be state-run rather than federally-controlled it's these.,5,0,1441890867,1444730456
+cuwrq3h,1,t3_3ke0ea,CivisAmericanusSum,"Ill answer in a different vein: its not so much a question of who would do it better.  Instead its a question of what impact does centralization have on the country?  For example, ive heard it argued that by centralizing the government too much you lose local and state civic/political engagement.  Furthermore, in general, people prefer having more control over their own lives and centralization tends to take control away because realistically one person has more political power voting in a local election than in a national one",3,0,1441896033,1444730456
+cuwnnsr,1,t3_3ke0ea,Baratheon_Economist,"Given enrolment rates and the general state of over-education in the labour market, expanding community colleges probably isn't a good idea. (Although, note: the literature on over-education is incredibly mixed). 
+
+EDIT: Ignore that first sentence, I done fucked up.
+
+Anyway, it probably just comes down to an informational advantage that states have. Who understands what Texas needs more: Texas, or Washington?",5,0,1441887353,1444730456
+cuwpzot,0,t1_cuwnnsr,CompactedConscience,"I don't understand the argument that the labor market is over educated. Maybe I am conflating two things, but I am aware of a lot of published empirical work that suggests positive public and private returns to education. I am not aware of a signed study that suggests the opposite. I think the evidence is far more consistent with an undereducated labor market by any metric.
+
+I think it is disingenuous to describe the literature on over education as mixed. Some papers argue lower returns than others, but none (that I am aware of) make an argument consistent with over education. ",-1,0,1441892847,1444730456
+cuwsrs5,0,t1_cuwpzot,Baratheon_Economist,Ignore me there; we had a discussion on this in r/badeconomics like a week ago that completely slipped my mind. I'll have to return to the topic because I still don't fucking get it. ,2,0,1441897772,1444730456
+cuwt86z,0,t1_cuwsrs5,CompactedConscience,"Was this in one of the discussion threads? You aren't the only be poster I've seen write something similar about overeducation. There might just be research I'm not aware of, so it is very possible I'm wrong. ",1,0,1441898494,1444730456
+cuwtce1,0,t1_cuwt86z,Baratheon_Economist,"It was so much of a discussion as people discussing it and me trying to pick up on what they were saying. I've been trying to work my way through [this](http://www.unc.edu/~joubertc/Draft0913.pdf) paper, although I'm very likely misunderstanding it. 
+
+I'd appreciate it if you could shed some light. ",1,0,1441898679,1444730456
+cuwu628,0,t1_cuwtce1,CompactedConscience,"I will say that, getting as far as page 4, they already acknowledge that ""surplus"" schooling nets you about 4.3% more earnings per year. It is just that ""nonsurplus"" schooling would net you almost twice that.
+
+Edit1:  if I was refereeing this, my first criticism is that they call their statistical method for calculating ""required"" school transparent, but have yet to describe what it is. I know it is based on data for years of schooling in each job, but i don't know what they do with the data.",1,0,1441899973,1444730456
+cuwters,0,t1_cuwtce1,CompactedConscience,"I will look through it in a minute, though I am less qualified than the median be poster. I was just asking if the discussion was in one of the stickies, but I think I found it.",1,0,1441898781,1444730456
+cuwva58,0,t1_cuwtce1,CompactedConscience,"Done reading. The authors find that people who have more schooling than required for the job earn more than those working the same job who have less schooling. In that sense, getting an additional year of schooling can still be a good decision once you account for opportunity costs and direct costs. 
+
+I think an alternative explanation for their finding is that schooling might exhibit diminishing returns. I think the stratification could mask that. People in the overeducated group earn **less extra money per marginal increase in schooling** than people not in that group. If we could look at this by year and not by group, it could shed light on that dynamic. I skimmed the last few pages, so I apologize if they address this. However, even if this isn't the explanation, the authors aren't arguing that an extra year of schooling wouldn't benefit the average person.  Their argument does suggest that it would benefit some people more than others.",2,0,1441901722,1444730456
+cuwpvt4,0,t1_cuwnnsr,passionlessDrone,"> Anyway, it probably just comes down to an informational advantage that states have. Who understands what Texas needs more: Texas, or Washington?
+
+I never understand this argument.  *What* would the community college students in Texas need differently from the community college studies in Florida?  Is calculus different in Texas compared to Washington?  Is world history different if you come from Texas?  Is chemistry different in Texas, or physics, or biology?  
+
+Two hundred years ago, people that were born in Texas probably stayed there and lived there their entire lives; it might not have made sense to try to teach them how to make snowshoes.  In a global competition does anyone think that getting a 'Texas flavored' education would be better than one defined in Washington?  Why?
+",0,0,1441892631,1444730456
+cuwz4k8,0,t1_cuwpvt4,Nygmus,">  Is world history different if you come from Texas? Is chemistry different in Texas, or physics, or biology? 
+
+Well, history and biology, it seems.",-1,0,1441907673,1444730456
+cuwqunp,0,t1_cuwpvt4,Old_Army90,"> Is world history different if you come from Texas?  
+
+There are so many jokes I could make about this right now.",0,0,1441894482,1444730456
+cuws6bi,0,t1_cuwpvt4,yankeesyes,"Well for one thing government funded schools are charged with supplying the local labor market and to some extent tailoring it for the future.  Community colleges are interesting in that they can be used to teach certain trades while giving students some humanities credits in case they go on to a 4-year school.
+
+True, people move on, but its not about the people but the local job market.  An area that has a lot of retail chain headquarters may wish to teach more courses in marketing and merchandising.  The area around Bentonville, Arkansas comes to mind.  On the other hand, a CC in a manufacturing corridor might teach more classes in management (for potential foremen) and in technical subjects (to manage more complex machines used in a factory).",3,0,1441896795,1444730456
+cuwrfii,0,t1_cuwpvt4,down42roads,"It's less about curriculum and more about administration.  For example, a community college in rural Texas would need different facilities  (parking, dining, etc) than one in Brooklyn. Cost-of-living variations would dictate different wages and student costs. A school in Baltimore is less likely to have agricultural courses than one in Des Moines. A school in Los Angeles would need more Spanish speaking accommodations than one in Fargo.",4,0,1441895518,1444730456
+cuwp0ma,0,t1_cuwnnsr,mrmoustache8765,"Doesn't the over education come from too many kids going the traditional route of a 4 year liberal arts education? You can go to community college for two years to get an associate's degree and pay a hell of a lot less and even nothing in some cases. Then you've got kids with decent post high school education and who aren't in $80,000 worth of debt. ",1,0,1441890790,1444730456
+cuwvtx6,0,t1_cuwp0ma,Skalforus,Yeah. I'm going to a community college currently because I messed in high school so my grades weren't good enough to go directly into a 4-year. Tuition was $660 for the same level of education.,1,0,1441902578,1444730456
+cuwr1hw,0,t1_cuwnnsr,iamelben,">Over-education
+
+Dude...didn't we settle this in /r/badeconomics last week?  The whole concept of overeducation is misplaced because what propenents, mainly Caplan and Hansen at George Mason, REALLY mean when they say overeducation is MISeducation.  [Returns to a college degree STILL make it one of the best investments the average person can make.](http://www.newyorkfed.org/research/current_issues/ci20-3.pdf)
+
+There's a lump of education fallacy lurking in here somewhere.  A degree that I get does not necessarily decrease the value of yours.  ",3,0,1441894829,1444730456
+cuwsp0i,0,t1_cuwr1hw,Baratheon_Economist,"Fuck, yeah, we did. My bad, completely forgot about that. Thanks for pointing it out. ",3,0,1441897651,1444730456
+cux04ya,0,t1_cuwsp0i,iamelben,That's literally why I hang out over there. It helps me be better. No worries. ,1,0,1441909237,1444730456
+cuwo381,1,t3_3ke0ea,ClockOfTheLongNow,"Centralization leads to inefficiency and a lack of ability to pivot based on individual need.  The idea that the same thing is needed in both New York and in Iowa makes no logical sense in most cases, and college policy certainly doesn't look like an exception to me.",8,0,1441888527,1444730456
+cuwr7mq,0,t1_cuwo381,bleahdeebleah,This ignores the idea that people can get their education in New York and then might move to Iowa for a job or other work utilizing it.   ,-1,0,1441895133,1444730456
+cuwsuoi,0,t1_cuwr7mq,ClockOfTheLongNow,"And yours ignores the idea that people in Iowa don't need New York-style education, or that a universal education will not account for local needs.",3,0,1441897899,1444730456
+cuwt4x4,0,t1_cuwsuoi,bleahdeebleah,"I'm not ignoring the idea, I'm dismissing it.  
+
+Perhaps you can give an example of a local 'need'.",-1,0,1441898353,1444730456
+cuwtfq5,0,t1_cuwt4x4,ClockOfTheLongNow,Local history.  Local industry.  Local climate.  Population density.  ,2,0,1441898823,1444730456
+cuwx714,0,t1_cuwtfq5,bleahdeebleah,"It's been a long time since I was in school, but as I recall that sort of state/local stuff was in something like third grade social studies.  So I don't see it as significant, sorry.",0,0,1441904693,1444730457
+cuwx9a0,0,t1_cuwx714,ClockOfTheLongNow,"The entire point is that it can be, should be, and is important and significant in other areas.  Centralization simply assumes it's never important, and says ""no, this is,"" giving no credence or deference to those local needs.",2,0,1441904789,1444730457
+cux0vl8,0,t1_cuwx9a0,bleahdeebleah,"ok, from looking around the thread, I realize I was overzealous.  Ag colleges are a good example of a type of community college that makes more sense in a rural area over an urban area.
+
+
+",2,0,1441910355,1444730457
+cuwpzu2,0,t1_cuwo381,passionlessDrone,"> Centralization leads to inefficiency and a lack of ability to pivot based on individual need. The idea that the same thing is needed in both New York and in Iowa makes no logical sense in most cases, and college policy certainly doesn't look like an exception to me.
+
+Why?  Do Iowans not need to understand chemistry in the same way as people from New York?  Is there something fundamentally different about biology, or physics, or history, or civics if you come from Iowa?  In a community college curriculum what individual need would you need to pivot toward?
+
+The people going to college now don't need to be learning Iowan biology or New York chemistry; there isn't such a thing.  We no longer live in a place where going to community college in Iowa means that you will work and stay in Iowa the rest of your life, applying your 'Iowa' chemistry to your job; centralization is *exactly* what we need.  ",1,0,1441892855,1444730457
+cuwsv63,0,t1_cuwpzu2,ClockOfTheLongNow,"> Why? Do Iowans not need to understand chemistry in the same way as people from New York? Is there something fundamentally different about biology, or physics, or history, or civics if you come from Iowa? In a community college curriculum what individual need would you need to pivot toward?
+
+I think that should be up to the individual communities to decide.  That's the whole point.",3,0,1441897920,1444730457
+cuwsqan,0,t1_cuwpzu2,Circle_Breaker,"I don't think you understand the issue. It isn't that Iowa chemistry is different then New York Chemistry, its that the local Iowa populace might have different needs then a local New York Populace. 
+
+For example here in Virginia there is huge shipyard by one of local Community colleges. So that community college offers courses in welding, marine electronics, sheet metal, and shipfitting, among other specialized areas. A school in upper Mississippi won't need that but they might offer courses in farming, such as agronomy, animal behavior, animal breeding, aquaculture, equine studies, farm management ext. 
+
+Having every Community College teach the same things, would be inefficient and you lose out on the possibility of specializing. 
+
+",3,0,1441897706,1444730457
+cuwt91t,0,t1_cuwsqan,passionlessDrone,"My thought was that for welding, or HVAC or whatever, you goto a vocational school.  
+
+When I was coming up, community college was for getting admitted to a university, you could just take your first two years of classes at a fraction of the cost.  At least that is how it was framed to me.  ",0,0,1441898532,1444730460
+cuwspc7,0,t1_cuwpzu2,popname,">  Do Iowans not need to understand chemistry in the same way as people from New York?
+
+As a group, No.  A college in rural Iowa is likely to attract a great number of people with a primary interest in agriculture.  They would value a program that leans heavily toward organic chemistry and biochemistry.  In Southern California the focus is likely to more toward inorganic chemistry.
+
+>We no longer live in a place where going to community college in Iowa means that you will work and stay in Iowa the rest of your life
+
+But most people do stay pretty close to where they grew up, and they share the interests of their community.  The rational question around community colleges is ""How can we best serve the interests of our local population?""  It is not reasonable to try to make a community college serve the needs of all people equally.  Even huge universities specialize.",3,0,1441897665,1444730460
+cuwtb55,0,t1_cuwspc7,passionlessDrone,">  They would value a program that leans heavily toward organic chemistry and biochemistry. In Southern California the focus is likely to more toward inorganic chemistry.
+
+Those sound more like the last two years of a college program as opposed to the first two.  (?) 
+
+>  The rational question around community colleges is ""How can we best serve the interests of our local population?"" It is not reasonable to try to make a community college serve the needs of all people equally.
+
+If the purpose of community college is to provide a transfer point to four year universities then that raises a different ration question.  
+
+",0,0,1441898625,1444730460
+cuwvgvt,0,t1_cuwtb55,popname,"> If the purpose of community college is to provide a transfer point to four year universities then that raises a different ration question. 
+
+This is an excellent illustration of the point at hand.  Just because you think the only point of a community college is to provide a less expensive option for the first two years of a four year degree does not mean that others agree.  Perhaps in your community that's what most people want out of a community college.  In other communities people really are looking for that two year degree.
+
+Some people are just looking for a few classes that will help them with their current endeavors.  In an industrial city people might lean toward classes that help the transition from blue collar to white collar jobs.  In San Francisco people might be more interested in design.  In some communities night classes might be more in demand than day jobs.  People might like larger or smaller classes.  People might want more independence or more hand holding.",3,0,1441902019,1444730460
+cuwpcb3,0,t1_cuwo381,awa64,"> Centralization leads to inefficiency and a lack of ability to pivot based on individual need.
+
+Decentralization leads to redundancy and increased vulnerability to budget shortfalls.
+
+> The idea that the same thing is needed in both New York and in Iowa makes no logical sense in most cases
+
+That's true, but only because New York City is an outlier population-wise. If you're not dealing with something directly related to geographic considerations, how different are the (for example, educational) needs of Buffalo, NY and the needs of Des Moines, IA?
+
+",2,0,1441891506,1444730460
+cuwswzl,0,t1_cuwpcb3,ClockOfTheLongNow,"> Decentralization leads to redundancy and increased vulnerability to budget shortfalls.
+
+Anything relying on taxpayer money is vulnerable to budget shortfalls.  Redundancy is unlikely, though, due to the sort of mobility that isn't typical.
+
+>  how different are the (for example, educational) needs of Buffalo, NY and the needs of Des Moines, IA?
+
+I have no way of knowing that, and neither does a central authority.  That's the point.",3,0,1441898000,1444730460
+cuwsdnd,1,t3_3ke0ea,cassander,"lots of reasons.  1, states have unique needs, a one size fits all policy for a country as big as the US is guaranteed to fit poorly.  2, there are massive diseconomies of scale in administration, 50 state efforts will, on the whole, be more efficient and cost less than one federal system.  3, a federal solution, is by definition, one solution,  50 states will try things 50 different ways, which lets us see which systems work and which ones don't, then adapt the ones that work best.  4, policy is more flexible and changeable at the state level than the federal meaning that mistakes that are made are easier to correct, particularly in light of 3, which makes mistakes more visible.  ",2,0,1441897126,1444730460
+cuxbmsg,1,t3_3ke0ea,dust4ngel,"another possibility is that ""let the states do it"" is code for ""let the red states not do it"".
+
+in other words, the argument for decentralization may actually be in service to the right to not participate.",2,0,1441927816,1444730460
+cuwwg59,1,t3_3ke0ea,Cipahshipac,"The states are answerable to the people, the fed is not.
+
+",1,0,1441903530,1444730464
+cuwslkz,1,t3_3ke0ea,evanb_,"Federal regulation of education is illegal. It doesn't matter whether or not it would be ""good,"" Congress and the President can't currently do it.",1,0,1441897494,1444730468
+cux6u7u,1,t3_3ke0ea,commenter1126,"""States' Rights"" is just a smokescreen term for ""easier to buy with lobbying"" aka ""we'll never do it correctly, if at all.""
+
+The quickest way to kill an entire concept is to make it something each of 50 different states, all replete with idiots and shills, have to do on their own.",-1,0,1441919482,1444730468
+cuxdng0,0,t1_cux6u7u,ZenerDiod,What if they don't want it? Isn't that their people's right? A state's government is more representative of its people then the national government.,1,0,1441931519,1444730468
+cuwpbws,1,t3_3ke0ea,jfpbookworm,Often they don't want the states to do it either.,-4,0,1441891481,1444730468
+cuwr5ze,1,t3_3ke0ea,,States are easier to drown in bathtubs.  ,-3,0,1441895054,1444730468

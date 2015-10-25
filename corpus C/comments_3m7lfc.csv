@@ -1,0 +1,303 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvcqra8,1,t3_3m7lfc,bleahdeebleah,"Sounds to me that you have more of a beef with how the state's implemented things.
+
+I went to [my states calculator](http://info.healthconnect.vermont.gov/Subsidy_Estimator) and entered the information (2 adults, 2 children, $62040) and ended up with a $516 subsidy and an out of pocket of $397 for a silver plan.
+
+The estimator chose a couple's plan because the kids in this scenario qualify for what sounds like VT's version of Chip (Dr. Dynasaur).
+
+Which brings up a question:  Why are you adding your child when they already qualify for this Chip thing?",7,0,1443114226,1444724690
+cvcqu86,0,t1_cvcqra8,ellipses1,"For one, I don't want to pay two health insurance bills. Two, every child in PA qualifies for chip",1,0,1443114344,1444724690
+cvcqy4w,0,t1_cvcqu86,bleahdeebleah,So I feel like I'm missing something.  Maybe what you're looking for for coverage is above and beyond what Chip provides for?   Are you leaving money on the table just to avoid having two bills?,2,0,1443114502,1444724690
+cvcr9nm,0,t1_cvcqy4w,ellipses1,"I want it to work the way I was told it would work... Family of 4, <94k income... Buy a plan on the marketplace, put everyone on it, get a small tax credit. I want to participate in what I voted for. We pay 91 per month for Chip insurance for the one kid and 550 for myself, wife, and other kid. Maybe chip is cheaper... Maybe not. Maybe it's the same... But it doesn't work the way it's described, so I'm abandoning the whole thing. I'd like someone to explain how the subsidy scale is determined because what is on irs.gov and healthcare.gov are not accurate, i.e., if my income is 50k and I just count my wife and I, we get no tax credit despite the table going to 62,040 for 2 people. ",1,0,1443114972,1444724690
+cvcrka8,0,t1_cvcr9nm,bleahdeebleah,"So where were you told that?  I'm looking at [this](http://www.financialsamurai.com/subsidy-amounts-by-income-limits-for-the-affordable-care-act-obamacare/), which says a married couple at $62K don't get a subsidy.
+
+>* Phaseout levels: Income of $94,200 or higher for a family of four, $78,000 for a family of three, $62,000 for a married couple with no kids, and $45,960 for single individuals will no longer receive government health care subsidies. The basic math is 4X the poverty level as determined by the government",1,0,1443115393,1444724690
+cvcrvht,0,t1_cvcrka8,ellipses1,"I did the calculator for 75k, 65k, 60k, 55k, 50k, and 40k
+ 
+There is zero subsidy until I get to 40k. ",2,0,1443115839,1444724690
+cvcqwz8,0,t1_cvcqra8,ellipses1,"Do your calculator for 2 adults and two kids at 75k. And 2 adults only at 55k. Both of those scenarios result in zero subsidy for me, despite being in the published income ranges and family sizes",2,0,1443114455,1444724690
+cvct9ad,0,t1_cvcqwz8,lannister80,"CHIP is already subsidized.  That's where you're getting savings already, you just don't see them because the CHIP premium is pre-subsidized.",1,0,1443117848,1444724690
+cvcrqj7,0,t1_cvcqwz8,bleahdeebleah,"So I put in 4 in household, 2 adults, 2 kids under 19 and 75K and it shows a $275 subsidy on a silver plan.
+
+I put 2 in household, 2 adults, 55K and see a subsidy of $434 on a Silver plan
+
+Edit:  So I still think you have a beef with your state 
+
+",4,0,1443115642,1444724690
+cvcru2u,0,t1_cvcrqj7,ellipses1,"So, how do I resolve my issue with PA? I talked to a phone rep at the health insurance marketplace. Who am I supposed to call in PA?",1,0,1443115782,1444724690
+cvct2ex,0,t1_cvcru2u,bleahdeebleah,"No idea, sorry.",1,0,1443117569,1444724690
+cvczeo5,1,t3_3m7lfc,HealthcareEconomist3,"> Ok. No problemo. The same income/tax credit table says that a family of 2 can make up to $62,040 and qualify for a tax credit. My wife and I are retired and live on a little homestead farm and live off our investments, so we can make our income whatever we want. So, instead of 75k next year, what if we make 60k?
+
+The phone drone probably failed to tell you she was estimating based on your zip code and average plan cost rather then giving you an accurate figure. The way the credit works also hasn't been well explained.
+
+The credit is both income and policy cost dependent and sets a limit on household spending of 9.56% if you qualify, if the policy cost without a credit is still under 9.56% of household spending you don't qualify (various household maximums exist ranging from 2% to 9.56%).
+
+400% of FPL is the maximum for the credit, $63,720 from December.
+
+She was estimating based on the average policy cost for the zip code not the policy you would actually choose, many states have seen the introduction of co-op's who maintain low introductory rates for a year or two before raising them but this brings down the average enough to screw up the calculator.
+
+TL;DR: Under your current income you don't qualify, if your income fell you might qualify depending on which silver policy you chose.
+
+",4,0,1443126926,1444724690
+cvczmeo,0,t1_cvczeo5,ellipses1,Thank you for the actual answer,1,0,1443127241,1444724690
+cvcpmb8,1,t3_3m7lfc,Fuckdabullshit,">Does anyone have a success story to share? A horror story?
+
+I used the website with my GF last year when she was trying to buy insurance. I have insurance through work.
+
+The term ""affordable"" in the ACA is a fucking joke. My gf makes $13 an hour, so it's not like there's a ton of room in the budget and she's now paying $200ish a month for a high deductible plan. It's fucking ridiculous. On top of that, at the super high wage of $13 an hour, she qualifies for zero subsidies.
+
+This healthcare bill is a fucking nightmare. It does nothing to make healthcare affordable at all and actually incentivizes health insurers to let costs run rampant.
+
+Think about that. A bill called ""The Affordable Healthcare Act"" actually has incentives for pretty much everybody in the healthcare system to allow costs to run rampant. It's idiotic, and the people that were in favor of it deserve the shit sandwich they were served. I just feel bad for the rest of us. ",3,0,1443112658,1444724690
+cvcregh,0,t1_cvcpmb8,ABSOLUTELY__BASED,"> $200ish a month for a high deductible plan. It's fucking ridiculous. On top of that, at the super high wage of $13 an hour, she qualifies for zero subsidies.
+
+If she's healthy enough it sounds like she'd save a lot of money by going rogue and canceling the insurance plan. Pay herself the $100-200 a month and save up for the penalty and any care needed.
+
+I mean if she's making $13/hr, odds are that the deductible alone would bankrupt her assuming she doesn't have a good savings account built up.",-1,0,1443115163,1444724690
+cvcrkde,0,t1_cvcregh,Fuckdabullshit,">If she's healthy enough it sounds like she'd save a lot of money by going rogue and canceling the insurance plan.
+
+If it were me, that's what I would do, but she was getting sick a lot and having to go to the doctor a lot about 2 years ago. She's been really healthy the last year or so, but I don't think it's worth the risk to her. She's a pretty risk averse person in general.
+
+>I mean if she's making $13/hr, odds are that the deductible alone would bankrupt her assuming she doesn't have a good savings account built up.
+
+It wouldn't because I wouldn't allow it to and she has a small amount of money in savings from some inheritance she received a few years back. But yea, if she didn't have a personal safety net, she'd be completely fucked. ",1,0,1443115397,1444724690
+cvcvpsx,0,t1_cvcpmb8,MemeticParadigm,"So, I'm just curious - by what metric/comparison are you judging $200/mo to not be ""affordable""?
+
+Like, I pay $305/mo out of my pocket for insurance for myself and my wife, but my employer pays $1020 as well, so our plan actually costs ~$1325/mo, or ~$660/mo for each of us, and it's not a super premium plan or anything.
+
+I mean, were you expecting ""affordable"" to mean that the government subsidized the plans at the same rate as businesses subsidize their employees' plans?",0,0,1443121499,1444724690
+cvcqeix,0,t1_cvcpmb8,bleahdeebleah,"I don't know one way or another, but I'll ask - did your state do the Medicaid expansion?   If not, is she in the hole between what many states did and what the law originally intended that they do?
+
+Edit: 'hole'",1,0,1443113729,1444724690
+cvcqsoe,0,t1_cvcqeix,Fuckdabullshit,"No, she is not in the Medicaid hole. I already checked that and my state is participating in the expansion anyways. 
+
+It's just a shitty bill.",0,0,1443114282,1444724690
+cvcqyvd,0,t1_cvcpmb8,Sollexs,And people wonder why half the population wants to get rid of this bill lol.,1,0,1443114533,1444724690
+cvcr3s3,0,t1_cvcqyvd,Fuckdabullshit,I don't see how anyone can try to defend this bill at this point. It's done almost nothing that it promised. ,1,0,1443114732,1444724690
+cvcre5u,0,t1_cvcr3s3,Sollexs,"Fully agree. The only good thing it has done is the pre-existing condition part.
+
+Unfortunately, a large part of reddit is hell bent on calling anyone who opposes the ACA bad names, then they say republicans don't have a plan, which for the most part they don't, but there is a case to be made that the goverment should not be running healthcare and the people who believe this see any 'plan' as a fools idea.
+
+On a side note, why is it that democrats seem to think the goverment should run and control everything?",4,0,1443115152,1444724690
+cvd48xp,0,t1_cvcre5u,mjhmjh,">but there is a case to be made that the goverment should not be running healthcare
+
+Countries with universal healthcare spend less per capita on healthcare and get better results.",1,0,1443134579,1444724690
+cvct05i,0,t1_cvcpmb8,lannister80,"> On top of that, at the super high wage of $13 an hour, she qualifies for zero subsidies.
+
+If she makes roughly $26K gross per year (full-time employment for 2015 is roughly 2,008 hours for the year), she's is absolutely eligible for subsidies:
+
+http://kff.org/interactive/subsidy-calculator/#state=&zip=&income-type=dollars&income=26104&employer-coverage=0&people=1&alternate-plan-family=individual&adult-count=1&adults[0][age]=21&adults[0][tobacco]=0&child-count=0&child-tobacco=0
+
+$156 out-of-pocket cost per month for a Silver plan.",2,0,1443117480,1444724690
+cvctb7c,0,t1_cvct05i,Fuckdabullshit,"I understand that that is what Obama told you when he was trying to get the plan passed. The reality of how it functions isn't that way.
+
+[From the calculator you provided: $0 in financial assistance](http://i.imgur.com/Sbx0YS1.png)
+
+Edit: Her age isn't 21, but when I enter her real age it gives me the same result. $0 in assistance.
+",1,0,1443117929,1444724690
+cvctoea,0,t1_cvctb7c,lannister80,"I went to the actual healthcare website to shop for plans for a single female making $26K in your zip code.  Check out the first result:
+
+http://i.share.pho.to/161e0e72_o.jpeg
+
+$130 for a silver plan",2,0,1443118475,1444724690
+cvcttwm,0,t1_cvctoea,Fuckdabullshit,"Maybe my area is one of the few lucky ones that's going to be cheaper this year and not one of the one's seeing the booming increases around the country. We haven't gone to sign up for her yet this year. 
+
+There were not any available south of $150 when she signed up last year. ",-1,0,1443118701,1444724690
+cvczjl6,0,t1_cvcttwm,HealthcareEconomist3,"> booming increases around the country
+
+Insurance cost growth has effectively been flat for two years.
+
+> We haven't gone to sign up for her yet this year.
+
+Unless her income has fallen the situation is unchanged, she doesn't qualify for the credit because you are a household of two not of one.
+
+Talk to your employer about covering her as a domestic partner, most plans allow for this.
+",3,0,1443127127,1444724690
+cvd0bxq,0,t1_cvczjl6,Fuckdabullshit,">Insurance cost growth has effectively been flat for two years.
+
+That depends on what part of the country you live in. In a macro sense, that may be true, but on the individual level costs may have exploded or they may have decreased. When it comes to a person's finances, the only thing that matters is what they have to pay. It helps my GF none that some guy in bumfuck Kentucky had his premiums go down. 
+
+>she doesn't qualify for the credit because you are a household of two not of one.
+
+No, we aren't a household of two. My income is not included when calculating her subsidy. 
+
+>Talk to your employer about covering her as a domestic partner, most plans allow for this.
+
+Fuck. No. She's not a domestic partner any more than my best friend that I lived with for the previous six years was. I don't want to be legally entangled in that way. ",1,0,1443128294,1444724690
+cvd0qzf,0,t1_cvd0bxq,HealthcareEconomist3,"> That depends on what part of the country you live in.
+
+Unless you live in Minnesota or Tennessee no.
+
+> In a macro sense, that may be true, but on the individual level costs may have exploded or they may have decreased
+
+No, policy cost doesn't respond to individual risk. You could have been diagnosed with AIDS, every cancer known to man, diabetes and CVD and it wouldn't change your policy cost. 
+
+> No, we aren't a household of two. My income is not included when calculating her subsidy.
+
+Does she live with you? If so it doesn't matter what she enters, its querying the IRS for income data and picking up yours too.
+
+> Fuck. No. She's not a domestic partner any more than my best friend that I lived with for the previous six years was. I don't want to be legally entangled in that way.
+
+If she is your girlfriend and lives with you she already is a domestic partner. Also complaining about her costs when you can likely carry her at no additional cost is pretty absurd.",3,0,1443128922,1444724690
+cvd17g7,0,t1_cvd0qzf,Fuckdabullshit,">Unless you live in Minnesota or Tennessee no.
+
+[So this article is just completely fraudulent?](http://www.nytimes.com/2015/07/04/us/health-insurance-companies-seek-big-rate-increases-for-2016.html?_r=1)
+
+[Is PwC just making things up too?](https://www.pwc.com/us/en/health-industries/health-research-institute/aca-state-exchanges.html) Their entire business model relies heavily on them being trustworthy. The increase range in these states is huge, so yes, some people are absolutely seeing their premiums explode. You're going to have to do more than just say ""uh uh"" if you want to convince me that a firm that relies on their good reputation is just putting out fraudulent data. 
+
+>No, policy cost doesn't respond to individual risk.
+
+I never said it did. I said that some people have seen their costs explode. Those people don't give a shit that on the whole costs are flat. That doesn't help them. They care about their own personal experience. 
+
+>Does she live with you? If so it doesn't matter what she enters, its querying the IRS for income data and picking up yours too.
+
+She had just moved in with me when she applied and we had just moved into a new place very recently. Any income data related to me that the IRS had would have still been attached to my old address while anything related to her would have been coming from another state that she had just moved from. 
+
+Also, you can pick any calculator you want out there on the internet that you don't have to put any personal identifying information in it and she still gets no subsidy. I've tried it on multiple calculators on multiple sites. 
+
+>Also complaining about her costs when you can likely carry her at no additional cost is pretty absurd.
+
+No, I can't. It would cost me more to carry her on my plan. It is not the norm to be able to add a spouse onto your plan for free. ",2,0,1443129625,1444724690
+cvctjem,0,t1_cvctb7c,lannister80,"Ah, because:
+
+>(Although your income would qualify you for help, insurance premiums in your area may not be expensive enough for this help to kick in. For more information, see the FAQ).
+
+Is insurance extra cheap in Arizona, or pre-subsidized, or something? It estimates that even with 0 subsidy, you'd only pay $138 per month for Silver plan (which is cheaper than the national average cost even with the subsidy).",2,0,1443118272,1444724690
+cvctrdb,0,t1_cvctjem,Fuckdabullshit,">It estimates that even with 0 subsidy, you'd only pay $138 per month for Silver plan
+
+Then it estimates low because there weren't any silver plans for that cheap when I was actually helping her sign up for her plan. She's paying just slightly south of $200.
+
+The ""affordable care act"" my ass.",1,0,1443118595,1444724690
+cvcwlrj,0,t1_cvctrdb,,"Less than 200 is pretty affordable for health insurance.  I pay almost 600.  I don't understand what your issue is, you want someone else to be paying the bill for her health care?   ",2,0,1443122819,1444724690
+cvcwrmn,0,t1_cvcwlrj,Fuckdabullshit,">I don't understand what your issue is
+
+Oh, my issues with the ACA go far beyond the shitty subsidies. 
+
+>you want someone else to be paying the bill for her health care?
+
+Lol, no. I'm pretty libertarian. ",1,0,1443123054,1444724690
+cvcrvkz,0,t1_cvcpmb8,,What state?  I just went and plugged your gf's numbers into my state (California) and came up with plans under 100 a month.,2,0,1443115842,1444724690
+cvcsajz,0,t1_cvcrvkz,Fuckdabullshit,Arizona.,1,0,1443116451,1444724690
+cvct8wi,0,t1_cvcsajz,,"I'm coming up with 130 a month at the cheapest and no subsidies.  That's a bummer about the subsidies, I wonder why AZ has such a low cutoff in comparison to my state.",1,0,1443117833,1444724690
+cvcuo65,0,t1_cvcsajz,,What was she paying before the ACA?  Under 200 a month seems like a pretty good deal for insurance.  I've been paying more than three times that since at least 2002.,2,0,1443119951,1444724690
+cvcutai,0,t1_cvcuo65,Fuckdabullshit,"Before the ACA her employer paid for insurance.
+
+She moved states and jobs last year",1,0,1443120162,1444724690
+cvcuvv4,0,t1_cvcuo65,ellipses1,"While I agree that 200 isn't bad for health insurance, the main issue I have as the OP here is that all the information available points to a set of income ranges that qualify for a subsidy... And that's not accurate information. I can afford the 600 bucks a month I'm paying for insurance... But everything suggests I should be getting a subsidy and when I try to do that, it's not the case. If you bought 100mb/s Internet from Comcast... You'd expect 100mb/s. If you get 25mb/s, the argument ""25 down isn't too bad"" is a bad argument because I got a direct mail piece advertising 100, I called and asked for 100 and I'm paying for 100. If 48k was the income cutoff for a subsidy, as it is for my family, don't advertise incomes up to 62k for a family of two get a subsidy ",3,0,1443120267,1444724690
+cvcvhd9,0,t1_cvcuvv4,,Absolutely I agree with that.,1,0,1443121150,1444724690
+cvcpwhp,0,t1_cvcpmb8,ellipses1,"I know that people complained about high premiums and I sympathize... But I have heard nothing at all about the issues with household size or the incomes necessary for tax credits. If on healthcare.gov and irs.gov, it says X, I expect it to be X. Is there anywhere that says how your eligibility is calculated? If I make 75k in NYC is my result different than here in bumfuck, Pa?",2,0,1443113042,1444724690
+cvcq4ji,0,t1_cvcpwhp,Fuckdabullshit,"I agree with you and I really don't know.
+
+She had looked at the website once by herself and told me she didn't qualify for a subsidy. I told her that couldn't be right because single people up to 400% of the poverty level were supposed to get subsidies and she's squarely in that range with her income. 
+
+But sure enough, once I go and drop all the relevant information into the website, her subsidy was zero. ",2,0,1443113341,1444724690
+cvct693,1,t3_3m7lfc,lannister80,"> Edit- we pay the full premium amount for Chip. We don't get a subsidy.
+
+CHIP is already cheaper than it would be in the market place.  It's ""subsidized"" on the front-end.",2,0,1443117724,1444724690
+cvcta92,0,t1_cvct693,ellipses1,Yet it costs the same if I make 75k or 500k,1,0,1443117888,1444724690
+cvctgd0,0,t1_cvcta92,lannister80,">Yet it costs the same if I make 75k or 500k
+
+Yup!  Just like everyone gets a Federal tax credit of $1000 per child, no matter if they make $25K or $500K.  
+
+The subsidy doesn't ""phase out"" at higher incomes, but that doesn't mean you're not getting a deal compared to ""full cost"" insurance for your kids.  People who make $500K are getting an extra-good deal, which sucks.
+
+",2,0,1443118143,1444724690
+cvctkup,0,t1_cvctgd0,ellipses1,"But this automatically invalidates a huge part of the ACA... It's impossible to have a family size greater than 2 because every kid is eligible for chip or Medicaid. Btw, the difference is 23 dollars on my current plan. I pay 91 for chip for the rest be kid and it would be 114 to add him to our current plan. I'm sure if we switched to a bronze plan, that cost gap would shrink. It's not like I'm saving a lot with chip.",1,0,1443118330,1444724690
+cvctqbl,0,t1_cvctkup,lannister80,"When you say ""current plan"", do you mean employer-subsidized or a marketplace plan?",1,0,1443118554,1444724690
+cvcubq8,0,t1_cvctqbl,chitwin,Read the fucking post. He has been talking about an individual plan bought on the state market place and has been this entire time. ,1,0,1443119432,1444724690
+cvcuh24,0,t1_cvcubq8,ellipses1,"Thank you. Yes, this is all referring to the marketplace",1,0,1443119655,1444724690
+cvcuq7e,0,t1_cvcuh24,lannister80,Question: How do you know how much it would cost to add your children to your current state marketplace plan if it's impossible to do so?,2,0,1443120036,1444724690
+cvcv1lm,0,t1_cvcuq7e,ellipses1,"Two things.
+First, I asked how much it would be go up if we had a baby and added the baby.
+Second, I can drop the chip insurance and add a kid to our plan, but they don't count against our household size. So we have two adults and two kids, but we count as a family of two since we can put both kids on chip.",1,0,1443120499,1444724690
+cvcvcg7,0,t1_cvcv1lm,lannister80,"Ah, understood.",1,0,1443120948,1444724690
+cvcuhdd,0,t1_cvctqbl,ellipses1,Marketplace. I'm retired,1,0,1443119669,1444724690
+cvcuqll,0,t1_cvcuhdd,lannister80,"Ah, sorry, was confused.",1,0,1443120051,1444724690
+cvcuv3w,1,t3_3m7lfc,bookerevan,"Simple.  Before the ACA I was paying $7500 for my wife and I - both retired and over 50, but slightly less than 60 for me.
+
+We are now paying $20,000 annually for the same, and in some ways, worse coverage.  Nobody cares at all - a big celebration for the ACA that not only doesn't lower healthcare costs, but forces me to carry types of coverage that my wife and I will never need (obviously).  Not many people care, it's about ideology not real life.",2,0,1443120235,1444724690
+cvcyzcg,0,t1_cvcuv3w,Sollexs,">  it's about ideology not real life.
+
+This is my major fault with left wing politics. Over all they seem to go for feels over reals. I don't understand why.",0,0,1443126293,1444724690
+cvd0ae8,0,t1_cvcyzcg,bookerevan,"It happens on the right also, with people blindly defending Bush's failings but what I see is that the many on the left are simply oblivious to the policy issues that have completely failed and pretend that they are successes instead.
+
+I care much more about reality and facts than bullshit.  Unfortunately there are many who care about style over substance.",1,0,1443128229,1444724690
+cvd0u06,0,t1_cvd0ae8,Sollexs,">It happens on the right also,
+
+True, but I guess my leanings, the democrats happen to do this to things I care about more than the republicans do it to things I care about.
+
+Most of the things republicans do this on are bullshit religious things like gay marriage, and while I support their right to get married, I am not gay so I really don't care over all. Damn these personal biases.",1,0,1443129051,1444724690
+cvdekdj,0,t1_cvcuv3w,,What state are you in?  ,1,0,1443152754,1444724690
+cvdl8vw,0,t1_cvdekdj,bookerevan,NJ,1,0,1443175089,1444724690
+cvcod7x,1,t3_3m7lfc,BrawnyJava,">It's absolutely retarded. This is not what I lent my support to
+
+Did you honestly expect anything else?  ",3,0,1443110847,1444724690
+cvcsohx,0,t1_cvcod7x,Fuckdabullshit,"The mistake people continue to make is trusting their elected leaders to deliver on what they say.
+
+If you had a buddy that kept saying one thing and doing another you wouldn't believe him anymore, yet we sit here and do it with politicians nonstop",1,0,1443117019,1444724690
+cvcupin,0,t1_cvcsohx,BrawnyJava,"This is exactly what Charlie brown thinks every time he goes to kick the football.  ""this time it'll be different, and she won't yank the football away"".These same people are now trying to convince us that single payer will be so great.  Of course it wont be a bureaucratic nightmare.  Of course you wont have to through a bureaucratic mess to even get on the waiting list.  Of course it'll cost less.  I don't believe that.  Politicians cannot possibly deliver that system.",1,0,1443120007,1444724690
+cvcolw9,0,t1_cvcod7x,chitwin,Yes they promised all these things that some of us knew wouldn't be feasible but the supporters believed them and are now paying for it. ,1,0,1443111198,1444724690
+cvcq16u,0,t1_cvcolw9,ellipses1,The income brackets are online. I haven't seen anyone else saying they aren't accurate,1,0,1443113216,1444724690
+cvcounx,0,t1_cvcolw9,BrawnyJava,"But they'll be fooled again when the next guy promises even more fabulous things delivered by government.  Some people treat elections like auctions for desirable outcomes.  Just vote for the guy who promises the most shit.  It doesn't matter that it cannot possibly be delivered.  And of course once its in place, its utterly impossible to reform so you're stuck with a garbage system forever.  ",1,0,1443111562,1444724690
+cvcpdr6,0,t1_cvcod7x,ellipses1,Yeah. I expected a family of 4 with a HH income under 94k to be able to buy an insurance policy and get a tax credit,3,0,1443112331,1444724690
+cvehhrn,1,t3_3m7lfc,Sion4000,"Halfway through the year we randomly lost our subsidy and our insurance bill went from $26 to $430. My wife and I make $32000 a year and file jointly. They asked us for information proving our income, we sent in our w-2s but lost our subsidy anyway. We tried to sign back up but the application didn't go through and the appeal papers we were told we'd get in the mail never came. We had to cancel because we couldn't afford to pay almost a fifth of our income on insurance. Now not only do we not have insurance but we have to pay a fine come tax time. Well we randomly got a letter saying we had signed up and to pay our first bill last week followed by a letter saying we had been found eligible for a subsidy. Now it's been like 5 months since we lost our insurance and i didn't sign up for anything and i have no idea why or how we were signed up. I'm going to call them this weekend and ask whats up. If we can get back on insurance I'd love to and I'm planning on looking into an exemption because we lost our subsidy for part of the year. Does anyone know if the 8% of income exemption can be used if you lost your subsidy and the non subsidized plan is over 8% of your income?",1,0,1443237487,1444724690
+cvcpd2q,1,t3_3m7lfc,CrapNeck5000,"Someone who is retired in their early 30's can't get a subsidy for health insurance?  That sounds like a good thing to me.  
+
+I realize you are saying this could be a problem for other people, too, but am I reading you wrong?  You are complaining because you tried to game the system and it didn't work?  ",-1,0,1443112304,1444724694
+cvcpgsf,0,t1_cvcpd2q,ellipses1,Did you read the post where I said I wasn't trying to game the system? I just tried to do exactly what I've been told is the way it works and it doesn't work that way. I don't mind paying more,2,0,1443112449,1444724694
+cvcpiq3,0,t1_cvcpgsf,CrapNeck5000,I don't understand how adjusting your reported income down until you get free money you don't actually need is NOT gaming the system?  ,2,0,1443112522,1444724694
+cvcpne6,0,t1_cvcpiq3,ellipses1,"I wanted to see how low it had to go before the credit showed up. If everything says X and <X isn't working, I wanted to see what it actually took. Why publish 62k if it's actually 40k?",2,0,1443112699,1444724694
+cvcq3o7,0,t1_cvcpne6,CrapNeck5000,"From the link you provided to another user below (http://imgur.com/Txl9hBx):
+
+""An individual who meets these income requirements must also meet the other eligibility criteria described in section 5"".  
+
+So it doesn't say X, it says X and the criteria in section 5.   How are you on those?
+
+Also, how are you defining your income?  
+
+>For purposes of the premium tax credit, your household income is your modified adjusted gross income plus that of every other individual in your family for whom you can properly claim a personal exemption deduction and who is required to file a federal income tax return. Modified adjusted gross income is the adjusted gross income on your federal income tax return plus any excluded foreign income, nontaxable Social Security benefits (including tier 1 railroad retirement benefits), and tax-exempt interest received or accrued during the taxable year.
+
+Are the numbers you are giving us accounting for all that?  Sounds like you are living off capital gains, perhaps that is a factor?
+
+Did you ask the person on the phone why your income doesn't qualify when it says right on the website it should qualify at 62K?",2,0,1443113308,1444724694
+cvcq8qh,0,t1_cvcq3o7,Fuckdabullshit,">""An individual who meets these income requirements must also meet the other eligibility criteria described in section 5"".
+
+My GF meets all of these, has no other source of income, and falls squarely in the income range for subsidies.
+
+She doesn't get shit. ",3,0,1443113503,1444724694
+cvcqau9,0,t1_cvcq3o7,ellipses1,"She just repeated ""that's what the eligibility calculator says your eligibility is."" My AGI is 75k. I have no foreign income. Nothing on my tax returns conflicts with section 5. She didn't ask for my details of my income (how much is interest, dividends, cap gains, etc.)... I said ""try it for 50k"" and she said ""zero."" On the website, it doesn't get too specific for income sources, either. At no point in our conversation was it mentioned that we are ""retired.""",2,0,1443113586,1444724694
+cvcrgqx,0,t1_cvcqau9,CrapNeck5000,"So I found this subsidy calculator for PA, and it does not seem to match up with the info from the FAQ you provided.  I dunno.  
+
+http://www.valuepenguin.com/ppaca/exchanges/pa",0,0,1443115254,1444724694
+cvcrrkc,0,t1_cvcrgqx,ellipses1,"a) That tool does not say whether or not you qualify for the tax credit. 
+ 
+b) This allows you to input children, which is all well and good... but as I said in my post, literally every child under the age of 18 in PA ""qualifies"" for either Chip or Medicaid. So in terms of using the health insurance marketplace, it's pointless to put in children because they won't be counted in your household size. 
+ 
+Feel free to play with my info on there... I am in Greene County. I am 31, so is my wife. Neither of us use tobacco. 
+
+If I put 50k as my income, the silver-tier plans are identically priced as if I put 75k in for income... that leads me to believe that there is no subsidy available for two people in Greene County with an income of either 50k or 75k",3,0,1443115683,1444724694
+cvcueox,0,t1_cvcrrkc,CrapNeck5000,"Regarding point a, you just fiddle with the your income until the monthly cost starts going down, thats how you know you are getting a tax credit.  
+
+I did play around with your info a bit and it confirmed what you stated previously.  I think the tax break starts around 48K.  ",1,0,1443119554,1444724694
+cvcuo5g,0,t1_cvcueox,ellipses1,"So... Is there a guide to how the subsidies are determined? Because none of these extra variables were talked about. It was just family size and income range... Up to 62k for a family of 2, up to 94k for a family of 4, etc. given that it's actually up to 48k for MY family of 2, that's pretty fucking deceptive",1,0,1443119950,1444724694
+cvcuw2u,0,t1_cvcuo5g,CrapNeck5000,"Well you linked the FAQ earlier which sounds like it has all the info.  But as you said, when you apply it to reality it doesn't work.
+
+Either the FAQ is straight up wrong or is lacking on certain details.  I don't know which, and I think you've raised a good question. ",2,0,1443120275,1444724694
+cvcoaxk,1,t3_3m7lfc,the_sam_ryan,"Unfortunately your family makes more than $40k a year, which means essentially no subsidy and higher insurance.  This is done to fund higher risk individuals, pre-existing conditions and subsidize others. 
+
+",-1,0,1443110755,1444724694
+cvcompt,0,t1_cvcoaxk,chitwin,This is correct t but a far cry from what we were told when the bill was passed. ,2,0,1443111231,1444724694
+cvcpegj,0,t1_cvcompt,,Link to anyone saying higher income families would get free or subsidized health care?,0,0,1443112359,1444724694
+cvcpkz6,0,t1_cvcpegj,ellipses1,"http://imgur.com/Txl9hBx
+ 
+From here: http://www.irs.gov/Affordable-Care-Act/Individuals-and-Families/Questions-and-Answers-on-the-Premium-Tax-Credit",4,0,1443112608,1444724694
+cvcz6c4,0,t1_cvcpkz6,the_sam_ryan,"Yeah, it really sucks as a bill.  But they will claim that they don't guarantee that amount, they just state that they *may be eligible for premium tax credit*.  
+
+And you will hear a lot of liberals state that you are *lucky* to make what you do and you *owe* everyone else for your success so you should *pay* more. ",1,0,1443126581,1444724694
+cvcpeil,0,t1_cvcoaxk,ellipses1,Then why do all the tax credit tables have higher numbers?,2,0,1443112361,1444724694
+cvcyuht,0,t1_cvcpeil,the_sam_ryan,"Because they need to advertise it like it was something for everyone.  If they came out and said ""If you make more than $50k a year, you will be paying materially more for insurance to support everyone else"", people would have revolted. ",1,0,1443126095,1444724694
+cvcyz32,0,t1_cvcyuht,ellipses1,"I was cool with paying more. I still am. I just want some clarity. The irs says one thing, the health insurance exchange says the same thing, and reality is different. Why?",2,0,1443126283,1444724694
+cvdtp13,0,t1_cvcyz32,the_sam_ryan,"Same reason as above, unfortunately.",0,0,1443195003,1444724694
+cvcq71r,0,t1_cvcpeil,Fuckdabullshit,"Because if they would have come out and said that only families under $40k a year would get subsidies, no one would support the bill.
+
+They had to deliberately mislead you to get support for their shitty bill. ",4,0,1443113438,1444724694

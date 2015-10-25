@@ -1,0 +1,24 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvxvdlg,0,t1_cvx28xv,Azsu,"I read his book about depression economics years ago, he basically carried out the opposite of his recommendation from his book following the 2008 crash",1,1,1444714793,1444728568
+cvxqq1g,1,t3_3oemer,Azsu,"Homework is beneficial until it's tedious.
+
+It usually just acts as a buffer for the people who are willing to work hard and not understand, it also hurts the type that prefer to relax and play with the ideas in their head.",2,0,1444705226,1444728568
+cvped74,1,t3_3nkx4f,Azsu,"Look up 8 bit philosophy, they have a decent video on this that kids can relate to",0,0,1444082062,1444728568
+cvbek51,1,t3_3m21cg,Azsu,"That whole article was an ad, it's pure click bait.",1,0,1443021075,1444728568
+cv73azv,0,t1_cv72ijh,Azsu,"What you don't write non-halting functions? Oh right, Java. 
+
+They can be useful for async systems that have trouble attaching:
+
+    Boolean loop = True
+    while(loop);
+
+Set a breakpoint on the while loop and viola, hard sync established. Use debugger to set loop := False and start stepping.",3,0,1442685232,1444728568
+cv5wve8,1,t3_3lemn0,Azsu,"Difficult abdominal exercises (to the point breathing is an issue), although to be fair I think people have actually had orgasms from this.",1,0,1442588946,1444728568
+cv5w13r,1,t3_3lfq8z,Azsu,"The biggest criticism that I recall of Carter was the involvement with the Trilateral Commission: http://www.chomsky.info/books/priorities01.htm
+
+He has also covers some things when going through crimes of each president: https://www.youtube.com/watch?v=5BXtgq0Nhsc",4,0,1442587609,1444728568
+cv5iqxr,1,t3_3l7a40,Azsu,What was the debate over? Any transcripts?,1,0,1442548499,1444728568
+cv5idre,1,t3_3ldebf,Azsu,"I think they cover this in the Manufacturing Consent documentary. It's been a while but I think what the person didn't understand about the point being made was that he was comparing the amount of reporting between different types of genocides depending on how beneficial they were for propaganda purposes.
+
+The video posted earlier also covers this to some extent: https://www.reddit.com/r/chomsky/comments/3jzvdr/noam_chomsky_rebuts_sam_harris/",1,0,1442547848,1444728568
+cv5hy2b,1,t3_3klg8u,Azsu,"I laughed, lighten up people it was obviously a joke.",1,0,1442547014,1444728568

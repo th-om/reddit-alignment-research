@@ -1,0 +1,51 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvvb0jt,1,t3_3axf9n,skymeson,"Hi, sort of new at playing with arduino type boards. I bought a piccolino to learn on. I was trying to get the wifi up and running as you have done. Just a question.
+
+At piccolino rocks, they say ""You must provide 5-14V and 300mA (at least) to the carrier board (or to the Piccolino VIN pin) in order for the WIFI module to work – WIFI comms can draw up to 250mA and the FTDI programmer alone does not provide enough current.""
+
+I assume that means I need a voltage regulator. When I look at your picture, I'm guessing the top left is the voltage regulator but you are powering things using the usb from FTDI. Does that provide enough power? Do you need the voltage regulator? Why is voltage regulator not plugged into anything? 
+
+Apologies for very newbie type questions.",1,0,1444522873,1444724198
+cvvaath,1,t3_3o9ww1,skymeson,"I think I may have found a solution.
+
+https://www.youtube.com/watch?v=0zuRukW7o0A
+
+I will update shortly whether or not this worked for me. Apparently Mac requires driver signing now and that screws up the ftdi driver installation. ",1,0,1444521492,1444724198
+cvgaa13,0,t1_cve6yhd,skymeson,"> if you believe that a fetus is its own person then having an abortion is a breach of its rights. 
+
+Thousands of eggs are fertilized that don't become baby's. According to you, those fertilized eggs have rights. You are drawing an arbitrary line in the sand of where you think life begins and expecting everyone to abide by your beliefs. 
+
+Here, watch a video that might help explain some of the science to you.
+
+https://www.youtube.com/watch?t=149&v=4IPrw0NYkMg",1,0,1443393948,1444724198
+cve0ys2,0,t1_cvdvxdo,skymeson,"> A miscarriage is usually a natural process
+
+Not all miscarriages are natural. Back in the day, women used to drink spoiled milk in order to induce a miscarriage. These were the desperate measures women had to resort to before abortions were legal.
+
+You are drawing a arbitrary line in the sand and want everyone to have to abide by your own personal moral judgement. Not everyone agrees with you. You haven't answered the question, why do you get to impose your personal moral judgements on everyone else?  ",2,0,1443206139,1444724198
+cvdnubc,0,t1_cvdmdax,skymeson,"> The fact is, some people consider abortion murder, because they consider the unborn as people.
+
+It is a matter of perspective. I don't view a piece of fetal tissue the same as a living breathing human being. You obviously do. Okay, so what do you propose to do about it? 
+
+Should we put on trial every woman who has a miscarriage? You shed about a trillion skin cells a day. Someone might view those skin cells as living beings with the right to life. Maybe you should be put on trial for murder as well? 
+
+If you don't want to have an abortion, that is your prerogative, but don't go around forcing your beliefs on everyone else. Don't just go around assuming you have the moral high ground when you don't. 
+",-1,0,1443184069,1444724198
+cvddt68,1,t3_3mad5z,skymeson,"I think they believe that once god is put back into politics, everything will just magically fix itself. 
+
+Case and point.
+
+https://www.youtube.com/watch?v=E48QqcTOXeY",-6,0,1443151348,1444724198
+cvddnh0,1,t3_3mabqb,skymeson,"> she claims he “usurped control of Kentucky marriage law.”
+
+Isn't that what she is doing by denying marriage licenses? 
+
+Seriously, this woman is just a crazy hypocrite and a bigot. Why are we giving her national attention? ",11,0,1443151050,1444724198
+cv82210,1,t3_3l4nj5,skymeson,"I was going to ask you how you go from 3 fisheye images to stereo images but then I found a nice explanation from one of your links on the forum.
+
+http://nasv3d.iro.umontreal.ca/chapdelv/pdf/360-s3d-camera.pdf
+
+You must have custom software that splits the images and stitches them together, or do you just use a template in PTGui or something like that? ",1,0,1442770793,1444724198
+cv7f1h5,0,t1_cv7aloo,skymeson,"Things were pretty good under Clinton. Everywhere you have austerity the economy does worse. It's not really rocket science. GOP starves the beast and every time that leads to a recession. This is true going back to before Reagan. It's true around the globe too. Just look what's happening to Greece. GOP puts money into military and cuts everywhere else. Dems put money towards social programs and infrastructure and economy does better. Go figure.
+",1,0,1442707881,1444724198
+cv6u426,0,t1_cv6r7w8,skymeson,"He created two wars based on lies that ended up costing us 6 trillion dollars and resulting in America being less safe than it was before. He also gave tax breaks worth 3 trillion which mostly went to the richest 1%. He removed the regulations that could have prevented the financial crisis. So yeah, I think we can blame a lot of this on him.",1,0,1442663073,1444724198

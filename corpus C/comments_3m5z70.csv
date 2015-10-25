@@ -1,0 +1,197 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvci93j,1,t3_3m5z70,Lambchops_Legion,"I'm a liberal with an economics degree who supports Hillary over Sanders because I think she has more sound economic policies - she isn't just telling the people what they want to hear.
+
+Economics is very complicated. It's very easy to see how supporting bad economics can be intuitive.
+
+For example, it's easy to say ""yeah we need to tax corporations more, they are making record profits!"" but [positive analysis shows that cutting corporate taxes leads to welfare gains](http://www.nber.org/data-appendix/w19757/CorporateTaxPaper.pdf)
+
+Or how it's easier to see how protectionist policies would make sense when we can see people losing their jobs, but it's harder to see the net positive benefits - all those lowered prices and gains to income ~~aren't tangible~~ edit: don't look like they have as big of an impact than they really do.
+
+edit: I forgot to add that I believe her experience in foreign policy adds to her campaign as foreign policy is one of the biggest, if not the biggest, job of the president.",21,0,1443100858,1444724720
+cvckxfq,0,t1_cvci93j,Cycloptichorn,Serious question: why are lowered prices intangible? Shouldn't we be able to see the evidence of it more readily?,1,0,1443105624,1444724720
+cvckzbh,0,t1_cvckxfq,Lambchops_Legion,"Sorry, I meant AS tangible. What I really meant is that on a personal level it's a lot easier to see how Bill from down the street getting laid off from his $50k/year job looks like a bigger impact than your milk getting 50 cents cheaper.
+
+So you can say ""well i'd rather pay 50 cents more for milk than Bill lose his job, so I want to support policies that protect american jobs!"" without actually looking at how it affects us on a macro level.
+
+What you don't see how Bill losing his job was due to economic restructing which allowed Adam in the next state over to get a job as an additional IT guy for $60k/year at a plastics company which gained business from milk being cheaper, so job loss is net neutral and everyone gets cheaper milk.",5,0,1443105707,1444724720
+cvcld9s,0,t1_cvckzbh,Cycloptichorn,"I'd agree with this if milk (I know that's just a stand-in and you aren't specifically talking about milk) actually got cheaper. But, whenever I ask people to point to the products that are cheaper due to free trade deals, nobody ever seems to be able to do so. I'm just wondering why this is the case if lower prices are the supposed payoff of free trade, one would think that the prime benefit balancing out the lost jobs and lower wages would be more readily apparent.",1,0,1443106308,1444724720
+cvdbf7d,0,t1_cvcld9s,BartWellingtonson,"Look at TV's. A TV hasn't been produced in the United States for decades. The manufacturing process is to expensive in the US. Now we have TV's in practically every room, and even in fucking cars, thanks to efficiencies in other countries. 
+
+That's just the first example of this that popped into my head, because it's example my Econ professor used when I first learned about this stuff. But think about it, how many of the products you own have MADE IN CHINA printed on it? Do you honestly believe that the US could produce everything it already does *plus* everything we purchase from China, all at the same low prices? That's physically impossible, we alone don't have the manpower. ",1,0,1443146996,1444724720
+cvdc6ug,0,t1_cvdbf7d,Cycloptichorn,"Sure, but that's not a product of free trade agreements at all.  The US has no free trade agreement with China.",1,0,1443148351,1444724720
+cvebiz2,0,t1_cvdc6ug,CutOffUrJohnson,We've had normalized trade relations with them for decades and have an average tariff of 4%; we have free trade in pretty much every sector.,1,0,1443224751,1444724720
+cvclvs3,0,t1_cvcld9s,Lambchops_Legion,"[Cancer drugs](http://www.bloombergview.com/articles/2015-02-18/free-trade-makes-cancer-drugs-cheaper)
+
+But look man, I'm not here to convince you whether or not the [models are solid](http://www.nber.org/papers/w6095) because they are whether you believe it or not.
+
+But your position is exactly my point - it seem more intuitive to believe that the lost jobs and lower wages are not worth it.
+
+However, Job loss and lower wages are only a short term thing. Free trade has nothing to do with employment in the end. Jobs aren't static - the economy is dynamic, constantly shifting around. [One job moved overseas doesn't mean we are out 1 less job in America.](https://en.wikipedia.org/wiki/Lump_of_labour_fallacy) If that we're true, we'd be at a much higher unemployment rate than 5.5% which is pretty good all things considered.
+
+I'll let the guy who won the nobel prize in New Trade Theory [explain it best back in 1996:](https://hbr.org/1996/01/a-country-is-not-a-company&cm_sp=Article-_-Links-_-Top%20of%20Page%20Recirculation)
+
+>Moreover, beyond this indisputable point of arithmetic lies the question of what limits the overall number of jobs available. Is it simply a matter of insufficient demand for goods? Surely not, except in the very short run. It is, after all, easy to increase demand. The Federal Reserve can print as much money as it likes, and it has repeatedly demonstrated its ability to create an economic boom when it wants to. Why, then, doesn’t the Fed try to keep the economy booming all the time? Because it believes, with good reason, that if it were to do so—if it were to create too many jobs—the result would be unacceptable and accelerating inflation. In other words, the constraint on the number of jobs in the United States is not the U.S. economy’s ability to generate demand, from exports or any other source, but the level of unemployment that the Fed thinks the economy needs in order to keep inflation under control.
+
+>That is not an abstract point. During 1994, the Fed raised interest rates seven times and made no secret of the fact that it was doing so to cool off an economic boom that it feared would create too many jobs, overheat the economy, and lead to inflation. Consider what that implies for the effect of trade on employment. Suppose that the U.S. economy were to experience an export surge. Suppose, for example, that the United States agreed to drop its objections to slave labor if China agreed to buy $200 billion worth of U.S. goods. What would the Fed do? It would offset the expansionary effect of the exports by raising interest rates; thus any increase in export-related jobs would be more or less matched by a loss of jobs in interest-rate-sensitive sectors of the economy, such as construction. Conversely, the Fed would surely respond to an import surge by lowering interest rates, so the direct loss of jobs to import competition would be roughly matched by an increased number of jobs elsewhere.
+
+>Even if we ignore the point that free trade always increases world imports by exactly as much as it increases world exports, there is still no reason to expect free trade to increase U.S. employment, nor should we expect any other trade policy, such as export promotion, to increase the total number of jobs in our economy. When the U.S. secretary of commerce returns from a trip abroad with billions of dollars in new orders for U.S. companies, he may or may not be instrumental in creating thousands of export-related jobs. If he is, he is also instrumental in destroying a roughly equal number of jobs elsewhere in the economy. The ability of the U.S. economy to increase exports or roll back imports has essentially nothing to do with its success in creating jobs.
+
+>Needless to say, this argument does not sit well with business audiences. (When I argued on one business panel that the North American Free Trade Agreement would have no effect, positive or negative, on the total number of jobs in the United States, one of my fellow panelists—a NAFTA supporter—reacted with rage: **“It’s comments like that that explain why people hate economists!”**) The job gains from increased exports or losses from import competition are tangible: You can actually see the people making the goods that foreigners buy, the workers whose factories were closed in the face of import competition. The other effects that economists talk about seem abstract. And yet if you accept the idea that the Fed has both a jobs target and the means to achieve it, you must conclude that changes in exports and imports have little effect on overall employment.",3,0,1443107103,1444724724
+cvcoxld,0,t1_cvclvs3,Foxtrot56,"But Sanders isn't against globalization, he is for it when it is fair to the people involved. He is against exploiting cheap labor.",0,0,1443111682,1444724724
+cvcpjwg,0,t1_cvcoxld,Lambchops_Legion,">he is for it when it is fair to the people involved. He is against exploiting cheap labor.
+
+That doesn't mean anything - that's empty political talk satisifying what you want to hear. There is no weight behind that.
+
+As opposed to someone coming out and saying they are for the exploitation of cheap labor?",3,0,1443112568,1444724724
+cvcpnvn,0,t1_cvcpjwg,Foxtrot56,"Exactly my point, the people for it aren't even mentioning it.",1,0,1443112719,1444724724
+cvclslf,0,t1_cvci93j,allmilhouse,"> she isn't just telling the people what they want to hear.
+
+What makes you say Bernie is just saying what people want to hear and she's not?",1,0,1443106964,1444724724
+cvcmc05,0,t1_cvclslf,Lambchops_Legion,"She isn't riding on a campaign that says we should be raising corporate tax rates, protecting american jobs from free trade, and making college free for all.",11,0,1443107797,1444724724
+cvcmitl,0,t1_cvcmc05,allmilhouse,But how is that him saying what people want to hear and not just him saying what he believes?,3,0,1443108086,1444724724
+cvcmqwj,0,t1_cvcmitl,Lambchops_Legion,"You are right, I don't. But I don't believe it to be the best policy either way.",3,0,1443108428,1444724724
+cvciwvx,0,t1_cvci93j,BuckminsterJones,"I'm worried about the backlash against globalization myself. Integrating the world economy has been a big change, and like all change, it has had it's winners and it's losers. But to me? The biggest winner is world peace. In the bad-old-days? A quick and politically painless way for a leader to raise some revenue was to impose some import duties. Which would lead to retaliatory import duties, which would lead to trade-war, which would lead to real war, which would lead to world-war. Globalization was never primarily about economics. It's been horribly miss-sold, I think. It's goal was to end world-wars.... and I say it's working. Yes, there are people suffering. They need to be fairly compensated and generally treated better. But to throw the baby out with the bath-water, like I'm hearing from members of both parties, scares me.",2,0,1443102142,1444724724
+cvdrj3m,0,t1_cvciwvx,Thorbjorn_DWR,"Globalization is the natural result of capitalism and its need to expand markets and increase profits. 
+
+Edit: need",3,0,1443191541,1444724724
+cvdsg65,0,t1_cvdrj3m,BuckminsterJones,"I would say consolidate markets instead of expand. Barriers between markets are good for the 'capitalists' who have control right now whithin the boundaries of their barriers, but are bad for over-all economic activity and growth. That was part of the thinking behind consolidating the thirteen colonies into one economic market, and the thinking behind creating the European common market, and now for everything from GATT on.
+
+
+It's about increasing economic growth through increased competition, removal of artificial costs, and removal of protection to preferred insiders. Those are all things that put downward pressure on profits. In competitive markets? Pocketing huge profits is a quick route to bankruptcy. Your competition can either under-cut you on price, or re-invest and pull ahead of you on technology. Market expansion puts downward pressure on profit margins. Protected markets are the profitable ones.",2,0,1443193058,1444724724
+cvcke56,1,t3_3m5z70,prinzplagueorange,"Many socialist groups do not support Sanders.  [Here](http://socialistworker.org/2015/05/05/problem-bernie-sanders), for instance, is the ISO's position on Sanders.  For most socialists, the objection to Sanders is that by running as a Democrat, he is helping to further the Democratic Party's (which is understood to be a ""capitalist party"") hold on the American working class.  Essentially, Sanders is furthering the illusion that the bourgeois politicians who run the Democratic Party today are interested in furthering progressive economic reforms.  (Socialists will also grumble about Sanders' foreign policy positions which are generally regarded as insufficiently anti-imperialist.)  Socialist Alternative actually has an interesting position of not supporting Sanders himself (because he is running as a Democrat), but of supporting the people who are supporting Sanders (because any future socialist movement can only come from ordinary people trying to take power).  This latter position seems correct to me.",5,0,1443104757,1444724724
+cvcliub,1,t3_3m5z70,Baratheon_Economist,"Note: I'm British, but follow US politics rather closely. 
+
+I consider myself ideologically a liberal, although in the last general election I voted for the Conservative Party. When it comes to people I know, there's about a 50/50 split on whether or not they consider me a liberal or a conservative; personally, I just call myself a liberal with a conservative attitude. 
+
+I should probably name a couple of things I actually agree with Sanders on, just for the sake of balance and intellectual honesty:
+
+- Tax on carbon emissions. 
+
+- Support of Israel. 
+
+- I like his stuff on getting big money out of politics, although I'm not nearly as knowledgeable in that arena as I should be. 
+
+However, there's a lot to disagree with when it comes to Sanders' other proposals: 
+
+- **$1tn investment in infrastructure**
+
+This is essentially just the ideological reverse of Ron Paul promising to cut $1tn from the federal budget. Best estimates I've seen for recommended infrastructure spending is a further [$165bn](http://www.mckinsey.com/insights/americas/us_game_changers). 
+
+- **American jobs are killed by free trade**
+
+This is [egregiously incorrect](https://hbr.org/1996/01/a-country-is-not-a-company). 
+
+- **Wealth and income inequality**
+
+[Income inequality](http://www.nber.org/papers/w15351.pdf) in the US has been substantially exaggerated. Indeed, when people think of inequality they tend to think of a cross-sectional 'snapshot' of inequality, which doesn't capture lifetime effects; people don't remain poor forever. Labour's share of national income has remained remarkably stable over the past several decades, while the transitory increase in [capital's share](http://www.brookings.edu/~/media/Projects/BPEA/Spring-2015/2015a_rognlie.pdf?la=en) from ~01 onwards is probably due to the housing boom. 
+
+Sanders also likes to talk about how middle-income Americans have been stagnant for the past three decades, despite the fact that middle America has experienced a [30pc real gain](https://www.minneapolisfed.org/publications/the-region/has-middle-america-stagnated) in total compensation between 1975 and 2005. 
+
+While inequality is certainly an issue, it can be frustrating to see people talk about CEOs and the decline of unions. The most recent evidence I've seen (I'll try and find the NBER paper) suggests CEO pay is not primarily the result of rent-seeking, and while collective bargaining is important I don't think it's a seminal factor in the low-income decile doing poorly. Inequality is caused--mainly--by a process known as [skill-biased technical change](http://www.igmchicago.org/igm-economic-experts-panel/poll-results?SurveyID=SV_0IAlhdDH2FoRDrm), wherein technology increases the productivity of some workers more than other's. The solution to this is more investment in human capital (basically, education) not bringing the rich down with nasty rhetoric. 
+
+- **$15/hr minimum wage**
+
+Nope. Not a good idea; the highest federal minimum wage that the literature supports is $10/hr--see: [Dube](http://www.brookings.edu/~/media/research/files/papers/2014/06/19_hamilton_policies_addressing_poverty/state_local_minimum_wage_policy_dube.pdf). A lot of people seem to think this is Sanders' starting position, and he's going to use it to negotiate downwards, but I don't buy it. 
+
+- **Taking on Wall Street**
+
+It probably is the case that banks are too big; the literature I've seen doesn't suggest any economies of scale above moderately sized banks. However, the solution is definitely not to break them up; small, undiversified banks are acutely at risk when it comes to financial shocks, and this has indeed been an idiosyncratic risk of the US financial system for most of its history. The key is to restructure the regulation of the financial system--especially when it comes to TBTF institutions--not break it up. 
+
+",6,0,1443106546,1444724724
+cvcwpxr,0,t1_cvcliub,BoiseNTheHood,"> American jobs are killed by free trade: This is egregiously incorrect. 
+
+I agree with a lot of your points, but I have to disagree with you here.  Admittedly, I'm biased, as Bernie's stance on ""free"" (special-interest managed) trade is the only economic position I agree with him on.
+
+The article you linked to was from all the way back in January 1996.  Needless to say, plenty of research has been done since then and it tends to support the assertion that these ""free"" trade deals are driving jobs out of the country.  
+
+[NAFTA increased our trade deficit with Mexico and Canada by $160.2 billion from 1993-2013, and displaced about 851,700 jobs over that time.](https://ideas.repec.org/a/elg/rokejn/v2y2014i4p429-441.html)
+
+[The WTO displaced about 3.2 million American jobs between 2001 and 2013, most of them in manufacturing.  Two-thirds of the total manufacturing jobs lost during that time period were a direct result of this agreement.](http://www.epi.org/publication/china-trade-outsourcing-and-jobs/)",2,0,1443122986,1444724724
+cvcy3ar,0,t1_cvcwpxr,heycoworker,"The idea that free trade is negative is entirely unsupported by economics and political science alike. There is a very clear consensus that free trade leads to greater prosperity overall on the economic side, and on the political science side it has been empirically shown that states that trade freely with each other never fight. In fact it has even been suggested that the effect of commercial liberalism is greater than the democratic peace theory in promoting peace between nations. The benefits are very clear and the costs, while they certainly exist for certain groups in any society that embraces a liberal trading regime, are negligible. Protectionism on the other hand has been shown to be harmful to economic growth and general prosperity. The protectionism embraced by Mexico during the era of one-party rule absolutely devastated their economy and they are still recovering from the effects today. there is a clear academic consensus that free trade is a good thing, full stop. ",1,0,1443124980,1444724724
+cvcx6xr,0,t1_cvcwpxr,Baratheon_Economist,"Displacement != jobs being ""lost"". Free trade is *the* closest thing to consensus you'll find in economics, because the benefits so obviously outweigh the drawbacks. 
+
+The fact that we see job losses so small and so temporary as to essentially not register on unemployment graphs over a certain period nullifies that concern, especially when you realise comparative advantage is indeed a thing and the jobs being shifted overseas is a process by where labour is allocated more efficiently. 
+
+Economists [overwhelmingly](http://www.igmchicago.org/igm-economic-experts-panel/poll-results?SurveyID=SV_0dfr9yjnDcLh17m) agree free trade--including NAFTA--is a good thing. ",2,0,1443123676,1444724724
+cvcxika,0,t1_cvcx6xr,BoiseNTheHood,"> Displacement != jobs being ""lost"".
+
+They're ""lost"" to the American worker who previously held the job.
+
+> Economists overwhelmingly agree free trade--including NAFTA--is a good thing. 
+
+Read the link you've provided.  Many of the economists polled provided comments alongside their vote, and used them to express concern over job displacement even when they otherwise support the agreements.
+
+> ""Economists often understate short-term employment costs, which are significant""
+
+> ""Trade is good for the world, but not always for rich country labor.""
+
+> ""Trade creates tremendous benefits but causes substantial job losses. Do current policies fully compensate displaced workers? Probably not""
+
+> ""In theory the workers who lose their jobs can be compensated by the consumers who gain. In practice this often does not happen.""",2,0,1443124147,1444724724
+cvczhf9,0,t1_cvcxika,Baratheon_Economist,">They're ""lost"" to the American worker who previously held the job.
+
+I never stated otherwise; the point is that they are not permanently unemployed as a result, and their labour is often shifted into more productive uses. Just look at compensation in the US since NAFTA; no adverse effect whatsoever, it has continued to track productivity almost perfectly. 
+
+>when they otherwise support the agreements.
+
+That's a disingenuous way of phrasing it. They *still do* support the agreements, they just feel not enough emphasis is put on job displacement. I don't particularly agree, but that doesn't negate the identified benefits of free trade, nor the consensus in economics in its favour. ",3,0,1443127039,1444724724
+cvcbfe2,1,t3_3m5z70,dickwhitman69,"He is my preferred candidate that has announced thus far and I will keep an open mind for the debate on the 13th of October, but I do like Jim Webb's experience.  However, I think my preferred candidate would actually be Al Gore. I mean who else can honestly say that they won a presidential election before? Plus his #1 issue would be tackling climate change, which I believe is the biggest problem we need to address going forward. ",5,0,1443076270,1444724724
+cvddmek,1,t3_3m5z70,slam7211,"1) I feel like I am one of many politically disenfranchised voters in this country.In short I am economically middle-right, but socially far left. I am pro gay marriage/ generally anti religion in government. 
+
+I generally subscribe to the harm principle when it comes to lifestyle choices, and just wish people in government would STFU about morality and live and let live.This includes being less tough on crime. (both violent crime and drugs), especially three strikes laws.
+
+Economically I am center right, I do not support raising the minimum wage to $15 an hour.
+
+I feel like healthcare is broken, mostly because no one actually pays for it directly leaving hospitals to set large prices knowing that they need to break even, and that the prices will be negotiated down by insurance companies. This is where stupidly high costs for asprin in hospitals comes from. ACA does not fix this at all.On the other hand, while socialized medicine works in Europe, we must ask how much of the R&D burden does the US bear by not paying sub market prices for drugs? How much of this will be hurt by socialized medicine above and beyond when Europe did it?  Also do we really want the US healthcare to look like the VA?I am not knee-jerk against socialized medicine, but there are serious questions that need answering before I can come around to a position other than everything we have tried is broken.
+
+Gun control: does nothing. We have too many guns here already to realistically get rid of them. Guns don't kill people, people kill people. If someone wants you dead they will find a way. We need to attack the people side of this first.Keep in mind criminals don't follow laws by definition so they aren't actually impacted by gun control laws.
+
+College: Sorry Sanders, but we have college inflation problems driving up costs and making college mean less. Making it free won't fix this. This just shifts the burden, which obfuscates the problem instead of fixing it.
+
+The reason I say I am center right, and not right on economics is that I understand that if we just got the government severely out of  the economy that it would fuck things over a lot. We have built a system that helps the middle class and rich, and has left a lot of the poor behind. Simply letting the economy be more of itself freer from government intrusion will simply exacerbate this downward cycle of poverty. Which yes, is partially centered around race. The government ironically needs to do two things which are at odds with eachother. Provide a more level the starting point of everyone at birth. Mostly through better schools, and less centralization of poverty (since poverty seems to begat poverty). While at the same time getting out of the way of businesses and people to do what they want in the economy.",2,0,1443150994,1444724724
+cvcbau6,1,t3_3m5z70,TheBadWolf,"I haven't decided who to support yet. I disagree with Sanders on Citizens United, and on the minimum wage, I don't appreciate his dishonesty regarding his super PACs, and I can't stand his supporters.",1,0,1443075862,1444724724
+cvcdpaz,1,t3_3m5z70,Aumah,"Democrat here. So you understand where I'm coming from: I identify myself that way politically because I'm a moderate, at least by Reddit standards, and I'm very partisan.
+
+1) Prefer Hillary. I support her in part because she's simply closer to me on the political spectrum, but mostly I support her because I feel she best suites the long term interests of the party, in no small part because I think she's almost guaranteed to win. To me it would be strategically negligent, if not downright crazy, to gamble the presidency on a fringe candidate when the other side has practically forfeited already as long as you play it at all safe.",2,0,1443085591,1444724724
+cvcjtlj,1,t3_3m5z70,blah_kesto,"Because he seems the most xenophobic and ignorant of economics out of the Democratic candidates, and I think he'd be bad for economic growth, poverty, inequality, economic justice, etc.. Just a few of my major problems:
+
+1. He opposes more immigration to ""protect American jobs/wages"". This ""they-took-err-jerbs"" logic is wrong both economically and morally. And I can't take someone seriously who claims to care about poverty, inequality, and economic justice, yet wants to prevent people from just being able to move here to make better lives for themselves. Immigration is our most effective anti-poverty program, and he doesn't like it because it also helps the wrong type of person apparently.
+1. He opposes free trade in general, which is bad for the same reasons as above.
+1. He chose an economic adviser who believes in MMT, which is like the left-wing equivalent of gold-bugs on the right. I don't want this person nominating people for the Fed.
+1. He is anti-nuclear energy and anti-GMO. To me this groups him with the ideological/impractical faction of environmentalism, who I don't trust to make reasonable trade-offs in that area.
+1. A national $15 minimum wage is absurd to me - that is higher than the median wage in many states. This signals that he's highly prone to wishful thinking.",3,0,1443103799,1444724724
+cvcyh1x,1,t3_3m5z70,iuseoxyclean,"My biggest disagreement with Sanders' policies is his anti-GMO stance. As a biochemist, I feel that his anti-GMO sentiment is unfounded. I believe his qualms against big corporations has clouded his view on the development of the crop market and how important GMO research actually is and how much it has accomplished.",3,0,1443125546,1444724724
+cvd9ltd,0,t1_cvcyh1x,frosty67,"You do know he isn't against GMO research or the use of GMOs, right? He has simply supported legislation that would require GMO products to be labeled as such.
+
+> While Bernie does not oppose GMOs, he proposed a farm bill amendment supporting the labeling of GMO products. He feels that people have the right to know what is in their food
+
+http://feelthebern.org/bernie-sanders-on-agriculture/",-2,0,1443143881,1444724724
+cvdpk6x,0,t1_cvd9ltd,AMatterofTrust,"All GMO's are is a different genetic makeup of food. Every food has different genetic makeup. Supporting GMO labeling is being anti-GMO, there is no reason to force someone to label something to cater to an audience, but allow other people to label their products non-GMO to cater to that audience. 
+
+In short, it is stupid to force companies to do things simply to cater to an audience whose disagreement with GMO products is not physical but a matter of opinion.
+
+Do we force car companies to make all their models blue?",2,0,1443187939,1444724724
+cvcbkpq,1,t3_3m5z70,saqar1,"It's simple for me, he won't win the general election. Even if he did he wouldn't have any power as president to do much good. Congress would stop him.
+
+I'd rather he take the popularity gain and try for a more powerful place in Congress.",0,0,1443076767,1444724724
+cvcbvo7,0,t1_cvcbkpq,dickwhitman69,">I'd rather he take the popularity gain and try for a more powerful place in Congress.
+
+Bernie Sanders is currently the senior ranking member for the Senate Budget Committee, he already has a pretty powerful spot in Congress.   ",3,0,1443077836,1444724728
+cvcspss,1,t3_3m5z70,thatnameagain,"I am supporting Sanders because I want to see more left-leaning solutions being considered in general, but his specific left-leaning solutions don't seem particularly effective or even that visionary. I don't think funding college tuition's is going to decrease the cost of college or really help the state of education that much at all. I don't think the minimum wage issue is that big a deal economically, and I'm not as opposed to free trade as he is. Campaign finance reform is fine, but it's a red herring that isn't going to have anywhere near the effect that supporters seem to think it will. 
+
+I'll vote for him in the primary because I don't support Hillary's center-right foreign policy and I think the democratic party is in desperate need of a shake-up, but I don't really want him to be president. ",0,0,1443117072,1444724728
+cvch2rf,1,t3_3m5z70,Captainobvvious,"In order for Sanders to do what he says he will he needs to be capable of sweeping change. He has spent decades in congress with basically no major legislative accomplishments. 
+
+He has shown that he can't or won't compromise. If he can't do anything in congress why would he suddenly be able to as president?
+
+He also makes winning the general election for the democrats far far far far far far far more difficult. He can't accomplish his no compromise far left agenda anyway so to gamble so much on a guy who can't win anyway is foolish. 
+
+",0,0,1443098223,1444724728
+cvcgx9j,1,t3_3m5z70,Braver_Incident,"I'm a socialist and don't support Sanders.  I don't think Sanders is a socialist and I don't think he will be able to help the workers, and that his policies are biased towards whites.  At the very least I want someone who can get stuff done, and try to actually solve for racial inequality.  That's Hillary.  Bonus points because women get representation.
+
+Hillary is an imperialist warmongerer though. But the USA is a capitalist imperialist hegemony anyway, and there is no way to stop imperialism. Even Obama couldn't. So it isn't a factor for me anymore.",-3,0,1443097840,1444724728
+cvco4qh,0,t1_cvcgx9j,zoidberg1339,">his policies are biased towards whites
+
+How so? I'm no Sanders supporter but I haven't heard him promise free college (but only to white people) or anything.",5,0,1443110494,1444724728
+cvd0bww,0,t1_cvco4qh,Braver_Incident,That's kinda the point...  He has no race or sex specific policies that proactively solve for racial/gender gaps,1,0,1443128293,1444724728
+cvcyggu,1,t3_3m5z70,jelvinjs7,"I like what he believes in, but I don't think his policies are just right for the country, at least now. I think that, even if he was elected, Congress will make passing such progressive reforms very difficult.",0,0,1443125523,1444724728

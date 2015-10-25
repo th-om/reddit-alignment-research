@@ -1,0 +1,44 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvwi806,1,t3_3oed8c,BuckminsterJones,"Yeah, those Texas liberals...
+
+
+
+http://www.texascentral.com",2,0,1444616638,1444720746
+cvwd32t,1,t3_3odtde,BuckminsterJones,Lupita Nyong'o,3,0,1444607228,1444720746
+cvwauaw,0,t1_cvwapas,BuckminsterJones,"Turkey intestines? That's nasty. Cow tongue is awesome, but nope on the intestines.",1,0,1444603234,1444720746
+cvw8014,1,t3_3obucz,BuckminsterJones,"I'm no economist, but isn't competitiveness the key ingredient? Big rewards spur big gambles. I don't see how the number of billionaires returns any useful information. If a market is genuinely competitive? Won't the pay-outs from gambles accurately reflect their risks? A million people all taking long-shots? That's good... right? And the winners cash-out.
+
+Of course, I have no idea where these competitive markets are supposed to be, I'm seeing cronyism and corruption everywhere I look.",7,0,1444598497,1444720746
+cvuf74v,0,t1_cvuew5i,BuckminsterJones,Thanks. I'm glad I'm not totally senile. It does get confusing.,1,0,1444443345,1444720746
+cvudp2n,0,t1_cvudbp1,BuckminsterJones,"Here, I'll show my work, and you tell me where I'm going wrong....
+
+
+6x6x6x6x6x6 = 46,656 different combinations. Right?
+
+
+
+
+One die yields 1:6
+
+
+Two die yields (1x 5) + 6 = 11:36
+
+
+Three die yields (11x5) + 36 = 91:216
+
+
+Four die yields (91x5) + 216 = 671:1296
+
+
+Five die yields (671x5) + 1296 = 4651:7776
+
+
+Six die yields (4651x5) + 7776 = 31031:46656
+
+
+66%.... right?
+",1,0,1444440250,1444720746
+cvucu3i,0,t1_cvubpie,BuckminsterJones,"I've figured... there are 46,656 different combinations of six die rolls, and of those 31,031 include at least one six. Giving an odds of ~66%.",1,0,1444438529,1444720746
+cvua7b4,0,t1_cvu9ntn,BuckminsterJones,"That ain't right. The odds of rolling at least one six on six attempts is not lower than the odds of rolling a six in one attempt. I think you're calculating the odds of rolling exactly one six, but the 'record' would still be six if you roll one or two or five sixes.",2,0,1444433419,1444720746
+cvu976v,0,t1_cvu8zjp,BuckminsterJones,"We're talking about cumulative odds here. Yes, the odds of rolling a six are 1:6. Always. The question is... if you roll six dice? What are the odds that ANY of them is a six? Not one particular throw.",1,0,1444431570,1444720746
+cvu8pdb,0,t1_cvu86xx,BuckminsterJones,You're right. There could be a few 7s mixed in as first rolls after making her point. It's hopeless. For me anyway :),1,0,1444430679,1444720746

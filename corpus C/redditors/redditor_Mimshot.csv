@@ -1,0 +1,27 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvxton7,0,t1_cvxmtkd,Mimshot,"If you're a doctor, your bedside manner matters.
+
+If you're the president, your leadership style matters.",1,1,1444710620,1444719277
+cvxpulr,0,t1_cvx8ibh,Mimshot,It's probably also worth pointing out that the right answer to this involves something like `horzcat` and `reshape`.,1,0,1444703813,1444719277
+cvwlq2y,0,t1_cvwlnn1,Mimshot,No worries.,2,0,1444623189,1444719277
+cvwlkuo,0,t1_cvwlijf,Mimshot,"I didn't say they were liable. I suggested it appears they don't fall under the safe-harbor provisions.
+
+> This lists things that will NOT cause you to be liable.
+
+No, it lists things that will cause you not to be liable, which in this case appear not to apply.",4,0,1444622867,1444719277
+cvwlcnj,0,t1_cvwgne6,Mimshot,"Do they? 
+
+> A service provider shall not be liable for monetary relief ... if the service provider ... does not receive a financial benefit directly attributable to the infringing activity ...
+
+See: [17 USC §512(c)(1)(B)](https://www.law.cornell.edu/uscode/text/17/512)",13,0,1444622376,1444719277
+cvwlbbc,0,t1_cvwf4t0,Mimshot,"I'm not sure why you're getting down voted to all hell.  You're correct that Amazon potentially faces liability if they directly profit (e.g., by taking a cut from the app sales) from the alleged infringing content per 17 USC 512 (c)(1)(B).",6,0,1444622298,1444719277
+cvwjfbl,0,t1_cvwj3gw,Mimshot,"I'm not sure what you're saying, or why you think *I* down voted you, but that's another matter.
+
+> Also overhead transmission wires don't have insulation on them. Lol.
+
+I'm not sure if you're agreeing or disagreeing with me here.  I said ""distribution"" lines not ""transmission"" lines, although if you don't know the difference I'm not sure why you're acting authoritative on this topic. Typically neither has insulation when overhead.  That sign is likely way to short to have hit a transmission line though.",1,0,1444618810,1444719277
+cvwj4sr,0,t1_cvwie5q,Mimshot,A Joule is equal to a Volt Amp Second.,1,0,1444618287,1444719277
+cvwj3s2,0,t1_cvwi6os,Mimshot,"Energy is equal to current times voltage times time.  There are two principle ways you can be directly killed by electricity.  One is through the electric shock causing ventricular fibrillation, which requires a minimum of somewhere around 30mA (not very much).  The other is through burns, when the electricity literally cooks you.  Heat is produced by current passing through the human body and the heat produced is proportional to the energy dissipated: voltage * current * time. ",2,0,1444618237,1444719277
+cvwixon,0,t1_cvwicft,Mimshot,"> it's all about the current
+
+If you believe this then you're talking out of your ass as well.  The current matters, the voltage matters, the time of exposure matters.  Overhead distribution lines are not insulated, so if you're touching a sign that touches them you can quite easily be electrocuted.  I would ask why you think there might be an un-insulated ""residential wire"" suspended over the road, but you're clearly talking out your ass.",1,0,1444617924,1444719277

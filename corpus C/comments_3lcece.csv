@@ -1,0 +1,68 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cv58uky,1,t3_3lcece,SWaspMale,Maybe the question is how do we make politicians focus on issues which may outlast their term / career?  ,4,0,1442530876,1444727332
+cv53rq5,1,t3_3lcece,zigmeister22,"It's not just ""evil companies"" doing it:
+
+A 2012 Gallop poll found that [only 41% of Democrats polled supported expanding the use of nuclear power for electricity generation](http://www.dailykos.com/story/2012/06/05/1097574/-Nuclear-Power-and-Public-Opinion-What-the-polls-say#).  
+
+The fact is that wind and solar are not base load sources of electricity generation.  Base load sources are ones that can provide electricity at any time.  The only sources of base load electricity generation we currently have are coal, natural gas, nuclear and hydro.  
+
+The fact is, Democrats are against the expansion of the only carbon-free sources of base load electricity generation that we have (the last two).",3,0,1442522379,1444727332
+cv5444m,0,t1_cv53rq5,IUhoosier_KCCO,"Is there a more recent poll? Sentiments may have changed in the last 3 years. I wonder how close that poll was to the Japan disaster.
+
+Which politicians are actively pushing for nuclear to replace carbon based sources?
+
+Also, can you source the claims you made about how wind and solar can't be our primary energy sources? ",1,0,1442522907,1444727332
+cv5491y,0,t1_cv5444m,zigmeister22,"Here you go: https://en.wikipedia.org/wiki/Base_load_power_plant
+",1,0,1442523119,1444727332
+cv54i4k,0,t1_cv5491y,IUhoosier_KCCO,"Thanks
+
+> Among the renewable energy sources,hydroelectric, geothermal,[5] biogas, biomass,solar thermal with storage and ocean thermal energy conversion can provide base load power. A significant fraction of the averagewind power production is available with 95% or greater probability, and so may be used for baseload power.
+
+I see solar there. ",1,0,1442523506,1444727332
+cv56g56,0,t1_cv54i4k,zigmeister22,"You're correct about some renewables being baseload-class, but the issue with these is energy output.  For example, all of the electricity provided by all of the photovoltaic solar panels in the entire United States currently sits at about 6,200 megawatts per day.
+
+The Palo Verde nuclear plant in Arizona, however, generates about 4000 megawatts per day.  So 1.5 of these nuclear reactors vs. *every solar panel in the entire United States*.
+
+I am not against wind and solar, in fact I support them 100%.  I just know that we've got to have reliable, carbon-free base load sources too and this just leave nuclear and hydro.  Democrats don't want to expand either of these.
+
+We have massive demand for electricity and this demand will only grow as we move to electric vehicles, etc.  We have to have reliable sources of large amounts of electricity for our economy to be able to grow.  
+
+",1,0,1442526654,1444727332
+cv56x0g,0,t1_cv56g56,IUhoosier_KCCO,"Do you mind addressing the other points I brought up? I'd be curious to see a Republican Gallup poll on nuclear energy to compare.
+
+It sounds like you're saying we need to spend money on solar to make it feasible. ",1,0,1442527441,1444727332
+cv566qz,0,t1_cv54i4k,eliminate1337,"> solar thermal with storage
+
+Except nobody can quite figure out the storage part yet. Pumped water storage is ideal but requires a large upfront investment and ideal geographic conditions. Batteries work but are very expensive for the amount you need. ",1,0,1442526220,1444727332
+cv56xnt,0,t1_cv566qz,IUhoosier_KCCO,So we need to invest heavily to figure that out?,2,0,1442527470,1444727332
+cv5371b,1,t3_3lcece,Honest_Discussion,">if we're all dead
+
+
+....",4,0,1442521503,1444727332
+cv53xod,0,t1_cv5371b,zigmeister22,"I sincerely hope OP was just joking when he said this.  If not, OP please research the issue more.  Global warming isn't going to kill us all.",3,0,1442522631,1444727332
+cv54ayf,0,t1_cv53xod,Stu311Boston,Ok so the all dead thing was hyperbole but it is a really important issue ,4,0,1442523201,1444727332
+cv588q7,0,t1_cv54ayf,revanyo,"True, but when you ended that way you left the logical science side and entered the conspiracy un informed side",5,0,1442529780,1444727337
+cv5b12g,0,t1_cv588q7,Stu311Boston,You're right I just feel as though sometimes drastic scenarios are required to be brought up to get people to act. So true we wouldn't all die but our ways of life would be heavily affected and changed,2,0,1442534933,1444727337
+cv5v8yr,0,t1_cv5b12g,Sollexs,"Just like dumping fossil fuels right now without a good alternative in place, it would drastically change our way of life and probably destroy the economy.",1,0,1442586309,1444727337
+cv53dc2,1,t3_3lcece,rcglinsk,"Invent technologies that provide energy as reliably as fossil fuels at a lower actual cost (no taxes or subsidies).  Capital markets will then invest in the new technologies and push fossil fuels out.  
+
+There is not a political solution, there are only technological solutions.  ",6,0,1442521767,1444727337
+cv54zhz,0,t1_cv53dc2,ZenerDiod,You don't start to dig a well when you're thirsty.,0,0,1442524280,1444727337
+cv53rgu,0,t1_cv53dc2,WhiteyDude,"Yeah, but the problem is the technologies we need won't get invented unless you invest in them first. It's going to take a lot of time and money to figure out how to *provide energy as reliably as fossil fuels at a lower actual cost* -  
+
+Without subsidies, it won't happen. Some problems are too big for private industry to solve, and this is one of them.  And it's very important that we do solve this problem. 
+",5,0,1442522369,1444727337
+cv54ba0,0,t1_cv53rgu,rcglinsk,"In the US we spend about $18 billion a year on scientific research and about $5 billion of that is energy research (at the Federal level).  Almost all of the $5 billion is directed at renewable or nuclear energy research.  
+
+I'm sure there's possibly room for improvement but it's not like we're not trying.  ",2,0,1442523215,1444727337
+cv54h9n,1,t3_3lcece,thatnameagain,"Politicians are only going to take positions that help keep them in office. If people keep voting for politicians who claim global warming isn't real, then that's what you get. ",2,0,1442523470,1444727337
+cv5uwzt,1,t3_3lcece,iflyboats,"Global warming is a hoax. Its leading proponents have been predicting imminent climate catastrophe for 40-50 years and have been laughably, hysterically wrong about everything.",2,0,1442585729,1444727337
+cv53cmo,1,t3_3lcece,IUhoosier_KCCO,"> How do we get politicians to fully recognize the critical issue facing not only our nation but the world?
+
+honestly? by actually experiencing the start of the effects of catastrophic climate change. could happen in 10 years or 100 years. but i think that is what it will take before we take action. hopefully, by that time, technology has advanced to a point where we can take immediate action. 
+
+climate change is a very complex scientific issue. in america, it helps to simplify things to an either or scenario (yes/no, good/bad, etc.). that is very difficult to do, even with the world's smartest scientists who dedicate their lives to this. 
+
+i highly doubt this country will organically begin to act on climate change by electing in leaders who will pass laws. i have a feeling we will already be experiencing the effects by that time.
+
+please tell me i'll be wrong. please.",1,0,1442521737,1444727337

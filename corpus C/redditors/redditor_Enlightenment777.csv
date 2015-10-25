@@ -1,0 +1,34 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvxvm9y,1,t3_3ohs7n,Enlightenment777,"C for microcontrollers with tiny amount of FLASH/RAM, though technically you can use C++ you would have to avoid many libraries.  
+
+You have to consider the size of ever thing when working with embedded microcontrollers with small amounts of memory. How you approach things in 32KB Flash & 4KB RAM is different than 1MB Flash & 128K RAM.
+
+If you need a lot more RAM, then you should look at Raspberry Pi 2, or something similar.  If you want to go the embedded microcontroller route, then look at STmicro NUCLEO-F446RE or NUCLEO-L476RG boards, both are USD $10.33 on Mouser.
+",1,0,1444715493,1444720121
+cvxu8i8,1,t3_3ohx94,Enlightenment777,"yes/no.  if there are a lot of similar part near each other, then aligning them all in the same direction makes it easier as a HUMAN to solder and debug, but electrically it doesn't matter.",2,0,1444711831,1444720121
+cvxu65z,1,t3_3oin98,Enlightenment777,"it depends on where exactly you define the structure and where it will be used.  if everything is NOT in one file, then best to define it once in a (*.H) header file and include it in multiple files.  if everything is in same file, then define it at the top of the file.",1,0,1444711685,1444720121
+cvxu147,1,t3_3ogdeu,Enlightenment777,https://archive.org/details/KmartDecember1992,1,0,1444711369,1444720121
+cvxtj2s,0,t1_cvxouy5,Enlightenment777,"Ferrofluid + Soap
+
+https://vimeo.com/28304264
+
+https://www.youtube.com/watch?v=9wTGKpq3Ugk
+
+",2,0,1444710296,1444720121
+cvxtcwa,0,t1_cvxq1vm,Enlightenment777,"yes, voltage regulators on very cheap boards are CRAP, especially power supplies that sit on breadboards.  
+
+At this point, I recommend everyone to replace the voltage regulators that come with the breadboard power supplies, and choose parts that can handle a lot higher input voltages.
+",1,0,1444709945,1444720121
+cvxt9tf,1,t3_3oisr5,Enlightenment777,"Over the past 4 to 5 years, I've ordered over 200 different EBAY purchases, most from Asia.  I've had very few problems.  Some have shipped the wrong item to me, but I always get a replacement for free and didn't have to send back wrong item.  I got one item that was fucked up during shipping, and they refunded me.
+
+The #1 worst thing about EBAY electronics from ASIA is most of those fuckers don't have a clue about ESD. Those dumb fucks will ship ESD sensitive parts, like FETs, JFET, MOSFET in clear plastic bags.  If MOSFETs are dirt cheap, like pennies each, then I'm not overly worried, because I can throw away bad ones, but I really don't know if any of them have been compromised, so its kind of a risk.  I prefer to order ESD sensitive parts from Mouser or DigiKey, because they respect ESD packing guidelines.
+
+I prefer to buy IC chips from Mouser or Digikey, unless I can find a clone in china that is way cheaper, then I might take the risk.  If the price isn't at least 1/3 or 1/4 or lower compared to the USA price, then I don't consider it, because as the prices is closer and closer to Mouser or Digikey price, then its stupid to take the risk.
+
+As other people have stated, don't buy NiMH AA/AAA batteries from Asia, because you can't tell which are mislabeled scam.  Though I've had very good luck with thin 3V lithium coin batteries.
+",2,0,1444709768,1444720121
+cvxsw05,1,t3_3og4lg,Enlightenment777,4CHAN,1,0,1444708984,1444720121
+cvxpf0w,1,t3_3of7g7,Enlightenment777,"1) file this under ""NO SHIT""
+
+2) quit posting from the shitty mobile site",2,0,1444703142,1444720121
+cvxc5ye,0,t1_cvwzw0u,Enlightenment777,put up deer cameras and/or high-resolution video cameras to catch the fools,26,0,1444682524,1444720121

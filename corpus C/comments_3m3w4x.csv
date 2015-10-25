@@ -1,0 +1,105 @@
+id,is_root,parent_id,author,body,score,score_hidden,created_utc,collected_utc
+cvbt9cf,1,t3_3m3w4x,hitbyacar1,Can you explain the FDA's restrictions on imported drugs and how those affect the market?,8,0,1443042009,1444724868
+cvbwqnd,0,t1_cvbt9cf,HealthcareEconomist3,"FDA don't restrict imports, that's CBP. The FDA stipulate that drugs imported must meet US packaging, information and manufacturing standards only. Other statutes also exist restricting the use of imports (EG Medicare restricts their use).
+
+Absent other restrictions a drug imported from another country would meet FDA standards if it was already licensed in the US, used the same production line as the drug already available in the US, was repackaged to meet US standards and included a US drug information sheet.
+
+Obviously it increases the cost of the drugs we buy but the solution is not as clean as simply allowing consumers & wholesalers to import drugs.
+
+TRIPS also established a schedule of how pharma patents apply to countries based on their level of development. Low-income countries are permitted to completely ignore pharma patents, an amendment also allows them to have third part countries manufacture drugs on their behalf. Middle-income countries (such as India) are required to use a licensing system such that the drugs are produced similarly to if they were generics, the pay <1% the cost of high-income countries. High-income countries do not receive special accommodations under TRIPS other then for essential medicines and public health emergencies.
+
+Between high-income countries most pay fairly equitably based on how wealthy they are, drug purchasers generally operate monopsonies but recognize the need not to abuse their market power as it simply shifts cost elsewhere in the world. The UK and Canada (but significantly more so the UK) are the low outliers for per-unit costs, everyone else effectively subsidizes their consumption.
+
+The true ideal is, of course, everyone pays equitably with their wealth but its a very difficult issue to resolve. Allowing people to import drugs will go one of three ways;
+
+1. Countries which currently underpay will bring up their payment rates such that they are equitable with their wealth.
+2. Countries which currently underpay don't bring up their payment rates, as US consumers fund about half total worldwide development activity IND's drop spectacularly and we don't get new drugs.
+3. Advanced economies write a treaty to finally deal with this issue, magically even though the EU haven't been able to deal with this problem in three decades the US becoming involved results in progress.
+
+3 would be the best result, having an environment where countries can simply force others to pay more by reducing the value they place on efficacy is not a particularly good position to be in. #1 is basically not going to happen.
+
+The danger with the US allowing consumers & wholesalers to import from elsewhere is that #2 happens, having new drug development occur is desirable even if we pay a larger share of those development costs then we should. A similar situation exists with vaccine research, its almost entirely publicly funded and the US is responsible for 87% of the worldwide total.
+
+TL;DR: Its complicated.
+
+",12,0,1443047407,1444724868
+cvbtzd9,1,t3_3m3w4x,linkns86,">Marketing exclusivity means that no other pharma can distribute it in the US, it behaves similarly to a patent in this regard.
+
+People should be aware of this.  It is a government created monopoly.  The idea that niche markets won't exist without a government sanctioned monopoly is utter foolishness.   ",10,0,1443043066,1444724868
+cvc1byt,0,t1_cvbtzd9,slccsoccer28,"Perhaps not all, but there are definitely cases where markets 100% would not exist if there weren't government enforced monopolies.
+
+ Here's a great example: http://mobile.nytimes.com/2015/09/22/business/big-price-increase-for-tb-drug-is-rescinded.html?referrer=&_r=0
+
+The article talks about two drugs. One is the one everybody is up in arms about and the other is Cycloserine. Cycloserine covers a disease the sees 90 new cases a year. 90 cases is nothing.  I am more than willing to bet that unless the government created a monopoly for that drug, it would not exist as there is simple no way a company could guarantee it could cover it's costs
+
+I know a lot of people don't like it, but guaranteeing that a company can at least cover the costs that go in to making a drug is important. It takes nearly 2bn to bring a new drug to the market. Sure pharmacy companies are huge, but not big enough to continuously risk 2bn in small and niche markets.",2,0,1443055513,1444724868
+cvc1u0x,0,t1_cvc1byt,linkns86,"Something isn't right here with the math.  If it costs 2 billion to bring the drug to market, even with a full monopoly only 90 cases per year would never come close to recouping the loses.     ",1,0,1443056389,1444724868
+cvc1zt6,0,t1_cvc1u0x,HealthcareEconomist3,"2b is an estimate (low, average is pushing on $4b but there are examples of drugs with development costs exceeding $10b) for a new drug, a generic is much less expensive and will range from low 6 figures to mid 8 figures to get to market.
+
+",2,0,1443056671,1444724868
+cvc26qk,0,t1_cvc1zt6,linkns86,"The question is boiling down to who gets to decide how much things should cost.  But at any rate it seems like the last thing on a business owner's mind when entering these markets would be ""is someone going to undercut me.""  High entry cost, low return over time (and an even *lower* return for each additional supplier already in the market).  ",1,0,1443057005,1444724868
+cvc2exa,0,t1_cvc1byt,HealthcareEconomist3,"The specialty market could be dealt with by on-demand manufacturing as part of larger regulatory reforms. Pushing towards [this](http://onlinelibrary.wiley.com/doi/10.1002/cpt.59/epdf) or [this](https://www.whitehouse.gov/sites/default/files/microsites/ostp/pcast-fda-final.pdf) would allow an existing approval to be used by a wholesaler to directly request a drug to be manufactured on-demand.
+
+[This](http://www.continuuspharma.com/) is the next evolution of this process.",3,0,1443057386,1444724868
+cvc3c07,1,t3_3m3w4x,ThatGuyFromOhio,Is it true that the big pharmaceutical companies spend more on marketing and advertising than they do on research and development?,3,0,1443058954,1444724868
+cvc4u57,0,t1_cvc3c07,SapCPark,"At least according to the British Journal of Medicine, yes.  The pharmaceutical industry has a lot of ""me too"" drug development.  These drugs are very similar to other drugs in the market but are slightly different, allowing them to be marketed as a new drug.  These drugs are cheap to make since most of the research is already done and the slight modifications aren't expensive to make.  They serve as the profit source for the industry through the downtime of the blockbuster drugs (Lipitor, Prilosec, etc.).  A lot of early research gets done not at the private sector but at the university level.  Once the drug development has started and moved along to an advanced stage (close to clinical trials), professors and universities will sell the patents to pharmaceutical companies b/c they can do mass development and can fund the clinical trials.  In return, the university and professor get a cut of the royalties from any sales that are made.  ",3,0,1443061466,1444724868
+cvc4e40,0,t1_cvc3c07,HealthcareEconomist3,"No. ""Marketing"" is not a line item but rather its lumped in with sales, general and administrative expenses which includes everything from their IT staff, legal fees, office leases through to advertising.
+
+The figures also ignore that most of the big pharma's produce far more then just pharma. J&J spend about double on SG&A what they do on R&D but pharma only accounts for 38% of their revenue, we just don't have enough information to know how much genuinely each company is spending on pharma marketing vs R&D.
+
+From the industry level we know that at least on the average they are not because they are required to report their spending to the FDA who release it as an aggregate figure, for 2014 this was $4.53b vs industry R&D spend of $51.2b for US pharma (marketing figure includes all pharma, including foreign firms).
+
+Edit: Worth mentioning that the $4.53b figure is DTC only, there is another ~$28b which includes physician marketing, corporate sponsorships, endowments, free samples etc.
+
+The US and NZ are the only markets they can advertise in so it would be fairly difficult to advertise enough to push these costs beyond R&D in any case.
+
+",5,0,1443060718,1444724868
+cvc8voi,1,t3_3m3w4x,zeperf,So do you think that Reddit is painting the general picture correctly?  That more people will die and this guy doesn't care and just wants money in his own pockets?  I feel there is more to the story than that.,1,0,1443069250,1444724868
+cvcfjkr,1,t3_3m3w4x,flal4,"Is it currently worth it to get into the pharmacy industry as a pharmacist? I always hear about how well paid pharmacist are, bit looking at the company I work for if they truly paid pharmacist that well it would throw off the payscale...pharmacy district managers make like 60k a year max, so how is it that pharmacist make more than their bosses?
+
+Sorry I know this is not why you did the q&a, but you seem like the best to ask",1,0,1443093663,1444724868
+cvcqiek,0,t1_cvcfjkr,heywire84,"Think of it this way.  A manager of a pharmacy isn't doing anything that a manager of a grocery store, electronics store, furniture store, or any other retail establishment couldn't do.  They just manage a retail store.  The pharmacist is the person who went to pharmacy school, came out with a doctorate (at least in the US) and know everything there is to know about the medications they have behind the counter.
+
+However, I know nothing about the market for pharmacists otherwise.",1,0,1443113878,1444724868
+cvcfjkv,1,t3_3m3w4x,flal4,"Is it currently worth it to get into the pharmacy industry as a pharmacist? I always hear about how well paid pharmacist are, bit looking at the company I work for if they truly paid pharmacist that well it would throw off the payscale...pharmacy district managers make like 60k a year max, so how is it that pharmacist make more than their bosses?
+
+Sorry I know this is not why you did the q&a, but you seem like the best to ask",1,0,1443093663,1444724872
+cvehugz,1,t3_3m3w4x,nobody25864,"Dude, you always provide the *best* stuff. Thank you so much for this! I've got a debate tournament this weekend, and this'll be a *huge* help!",1,0,1443238322,1444724872
+cvbus3n,1,t3_3m3w4x,Cycloptichorn,Great post.  I also recommend [this post](https://np.reddit.com/r/worldnews/comments/3lzsjk/turing_to_roll_back_pricing_for_daraprim_amid/cvaxjs9) for a good explanation of this exact situation and how the guy is getting away with it.,1,0,1443044277,1444724872
+cvbx2jz,0,t1_cvbus3n,amartz,"The top level comment in that link is exhibit 1 in ""someone knowing a little is worse than someone knowing nothing at all."" The amount of Turing apologists peddling their Econ 101 wisdom was hilarious. As if nobody else on the internet took the same curriculum as freshmen or knows what supply and demand is. Your linked comment does a good job putting that garbage in place though. ",2,0,1443047977,1444724872
+cvbxl9w,0,t1_cvbus3n,HealthcareEconomist3,"It contains a number of incorrect points;
+
+> In the US our socialized medicine programs basically pay whatever the pharm companies tell them to since it is illegal for the programs to negotiate. It goes without saying they pay a lot. The rest of the world sort of takes advantage of this and they negotiate prices knowing full well the US basically already covered the pharm firms fixed costs and since the marginal cost of most drugs is next to nothing they know any sales made in their country is basically bonus profit for the pharm firm. Other countries of course get things cheaper.
+
+Medicare part B pays the average sales price for drugs +6% to account for variance. Part D is mostly handled by private RX (so rides on their negotiated rates, this accounts for almost the entirety of part D), for the two plans which are run by CMS they pay the average adjusted wholesale price +5%.
+
+Medicaid varies by state but is composed of 23.1% of ASP federal pharma rebate, ingredient cost paid by the state and a dispensing fee paid by the state. Medicaid underpays significantly, Medicare pays about the same as private plans.
+
+> For drugs with relatively small patient populations like Daraprim the cost of entering the market isn't always worth it so there may only be one firm licensed to sell the drug in the US. Normally they aren't run by subhuman filth and happily supply the drug at a reasonable rate since they have little licensing costs (already are licensed) and the marginal cost of production is so low.
+
+The drug has orphan status and thus exclusivity, no one else can enter the market.
+
+> Because it takes so long and is expensive to get licensed to sell a generic the market can't respond quickly when a firm ups the price 40x for no reason.
+
+Addressed this in my post;
+
+> For this drug the process would take around 6 months. Newer generics take up to 15 months.
+> Older drugs like this are inexpensive to manufacture and can use existing filings rather then having to complete their own clinical work so there is not a particularly high cost of entry in this case. The cost to file with the FDA in this case would be $38,020, assuming an existing pharma takes it on additional entry costs are only for things like designing packaging, drug information sheets etc.
+
+",7,0,1443048863,1444724876
+cvc2zfw,0,t1_cvbxl9w,8llllllllllllD----,What is your opinion of Orphan drugs and how to address them in the future should the US make a move more toward single payer? ,0,0,1443058364,1444724876
+cvc4l6x,0,t1_cvc2zfw,HealthcareEconomist3,"> What is your opinion of Orphan drugs
+
+https://www.reddit.com/r/PoliticalDiscussion/comments/3m3w4x/pharma_pricing_faqqa/cvc2exa
+
+> US make a move more toward single payer?
+
+I don't think its likely the US will. MP universal is extremely likely.
+
+Neither would have any impact on this issue without other reforms at the same time.",2,0,1443061045,1444724876
+cvbynnn,0,t1_cvbxl9w,Cycloptichorn,"Hey thanks for letting me know, I appreciate it.
+
+Cheers
+",1,0,1443050731,1444724876
+cvbtrgr,1,t3_3m3w4x,,[deleted],-1,0,1443042738,1444724876
+cvbukmu,0,t1_cvbtrgr,hitbyacar1,Did you read the post? There is no patent.,3,0,1443043960,1444724876
